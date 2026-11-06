@@ -1,5 +1,25 @@
 [
  {
+  "id": "cc5077247da7bd",
+  "fuente_id": "asuntos-legales",
+  "titular": "Deicy Jiménez entregó evidencias a la Fiscalía por red de contratos a cambio de favores sexuales",
+  "bajada": "La diligencia se extendió durante 15 horas y 45 minutos e incluyó la extracción de información del teléfono celular de la denunciante",
+  "enlace": "https://www.asuntoslegales.com.co/actualidad/deicy-jimenez-entrego-evidencias-a-la-fiscalia-por-red-de-contratos-a-cambio-de-favores-sexuales-4519151",
+  "fecha": "2026-11-06T14:32:58+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
+ },
+ {
+  "id": "a003104eade459",
+  "fuente_id": "channellife",
+  "titular": "Avenir Global buys Marker Collective to boost reach",
+  "bajada": "The deal gives the Montreal-based group a stronger technology arm and lifts its workforce to more than 1,500 across 20 offices worldwide.",
+  "enlace": "https://channellife.com.au/story/avenir-global-buys-marker-collective-to-boost-reach",
+  "fecha": "2026-11-06T14:30:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
+ },
+ {
   "id": "1c4079f2956866",
   "fuente_id": "the-register",
   "titular": "Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop",
@@ -8,6 +28,16 @@
   "fecha": "2026-11-06T14:29:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "0f16866d4ed5d9",
+  "fuente_id": "infobae-colombia",
+  "titular": "Maluma anunció su gira mundial ‘Loco x volver’: Bogotá y Buenos Aires entre las primeras ciudades confirmadas",
+  "bajada": "El cantante compartió un video junto a su familia para anunciar su regreso a los escenarios internacionales, con una gira que incluirá fechas en América Latina, Estados Unidos, Canadá, Europa y África",
+  "enlace": "https://www.infobae.com/colombia/2026/11/06/maluma-anuncio-su-gira-mundial-loco-x-volver-bogota-y-buenos-aires-entre-las-primeras-ciudades-confirmadas/",
+  "fecha": "2026-11-06T14:28:06+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
  },
  {
   "id": "87252fb669a4e7",
@@ -48,6 +78,16 @@
   "fecha": "2026-11-06T14:25:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "60e8ac581142f8",
+  "fuente_id": "unite-ai",
+  "titular": "Insilico Medicine Announces Open-Source Longevity Grok AI System",
+  "bajada": "Insilico Medicine announced Longevity Grok on November 6, 2026, an open-source system that uses up to 30 AI agents on Grok Bot to organize fragmented health records, propose interventions and score later biomarker results. The clinical-stage generative AI drug discovery company…",
+  "enlace": "https://www.unite.ai/insilico-medicine-announces-open-source-longevity-grok-ai-system/",
+  "fecha": "2026-11-06T14:25:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
  },
  {
   "id": "f6bf825bd0c10f",
@@ -3330,6 +3370,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "3ee47f8b4032a3",
+  "fuente_id": "the-manufacturer",
+  "titular": "Leadership - Page 402 of 402 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNaU81TWtMOFBrLVNFcGowOGlHNTFycTlsSkdJU0tWX2FiUWlGQl9pUGtkaWhIMG9raTlpY05fNE1MeTlsM0FnN1U1cko4RWUwaTUxMjRVSW04MGFoQ2lyc3hhTmxoWWlDcEpNWWdNLWVuMVFVdGl1TjU1RmxjWVRnU3JhZHBvajJFT0pHOWQ3b001dDZ4QXJPQ2hwR1ZTdURRUXNESzNwaVlqSEF1V0RFQk12ZEdZS1NGNEVLbjAwbWxpcW84dW4zTk1nOHBPV3RmaGJsMTVfSkpJdG9nN1BTeUJkbGoxYnA1ZnpobXNXNnRMd0tNY2IyTVZMQ2xlbHhJTjE2OW43OEhLSnhhOTE0UFllRzI0WE5fc1RmM3J2RF9FODlvWW1xbG1yRDdCZw?oc=5",
+  "fecha": "2026-11-06T08:50:13+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
+ },
+ {
   "id": "3a05ebc4e54c57",
   "fuente_id": "marklines",
   "titular": "Isuzu reports operating profit up 22.4% to JPY 128.1 billion in H1 FY2026, maintains full-year forecasts",
@@ -3580,6 +3630,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "d6cb142ec80a92",
+  "fuente_id": "unicef",
+  "titular": "1.5.3 Cluster coordination Collective course",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MVgwbnRNd1MxWDlxd0xkS0d6aFJaNEVFTXFQRXJ2dTFOY3d6a2dyR3pvaXFoZXZYNlhTS0ZYNnNMdXpPR3BFWUtiYkR0NzNVNE5uRFhtLXo0Y0JPVXBoWmUwcmtXX2tUcm14NDR5LVhFdw?oc=5",
+  "fecha": "2026-11-06T07:33:28+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
+ },
+ {
   "id": "49d285bf850d36",
   "fuente_id": "cnbc",
   "titular": "The 'World's Best Airline' is updating its business and first-class experience",
@@ -3587,6 +3647,16 @@
   "enlace": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
   "fecha": "2026-11-06T07:32:26+00:00",
   "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "3aca9f3043436f",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Vi1KdVlpSjhDbDVkTjdSdklZUjVfN0NtdmQ1RkcwZW5qb0t1YzUydXc2OC1CQUF5OTRlcnpnRHhxaXZHeS1oal9UY3JPUQ?oc=5",
+  "fecha": "2026-11-06T07:32:23+00:00",
+  "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
@@ -3607,6 +3677,16 @@
   "enlace": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
   "fecha": "2026-11-06T07:18:44+00:00",
   "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "34328249ba79c9",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUDBQZGNfNE5peHhnLThQR0F6VDQ5bFF4RVhCOVlUX0ZPMjF3WUtWSl81V2NnYjBhN28tMWQ1ejdST1QwWDRTS24xSXVtUQ?oc=5",
+  "fecha": "2026-11-06T07:14:13+00:00",
+  "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
@@ -3688,6 +3768,16 @@
   "fecha": "2026-11-06T07:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "8e4c74eb318000",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SaE1OZDdUa2dJN1EySnNDVXFBMmRTVkZKbjhtcEVlZ092cUZoWkdWQTU4cHp5U01iQlNZTmd5WWFkc0RYbVhqZXN5Uk4yZkE?oc=5",
+  "fecha": "2026-11-06T06:59:37+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:34:20+00:00"
  },
  {
   "id": "bf1955e9c3d15e",
