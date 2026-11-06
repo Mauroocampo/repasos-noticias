@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T21:32:09+00:00",
+ "actualizado": "2026-11-06T21:35:59+00:00",
  "notas": [
   {
    "id": "7ec208ffe86c80",
@@ -10,6 +10,16 @@
    "fecha": "2026-11-06T21:28:52+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:32:09+00:00"
+  },
+  {
+   "id": "7b51ba6b80483b",
+   "fuente_id": "el-heraldo",
+   "titular": "Gobernador de Córdoba destaca articulación de la UNGRD para la implementación y ejecución eficiente de los recursos del Plan de Recuperación",
+   "bajada": "El 80% de las afectaciones que ocasionó el Frente Frío fueron en el departamento de Córdoba, donde además hubo víctimas mortales.",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/06/gobernador-de-cordoba-destaca-articulacion-de-la-ungrd-para-la-implementacion-y-ejecucion-eficiente-de-los-recursos-del-plan-de-recuperacion/",
+   "fecha": "2026-11-06T21:28:25+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
   },
   {
    "id": "73e12f8f5666d2",
@@ -54,7 +64,7 @@
   {
    "id": "4c2b1b0a846d21",
    "fuente_id": "el-heraldo",
-   "titular": "Alcaldía de Soledad anuncia que continúan las labores de búsqueda de la pequeña Zoe",
+   "titular": "Alcaldía de Soledad confirma que continúan las labores de búsqueda de la pequeña Zoe",
    "bajada": "Desde la Oficina de Gestión del Riesgo del municipio se informó que los equipos de respuesta siguen desplegados en las zonas de influencia.",
    "enlace": "https://www.elheraldo.co/atlantico/2026/11/06/alcaldia-de-soledad-anuncia-que-continuan-las-labores-de-busqueda-de-la-pequena-zoe/",
    "fecha": "2026-11-06T21:24:58+00:00",
@@ -4812,6 +4822,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "dd07629e2e508e",
+   "fuente_id": "business-wire",
+   "titular": "Experian Named a Leader in 2026 IDC MarketScape for Worldwide Decision Intelligence Platforms",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcEVwRXdSTU1LazQ4bl9QQ0Z0dkdtY2pvWXZ3QmlVbTJaZHFsNXVJV2xmcm5pdFhOLUtYdk5wbWxRNlhrQmVoVUdDQTFDanA1X3Y4TTNuaXJqLTM1V0JpVjBjdGVRSGFjSGV3RzFXMmw0Y3dvT256SURZY3hUZHRQdXd2RTI4WFluV2ZvTTBiQXVTMmw1SU9EczY1M0hULXhMLXFYYVE3RDJ5V0hudEdSbHU3X0dCWTdQNFBHWTh2aFd1eDI5c3BGbTRBYmVBeDJZVDZfcF9YdklhMWpyZ0NHdXVGUjY?oc=5",
+   "fecha": "2026-11-06T14:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
+  },
+  {
    "id": "4ed7264f2b2a54",
    "fuente_id": "infobae-colombia",
    "titular": "Agentes de ICE detuvieron en el aeropuerto de San Francisco a colombiana alumna e investigadora de la Universidad de California en Berkeley: “Una de nuestras estudiantes más destacadas”",
@@ -6702,16 +6722,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "7820de5cc39535",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fRUVqYnhXMGJjaDMtTFhtX0x0eko3QWY2RXNST1E5SldrWFV4TGtHcWRscnA1c3pCRHV6bXNtelp6Z2IxTWhwTlZyNW9ZT2M?oc=5",
-   "fecha": "2026-11-06T11:11:09+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "453acf6977b973",
    "fuente_id": "la-republica",
    "titular": "EPS Sanitas reportó entrega de 60.799 fórmulas en Bogotá tras cambio de operador",
@@ -6870,6 +6880,16 @@
    "fecha": "2026-11-06T10:51:29+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "91e66904c0ac82",
+   "fuente_id": "oms",
+   "titular": "- World Health Organization (WHO)",
+   "bajada": "World Health Organization (WHO)",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CR0laTUZ6Smg3QlA0RzV3SDlvNjNOa2d5TFR4YzFXSHpPdUVzNzJ0NmVjaW5mblRLYkFtdXRqdUNXYmt6VEQ3TTJwSUlYQjFUUlZqdXRiUFJ6WV9heVp1QkJFNUtLSTdJc1ZGLUpfZw?oc=5",
+   "fecha": "2026-11-06T10:51:24+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
   },
   {
    "id": "cfb3f7c5dd44c9",
@@ -7682,6 +7702,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "aca928f9c41102",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zMkhlOGpTNE1WY3c0Zk5UNmFtOHhlRGhQTDBlMk9uUmFwV0NkaTlGVXdaSVYyMGp3Q0ljajdkV2V1b21sTDlydVBMaGF3WnM?oc=5",
+   "fecha": "2026-11-06T08:57:40+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "a156b9e8e17c33",
    "fuente_id": "forbes",
    "titular": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
@@ -7802,6 +7832,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "cb4a0ef927c145",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5WDlUUUMzM1RfWTcyRjNOdmtkWkx5UEhqa0l3Zlp1aFN6b1UtbzBfV3Y1cjNRbU0zdWNNSG9mM05manR5U1E?oc=5",
+   "fecha": "2026-11-06T08:23:37+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "a40531218afd2d",
    "fuente_id": "cyberpress",
    "titular": "ARTEX AI Hacking Framework Turns Vulnerable Websites Into Targets for Automated Cybercrime",
@@ -7810,16 +7850,6 @@
    "fecha": "2026-11-06T08:22:02+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:29:07+00:00"
-  },
-  {
-   "id": "88bbb18b63cca2",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
-   "fecha": "2026-11-06T08:19:42+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "513b500b8d369e",
@@ -7902,6 +7932,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "2fb7c5973b0e51",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kRGs2aV9uRW1ZdjVBQi1xS1JsUVhKNjlXQ1N2RlNwNzlfcmk0RFZLbjBfbVF1LTNxbnNMd3Voc3pCWmlVZ2hSeGgzTmJLUWM?oc=5",
+   "fecha": "2026-11-06T08:14:11+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "d0c462e619ce46",
    "fuente_id": "cyberpress",
    "titular": "ChatGPT Lockdown Mode Bypass Allowed Hackers to Steal Private Chats Without User Interaction",
@@ -7932,12 +7972,12 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "f8835268e69a40",
+   "id": "2cd3478a79c1ee",
    "fuente_id": "uicn",
    "titular": "- International Union for Conservation of Nature",
    "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dTBWRWw5aFRDSkNodmdMd0hPNWd1NThHMDNvb214ZHBHVVJXUklicWlIYlJ0SlM4blFIUHBpTDZ6YklmbDRjUXA2aXJaRFU?oc=5",
-   "fecha": "2026-11-06T07:45:19+00:00",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IMldvWnh0bGtpUDcyYnlad0dBc1N3OHgzTGVBbktBYVBqakJmV0Y4bHpXb1ROZC1TNUpNMHAwU0h1UHNRQUdLYi15OXZ4WkE?oc=5",
+   "fecha": "2026-11-06T07:42:08+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -8050,6 +8090,16 @@
    "fecha": "2026-11-06T07:08:04+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:29:07+00:00"
+  },
+  {
+   "id": "6abc471bc79e2f",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQ0QxNmpGS0g3Q2w5QmRCX2UxRjYxZV9DcEZZUVFQeU5lbE8yVGo1UDJ5SWdGZWZCLVR6cTlUcVJEQ0h3clU1ZldxQXNTX0U?oc=5",
+   "fecha": "2026-11-06T07:07:14+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "5b595e4e287d6f",
@@ -9212,6 +9262,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "247a767a4583a7",
+   "fuente_id": "automation-com",
+   "titular": "Optimizing the Chlor-Alkali Process: The Critical Role of pH, ORP, and Conductivity Control",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFFRM2xqZVVpNERVeE8yZGpPTnJNcmdLejltM1ZGVmJlbmQ3RnVBUllBR09HSDcyOTlQdEhodzJlNmpYX2JYSmdFdTBEUHRiT0V4U1BmMWZhemx3X3lfTjZuUVdpVG5kNzNLYVRPT3Q4RzFhUlVueFh5N0dOWEZjUDZkX05XRVc2YWp3WlFOblVrM3BiQ3BTRkdqMjhtaGg2SUJESHR1b0dSOXJBMFV0NXMzOTBhYmVnLURvQmlnSHI?oc=5",
+   "fecha": "2026-11-06T02:28:16+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
+  },
+  {
    "id": "32ffe1c14ac5aa",
    "fuente_id": "infobae-colombia",
    "titular": "Capturan en flagrancia a dos presuntos ‘cosquilleros’ en Transmilenio: uno había salido de prisión hace un mes",
@@ -9669,6 +9729,16 @@
    "enlace": "https://www.infobae.com/colombia/2026/11/06/defensa-de-la-familia-de-kevin-acosta-cuestiono-traslado-de-la-fiscal-que-investigaba-su-muerte-tras-compulsa-de-copias-contra-gustavo-petro/",
    "fecha": "2026-11-06T01:24:39+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "7820de5cc39535",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fRUVqYnhXMGJjaDMtTFhtX0x0eko3QWY2RXNST1E5SldrWFV4TGtHcWRscnA1c3pCRHV6bXNtelp6Z2IxTWhwTlZyNW9ZT2M?oc=5",
+   "fecha": "2026-11-06T01:23:55+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -10459,16 +10529,6 @@
    "enlace": "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f",
    "fecha": "2026-11-05T23:44:00+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "4cfcdcb52d1155",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
-   "fecha": "2026-11-05T23:43:53+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -11882,6 +11942,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "b6f25777a3753f",
+   "fuente_id": "marklines",
+   "titular": "Chevrolet Traverse, GMC Acadia, Buick Enclave hybrids named for Lansing Delta Township Assembly",
+   "bajada": "Chevrolet Traverse, GMC Acadia, Buick Enclave hybrids named for Lansing Delta Township Assembly Automotive Industry Portal MarkLines",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Sa2k4eWdnRDJrbWRzMXZlTzQ0UjIyS2hyZFZHS01teVBVT2kwa25zOFpCcnZqbjhPdDdwYjVMeVFCOFBtcm9qbGkxOHhfanpfOGc?oc=5",
+   "fecha": "2026-11-05T21:09:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
+  },
+  {
    "id": "4b240a46869201",
    "fuente_id": "yahoo-finance",
    "titular": "AppLovin stock soars after Q3 earnings, outlook beat",
@@ -12208,6 +12278,16 @@
    "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGY1dGNCWVg0WG0xVUluWC1ZNVBqTjNTWlFGa05GclYtVUs0aFhkVV94TDNxNWpTNlJ5Q1RuaS1RclB6aDFjQk9DRHlMakZrSDBOYVNKUGtSMEtYRnc4UWJrVUFmdHJsX1NLc0RQdzVmUENhSHk4WGpsTDVmU3VzdTNLQU5RN2o2M2VNN1NlSi1yZDJjQmtxdWV2SFJfVjl4ZzBNV01rT2RpMmt1SGxnMW5RZUhVNEZWRGxEQkdiRlItYVk?oc=5",
    "fecha": "2026-11-05T20:38:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "88bbb18b63cca2",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
+   "fecha": "2026-11-05T20:37:21+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -14312,16 +14392,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "2cd3478a79c1ee",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IMldvWnh0bGtpUDcyYnlad0dBc1N3OHgzTGVBbktBYVBqakJmV0Y4bHpXb1ROZC1TNUpNMHAwU0h1UHNRQUdLYi15OXZ4WkE?oc=5",
-   "fecha": "2026-11-05T15:07:44+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "60082670354181",
    "fuente_id": "the-register",
    "titular": "Memory makers mint megabucks while buyers beg for mercy",
@@ -15992,6 +16062,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "4568dfdb7739b2",
+   "fuente_id": "marklines",
+   "titular": "[Gen-AI Analysis] BMW plans for organizational restructuring and expands Neue Klasse technologies",
+   "bajada": "[Gen-AI Analysis] BMW plans for organizational restructuring and expands Neue Klasse technologies Automotive Industry Portal MarkLines",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwSHRBMGNyNEJOTERaTTRDVGdMenctSlJLWTdCRXhxcUl3eklhVVF1MkMwY0xucjBfVmc5OXp4TnlQcXpWRTlYX0VxMUdWeHBGakE?oc=5",
+   "fecha": "2026-11-05T11:25:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
+  },
+  {
    "id": "330acffa7f98cd",
    "fuente_id": "el-universal",
    "titular": "Clima en Cartagena: pronóstico del tiempo para este jueves 5 de noviembre",
@@ -16029,16 +16109,6 @@
    "enlace": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
    "fecha": "2026-11-05T11:19:16+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "2fb7c5973b0e51",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kRGs2aV9uRW1ZdjVBQi1xS1JsUVhKNjlXQ1N2RlNwNzlfcmk0RFZLbjBfbVF1LTNxbnNMd3Voc3pCWmlVZ2hSeGgzTmJLUWM?oc=5",
-   "fecha": "2026-11-05T11:13:52+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -16322,6 +16392,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "f8835268e69a40",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dTBWRWw5aFRDSkNodmdMd0hPNWd1NThHMDNvb214ZHBHVVJXUklicWlIYlJ0SlM4blFIUHBpTDZ6YklmbDRjUXA2aXJaRFU?oc=5",
+   "fecha": "2026-11-05T10:04:36+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "bfefbbc49c18fe",
    "fuente_id": "wired",
    "titular": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
@@ -16402,16 +16482,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "cb4a0ef927c145",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5WDlUUUMzM1RfWTcyRjNOdmtkWkx5UEhqa0l3Zlp1aFN6b1UtbzBfV3Y1cjNRbU0zdWNNSG9mM05manR5U1E?oc=5",
-   "fecha": "2026-11-05T09:31:02+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "116a664aec2249",
    "fuente_id": "the-register",
    "titular": "Royal London plans IT outsourcing shake-up as staff brace for redundancies",
@@ -16419,16 +16489,6 @@
    "enlace": "https://www.theregister.com/on-prem/2026/11/05/royal-london-plans-it-outsourcing-shake-up-as-staff-brace-for-redundancies/5307481",
    "fecha": "2026-11-05T09:30:00+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "6abc471bc79e2f",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQ0QxNmpGS0g3Q2w5QmRCX2UxRjYxZV9DcEZZUVFQeU5lbE8yVGo1UDJ5SWdGZWZCLVR6cTlUcVJEQ0h3clU1ZldxQXNTX0U?oc=5",
-   "fecha": "2026-11-05T09:19:57+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -17129,6 +17189,16 @@
    "enlace": "https://www.fuelsandlubes.com/regular-bioethanol-bunkering-begins-at-brazils-port-of-santos/",
    "fecha": "2026-11-05T03:02:46+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "4cfcdcb52d1155",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
+   "fecha": "2026-11-05T03:01:01+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -19802,6 +19872,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "9bcb19551555b5",
+   "fuente_id": "el-universal",
+   "titular": "Video: así fue el brutal ataque contra Paula Carley Coca; un hombre de 63 años le quitó la vida",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc1pXTENEZThxRks4cWk1VDUwLXNVS3NRWlVyM2h2WFFoZGhfYmFfLTZQN3NmZUZtOUJhRlEzM0JCYjRDdS0ySFA3R1Nyb25YQWdKTmZOdU5nYTFWOV93Ry1yVGVPY294REV6cXJ0eHN3aGJ4OXpaNk1Ibnl5Mk5mZ2wwMktmbG9QU1JDaVN2bHY5U1dES21WMUhHU0U3NzVwUkhfTHEzUVJVNi1hYXROejYzcmFLWWEyZkpqamU5RWVkeHdENWhvR21oQ3JVQm9UUm5uOXBnRUlrSFU0?oc=5",
+   "fecha": "2026-11-04T12:04:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
+  },
+  {
    "id": "801821888dd8ff",
    "fuente_id": "agronegocios",
    "titular": "Manejo de parafiscales abre debate entre presidente de Fedegan y ministro de Agricultura",
@@ -19949,16 +20029,6 @@
    "enlace": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
    "fecha": "2026-11-04T11:34:20+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "aca928f9c41102",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zMkhlOGpTNE1WY3c0Zk5UNmFtOHhlRGhQTDBlMk9uUmFwV0NkaTlGVXdaSVYyMGp3Q0ljajdkV2V1b21sTDlydVBMaGF3WnM?oc=5",
-   "fecha": "2026-11-04T11:31:07+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -20760,6 +20830,16 @@
    "fecha": "2026-11-03T22:24:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "19d55def381116",
+   "fuente_id": "uicn",
+   "titular": "FWP - IUCN Portals",
+   "bajada": "FWP - IUCN Portals International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVN4d1kxQ3RBekxKaE1fS2twVENIN081b0ZRUVFYQjZLZVlTMUFIY2IzaTA2VEt2V2xaQ1ZMcW8tcFRReVpmbkpEZ3VxSzVNekdzemQxVzhDMUREQmtIVGFhTFk5ZWpYUU9SbWxpWUhtVmI5cmpWdVhYdjY0ZmkxMTVxWGVIZlNldnZoR1YybDRlcWc?oc=5",
+   "fecha": "2026-11-03T22:21:01+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
   },
   {
    "id": "165e1bbb06697f",
@@ -24362,6 +24442,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "e3be6db213c138",
+   "fuente_id": "uicn",
+   "titular": "CANOPY_incl DDP - IUCN Portals",
+   "bajada": "CANOPY_incl DDP - IUCN Portals International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTTZERV8xdnlBZ2pVODI0VDVhNWNzWVBjb0UxQVNGUGZ3LWd2blpoRUR5V2hSd1ZaR3dsUWZRNFBNQlJxY2RMQjUyTUx3MmdTN0c3X1RKVFBiY1lIUG1hOHVrT3VFdWExYlZDekFpVTJKRVVrb2xfLUpqUy1hbkRIRTBwTQ?oc=5",
+   "fecha": "2026-10-31T23:05:46+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:35:59+00:00"
+  },
+  {
    "id": "d39790ec82228f",
    "fuente_id": "wsj",
    "titular": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
@@ -24828,26 +24918,6 @@
    "bajada": "Crypto isn’t risk-free after all, as thieves take Binance for $6.3 billion.",
    "enlace": "https://www.wsj.com/opinion/market-scare-ai-binance-nasdaq-google-alphabet-94e31518?mod=rss_markets_main",
    "fecha": "2026-10-30T21:36:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "5a7114fc6e0dc6",
-   "fuente_id": "la-republica",
-   "titular": "Grupo Nutresa reportó ingresos por $15,4 billones con corte a septiembre, creciendo 0,4%",
-   "bajada": "Colombia se mantiene como un motor de crecimiento para la organización, con ventas por $10 billones",
-   "enlace": "https://www.larepublica.co/empresas/grupo-nutresa-reporto-ingresos-por-15-4-billones-con-corte-a-septiembre-4515292",
-   "fecha": "2026-10-30T21:35:40+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "a879b984d1e2fd",
-   "fuente_id": "la-republica",
-   "titular": "Xposible Colsubsidio reconoce a 33 compañías que hacen negocios y el bien",
-   "bajada": "La Caja de compensación distingue proyectos de medianas y grandes empresas que impulsan transformaciones sociales, ambientales y económicas en Colombia",
-   "enlace": "https://www.larepublica.co/empresas/xposible-colsubsidio-reconoce-a-33-companias-que-hacen-negocios-haciendo-el-bien-4515298",
-   "fecha": "2026-10-30T21:33:04+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   }
