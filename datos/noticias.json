@@ -1,6 +1,106 @@
 {
- "actualizado": "2026-11-06T22:17:09+00:00",
+ "actualizado": "2026-11-06T22:28:23+00:00",
  "notas": [
+  {
+   "id": "feee7b51f3fe04",
+   "fuente_id": "cnbc",
+   "titular": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+   "bajada": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+   "enlace": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+   "fecha": "2026-11-06T22:25:58+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:32:09+00:00"
+  },
+  {
+   "id": "842074cd955f8e",
+   "fuente_id": "wsj",
+   "titular": "WSJ Dollar Index Rises 0.46% This Week to 97.52",
+   "bajada": "The WSJ Dollar Index rose 0.5%, up for two consecutive trading days.",
+   "enlace": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
+   "fecha": "2026-11-06T22:23:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "18079b65874987",
+   "fuente_id": "cnbc",
+   "titular": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+   "bajada": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+   "enlace": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+   "fecha": "2026-11-06T22:22:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "55f507494fecae",
+   "fuente_id": "investing-com",
+   "titular": "Enova International subsidiary plans $500 million asset-backed notes offering",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/enova-international-subsidiary-plans-500-million-assetbacked-notes-offering-93CH-5009326",
+   "fecha": "2026-11-06T22:22:48+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "3daf344eb478df",
+   "fuente_id": "portafolio",
+   "titular": "Subsidio de vivienda en Bogotá: quiénes aplican a 'Reduce tu Cuota' y cómo postularse",
+   "bajada": "La Alcaldía reabrió el programa con 4.000 cupos que se aplicarán desde 2027.",
+   "enlace": "https://www.portafolio.co/economia/gobierno/subsidio-de-vivienda-en-bogota-quienes-aplican-a-reduce-tu-cuota-y-como-postularse-505891",
+   "fecha": "2026-11-06T22:20:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "156297c7fb9d63",
+   "fuente_id": "investing-com",
+   "titular": "Health In Tech issues $3 million promissory note in equity financing deal",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/health-in-tech-issues-3-million-promissory-note-in-equity-financing-deal-93CH-5009317",
+   "fecha": "2026-11-06T22:18:31+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "a9e6c5a489d1f0",
+   "fuente_id": "el-heraldo",
+   "titular": "Liberan bajo fianza al padre de la duquesa de Sussex, tras ser arrestado por posesión de pornografía infantil",
+   "bajada": "Thomas Markle Sr., padre de Meghan Markle, no podrá viajar fuera del distrito medio de Florida ni del distrito central de California, ante el que se espera que comparezca próximamente.",
+   "enlace": "https://www.elheraldo.co/mundo/2026/11/06/liberan-bajo-fianza-al-padre-de-la-duquesa-de-sussex-tras-ser-arrestado-por-posesion-de-pornografia-infantil/",
+   "fecha": "2026-11-06T22:17:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "cd5681c77b7b10",
+   "fuente_id": "investing-com",
+   "titular": "Brent posts worst week since April 2020 amid post-midterms hopes for Iran detente",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/commodities-news/oil-rises-on-fresh-tanker-attacks-but-heads-for-steep-weekly-loss-5006219",
+   "fecha": "2026-11-06T22:15:36+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "90c3315030a495",
+   "fuente_id": "investing-com",
+   "titular": "Harold J. Schwartz resigns from Data Storage Corp board",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/harold-j-schwartz-resigns-from-data-storage-corp-board-93CH-5009304",
+   "fecha": "2026-11-06T22:14:47+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "590e1de4b359d8",
+   "fuente_id": "el-heraldo",
+   "titular": "¿Quién es Camilo Mena, la principal novedad en la convocatoria de la selección Colombia?",
+   "bajada": "Se trata de un extremo de 24 años que juega en Europa desde 2021.",
+   "enlace": "https://www.elheraldo.co/deportes/2026/11/06/quien-es-camilo-mena-la-principal-novedad-en-la-convocatoria-de-la-seleccion-colombia/",
+   "fecha": "2026-11-06T22:13:14+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
   {
    "id": "8e2d431744bc48",
    "fuente_id": "bbc-mundo",
@@ -32,6 +132,16 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
+   "id": "9869ee2ba4ccc9",
+   "fuente_id": "investing-com",
+   "titular": "Lazard files prospectus for potential resale of shares issued in Campbell Lutyens acquisition",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/lazard-files-prospectus-for-potential-resale-of-shares-issued-in-campbell-lutyens-acquisition-93CH-5009298",
+   "fecha": "2026-11-06T22:10:40+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
    "id": "11e6f600e9e84e",
    "fuente_id": "infobae-colombia",
    "titular": "Sneyder Pinilla se quedará en La Picota: juez negó tutela con la que buscaba regresar a una guarnición militar para cumplir condena por el caso Ungrd",
@@ -52,14 +162,14 @@
    "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
-   "id": "48e3104e269987",
-   "fuente_id": "macrumors",
-   "titular": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
-   "bajada": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked up one of the new machines to get our greasy fingerprints all over that pristine OLED display. Subscribe to the MacRumors YouTube channel for more videos. It's been five years…",
-   "enlace": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
-   "fecha": "2026-11-06T22:06:07+00:00",
+   "id": "799188acd3a33c",
+   "fuente_id": "investing-com",
+   "titular": "Onfolio Holdings stockholders approve reverse stock split authority at special meeting",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/onfolio-holdings-stockholders-approve-reverse-stock-split-authority-at-special-meeting-93CH-5009289",
+   "fecha": "2026-11-06T22:06:43+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T22:17:09+00:00"
+   "primera_vista": "2026-11-06T22:28:23+00:00"
   },
   {
    "id": "8ea1c6d1597cee",
@@ -72,6 +182,26 @@
    "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
+   "id": "48e3104e269987",
+   "fuente_id": "macrumors",
+   "titular": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
+   "bajada": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked up one of the new machines to get our greasy fingerprints all over that pristine OLED display. Subscribe to the MacRumors YouTube channel for more videos. It's been five years…",
+   "enlace": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
+   "fecha": "2026-11-06T22:05:59+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "e746e547701674",
+   "fuente_id": "portafolio",
+   "titular": "Estos son los municipios y capitales con mejor desempeño fiscal de Colombia",
+   "bajada": "El promedio nacional subió 1,40 puntos frente a 2024 y llegó a 57,25, según el DNP.",
+   "enlace": "https://www.portafolio.co/economia/regiones/estos-son-los-municipios-y-capitales-con-mejor-desempeno-fiscal-de-colombia-505886",
+   "fecha": "2026-11-06T22:05:40+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
    "id": "b8c141c1543c5d",
    "fuente_id": "infobae-tecno",
    "titular": "Empresas de IA ofrecen hasta USD 2 millones por los correos y archivos internos de otras compañías",
@@ -80,6 +210,26 @@
    "fecha": "2026-11-06T22:05:37+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "358e48cb4e7b70",
+   "fuente_id": "investing-com",
+   "titular": "Cognizant completes acquisition of digital engineering firm Wizeline",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/cognizant-completes-acquisition-of-digital-engineering-firm-wizeline-93CH-5009286",
+   "fecha": "2026-11-06T22:04:29+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "0b20f453eb7fcf",
+   "fuente_id": "portafolio",
+   "titular": "Darle dientes al Carf y auditar las cuentas: las propuestas para evitar otro descalabro fiscal en Colombia",
+   "bajada": "Analistas advierten que, sin un ajuste de las cuentas públicas, el país podría enfrentar mayores costos de deuda.",
+   "enlace": "https://www.portafolio.co/economia/finanzas/darle-dientes-al-carf-y-auditar-las-cuentas-las-propuestas-para-evitar-otro-descalabro-fiscal-en-colombia-505889",
+   "fecha": "2026-11-06T22:04:08+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:28:23+00:00"
   },
   {
    "id": "acbe24763d10bc",
@@ -308,16 +458,6 @@
    "bajada": "",
    "enlace": "https://www.investing.com/news/sec-filings/silgan-holdings-updates-credit-agreement-to-facilitate-planned-business-contribution-93CH-5009267",
    "fecha": "2026-11-06T21:52:18+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T22:17:09+00:00"
-  },
-  {
-   "id": "e746e547701674",
-   "fuente_id": "portafolio",
-   "titular": "Estos son los municipios y capitales con mejor desempeño fiscal de Colombia",
-   "bajada": "Char aseguró que la ciudad pasó de renegociar sus deudas bajo la Ley 550 a ser “ejemplo nacional”.",
-   "enlace": "https://www.portafolio.co/economia/regiones/estos-son-los-municipios-y-capitales-con-mejor-desempeno-fiscal-de-colombia-505886",
-   "fecha": "2026-11-06T21:49:17+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T22:17:09+00:00"
   },
@@ -980,16 +1120,6 @@
    "fecha": "2026-11-06T20:42:28+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "18079b65874987",
-   "fuente_id": "cnbc",
-   "titular": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-   "bajada": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
-   "enlace": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-   "fecha": "2026-11-06T20:42:07+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
    "id": "e850ed1c406310",
@@ -2602,16 +2732,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "feee7b51f3fe04",
-   "fuente_id": "cnbc",
-   "titular": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-   "bajada": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-   "enlace": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-   "fecha": "2026-11-06T17:24:48+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:32:09+00:00"
-  },
-  {
    "id": "20cdb44f18f785",
    "fuente_id": "portafolio",
    "titular": "Cencosud, dueña de Jumbo y Metro, acelera sus ventas y en Colombia mejora su rentabilidad en el tercer trimestre",
@@ -4092,16 +4212,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "842074cd955f8e",
-   "fuente_id": "wsj",
-   "titular": "Dollar Could Rise Further on Prospect of December Rate Rise",
-   "bajada": "The dollar rose and could rise further following solid U.S. nonfarm payrolls report, Monex Europe said.",
-   "enlace": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
-   "fecha": "2026-11-06T15:15:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "f7bf69c583dfda",
    "fuente_id": "the-register",
    "titular": "DoJ's 'Super Intelligence Task Force' up and running",
@@ -4655,7 +4765,7 @@
    "id": "87252fb669a4e7",
    "fuente_id": "bbc-mundo",
    "titular": "Crisis en Paraguay: el Congreso destituye a Santiago Peña, el segundo presidente expulsado por juicio político",
-   "bajada": "Los legisladores aprobaron la destitución de Peña por unanimidad, con 44 votos a favor y una ausencia, por el escándalo desatado por la caída de Ueno Bank.",
+   "bajada": "Los legisladores aprobaron la destitución de Peña por unanimidad por el escándalo desatado por la caída de Ueno Bank.",
    "enlace": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-06T14:26:31+00:00",
    "via": "rss",
@@ -8232,16 +8342,6 @@
    "primera_vista": "2026-11-06T14:29:07+00:00"
   },
   {
-   "id": "88bbb18b63cca2",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
-   "fecha": "2026-11-06T08:19:42+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "513b500b8d369e",
    "fuente_id": "the-manufacturer",
    "titular": "Leadership - Page 401 of 402 - The Manufacturer",
@@ -8362,16 +8462,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "f8835268e69a40",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dTBWRWw5aFRDSkNodmdMd0hPNWd1NThHMDNvb214ZHBHVVJXUklicWlIYlJ0SlM4blFIUHBpTDZ6YklmbDRjUXA2aXJaRFU?oc=5",
-   "fecha": "2026-11-06T07:45:19+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "2cd3478a79c1ee",
    "fuente_id": "uicn",
    "titular": "- International Union for Conservation of Nature",
@@ -8432,6 +8522,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "3aca9f3043436f",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Vi1KdVlpSjhDbDVkTjdSdklZUjVfN0NtdmQ1RkcwZW5qb0t1YzUydXc2OC1CQUF5OTRlcnpnRHhxaXZHeS1oal9UY3JPUQ?oc=5",
+   "fecha": "2026-11-06T07:32:23+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "0b3108282dcb5b",
    "fuente_id": "the-register",
    "titular": "Safari's Autofill feature may be distorting time",
@@ -8449,6 +8549,16 @@
    "enlace": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
    "fecha": "2026-11-06T07:18:44+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "34328249ba79c9",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUDBQZGNfNE5peHhnLThQR0F6VDQ5bFF4RVhCOVlUX0ZPMjF3WUtWSl81V2NnYjBhN28tMWQ1ejdST1QwWDRTS24xSXVtUQ?oc=5",
+   "fecha": "2026-11-06T07:14:13+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -10932,16 +11042,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "4cfcdcb52d1155",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
-   "fecha": "2026-11-05T23:43:53+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "2ec8e867271cb8",
    "fuente_id": "infobae-colombia",
    "titular": "Álvaro Uribe habló de la reforma del Gobierno tras reunión con el Centro Democrático y dijo que “el ahorro que propone es poco”: le preocupa el IVA",
@@ -12688,6 +12788,16 @@
    "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGY1dGNCWVg0WG0xVUluWC1ZNVBqTjNTWlFGa05GclYtVUs0aFhkVV94TDNxNWpTNlJ5Q1RuaS1RclB6aDFjQk9DRHlMakZrSDBOYVNKUGtSMEtYRnc4UWJrVUFmdHJsX1NLc0RQdzVmUENhSHk4WGpsTDVmU3VzdTNLQU5RN2o2M2VNN1NlSi1yZDJjQmtxdWV2SFJfVjl4ZzBNV01rT2RpMmt1SGxnMW5RZUhVNEZWRGxEQkdiRlItYVk?oc=5",
    "fecha": "2026-11-05T20:38:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "88bbb18b63cca2",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
+   "fecha": "2026-11-05T20:37:21+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -15222,16 +15332,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "34328249ba79c9",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUDBQZGNfNE5peHhnLThQR0F6VDQ5bFF4RVhCOVlUX0ZPMjF3WUtWSl81V2NnYjBhN28tMWQ1ejdST1QwWDRTS24xSXVtUQ?oc=5",
-   "fecha": "2026-11-05T14:08:50+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "57778522f1eb91",
    "fuente_id": "infobae-tecno",
    "titular": "Micron frenó una planta de memorias de USD 4.500 millones en Taiwán por un conflicto laboral",
@@ -16062,16 +16162,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "3aca9f3043436f",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Vi1KdVlpSjhDbDVkTjdSdklZUjVfN0NtdmQ1RkcwZW5qb0t1YzUydXc2OC1CQUF5OTRlcnpnRHhxaXZHeS1oal9UY3JPUQ?oc=5",
-   "fecha": "2026-11-05T12:03:50+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "d396cf576c6fc8",
    "fuente_id": "infobae-tecno",
    "titular": "Las ventas de la Nintendo Switch 2 cayeron 41% tras las subas de precio y el alza de la memoria",
@@ -16808,6 +16898,16 @@
    "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGdfVVBCNkQ1MjBJellaeThIS3N0YTFwNW1XVEhfMGdZbXQ4M1F3b3JNU2pFdHRqekVoLTB6Y2V2TU1Vb1U4bnpaYWN5bTBXZzBETTNWTkdtalFUVG9pTGZmRjg4bUhiSzlkVnhsdHJDT2hnUkFDZG5xMmJJNFhleFh5Y0ZYWDFLN3Jldy10UlN2NlJJaGloS3E2R1ZRTDVWMmVWbzJ5eFU?oc=5",
    "fecha": "2026-11-05T10:05:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "f8835268e69a40",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dTBWRWw5aFRDSkNodmdMd0hPNWd1NThHMDNvb214ZHBHVVJXUklicWlIYlJ0SlM4blFIUHBpTDZ6YklmbDRjUXA2aXJaRFU?oc=5",
+   "fecha": "2026-11-05T10:04:36+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -17599,6 +17699,16 @@
    "enlace": "https://www.fuelsandlubes.com/regular-bioethanol-bunkering-begins-at-brazils-port-of-santos/",
    "fecha": "2026-11-05T03:02:46+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "4cfcdcb52d1155",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
+   "fecha": "2026-11-05T03:01:01+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -25309,16 +25419,6 @@
    "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3J1bmp1dGFIR2hqUTJoM2FjUFBkZEtpVlYzd2Yyd25nd1E4bG9LRS1EUnB2ZW9nR0o1NWdYeHhSSWhUWmVGRFVQX1c0OUlXRk5GWkd6M0s2V3JvaElndXJzRTdiSDdwcGxPeEhEU0dEUWdfczAzdnh2QU95dTViUy0tMGRWV1FUVWtodXVWcjFDZw?oc=5",
    "fecha": "2026-10-30T22:37:17+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "656faddb874eec",
-   "fuente_id": "la-republica",
-   "titular": "Grupo Nutresa cierra compra de La Universal, se integrará al Negocio de Chocolates",
-   "bajada": "Después de recibir la aprobación regulatoria, la empresa ecuatoriana se integrará con el Negocio de Chocolates del Grupo Nutresa",
-   "enlace": "https://www.larepublica.co/empresas/grupo-nutresa-cierra-compra-de-la-universal-se-integrara-al-negocio-de-chocolates-4515320",
-   "fecha": "2026-10-30T22:22:34+00:00",
-   "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   }
  ]

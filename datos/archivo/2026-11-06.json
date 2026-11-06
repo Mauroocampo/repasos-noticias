@@ -1,5 +1,75 @@
 [
  {
+  "id": "55f507494fecae",
+  "fuente_id": "investing-com",
+  "titular": "Enova International subsidiary plans $500 million asset-backed notes offering",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/sec-filings/enova-international-subsidiary-plans-500-million-assetbacked-notes-offering-93CH-5009326",
+  "fecha": "2026-11-06T22:22:48+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "3daf344eb478df",
+  "fuente_id": "portafolio",
+  "titular": "Subsidio de vivienda en Bogotá: quiénes aplican a 'Reduce tu Cuota' y cómo postularse",
+  "bajada": "La Alcaldía reabrió el programa con 4.000 cupos que se aplicarán desde 2027.",
+  "enlace": "https://www.portafolio.co/economia/gobierno/subsidio-de-vivienda-en-bogota-quienes-aplican-a-reduce-tu-cuota-y-como-postularse-505891",
+  "fecha": "2026-11-06T22:20:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "156297c7fb9d63",
+  "fuente_id": "investing-com",
+  "titular": "Health In Tech issues $3 million promissory note in equity financing deal",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/sec-filings/health-in-tech-issues-3-million-promissory-note-in-equity-financing-deal-93CH-5009317",
+  "fecha": "2026-11-06T22:18:31+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "a9e6c5a489d1f0",
+  "fuente_id": "el-heraldo",
+  "titular": "Liberan bajo fianza al padre de la duquesa de Sussex, tras ser arrestado por posesión de pornografía infantil",
+  "bajada": "Thomas Markle Sr., padre de Meghan Markle, no podrá viajar fuera del distrito medio de Florida ni del distrito central de California, ante el que se espera que comparezca próximamente.",
+  "enlace": "https://www.elheraldo.co/mundo/2026/11/06/liberan-bajo-fianza-al-padre-de-la-duquesa-de-sussex-tras-ser-arrestado-por-posesion-de-pornografia-infantil/",
+  "fecha": "2026-11-06T22:17:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "cd5681c77b7b10",
+  "fuente_id": "investing-com",
+  "titular": "Brent posts worst week since April 2020 amid post-midterms hopes for Iran detente",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/commodities-news/oil-rises-on-fresh-tanker-attacks-but-heads-for-steep-weekly-loss-5006219",
+  "fecha": "2026-11-06T22:15:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "90c3315030a495",
+  "fuente_id": "investing-com",
+  "titular": "Harold J. Schwartz resigns from Data Storage Corp board",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/sec-filings/harold-j-schwartz-resigns-from-data-storage-corp-board-93CH-5009304",
+  "fecha": "2026-11-06T22:14:47+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "590e1de4b359d8",
+  "fuente_id": "el-heraldo",
+  "titular": "¿Quién es Camilo Mena, la principal novedad en la convocatoria de la selección Colombia?",
+  "bajada": "Se trata de un extremo de 24 años que juega en Europa desde 2021.",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/06/quien-es-camilo-mena-la-principal-novedad-en-la-convocatoria-de-la-seleccion-colombia/",
+  "fecha": "2026-11-06T22:13:14+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
   "id": "8e2d431744bc48",
   "fuente_id": "bbc-mundo",
   "titular": "El Congreso de Paraguay destituye al presidente Santiago Peña en un juicio político por el escándalo de Ueno Bank",
@@ -20,6 +90,16 @@
   "primera_vista": "2026-11-06T22:17:09+00:00"
  },
  {
+  "id": "9869ee2ba4ccc9",
+  "fuente_id": "investing-com",
+  "titular": "Lazard files prospectus for potential resale of shares issued in Campbell Lutyens acquisition",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/sec-filings/lazard-files-prospectus-for-potential-resale-of-shares-issued-in-campbell-lutyens-acquisition-93CH-5009298",
+  "fecha": "2026-11-06T22:10:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
   "id": "11e6f600e9e84e",
   "fuente_id": "infobae-colombia",
   "titular": "Sneyder Pinilla se quedará en La Picota: juez negó tutela con la que buscaba regresar a una guarnición militar para cumplir condena por el caso Ungrd",
@@ -38,6 +118,16 @@
   "fecha": "2026-11-06T22:07:23+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T22:17:09+00:00"
+ },
+ {
+  "id": "799188acd3a33c",
+  "fuente_id": "investing-com",
+  "titular": "Onfolio Holdings stockholders approve reverse stock split authority at special meeting",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/sec-filings/onfolio-holdings-stockholders-approve-reverse-stock-split-authority-at-special-meeting-93CH-5009289",
+  "fecha": "2026-11-06T22:06:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
  },
  {
   "id": "48e3104e269987",
@@ -68,6 +158,26 @@
   "fecha": "2026-11-06T22:05:37+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T22:17:09+00:00"
+ },
+ {
+  "id": "358e48cb4e7b70",
+  "fuente_id": "investing-com",
+  "titular": "Cognizant completes acquisition of digital engineering firm Wizeline",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/cognizant-completes-acquisition-of-digital-engineering-firm-wizeline-93CH-5009286",
+  "fecha": "2026-11-06T22:04:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
+ },
+ {
+  "id": "0b20f453eb7fcf",
+  "fuente_id": "portafolio",
+  "titular": "Darle dientes al Carf y auditar las cuentas: las propuestas para evitar otro descalabro fiscal en Colombia",
+  "bajada": "Analistas advierten que, sin un ajuste de las cuentas públicas, el país podría enfrentar mayores costos de deuda.",
+  "enlace": "https://www.portafolio.co/economia/finanzas/darle-dientes-al-carf-y-auditar-las-cuentas-las-propuestas-para-evitar-otro-descalabro-fiscal-en-colombia-505889",
+  "fecha": "2026-11-06T22:04:08+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T22:28:23+00:00"
  },
  {
   "id": "acbe24763d10bc",
