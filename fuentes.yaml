@@ -127,7 +127,8 @@ fuentes:
   - id: asuntos-legales
     nombre: Asuntos Legales (La República)
     sitio: https://www.asuntoslegales.com.co/
-    grupo: fija
+    grupo: excluida
+    motivo: "Excluida a pedido el 6 nov 2026: no se quiere la sección legal en las noticias. Para reactivarla, vuelve a poner grupo: fija."
     red: la-republica
     tipo: prensa
     pais: CO
