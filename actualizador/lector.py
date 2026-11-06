@@ -153,14 +153,27 @@ def leer_fuente(fuente: dict, ahora: datetime, dias: int) -> tuple[list[dict], d
             notas.extend(interpretar(descargar(url), fuente, ahora, dias))
         except Exception as e:  # noqa: BLE001 — una fuente rota no detiene a las demás
             errores.append(f"{url}: {type(e).__name__}: {str(e)[:200]}")
+    respaldo = fuente.get("respaldo_google_news")
+    usado_respaldo = False
+    if len(errores) == len(urls) and respaldo and fuente.get("metodo") == "rss":
+        # El RSS falló por completo (p. ej., bloquea servidores de GitHub): se intenta Google News
+        alterna = {**fuente, "metodo": "google_news"}
+        url = url_google_news(respaldo, dias)
+        try:
+            notas.extend(interpretar(descargar(url), alterna, ahora, dias))
+            usado_respaldo = True
+        except Exception as e:  # noqa: BLE001
+            errores.append(f"respaldo Google News: {type(e).__name__}: {str(e)[:200]}")
     vistos, unicas = set(), []
     for n in notas:
         if n["id"] not in vistos:
             vistos.add(n["id"])
             unicas.append(n)
+    ok = len(errores) < len(urls) or usado_respaldo
     estado = {
-        "ok": len(errores) < len(urls),
-        "parcial": bool(errores) and len(errores) < len(urls),
+        "ok": ok,
+        "parcial": bool(errores) and ok,
+        "respaldo": usado_respaldo,
         "notas": len(unicas),
         "errores": errores,
         "metodo": fuente.get("metodo"),

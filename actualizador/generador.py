@@ -160,6 +160,8 @@ class Generador:
                     estado_txt, clase = "Sin revisar", "neutro"
                 elif not e.get("ok"):
                     estado_txt, clase = "No respondió", "error"
+                elif e.get("respaldo"):
+                    estado_txt, clase = "Respondió por Google News (respaldo)", "aviso"
                 elif e.get("parcial"):
                     estado_txt, clase = "Respondió en parte", "aviso"
                 else:

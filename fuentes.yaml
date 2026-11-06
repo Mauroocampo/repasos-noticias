@@ -21,6 +21,7 @@
 #                       ("Posible patrocinio" se detecta solo en el texto de cualquier nota)
 #   red                 agrupa sitios hermanos en la portada (techday, la-republica)
 #   solo_titulares_con  (opcional) solo entran notas cuyo titular contenga este texto
+#   respaldo_google_news (opcional) {consulta, idioma}: se usa si el RSS falla por completo
 #   nota                nota de marcado del documento de fuentes
 #   verificado          fecha de la última verificación del método
 # ─────────────────────────────────────────────────────────────────────────────
@@ -403,8 +404,9 @@ fuentes:
     tematicas: [ciber-ot]
     metodo: rss
     feeds: [https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml]
+    respaldo_google_news: { consulta: "site:cisa.gov/news-events/ics-advisories", idioma: en }
     marcas: [oficial]
-    nota: "Fuente primaria del frente OT."
+    nota: "Fuente primaria del frente OT. CISA bloquea los servidores de GitHub; si el RSS falla, se usa Google News."
     verificado: 2026-11-06
 
   - id: siemens-productcert

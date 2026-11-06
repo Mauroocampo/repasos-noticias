@@ -109,6 +109,30 @@ def test_titular_google_news():
     assert notas[0]["titular"] == "Gran anuncio" and notas[0]["bajada"] == ""
 
 
+def test_respaldo_google_news_si_falla_rss(monkeypatch):
+    gn = b"""<?xml version="1.0"?><rss version="2.0"><channel><title>x</title>
+<item><title>Aviso ICS - CISA</title><link>https://news.google.com/rss/articles/9</link>
+<pubDate>Thu, 05 Nov 2026 10:00:00 GMT</pubDate></item></channel></rss>"""
+
+    def falso(url, intentos=2):
+        if "news.google.com" in url:
+            return gn
+        raise ConnectionError("403")
+
+    monkeypatch.setattr(lector, "descargar", falso)
+    fuente = {"id": "cisa", "metodo": "rss", "feeds": ["https://cisa.gov/x.xml"],
+              "respaldo_google_news": {"consulta": "site:cisa.gov", "idioma": "en"}}
+    notas, est = lector.leer_fuente(fuente, datetime(2026, 11, 6, tzinfo=timezone.utc), 7)
+    assert est["ok"] and est["respaldo"] and len(notas) == 1 and notas[0]["via"] == "google_news"
+
+
+def test_fuente_caida_no_lanza(monkeypatch):
+    monkeypatch.setattr(lector, "descargar", lambda url, intentos=2: (_ for _ in ()).throw(ConnectionError("caída")))
+    notas, est = lector.leer_fuente({"id": "x", "metodo": "rss", "feeds": ["https://x"]},
+                                    datetime(2026, 11, 6, tzinfo=timezone.utc), 7)
+    assert notas == [] and not est["ok"] and est["errores"]
+
+
 # ── configuración real del repositorio ──────────────────────────────────────
 def test_configuracion_del_repositorio_es_valida():
     cfg = config.cargar()
