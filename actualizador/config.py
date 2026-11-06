@@ -27,6 +27,7 @@ class Config:
     fuentes: list[dict]
     palabras_clave: dict
     ia: dict = field(default_factory=dict)
+    url_actualizar: str = ""
 
     @property
     def nombres_tematicas(self) -> dict:
@@ -68,6 +69,7 @@ def cargar(raiz: Path = RAIZ) -> Config:
         fuentes=datos.get("fuentes", []),
         palabras_clave=claves,
         ia=ia,
+        url_actualizar=(datos.get("url_actualizar") or "").strip().rstrip("/"),
     )
     validar(cfg)
     return cfg
@@ -123,6 +125,9 @@ def validar(cfg: Config) -> None:
     for t in temas:
         if any(t in f.get("tematicas_por_filtro", []) for f in cfg.fuentes) and t not in cfg.palabras_clave:
             problemas.append(f"palabras-clave.yaml: falta la temática `{t}`.")
+
+    if cfg.url_actualizar and not cfg.url_actualizar.startswith("https://"):
+        problemas.append("url_actualizar: debe empezar por https:// (o dejarse vacía).")
 
     if problemas:
         raise ErrorConfig("Hay problemas en la configuración:\n  - " + "\n  - ".join(problemas))

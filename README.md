@@ -30,7 +30,20 @@ Después de editar, guarda el cambio en GitHub. El sitio se vuelve a publicar so
 
 ## Actualizar a mano
 
+**Desde el sitio:** botón *Actualizar* de la barra superior. Si `url_actualizar` en `fuentes.yaml` tiene la dirección del Worker de Cloudflare, el botón lanza la actualización directamente; si está vacía, abre GitHub.
+
 **Desde GitHub:** pestaña *Actions* → *Actualizar y publicar* → *Run workflow*.
+
+### Botón Actualizar con Cloudflare
+
+El código está en `cloudflare/worker.js`. Solo acepta pedidos del sitio publicado, no lanza una actualización si ya hay otra en curso y exige 10 minutos entre una y otra.
+
+1. **Clave de GitHub:** en GitHub, *Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token*. Solo el repositorio `repasos-noticias`, permiso *Actions: Read and write*. Cópiala; no la pegues en ningún archivo.
+2. **Worker:** en Cloudflare, *Workers & Pages → Create → Start with Hello World*, nombre `repasos-actualizar`, *Deploy*. Luego *Edit code*, reemplaza todo por el contenido de `cloudflare/worker.js` y *Deploy*.
+3. **Secreto:** en el Worker, *Settings → Variables and Secrets → Add*, tipo *Secret*, nombre `GITHUB_TOKEN`, valor: la clave del paso 1.
+4. **Conectar el sitio:** pon la dirección del Worker (algo como `https://repasos-actualizar.<tu-cuenta>.workers.dev`) en `url_actualizar` de `fuentes.yaml`.
+
+La clave de GitHub vence (máximo un año). Cuando venza, el botón vuelve a abrir GitHub; genera una nueva y reemplaza el secreto en Cloudflare.
 
 **En tu computador**, la primera vez:
 
@@ -66,6 +79,7 @@ datos/
   noticias.json         notas de la ventana actual
   archivo/AAAA-MM-DD.json   histórico por día de publicación
   registro/             estado de cada fuente y errores
+cloudflare/worker.js    Worker que lanza la actualización desde el botón (sin claves)
 herramientas/           verificador de fuentes
 docs/                   verificación inicial de fuentes
 tests/                  pruebas

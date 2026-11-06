@@ -21,7 +21,8 @@
       <a class="marca-sitio" href="{{ raiz }}">Repasos de noticias</a>
       <div class="cabecera-acciones">
       <a class="boton-actualizar" id="boton-actualizar" href="{{ url_ejecutar }}" target="_blank" rel="noopener"
-         title="Abre GitHub para lanzar la actualización (solo la cuenta dueña del repositorio puede hacerlo)">
+         {% if cfg.url_actualizar %}data-worker="{{ cfg.url_actualizar }}" title="Busca noticias nuevas ahora (tarda unos 4 minutos)"
+         {% else %}title="Abre GitHub para lanzar la actualización (solo la cuenta dueña del repositorio puede hacerlo)"{% endif %}>
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.6-4.5M4 4v4h4M4 13a8 8 0 0 0 14.6 4.5M20 20v-4h-4"/></svg>
         <span>Actualizar</span>
       </a>

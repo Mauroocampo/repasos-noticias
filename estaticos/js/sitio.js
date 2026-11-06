@@ -58,17 +58,43 @@
       })
       .catch(function () {});
   }
-  function esperar(inicio) {
-    if (temporizador) return;
+  var worker = botonAct ? botonAct.getAttribute('data-worker') : '';
+  var MSJ_GITHUB = 'Se abrió GitHub en otra pestaña: presiona «Run workflow». Tarda unos 4 minutos; esta página te avisará cuando termine.';
+  var MSJ_LANZADA = 'Buscando noticias nuevas… Tarda unos 4 minutos; esta página te avisará cuando termine.';
+
+  function esperar(inicio, texto) {
+    try { sessionStorage.setItem(CLAVE, JSON.stringify({ inicio: inicio, actualizado: actual })); } catch (e) {}
     if (botonAct) botonAct.classList.add('girando');
-    mostrarAviso('Se abrió GitHub en otra pestaña: presiona «Run workflow». Tarda unos 4 minutos; esta página te avisará cuando termine.', false);
-    temporizador = setInterval(function () { revisar(inicio); }, INTERVALO);
+    mostrarAviso(texto || MSJ_LANZADA, false);
+    if (!temporizador) temporizador = setInterval(function () { revisar(inicio); }, INTERVALO);
   }
+
+  // Con Worker: el clic lanza la actualización directamente. Si el Worker falla, se abre GitHub.
+  function lanzarConWorker() {
+    if (temporizador) { mostrarAviso(MSJ_LANZADA, false); return; }
+    botonAct.classList.add('girando');
+    mostrarAviso('Pidiendo la actualización…', false);
+    fetch(worker + '/actualizar', { method: 'POST' })
+      .then(function (r) { return r.json().then(function (d) { return { codigo: r.status, d: d }; }); })
+      .then(function (x) {
+        if (x.codigo === 202) esperar(Date.now());
+        else if (x.codigo === 409) esperar(Date.now(), 'Ya había una actualización en curso; esta página te avisará cuando termine.');
+        else if (x.codigo === 429) { detener(); mostrarAviso('Las noticias se actualizaron hace muy poco. Intenta de nuevo en ' + x.d.faltan_minutos + ' min.', false); }
+        else throw new Error(x.d && x.d.mensaje);
+      })
+      .catch(function () {
+        detener();
+        mostrarAviso('No se pudo lanzar la actualización automática. Puedes hacerlo desde GitHub: ', false);
+        var a = document.createElement('a');
+        a.href = botonAct.href; a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'abrir GitHub';
+        avisoTexto.appendChild(a);
+      });
+  }
+
   if (botonAct && aviso) {
-    botonAct.addEventListener('click', function () {
-      var inicio = Date.now();
-      try { sessionStorage.setItem(CLAVE, JSON.stringify({ inicio: inicio, actualizado: actual })); } catch (e) {}
-      esperar(inicio);
+    botonAct.addEventListener('click', function (ev) {
+      if (worker) { ev.preventDefault(); lanzarConWorker(); }
+      else esperar(Date.now(), MSJ_GITHUB);
     });
     avisoRecargar.addEventListener('click', function () { location.reload(); });
     avisoCerrar.addEventListener('click', function () { aviso.hidden = true; detener(); });
@@ -77,7 +103,7 @@
       var pedida = JSON.parse(sessionStorage.getItem(CLAVE) || 'null');
       if (pedida && Date.now() - pedida.inicio < MAXIMO) {
         if (pedida.actualizado !== actual) { detener(); }
-        else { esperar(pedida.inicio); }
+        else { esperar(pedida.inicio, worker ? MSJ_LANZADA : MSJ_GITHUB); }
       }
     } catch (e) {}
   }

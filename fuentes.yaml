@@ -30,6 +30,11 @@ version: 1
 ventana_dias: 7          # cuántos días de noticias se muestran en el sitio
 zona_horaria: America/Bogota
 
+# Dirección del Worker de Cloudflare que lanza la actualización desde el botón
+# "Actualizar" (ver cloudflare/worker.js). Si se deja vacía, el botón abre GitHub.
+# Es una dirección pública, no una clave: la clave de GitHub vive en Cloudflare.
+url_actualizar: ""
+
 tematicas:
   - { id: colombia,       nombre: "Colombia: negocios, economía y energía" }
   - { id: internacional,  nombre: "Internacional y mercados" }
