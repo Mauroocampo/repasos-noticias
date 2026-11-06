@@ -1,7 +1,7 @@
 {% macro nota(n, raiz, compacta=false) %}
 <article class="nota{% if n.grupo == 'fija' %} nota-fija{% endif %}"
   data-temas="{{ n.tematicas | join(' ') }}" data-fuente="{{ n.fuente_id }}"
-  data-tipo="{{ n.tipo }}" data-grupo="{{ n.grupo }}"
+  data-tipo="{{ n.tipo }}" data-grupo="{{ n.grupo }}" data-dia="{{ n.local.strftime('%Y-%m-%d') }}"
   data-texto="{{ (n.titular ~ ' ' ~ (n.bajada or '')) | lower }}">
   <p class="nota-meta">
     <span class="nota-fuente">{{ n.fuente }}</span>

@@ -95,7 +95,19 @@
   var sinResultados = document.getElementById('sin-resultados');
   var limpiar = document.getElementById('limpiar');
   var compartir = document.getElementById('compartir');
-  var campos = ['tema', 'fuente', 'tipo', 'q', 'fijas'];
+  var campos = ['periodo', 'tema', 'fuente', 'tipo', 'q', 'fijas'];
+  var sinResultadosTexto = sinResultados.textContent;
+
+  // "Hoy" es el día actual en la hora de Colombia (no la del navegador)
+  function hoy() {
+    try {
+      return new Intl.DateTimeFormat('en-CA', { timeZone: form.getAttribute('data-zona') || 'America/Bogota',
+        year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+    } catch (e) {
+      var d = new Date(Date.now() - 5 * 3600000);
+      return d.toISOString().slice(0, 10);
+    }
+  }
 
   function normalizar(s) {
     return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -135,9 +147,11 @@
     if (reiniciar) visibles = POR_PAGINA;
     var v = valores();
     var q = normalizar(v.q);
+    var dia = v.periodo === 'hoy' ? hoy() : '';
     var coinciden = 0, mostradas = 0;
     notas.forEach(function (n) {
-      var ok = (!v.tema || (' ' + n.getAttribute('data-temas') + ' ').indexOf(' ' + v.tema + ' ') >= 0) &&
+      var ok = (!dia || n.getAttribute('data-dia') === dia) &&
+               (!v.tema || (' ' + n.getAttribute('data-temas') + ' ').indexOf(' ' + v.tema + ' ') >= 0) &&
                (!v.fuente || n.getAttribute('data-fuente') === v.fuente) &&
                (!v.tipo || n.getAttribute('data-tipo') === v.tipo) &&
                (!v.fijas || n.getAttribute('data-grupo') === 'fija') &&
@@ -151,6 +165,9 @@
     conteo.textContent = coinciden;
     verMas.hidden = coinciden <= mostradas;
     sinResultados.hidden = coinciden > 0 || notas.length === 0;
+    sinResultados.textContent = dia && !Object.keys(v).some(function (k) { return k !== 'periodo' && v[k]; })
+      ? 'Todavía no hay noticias de hoy. La actualización diaria es a las 6:00 a. m.'
+      : sinResultadosTexto;
     limpiar.hidden = !Object.keys(v).some(function (k) { return v[k]; });
     aURL(v);
   }

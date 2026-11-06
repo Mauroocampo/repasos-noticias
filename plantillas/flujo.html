@@ -18,7 +18,12 @@
 
 <section aria-labelledby="titulo-flujo">
   <h2 id="titulo-flujo" class="titulo-seccion">Todas las noticias</h2>
-  <form class="filtros" id="filtros" role="search" onsubmit="return false">
+  <form class="filtros" id="filtros" role="search" onsubmit="return false" data-zona="{{ cfg.zona_horaria }}">
+    <fieldset class="periodo">
+      <legend>Fecha</legend>
+      <label><input type="radio" name="periodo" value="hoy"> Solo hoy</label>
+      <label><input type="radio" name="periodo" value="" checked> Últimos {{ cfg.ventana_dias }} días</label>
+    </fieldset>
     {% if not tema_fijo %}
     <label>Temática
       <select name="tema">
