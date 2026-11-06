@@ -1,0 +1,472 @@
+[
+ {
+  "id": "af5c0cef18fb1a",
+  "fuente_id": "microsoft-threat-intel",
+  "titular": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+  "bajada": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog .",
+  "enlace": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+  "fecha": "2026-10-31T01:02:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "669c832b721838",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "MCP Servers vs API Security: What’s the Difference?",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaERUNll6cDZzYWw5OElzdHhvNFJJeml4d3h1VGlEaFBxbGl1V1RqenlDQzFBV3FSQ3NkM0tyWVVTalJXQnVIZmJjek5FRWtjdWZaYzVxYVhGTE84QWtKbFRHLWJ1RWVjWXNKR1lzYW5uNWs3V1ZwZ3lteWFFRXNYLU92aGlLZUZObVgtMmVkOVk?oc=5",
+  "fecha": "2026-10-31T00:55:46+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "9d07d1e6abfba1",
+  "fuente_id": "wsj",
+  "titular": "How Iran Battered U.S. Bases and Caused Billions in Damage",
+  "bajada": "Satellite imagery shows damage at more than two dozen installations, in the fullest accounting of the destruction yet.",
+  "enlace": "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224?mod=rss_worldnews",
+  "fecha": "2026-10-31T00:30:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "c95fc53abf65ff",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "My Fugly TV",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Rc0JXX0pveEtxZmxYcTBnbjg3TzgzV1F6aW0wRk9vcmNFaTc0dzlwWVN5M003aHRWRVE3eDg5THlkODBhYW1OM2t4aFVFaFEwV2k5YVljWXJxV1ZiUDNR?oc=5",
+  "fecha": "2026-10-31T00:29:12+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "1048707cdee686",
+  "fuente_id": "la-republica",
+  "titular": "Claro implementó su propia red troncal de transmisión en la región de Vichada",
+  "bajada": "La compañía dijo que este despliegue de ingeniería de telecomunicaciones incluyó una inversión de $19.000 millones",
+  "enlace": "https://www.larepublica.co/empresas/claro-implemento-su-propia-red-troncal-de-transmision-en-la-region-de-vichada-4515427",
+  "fecha": "2026-10-30T23:56:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "e0721fa796b91e",
+  "fuente_id": "la-republica",
+  "titular": "EPS Sanitas detalla sedes para entrega de medicinas tras cambio de Cruz Verde",
+  "bajada": "Esta red complementa la primera fase iniciada el pasado 1 de octubre, cuando Colsubsidio asumió la dispensación de los medicamentos no PBS",
+  "enlace": "https://www.larepublica.co/empresas/eps-sanitas-detalla-sedes-para-entrega-de-medicinas-tras-cambio-de-cruz-verde-4515404",
+  "fecha": "2026-10-30T23:38:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "0fd2ec3651e907",
+  "fuente_id": "wsj",
+  "titular": "ICE Officer Indicted After Allegedly Striking Fleeing Man With Vehicle",
+  "bajada": "Texas prosecutors say Mario Alberto Morales ran over both of the man’s legs, leaving him with several fractures.",
+  "enlace": "https://www.wsj.com/us-news/ice-officer-indicted-after-allegedly-striking-fleeing-man-with-vehicle-80d6dba9?mod=rss_worldnews",
+  "fecha": "2026-10-30T22:57:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "c2822708e66e41",
+  "fuente_id": "la-republica",
+  "titular": "María Fernanda Suárez será la presidente de Banco de Bogotá tras salida de Echeverry",
+  "bajada": "María Fernanda Suárez Londoño, quien se venía desempeñando como presidente de Banco Popular, entrará en su reemplazo",
+  "enlace": "https://www.larepublica.co/finanzas/juan-carlos-echeverry-dejo-la-presidencia-de-banco-de-bogota-tras-cinco-meses-en-el-cargo-4515339",
+  "fecha": "2026-10-30T22:42:44+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "2e4059e477916d",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "Introduction to REST API Security – FireTail Blog",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3J1bmp1dGFIR2hqUTJoM2FjUFBkZEtpVlYzd2Yyd25nd1E4bG9LRS1EUnB2ZW9nR0o1NWdYeHhSSWhUWmVGRFVQX1c0OUlXRk5GWkd6M0s2V3JvaElndXJzRTdiSDdwcGxPeEhEU0dEUWdfczAzdnh2QU95dTViUy0tMGRWV1FUVWtodXVWcjFDZw?oc=5",
+  "fecha": "2026-10-30T22:37:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "656faddb874eec",
+  "fuente_id": "la-republica",
+  "titular": "Grupo Nutresa cierra compra de La Universal, se integrará al Negocio de Chocolates",
+  "bajada": "Después de recibir la aprobación regulatoria, la empresa ecuatoriana se integrará con el Negocio de Chocolates del Grupo Nutresa",
+  "enlace": "https://www.larepublica.co/empresas/grupo-nutresa-cierra-compra-de-la-universal-se-integrara-al-negocio-de-chocolates-4515320",
+  "fecha": "2026-10-30T22:22:34+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "48f32d48d5ba51",
+  "fuente_id": "mongabay",
+  "titular": "De la Espriella revocó una resolución que protegía a la Amazonía de la megaminería y la explotación de hidrocarburos",
+  "bajada": "El gobierno de Abelardo De la Espriella derogó en los últimos días la Resolución 961, que prohibía la megaminería y la explotación de hidrocarburos en la Amazonía, abriendo nuevamente la puerta a las concesiones extractivas en la selva. La medida coincide con un acuerdo…",
+  "enlace": "https://es.mongabay.com/short-article/2026/10/de-la-espriella-megamineria-explotacion-hidrocarburos-amazonia/",
+  "fecha": "2026-10-30T21:58:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "bb3231ee7c52ea",
+  "fuente_id": "la-republica",
+  "titular": "Satena prepara nuevas rutas internacionales y evalúa incorporar aviones más grandes",
+  "bajada": "La aerolínea estudia conexiones entre Montería y Miami, así como entre San Andrés y San José de Costa Rica y también anunció un motor de reservas, un programa de lealtad",
+  "enlace": "https://www.larepublica.co/empresas/satena-prepara-nuevas-rutas-internacionales-y-evalua-incorporar-aviones-de-mayor-capacidad-4515296",
+  "fecha": "2026-10-30T21:40:12+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "7160eea9e71ffd",
+  "fuente_id": "wsj",
+  "titular": "Opinion | An AI Halloween Market Scare",
+  "bajada": "Crypto isn’t risk-free after all, as thieves take Binance for $6.3 billion.",
+  "enlace": "https://www.wsj.com/opinion/market-scare-ai-binance-nasdaq-google-alphabet-94e31518?mod=rss_markets_main",
+  "fecha": "2026-10-30T21:36:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "5a7114fc6e0dc6",
+  "fuente_id": "la-republica",
+  "titular": "Grupo Nutresa reportó ingresos por $15,4 billones con corte a septiembre, creciendo 0,4%",
+  "bajada": "Colombia se mantiene como un motor de crecimiento para la organización, con ventas por $10 billones",
+  "enlace": "https://www.larepublica.co/empresas/grupo-nutresa-reporto-ingresos-por-15-4-billones-con-corte-a-septiembre-4515292",
+  "fecha": "2026-10-30T21:35:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "a879b984d1e2fd",
+  "fuente_id": "la-republica",
+  "titular": "Xposible Colsubsidio reconoce a 33 compañías que hacen negocios y el bien",
+  "bajada": "La Caja de compensación distingue proyectos de medianas y grandes empresas que impulsan transformaciones sociales, ambientales y económicas en Colombia",
+  "enlace": "https://www.larepublica.co/empresas/xposible-colsubsidio-reconoce-a-33-companias-que-hacen-negocios-haciendo-el-bien-4515298",
+  "fecha": "2026-10-30T21:33:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "f508883aed0dbf",
+  "fuente_id": "la-republica",
+  "titular": "Renault Sofasa inicia el ensamble y la producción del nuevo Kwid en Colombia",
+  "bajada": "Renault lanza al mercado colombiano la evolución del Kwid, un vehículo ensamblado en la planta de Sofasa en Envigado que integra mejoras en tecnología, diseño y seguridad",
+  "enlace": "https://www.larepublica.co/empresas/renault-sofasa-inicia-el-ensamble-y-la-produccion-del-nuevo-kwid-en-colombia-4509847",
+  "fecha": "2026-10-30T21:27:20+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "94779c498c8037",
+  "fuente_id": "el-universal",
+  "titular": "Inauguran Gran Malecón del Mar en Cartagena: lo que encontrará en sus primeros 2 km",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTlFeS13SzMtY1lWYTFrSG80ZkFDUGsyLWRYSG1qX3FhWXN0SE44Z2ZScWwwTVRnU0pqSnNfeFdLR0dya1VDeXlFZDU0YWhkUk9yT1VqTzFRVDhCV3FqUGpuWHg2UHR1TEw5Vi1Ncy01b0FVd0RhUm5HdUctSXQ0THFaaEktNG1aTS1EM1V5UEhxUzI1NEwtaHJZaGhKTkhkTGxVYVJudER1V2FHT3BxZXhCbjNQY2FLdUdRckJPei1lWFRHdUdSZFJ6RFR6Z2xK?oc=5",
+  "fecha": "2026-10-30T21:13:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "e7f9d88702b7de",
+  "fuente_id": "la-republica",
+  "titular": "Aprueban operación para que Presto pueda integrarse al portafolio de Nutresa",
+  "bajada": "Esta movida representaba la última esperanza para evitar la desaparición de la cadena de hamburguesas",
+  "enlace": "https://www.larepublica.co/empresas/aaprueban-operacion-para-que-presto-pueda-integrarse-al-portafolio-de-nutresa-4515003",
+  "fecha": "2026-10-30T20:48:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "949fd1ca781a21",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "OAuth Risk Explained: Tokens, Scopes & App Permissions",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1F6cDVkSUFYOUVtUzVqeXpDZkcyX0ZWNEVoVGZmcjI5ckJLVXZ0QUN3YXlmYUhLY3YwRUZtZWp6U2hEWGU3cHB6NUFiRDJ2c3RMT1NYWHpucU9HRG4zNTBDRzROZ2dMRFdsc1UyQ2RpbkZvdWMweEpUWFBROU1JamdsNXlfeFVOdHQzRE10MlVlZ3M?oc=5",
+  "fecha": "2026-10-30T20:30:47+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "94bcdf7909edc8",
+  "fuente_id": "google-blog",
+  "titular": "Google Fitbit Edge: On shelves now",
+  "bajada": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+  "enlace": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+  "fecha": "2026-10-30T20:15:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "759b9e96d3173c",
+  "fuente_id": "wsj",
+  "titular": "Canada Deems Vancouver Port Expansion a National Priority in Bid to Diversify Trade",
+  "bajada": "Canada argues that the proposed expansion at the nation’s busiest port is necessary for the country to meet its goal of doubling non-U.S. exports by 2035.",
+  "enlace": "https://www.wsj.com/world/americas/canada-deems-vancouver-port-expansion-national-priority-in-bid-to-diversify-trade-3daf2f55?mod=rss_worldnews",
+  "fecha": "2026-10-30T20:09:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "7cf4d9df37de5b",
+  "fuente_id": "oms",
+  "titular": "Modificaciones del Reglamento Financiero y de las Normas de Gestión Financiera",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUFqS3V5cllmcUxLSVhsdkFfZlFpTW1JSVZkZDBhVkEyLTkyM09vSDBNVngwLTJ4SUNNVS1oZ3BFQlN4N3FpU0N2c0VneE90QnJBOVZ5SklQNHd2bE5mY3NBdDgtXzBpX3VOR3NvNjl5cUVFaC1lVGRpY2xuREJJMjBnMA?oc=5",
+  "fecha": "2026-10-30T19:49:25+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "35507802451307",
+  "fuente_id": "redmond",
+  "titular": "Phishing Attacks Jump 41 as Hackers Target Trusted Platforms",
+  "bajada": "Cybercriminals are moving away from mass phishing scams and focusing on more targeted attacks, often using trusted websites and services to trick victims.",
+  "enlace": "https://redmondmag.com/articles/2026/10/30/phishing-attacks-jump-41-as-hackers-target-trusted-platforms.aspx",
+  "fecha": "2026-10-30T19:48:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "a8b11e1d7e89c5",
+  "fuente_id": "la-republica",
+  "titular": "Las compras con tarjeta saldrán más baratas en noviembre con la tasa de usura en 28,34%",
+  "bajada": "Con este indicador se determina el límite máximo de interés que una entidad bancaria puede cobrar por un préstamo, como compras con tarjeta",
+  "enlace": "https://www.larepublica.co/finanzas/las-compras-con-tarjeta-saldran-mas-baratas-en-noviembre-con-la-tasa-de-usura-en-28-34-4515076",
+  "fecha": "2026-10-30T19:27:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "719ea9545e2622",
+  "fuente_id": "unicef",
+  "titular": "Altarcito: UNICEF invita a vivir el Día de Muertos a través de los ojos de niñas y niños",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzN2Wk90Rk9Kc3JXamVUQUI5dWc3NmZwaEZfLXpMYkt3VVkwazI3T0lTQjdUWHRLUU1kdUNUQ09yRUJ0eWJuNEpobmhZM1M4aXBuU0d0YWd3WmJHUGNhTDRSUDNmNjYzdFE4el81TXBnQnQzbDhIdi04cFQ4MTljZWpoOFRXTDFvMDlTb196aU9BbUxxM0NnVnBVVjUtQmtKeU9obTVReGU5VHM3WUFZWjdRcUJ4NTFBbFhGTkZuSkdtc3VWd2ZfejJxb2M0SDIzaW9Rckt6bGM?oc=5",
+  "fecha": "2026-10-30T19:26:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "ed830dfeba77e9",
+  "fuente_id": "la-republica",
+  "titular": "American International Group, AIG, cerró la adquisición de Everest Compañía de Seguros",
+  "bajada": "Everest también anunció un acuerdo para vender sus operaciones de seguros en Chile a AIG",
+  "enlace": "https://www.larepublica.co/finanzas/aig-cerro-la-adquisicion-de-everest-compania-de-seguros-generales-4515123",
+  "fecha": "2026-10-30T18:36:47+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "0cb86e411e9a97",
+  "fuente_id": "redmond",
+  "titular": "Microsoft Revenue Jumps 19% as Azure and AI Demand Fuel Growth",
+  "bajada": "Microsoft's cloud and AI businesses continued to grow in the latest quarter, helping the company bring in $92.3 billion in revenue, up 19 percent from a year ago.",
+  "enlace": "https://redmondmag.com/articles/2026/10/30/microsoft-revenue-jumps-as-azure-and-ai-demand--fuel-growth.aspx",
+  "fecha": "2026-10-30T18:09:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "621e8ebdb36df7",
+  "fuente_id": "la-republica",
+  "titular": "Coosalud vuelve al control privado tras decisión de tribunal de terminar intervención",
+  "bajada": "Tras esta decisión, Supersalud adelantará las actuaciones administrativas correspondientes para restituir la administración de la aseguradora a su anterior equipo directivo",
+  "enlace": "https://www.larepublica.co/empresas/coosalud-vuelve-al-control-privado-tras-decision-de-tribunal-de-terminar-intervencion-4515086",
+  "fecha": "2026-10-30T17:18:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "643a5ebe6d2642",
+  "fuente_id": "business-wire",
+  "titular": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG9MTHZWaFRWak94TmtFTFoxNG13cUc5VW9FQUlIa0tFcFRJWk5mWkxESWNfUFNUaUdaZXpzakY5NlhOamozNnZNZ01sQWdXUHBVdlFrUVZsSGttYVBMenFxUXNpUzFFQV9VUkFwZGJXeWtDZ2hOUkZYRkZ1bHNITWFSa3N6a2VXQ0JwZUR5cHZLVlJaLWk5UVFlbUlTMS1ENlAzNGxGQUw4RnF0bXg5TlZ1b25zNlR0X2tDVmV3?oc=5",
+  "fecha": "2026-10-30T17:02:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "c350724d4712c9",
+  "fuente_id": "google-blog",
+  "titular": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+  "bajada": "Video showing the Project Suncatcher team explaining the project and reacting to the TPU-generated haiku",
+  "enlace": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "fecha": "2026-10-30T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "4da31398741a6d",
+  "fuente_id": "el-universal",
+  "titular": "Alerta por marea alta en Cartagena: días, horarios y recomendaciones",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnBHSWNJc0ZmdG1tWG0zNFp2bHZXS0FqRHZ0T2VkNVNHRlVfZFFrd2JXUDlCSEp3RGl3RGtVX1ozUV9PVVk3NUhXTnFpb0NCbkFheF9oemQ5U3FyTzBPbHlFT1lUWTBBWkVscUYxYVRnNWNERG15ZXZPbjVFOE8yOXhyRjRxNjRHN0dpZVlTZjJWeDVQbHVtejB3bmJCckxoTlZESXhzcTBwWm1Qd1hacGQ2cWU4V3lBZ3Br?oc=5",
+  "fecha": "2026-10-30T16:59:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "f678ebe5d9eb7d",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "Escalating from Reader to Contributor in Azure API Management – FireTail Blog",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW15NFJXaHloREV3WTBZRGEwV3JWa2hlNm1vV0hxVTFwb3RMc2p2eVRkRUZpR2ltVFRDZXFJWUVHemlnUGRLZ1ljemJIaVhUbVRhSUF0d3pqaE5YMEt0aVc0SExfRDZBQnZHbTE0RVJvdGo1WFNGUEY3TlNfdGF4RzZpQU4ydlNnZGpEUGZKNzVITFlybTlJRlF2R0RTbHM4cWhvakNOYmd4QkxiVnZGTnhMQjFLZEk?oc=5",
+  "fecha": "2026-10-30T16:58:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "069f97eebde105",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "Getting Personal: CISOs in the Crosshairs as API Breaches Surge – FireTail Blog",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzJNTU5LVkR3cDFNOEI2UWxLS05DMHZiVnBIcE93ckwtMWgyZ0NfenQweXpEeVdzdUs5WTF0WExkT3NaUW1sWFpHSmg4RGgybnVpeV8yX0JLa3ZVYUNRTzFnYWNhMmxzRzlIMk5YUTZCUzhPdHNSdDJQUllFUllON21XajA5ek1hY0FmQkxsVjgyM2RoX3NaWnEza0pNZWUxMEkyTWhZM1YzSFNQY1NQd0RkSlBPdGx3?oc=5",
+  "fecha": "2026-10-30T16:58:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "cc50111fef7fd4",
+  "fuente_id": "security-boulevard-ot",
+  "titular": "Disclosure: Multiple Vulnerabilities in Granicus eFiling Platform – FireTail Blog",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVVsQ3N4OWU4dk9tSDZ4MHltMl80YXRzbU4waXpZMnF3a1JabDlwNWhIY2RhTWRlTTlsa3lvQWtJY2ZOcS1ianQ3bnh5eHE3SkswOG5iYjNJVGh5Tm1IX3UtM2xGRU9kamhQUzZqOVAxb3pSSkZLbjdpSlBTME42VVFYZXYybVF5QkN6U3RkejY2MWZZSWFXYzhaNDJLNGYxZFZBcXFLT3ZYNWs4NnI5UGdiWXZMVjgxXy1N?oc=5",
+  "fecha": "2026-10-30T16:51:25+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "a3137ffdc2a3ac",
+  "fuente_id": "wsj",
+  "titular": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+  "bajada": "The first strike on a Russian oil refinery in two weeks comes after Russian attacks killed 27 civilians on Thursday.",
+  "enlace": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews",
+  "fecha": "2026-10-30T16:41:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "b29c037331b5ee",
+  "fuente_id": "el-universal",
+  "titular": "Abren incidente de desacato por obras de carrera 68a en San Pedro Mártir",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQblh5NjJaU0ZzbG5WZ0tCYUhkS0VNeWhKcE5WM2gzS3dIUXBoMVEtdkE1djNlYWphZFFUdjFCd2hLQmtoQjhBcXJVWjNueGNHeFF1RTVtNnVjVE9nYzZDZEMxZ0dBNk1RVE0ySXR5ckpMbzYtaTNweDdETGlEVFhIbmJJaG9zdVpTZFc2NldoeW1iREVjaFVVV0lnQll4N2NvR0RtakhzUS1xYW5TZWdrSVpqNjZJRnREZkhsZXk4aUF5ajdHWmJwaklSM1pHZw?oc=5",
+  "fecha": "2026-10-30T16:40:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "5b0ab49ee6836a",
+  "fuente_id": "la-republica",
+  "titular": "La producción de Finca La Celia, de Andrea Ferreyra, fue nominada a Enóloga del Año",
+  "bajada": "El reconocimiento internacional valida el trabajo enológico desarrollado en el Valle de Uco, territorio vitivinícola de referencia ubicado en la provincia de Mendoza",
+  "enlace": "https://www.larepublica.co/empresas/finca-la-celia-andrea-ferreyra-nominada-a-enologa-del-ano-2026-4515068",
+  "fecha": "2026-10-30T16:25:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "ff8badb3706169",
+  "fuente_id": "microsoft-threat-intel",
+  "titular": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+  "bajada": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft…",
+  "enlace": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+  "fecha": "2026-10-30T16:11:44+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "a717f1ed62c202",
+  "fuente_id": "google-blog",
+  "titular": "See who has access to your Gmail inbox in 2 minutes.",
+  "bajada": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+  "enlace": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+  "fecha": "2026-10-30T16:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "dbe76c6973270f",
+  "fuente_id": "oms",
+  "titular": "Barbados elimina la transmisión maternofilial del VIH",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORklaMU80bS1KVHQ3aWdONXJSaGU0VmtVOGJOQWFmQXFnazM0T2FZQVdJeU56ajNOVm5oOThhMXpNZHZKU295OF9LN3c5SEgxaE1tNkh5LVFZcnd1bldHOERYbzlFZVZsSnpoWk4taU0tN0h3UVltaUQtSEtYREJLckozdmdiRXd2NGszTnJDR2QyMTBRdk5jSEJidkcxdnIt?oc=5",
+  "fecha": "2026-10-30T15:46:12+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "469222ee7fa2e2",
+  "fuente_id": "la-republica",
+  "titular": "Fitch calificó a Seguros Bolívar con fortaleza financiera BBB- internacionalmente",
+  "bajada": "Fitch destacó su gestión al otorgar calificación internacional, y en Colombia, la aseguradora mantuvo la calificación más alta, AAA, con perspectiva estable.",
+  "enlace": "https://www.larepublica.co/finanzas/fitch-ratings-califico-a-seguros-bolivar-con-perspectiva-estable-en-fortaleza-financiera-4514945",
+  "fecha": "2026-10-30T15:38:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "cdb8c43d16ef36",
+  "fuente_id": "malwarebytes",
+  "titular": "Fake PDF and search tools hijacked searches for 13.4 million Chrome users",
+  "bajada": "319 Chrome extensions sent search queries through servers controlled by their operators, allowing them to see what users searched for.",
+  "enlace": "https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users",
+  "fecha": "2026-10-30T15:25:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "ff358b9a690dbb",
+  "fuente_id": "uicn",
+  "titular": "Centering equity in Ecosystem-based Adaptation: Making global biodiversity commitments work for people and nature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFF4SWZoa3Ffb2ZNZ1VWSFYxZDRhQlYyMmZ5YU54ZzB5c0UwSWJvN2Z5aVpWZ21hODZjTjhENTJDeTBIbGc5VGl3UGdiaTNlVGZESUdhYjZ2NmYyU1BCT19VZlZzQ1V6dllZQjlYX1E2MlNNMGVCMVpOcmcyeUZiem5aOWt4bFZPWUlMWDBuUTJIMm9KaEpBWDZzZVFuVzJONzFRYXlsa2IxbC16bzZrX0RB?oc=5",
+  "fecha": "2026-10-30T15:09:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "5e5a97d2ca2238",
+  "fuente_id": "the-manufacturer",
+  "titular": "How Suntory is saving £356,000 through smarter water management",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUJSclE2RklKY3NocVdhVXRndUF5aGtZUGZWZjBVVU5GR0xGSHJNM0tsQzU1eVZqNVFLTjU4M0FVVjRDYlB4ejJScFVSUEIxTTJjUEljVkZ6MXhuQnc0Vm15aUEzX3dtc3k3MUNWd3BUV3JTMG9lcEJrN011SVJmVVJILVF5NzNtcHBhVUQ5eWQ5ZTZqcW85Y1FrMnVhZFlPNW5wWndR?oc=5",
+  "fecha": "2026-10-30T14:50:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "3798d4b3ad3e7d",
+  "fuente_id": "wsj",
+  "titular": "The Wild Rise of a Trump-Backed Drone Company",
+  "bajada": "Ex-soldier Brett Velicovich turned a presidential social media shout-out into a $300 million drone startup.",
+  "enlace": "https://www.wsj.com/business/the-wild-rise-of-a-trump-backed-drone-company-6722ac08?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-10-30T14:36:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "70caa1efe6a4c1",
+  "fuente_id": "amnistia",
+  "titular": "Rusia: El cierre de Novaya Gazeta supone una pérdida terrible para una libertad de prensa asediada",
+  "bajada": "Ante el anuncio de que Novaya Gazeta, uno de los últimos periódicos independientes de Rusia, pondrá fin a su actividad el 9 de noviembre, Denis Krivosheev, director adjunto de Amnistía Internacional para Europa y Asia Central, ha manifestado: “El cierre de Novaya Gazeta es una…",
+  "enlace": "https://www.amnesty.org/es/latest/news/2026/10/russia-closure-of-novaya-gazeta-is-a-devastating-loss-for-embattled-media-freedom/",
+  "fecha": "2026-10-30T14:32:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "a2eb1c96483b1e",
+  "fuente_id": "the-manufacturer",
+  "titular": "ATCO expands Canadian modular manufacturing capacity with new Ontario facility",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFRackRieVRyVFNWWkF0Y3p6YTlnWC02VnlacWYteEo5bFR3V3puV19yMWwxd2xDamVxTHRGUFdZTFkxZFQ3WHdYb1I2QVM2Tmh6SnpLOElKamxOZUw4RFV2cndhNnBINTRhck8yOEUyUExPU1IxTFNVZklNVzB4ZXFNcy1mZU1YTjlnbkN4bzI5Q1UwczJKYkt2VmtEejZsUUVrbTNXMEM4U1VnaFNDS2xqdTc2OWtHXzVNOQ?oc=5",
+  "fecha": "2026-10-30T14:29:46+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ }
+]

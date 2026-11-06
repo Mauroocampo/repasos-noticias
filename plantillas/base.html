@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ titulo }} · Repasos de noticias</title>
+  <meta name="description" content="Noticias diarias de Colombia, mercados, tecnología, ciberseguridad IT y OT, manufactura y sostenibilidad, con marcas de método por fuente.">
+  <meta property="og:title" content="{{ titulo }} · Repasos de noticias">
+  <meta property="og:description" content="Noticias diarias organizadas por temática, con marcas de método por fuente.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231f5f8b'/%3E%3Cpath d='M8 9h16M8 15h16M8 21h10' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{ raiz }}estaticos/css/sitio.css?v={{ version }}">
+  <script>
+    try { var t = localStorage.getItem('tema-color'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+  </script>
+</head>
+<body data-pagina="{{ pagina }}"{% if tema_fijo %} data-tema-fijo="{{ tema_fijo }}"{% endif %}>
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+  <header class="cabecera">
+    <div class="envoltura cabecera-fila">
+      <a class="marca-sitio" href="{{ raiz }}">Repasos de noticias</a>
+      <button class="boton-tema" type="button" id="boton-tema" aria-label="Cambiar entre modo claro y oscuro">
+        <svg class="icono-sol" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg>
+        <svg class="icono-luna" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg>
+      </button>
+    </div>
+    <nav class="pestanas" aria-label="Secciones">
+      <div class="envoltura pestanas-fila">
+        <a href="{{ raiz }}" {% if pagina == 'portada' %}aria-current="page"{% endif %}>Portada</a>
+        {% for t in tematicas %}
+        <a href="{{ raiz }}tematica/{{ t.id }}/" {% if pagina == t.id %}aria-current="page"{% endif %}>{{ t.nombre | replace(': negocios, economía y energía', '') }}</a>
+        {% endfor %}
+        <a href="{{ raiz }}datos/" {% if pagina == 'datos' %}aria-current="page"{% endif %}>Datos de referencia</a>
+        <a href="{{ raiz }}fuentes/" {% if pagina == 'fuentes' %}aria-current="page"{% endif %}>Fuentes y método</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="contenido" class="envoltura">
+    {% block contenido %}{% endblock %}
+  </main>
+
+  <footer class="pie envoltura">
+    <p>Actualizado: {{ actualizado_txt }} (hora de Colombia). Se actualiza todos los días a las 6:00 a. m.
+    {% if fuentes_con_error %}
+      <br>{{ fuentes_con_error | length }} de {{ total_fuentes }} fuentes no respondieron en la última lectura:
+      {% for fid in fuentes_con_error %}{{ nombres_fuentes.get(fid, fid) }}{% if not loop.last %}, {% endif %}{% endfor %}.
+      <a href="{{ raiz }}fuentes/">Ver detalle</a>.
+    {% endif %}
+    </p>
+    <p>Los titulares y bajadas son de cada medio; cada nota enlaza a su fuente original.</p>
+  </footer>
+  <script src="{{ raiz }}estaticos/js/sitio.js?v={{ version }}" defer></script>
+</body>
+</html>

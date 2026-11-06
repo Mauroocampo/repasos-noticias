@@ -1,0 +1,30 @@
+{% macro nota(n, raiz, compacta=false) %}
+<article class="nota{% if n.grupo == 'fija' %} nota-fija{% endif %}"
+  data-temas="{{ n.tematicas | join(' ') }}" data-fuente="{{ n.fuente_id }}"
+  data-tipo="{{ n.tipo }}" data-grupo="{{ n.grupo }}"
+  data-texto="{{ (n.titular ~ ' ' ~ (n.bajada or '')) | lower }}">
+  <p class="nota-meta">
+    <span class="nota-fuente">{{ n.fuente }}</span>
+    <span class="punto" aria-hidden="true">·</span>
+    <span>{{ n.tipo_txt }}</span>
+    <span class="punto" aria-hidden="true">·</span>
+    <time datetime="{{ n.fecha }}">{% if compacta %}{{ n.local.day }}/{{ n.local.month }}, {% endif %}{{ n.hora }}</time>
+    {% if n.grupo == 'fija' %}<span class="sello-fija">Fija</span>{% endif %}
+  </p>
+  <h3 class="nota-titular"><a href="{{ n.enlace }}" target="_blank" rel="noopener">{{ n.titular }}</a></h3>
+  {% if n.bajada and not compacta %}<p class="nota-bajada">{{ n.bajada }}</p>{% endif %}
+  {% if not compacta %}
+  <p class="nota-etiquetas">
+    {% for m, texto, expl in n.marcas_txt %}<span class="marca marca-{{ m }}" title="{{ expl }}">{{ texto }}</span>{% endfor %}
+    {% for t, nombre in n.temas_txt %}<a class="tema" href="{{ raiz }}tematica/{{ t }}/">{{ nombre | replace(': negocios, economía y energía', '') }}</a>{% endfor %}
+  </p>
+  {% if n.tambien_en %}
+  <p class="nota-tambien">También en:
+    {% for o in n.tambien_en %}<a href="{{ o.enlace }}" target="_blank" rel="noopener">{{ nombres_fuentes.get(o.fuente_id, o.fuente_id) }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+  </p>
+  {% endif %}
+  {% else %}
+    {% if n.marcas_txt %}<p class="nota-etiquetas">{% for m, texto, expl in n.marcas_txt %}<span class="marca marca-{{ m }}" title="{{ expl }}">{{ texto }}</span>{% endfor %}</p>{% endif %}
+  {% endif %}
+</article>
+{% endmacro %}

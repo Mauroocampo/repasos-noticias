@@ -1,0 +1,254 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# palabras-clave.yaml — filtro por temática
+#
+# Se aplica a:
+#   - los medios generales (grupo: general), y
+#   - las temáticas extra (`tematicas_por_filtro`) de fijas y especializadas.
+#
+# Una nota entra en una temática si su titular o bajada contiene alguna
+# palabra de `incluir` y ninguna de `excluir`.
+#
+# Reglas de escritura:
+#   - No importan mayúsculas ni tildes: "economia" encuentra "Economía".
+#   - Se busca la palabra completa: "IA" no encuentra "Asia".
+#   - Un * al final es "empieza por": "sostenib*" encuentra sostenible,
+#     sostenibilidad, sostenibles.
+#   - Frases entre comillas: "banco de la republica".
+#
+# Temática Colombia: si el medio NO es colombiano (sin `pais: CO` en
+# fuentes.yaml), la nota además debe tener alguna palabra de `contexto`.
+# ─────────────────────────────────────────────────────────────────────────────
+
+colombia:
+  contexto: [colombia, colombian*, bogota, medellin, cali, barranquilla, cartagena, bucaramanga, petro, ecopetrol]
+  incluir:
+    - economi*
+    - "banco de la republica"
+    - banrep
+    - dane
+    - pib
+    - inflacion
+    - desempleo
+    - empleo
+    - "mercado laboral"
+    - salario*
+    - impuesto*
+    - "reforma tributaria"
+    - dian
+    - presupuesto
+    - deficit
+    - deuda
+    - "tasa de interes"
+    - "tasas de interes"
+    - dolar
+    - "peso colombiano"
+    - exportacion*
+    - importacion*
+    - industria*
+    - empresa*
+    - empresarial
+    - negocio*
+    - comercio
+    - inversion*
+    - energia
+    - energetic*
+    - petroleo
+    - gas
+    - ecopetrol
+    - mineria
+    - electricidad
+    - tarifa*
+    - agro
+    - agricola*
+    - cafe
+    - "impuesto saludable"
+    - "confianza empresarial"
+    - "confianza del consumidor"
+  excluir: [futbol, gol, liga, "seleccion colombia", "copa sudamericana", "copa libertadores", mundial, farandula, horoscopo, novela, reality]
+
+internacional:
+  incluir:
+    # español
+    - mercados
+    - bolsa*
+    - "wall street"
+    - acciones
+    - aranceles
+    - arancel
+    - "reserva federal"
+    - fed
+    - "banco central"
+    - inflacion
+    - recesion
+    - petroleo
+    - opep
+    - "materias primas"
+    - criptomoneda*
+    - bitcoin
+    - binance
+    - economia
+    - comercio
+    - cop31
+    # inglés
+    - markets
+    - stocks
+    - "stock market"
+    - shares
+    - earnings
+    - tariff*
+    - "federal reserve"
+    - "interest rate*"
+    - inflation
+    - recession
+    - "oil prices"
+    - opec
+    - crypto*
+    - nasdaq
+    - "s&p 500"
+    - "dow jones"
+    - treasury
+    - bonds
+    - ipo
+    - merger*
+    - acquisition*
+    - gdp
+  excluir: [nfl, nba, celebrity, "best deals", horoscope, futbol, recipe]
+
+tecnologia:
+  incluir:
+    - tecnologi*
+    - "inteligencia artificial"
+    - ia
+    - ai
+    - "artificial intelligence"
+    - openai
+    - anthropic
+    - nvidia
+    - apple
+    - microsoft
+    - google
+    - amazon
+    - "meta platforms"
+    - samsung
+    - chip*
+    - semiconductor*
+    - software
+    - nube
+    - cloud
+    - "centro de datos"
+    - "data center*"
+    - startup*
+    - robot*
+    - 5g
+  excluir: []
+
+ciber-it:
+  incluir:
+    - ciberseguridad
+    - ciberataque*
+    - hacker*
+    - hackeo
+    - ransomware
+    - malware
+    - phishing
+    - vulnerabilidad*
+    - "filtracion de datos"
+    - cybersecurity
+    - cyberattack*
+    - "cyber attack*"
+    - breach*
+    - "data breach"
+    - vulnerabilit*
+    - exploit*
+    - "zero-day"
+    - cve
+    - botnet
+    - spyware
+  excluir: []
+
+ciber-ot:
+  incluir:
+    - ics
+    - scada
+    - plc
+    - "sistemas de control industrial"
+    - "industrial control system*"
+    - "operational technology"
+    - "ot security"
+    - "ot/iot"
+    - "it/ot"
+    - "critical infrastructure"
+    - "infraestructura critica"
+    - "water utility"
+    - "power grid"
+    - siemens
+    - "rockwell automation"
+    - "schneider electric"
+    - modbus
+  excluir: []
+
+manufactura:
+  incluir:
+    - manufactura
+    - manufacturer*
+    - manufacturing
+    - fabrica*
+    - factory
+    - factories
+    - "produccion industrial"
+    - "industria manufacturera"
+    - "planta de produccion"
+    - "manufacturing plant"
+    - automotriz
+    - automotive
+    - "supply chain"
+    - "cadena de suministro"
+    - "manufacturing execution"
+    - iiot
+    - "industria 4.0"
+    - "industry 4.0"
+    - "smart factory"
+    - automatizacion
+    - automation
+  excluir: []
+
+sostenibilidad:
+  incluir:
+    - sostenib*
+    - sustentab*
+    - sustainab*
+    - clima
+    - climatic*
+    - climate
+    - "cambio climatico"
+    - cop31
+    - emisiones
+    - emissions
+    - carbono
+    - carbon
+    - "net zero"
+    - "carbono neutral*"
+    - renovable*
+    - renewable*
+    - solar
+    - eolic*
+    - "transicion energetica"
+    - "energy transition"
+    - greenwashing
+    - esg
+    - deforestacion
+    - deforestation
+    - biodiversidad
+    - biodiversity
+    - reciclaje
+    - recycling
+    - "economia circular"
+    - "circular economy"
+    - contaminacion
+    - pollution
+    - "dieta saludable"
+    - "seguridad alimentaria"
+    - "food security"
+    - sofi
+    - "lancet countdown"
+  excluir: []

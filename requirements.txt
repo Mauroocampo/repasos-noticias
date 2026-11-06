@@ -1,0 +1,7 @@
+feedparser>=6.0,<7
+requests>=2.31,<3
+PyYAML>=6.0,<7
+Jinja2>=3.1,<4
+rapidfuzz>=3.6,<4
+tzdata>=2024.1
+pytest>=8.0

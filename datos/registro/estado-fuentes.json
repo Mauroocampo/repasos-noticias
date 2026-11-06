@@ -1,0 +1,533 @@
+{
+ "actualizado": "2026-11-06T14:29:07+00:00",
+ "fuentes": {
+  "portafolio": {
+   "ok": true,
+   "parcial": false,
+   "notas": 20,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "la-republica": {
+   "ok": true,
+   "parcial": false,
+   "notas": 221,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "agronegocios": {
+   "ok": true,
+   "parcial": false,
+   "notas": 20,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "asuntos-legales": {
+   "ok": true,
+   "parcial": false,
+   "notas": 20,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "bbc-mundo": {
+   "ok": true,
+   "parcial": false,
+   "notas": 32,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "wired": {
+   "ok": true,
+   "parcial": false,
+   "notas": 50,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "it-brief": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "securitybrief": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "channellife": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "datacentrenews": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "cfotech": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "ecommercenews": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "telconews": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "futurefive": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "lns-research": {
+   "ok": true,
+   "parcial": false,
+   "notas": 0,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "the-hacker-news": {
+   "ok": true,
+   "parcial": false,
+   "notas": 50,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "securityweek": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "help-net-security": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "cyberpress": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "cybersecurity-news": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "thehackerwire": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "petri": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "redmond": {
+   "ok": true,
+   "parcial": false,
+   "notas": 3,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "malwarebytes": {
+   "ok": true,
+   "parcial": false,
+   "notas": 15,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "microsoft-threat-intel": {
+   "ok": true,
+   "parcial": false,
+   "notas": 6,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "cisa-ics": {
+   "ok": true,
+   "parcial": false,
+   "notas": 1,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "siemens-productcert": {
+   "ok": true,
+   "parcial": false,
+   "notas": 5,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "industrial-cyber": {
+   "ok": true,
+   "parcial": false,
+   "notas": 9,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "automation-com": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "security-boulevard-ot": {
+   "ok": true,
+   "parcial": false,
+   "notas": 70,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "viakoo": {
+   "ok": true,
+   "parcial": false,
+   "notas": 7,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "techcrunch": {
+   "ok": true,
+   "parcial": false,
+   "notas": 20,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "the-register": {
+   "ok": true,
+   "parcial": false,
+   "notas": 50,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "macrumors": {
+   "ok": true,
+   "parcial": false,
+   "notas": 20,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "unite-ai": {
+   "ok": true,
+   "parcial": false,
+   "notas": 25,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "infobae-tecno": {
+   "ok": true,
+   "parcial": false,
+   "notas": 100,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "google-blog": {
+   "ok": true,
+   "parcial": false,
+   "notas": 20,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "linux-foundation": {
+   "ok": true,
+   "parcial": false,
+   "notas": 0,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "the-manufacturer": {
+   "ok": true,
+   "parcial": false,
+   "notas": 49,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "marklines": {
+   "ok": true,
+   "parcial": false,
+   "notas": 32,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "climate-home-news": {
+   "ok": true,
+   "parcial": false,
+   "notas": 16,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "mongabay": {
+   "ok": true,
+   "parcial": false,
+   "notas": 30,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "sustainabilityonline": {
+   "ok": true,
+   "parcial": false,
+   "notas": 9,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "uicn": {
+   "ok": true,
+   "parcial": false,
+   "notas": 47,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "beyond-fossil-fuels": {
+   "ok": true,
+   "parcial": false,
+   "notas": 1,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "el-heraldo": {
+   "ok": true,
+   "parcial": false,
+   "notas": 100,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "infobae-colombia": {
+   "ok": true,
+   "parcial": false,
+   "notas": 100,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "el-universal": {
+   "ok": true,
+   "parcial": false,
+   "notas": 100,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "abc-economia": {
+   "ok": true,
+   "parcial": false,
+   "notas": 25,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "cnbc": {
+   "ok": true,
+   "parcial": false,
+   "notas": 30,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "forbes": {
+   "ok": true,
+   "parcial": false,
+   "notas": 25,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "yahoo-finance": {
+   "ok": true,
+   "parcial": false,
+   "notas": 100,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "wsj": {
+   "ok": true,
+   "parcial": false,
+   "notas": 187,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "investing-com": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "business-wire": {
+   "ok": true,
+   "parcial": false,
+   "notas": 98,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "fuels-lubes": {
+   "ok": true,
+   "parcial": false,
+   "notas": 16,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "oms": {
+   "ok": true,
+   "parcial": false,
+   "notas": 21,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "onu": {
+   "ok": true,
+   "parcial": false,
+   "notas": 14,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "onu-colombia": {
+   "ok": true,
+   "parcial": false,
+   "notas": 1,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "unicef": {
+   "ok": true,
+   "parcial": false,
+   "notas": 18,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "house-of-commons-library": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "bloomberg-professional": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "amnistia": {
+   "ok": true,
+   "parcial": false,
+   "notas": 8,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "bbva": {
+   "ok": true,
+   "parcial": false,
+   "notas": 39,
+   "errores": [],
+   "metodo": "google_news",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "tech-funding-news": {
+   "ok": true,
+   "parcial": false,
+   "notas": 10,
+   "errores": [],
+   "metodo": "rss",
+   "revisado": "2026-11-06T14:29:07+00:00"
+  },
+  "geneva-environment-network": {
+   "ok": false,
+   "parcial": false,
+   "notas": 0,
+   "metodo": "sin_acceso",
+   "errores": [],
+   "revisado": "2026-11-06T14:29:07+00:00"
+  }
+ }
+}

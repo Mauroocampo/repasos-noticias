@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% from "_nota.html" import nota with context %}
+{% block contenido %}
+<h1 class="titulo-pagina">{{ titulo }}</h1>
+<p class="entradilla">
+  {% if pagina == 'portada' %}Noticias de los últimos {{ cfg.ventana_dias }} días de todas las fuentes del documento, de la más reciente a la más antigua.
+  {% else %}Noticias de los últimos {{ cfg.ventana_dias }} días en esta temática.{% endif %}
+</p>
+
+{% if destacadas %}
+<section class="destacadas" aria-labelledby="titulo-destacadas">
+  <h2 id="titulo-destacadas" class="titulo-seccion">Fuentes fijas: lo último</h2>
+  <div class="rejilla-destacadas">
+    {% for n in destacadas %}{{ nota(n, raiz, compacta=true) }}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section aria-labelledby="titulo-flujo">
+  <h2 id="titulo-flujo" class="titulo-seccion">Todas las noticias</h2>
+  <form class="filtros" id="filtros" role="search" onsubmit="return false">
+    {% if not tema_fijo %}
+    <label>Temática
+      <select name="tema">
+        <option value="">Todas</option>
+        {% for t in tematicas %}<option value="{{ t.id }}">{{ t.nombre | replace(': negocios, economía y energía', '') }}</option>{% endfor %}
+      </select>
+    </label>
+    {% endif %}
+    <label>Fuente
+      <select name="fuente">
+        <option value="">Todas</option>
+        {% for fid, nombre in fuentes_op %}<option value="{{ fid }}">{{ nombre }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>Tipo de fuente
+      <select name="tipo">
+        <option value="">Todos</option>
+        {% for tid, nombre in tipos_op %}<option value="{{ tid }}">{{ nombre }}</option>{% endfor %}
+      </select>
+    </label>
+    <label class="campo-buscar">Buscar
+      <input type="search" name="q" placeholder="Palabra del titular" autocomplete="off">
+    </label>
+    <label class="casilla"><input type="checkbox" name="fijas" value="1"> Solo fuentes fijas</label>
+    <p class="filtros-resumen"><span id="conteo">{{ total }}</span> noticias
+      <button type="button" id="limpiar" class="enlace-boton" hidden>Quitar filtros</button>
+      <button type="button" id="compartir" class="enlace-boton">Copiar enlace de esta vista</button>
+    </p>
+  </form>
+
+  {% if not dias %}
+  <p class="vacio">Todavía no hay noticias en esta sección.</p>
+  {% endif %}
+  <div id="flujo">
+  {% for dia, notas in dias %}
+    <section class="dia">
+      <h3 class="dia-titulo">{{ dia }}</h3>
+      {% for n in notas %}{{ nota(n, raiz) }}{% endfor %}
+    </section>
+  {% endfor %}
+  </div>
+  <p class="vacio" id="sin-resultados" hidden>Ninguna noticia coincide con los filtros.</p>
+  <button type="button" id="ver-mas" class="boton" hidden>Ver más noticias</button>
+</section>
+{% endblock %}

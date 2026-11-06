@@ -1,0 +1,934 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# fuentes.yaml — ÚNICO archivo de fuentes del sitio repasos-noticias
+#
+# Para agregar una fuente: copia un bloque de la lista `fuentes`, cambia los
+# datos y guarda. Para quitarla: bórrala o pon `grupo: excluida`.
+# No hace falta tocar código.
+#
+# Campos de cada fuente:
+#   id                  identificador corto, sin espacios ni tildes
+#   nombre              como se muestra en el sitio
+#   sitio               página principal del medio
+#   grupo               fija | especializada | general | referencia | excluida
+#   tipo                tipo de fuente (ver `tipos` abajo); sirve para el filtro
+#   pais                CO si es colombiana (afecta el filtro de la temática Colombia)
+#   tematicas           todo lo que publica entra en estas temáticas
+#   tematicas_por_filtro  solo entra si pasa las palabras clave de palabras-clave.yaml
+#   metodo              rss | google_news | sin_acceso
+#   feeds               lista de URLs RSS/Atom (si metodo: rss)
+#   google_news         {consulta, idioma: es|en} (si metodo: google_news)
+#   marcas              marcas fijas que se muestran junto a cada nota (ver `marcas`)
+#                       ("Posible patrocinio" se detecta solo en el texto de cualquier nota)
+#   red                 agrupa sitios hermanos en la portada (techday, la-republica)
+#   solo_titulares_con  (opcional) solo entran notas cuyo titular contenga este texto
+#   nota                nota de marcado del documento de fuentes
+#   verificado          fecha de la última verificación del método
+# ─────────────────────────────────────────────────────────────────────────────
+
+version: 1
+ventana_dias: 7          # cuántos días de noticias se muestran en el sitio
+zona_horaria: America/Bogota
+
+tematicas:
+  - { id: colombia,       nombre: "Colombia: negocios, economía y energía" }
+  - { id: internacional,  nombre: "Internacional y mercados" }
+  - { id: tecnologia,     nombre: "Tecnología e IT" }
+  - { id: ciber-it,       nombre: "Ciberseguridad IT" }
+  - { id: ciber-ot,       nombre: "Ciberseguridad OT" }
+  - { id: manufactura,    nombre: "Manufactura" }
+  - { id: sostenibilidad, nombre: "Sostenibilidad" }
+
+grupos:
+  fija:          "Fuente fija: siempre activa y destacada"
+  especializada: "Especializada: todo lo que publica entra en su temática"
+  general:       "Medio general: solo entran las notas que pasan el filtro de palabras clave"
+  referencia:    "Datos y estudios: no van al flujo; están en Datos de referencia"
+  excluida:      "Fuera del flujo diario"
+
+tipos:
+  prensa:            "Prensa"
+  anuncios-empresa:  "Anuncios de empresa"
+  la-empresa:        "La empresa"
+  oficial:           "Oficial"
+  proveedor:         "Proveedor"
+  analistas:         "Firma de analistas"
+  activista:         "Activista"
+  banco:             "Banco"
+  consultora:        "Consultora o investigación"
+  agregador:         "Agregador"
+  tienda:            "Tienda"
+
+# Marcas que se muestran junto a cada noticia (método del documento)
+marcas:
+  muro-de-pago:   { texto: "Muro de pago",          explicacion: "Puede que solo se lea el titular y la bajada." }
+  techday:        { texto: "Anuncio vía TechDay",   explicacion: "Anuncio de empresa republicado por la red TechDay; conviene buscar la fuente original." }
+  comunicado:     { texto: "Comunicado de empresa", explicacion: "No es prensa: lo escribe la empresa." }
+  la-empresa:     { texto: "La empresa",            explicacion: "Fuente primaria, pero la empresa habla de sí misma." }
+  oficial:        { texto: "Oficial",               explicacion: "Fuente primaria oficial." }
+  proveedor:      { texto: "Proveedor",             explicacion: "Vende la solución al problema que describe; contrastar el dato." }
+  activista:      { texto: "Activista",             explicacion: "Tiene interés en el tema; contrastar el dato." }
+  banco:          { texto: "Banco",                 explicacion: "Tiene interés en el tema (p. ej., financiación climática)." }
+  analistas:      { texto: "Firma de analistas",    explicacion: "Sus estudios a menudo los patrocinan proveedores; revisar quién, muestra y regiones." }
+  agencia:        { texto: "Republica agencias",    explicacion: "Republica notas de agencias como Reuters." }
+  patrocinado:    { texto: "Posible patrocinio",    explicacion: "El texto menciona patrocinio; revisar por quién." }
+
+fuentes:
+
+  # ═══ FIJAS ═════════════════════════════════════════════════════════════════
+
+  - id: portafolio
+    nombre: Portafolio
+    sitio: https://www.portafolio.co/
+    grupo: fija
+    tipo: prensa
+    pais: CO
+    tematicas: [colombia]
+    tematicas_por_filtro: [manufactura, sostenibilidad]
+    metodo: rss
+    feeds:
+      - https://www.portafolio.co/rss/economia.xml
+      - https://www.portafolio.co/rss/negocios.xml
+    nota: "Empresas, manufactura y sostenibilidad en Colombia. Si solo se leyó titular y bajada, se dice."
+    verificado: 2026-11-06
+
+  - id: la-republica
+    nombre: La República
+    sitio: https://www.larepublica.co/
+    grupo: fija
+    red: la-republica
+    tipo: prensa
+    pais: CO
+    tematicas: [colombia]
+    tematicas_por_filtro: [internacional, manufactura, sostenibilidad]
+    metodo: rss
+    feeds:
+      - https://www.larepublica.co/rss/economia
+      - https://www.larepublica.co/rss/empresas
+      - https://www.larepublica.co/rss/finanzas
+      - https://www.larepublica.co/rss/globoeconomia
+    nota: "Empresas, manufactura y sostenibilidad en Colombia. Si solo se leyó titular y bajada, se dice."
+    verificado: 2026-11-06
+
+  - id: agronegocios
+    nombre: Agronegocios (La República)
+    sitio: https://www.agronegocios.co/
+    grupo: fija
+    red: la-republica
+    tipo: prensa
+    pais: CO
+    tematicas: [colombia]
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: rss
+    feeds: [https://www.agronegocios.co/rss/]
+    nota: "Prensa sectorial del grupo La República. Agro y Ley de Rescate."
+    verificado: 2026-11-06
+
+  - id: asuntos-legales
+    nombre: Asuntos Legales (La República)
+    sitio: https://www.asuntoslegales.com.co/
+    grupo: fija
+    red: la-republica
+    tipo: prensa
+    pais: CO
+    tematicas: [colombia]
+    metodo: rss
+    feeds: [https://www.asuntoslegales.com.co/rss/]
+    nota: "Prensa jurídica del grupo La República. Incluye columnas de opinión."
+    verificado: 2026-11-06
+
+  - id: bbc-mundo
+    nombre: BBC Mundo
+    sitio: https://www.bbc.com/mundo
+    grupo: fija
+    tipo: prensa
+    tematicas: [internacional]
+    tematicas_por_filtro: [colombia, tecnologia, sostenibilidad]
+    metodo: rss
+    feeds: [https://feeds.bbci.co.uk/mundo/rss.xml]
+    nota: "Fija para internacional desde el 5 de noviembre de 2026."
+    verificado: 2026-11-06
+
+  - id: wired
+    nombre: Wired
+    sitio: https://www.wired.com/
+    grupo: fija
+    tipo: prensa
+    tematicas: [tecnologia]
+    tematicas_por_filtro: [ciber-it]
+    metodo: rss
+    feeds: [https://www.wired.com/feed/rss]
+    marcas: [muro-de-pago]
+    nota: "Muro de pago: a veces solo titular."
+    verificado: 2026-11-06
+
+  # Red TechDay: se eliminan duplicados entre sus sitios
+  - id: it-brief
+    nombre: IT Brief (TechDay)
+    sitio: https://itbrief.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://itbrief.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay; se busca la fuente original y se toma una sola versión de cada nota."
+    verificado: 2026-11-06
+
+  - id: securitybrief
+    nombre: SecurityBrief (TechDay)
+    sitio: https://securitybrief.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [ciber-it]
+    tematicas_por_filtro: [ciber-ot]
+    metodo: rss
+    feeds: [https://securitybrief.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay; se busca la fuente original."
+    verificado: 2026-11-06
+
+  - id: channellife
+    nombre: ChannelLife (TechDay)
+    sitio: https://channellife.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://channellife.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay."
+    verificado: 2026-11-06
+
+  - id: datacentrenews
+    nombre: DataCentreNews (TechDay)
+    sitio: https://datacentrenews.eu/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: rss
+    feeds: [https://datacentrenews.eu/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay."
+    verificado: 2026-11-06
+
+  - id: cfotech
+    nombre: CFOtech (TechDay)
+    sitio: https://cfotech.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://cfotech.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay."
+    verificado: 2026-11-06
+
+  - id: ecommercenews
+    nombre: eCommerceNews (TechDay)
+    sitio: https://ecommercenews.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://ecommercenews.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay."
+    verificado: 2026-11-06
+
+  - id: telconews
+    nombre: TelcoNews (TechDay)
+    sitio: https://telconews.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://telconews.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay."
+    verificado: 2026-11-06
+
+  - id: futurefive
+    nombre: FutureFive (TechDay)
+    sitio: https://futurefive.com.au/
+    grupo: fija
+    red: techday
+    tipo: anuncios-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://futurefive.com.au/feed]
+    marcas: [techday]
+    nota: "Anuncio de empresa vía TechDay."
+    verificado: 2026-11-06
+
+  - id: lns-research
+    nombre: LNS Research
+    sitio: https://www.lnsresearch.com/
+    grupo: fija
+    tipo: analistas
+    tematicas: [manufactura]
+    tematicas_por_filtro: [sostenibilidad, ciber-ot]
+    metodo: rss
+    feeds: [https://blog.lnsresearch.com/rss.xml]
+    marcas: [analistas]
+    nota: "Transformación industrial: MES, IIoT, convergencia IT/OT y sostenibilidad. Si el estudio es patrocinado, por quién; tamaño de muestra y regiones. Publica poco (última entrada vista: 30 sep 2026)."
+    verificado: 2026-11-06
+
+  # ═══ ESPECIALIZADAS ════════════════════════════════════════════════════════
+
+  # — Ciberseguridad IT —
+  - id: the-hacker-news
+    nombre: The Hacker News
+    sitio: https://thehackernews.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    tematicas_por_filtro: [ciber-ot]
+    metodo: rss
+    feeds: [https://feeds.feedburner.com/TheHackersNews]
+    verificado: 2026-11-06
+
+  - id: securityweek
+    nombre: SecurityWeek
+    sitio: https://www.securityweek.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    tematicas_por_filtro: [ciber-ot]
+    metodo: rss
+    feeds: [https://www.securityweek.com/feed/]
+    verificado: 2026-11-06
+
+  - id: help-net-security
+    nombre: Help Net Security
+    sitio: https://www.helpnetsecurity.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    metodo: rss
+    feeds: [https://www.helpnetsecurity.com/feed/]
+    verificado: 2026-11-06
+
+  - id: cyberpress
+    nombre: CyberPress
+    sitio: https://cyberpress.org/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    metodo: rss
+    feeds: [https://cyberpress.org/feed/]
+    verificado: 2026-11-06
+
+  - id: cybersecurity-news
+    nombre: Cybersecurity News
+    sitio: https://cybersecuritynews.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    metodo: rss
+    feeds: [https://cybersecuritynews.com/feed/]
+    verificado: 2026-11-06
+
+  - id: thehackerwire
+    nombre: TheHackerWire
+    sitio: https://www.thehackerwire.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    metodo: rss
+    feeds: [https://www.thehackerwire.com/feed/]
+    verificado: 2026-11-06
+
+  - id: petri
+    nombre: Petri
+    sitio: https://petri.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    tematicas_por_filtro: [tecnologia]
+    metodo: rss
+    feeds: [https://petri.com/feed/]
+    nota: "Prensa de IT."
+    verificado: 2026-11-06
+
+  - id: redmond
+    nombre: Redmond Magazine
+    sitio: https://redmondmag.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-it]
+    tematicas_por_filtro: [tecnologia]
+    metodo: rss
+    feeds: [https://redmondmag.com/rss-feeds/news.aspx]
+    nota: "Prensa de IT; ecosistema Microsoft."
+    verificado: 2026-11-06
+
+  - id: malwarebytes
+    nombre: Malwarebytes
+    sitio: https://www.malwarebytes.com/blog
+    grupo: especializada
+    tipo: proveedor
+    tematicas: [ciber-it]
+    metodo: rss
+    feeds: [https://www.malwarebytes.com/blog/feed/index.xml]
+    marcas: [proveedor]
+    nota: "Proveedor; resumen semanal."
+    verificado: 2026-11-06
+
+  - id: microsoft-threat-intel
+    nombre: Microsoft Threat Intelligence
+    sitio: https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [ciber-it]
+    metodo: rss
+    feeds: [https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/]
+    marcas: [la-empresa]
+    nota: "La empresa; dueña de Teams."
+    verificado: 2026-11-06
+
+  # — Ciberseguridad OT —
+  - id: cisa-ics
+    nombre: CISA, avisos ICS
+    sitio: https://www.cisa.gov/news-events/cybersecurity-advisories
+    grupo: especializada
+    tipo: oficial
+    tematicas: [ciber-ot]
+    metodo: rss
+    feeds: [https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml]
+    marcas: [oficial]
+    nota: "Fuente primaria del frente OT."
+    verificado: 2026-11-06
+
+  - id: siemens-productcert
+    nombre: Siemens ProductCERT
+    sitio: https://cert-portal.siemens.com/productcert/
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [ciber-ot]
+    metodo: rss
+    feeds: [https://cert-portal.siemens.com/productcert/rss/advisories.atom]
+    marcas: [la-empresa]
+    nota: "El fabricante; avisos de seguridad de sus productos."
+    verificado: 2026-11-06
+
+  - id: industrial-cyber
+    nombre: Industrial Cyber
+    sitio: https://industrialcyber.co/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-ot]
+    metodo: rss
+    feeds: [https://industrialcyber.co/feed/]
+    verificado: 2026-11-06
+
+  - id: automation-com
+    nombre: Automation.com (ISA)
+    sitio: https://www.automation.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [ciber-ot]
+    tematicas_por_filtro: [manufactura]
+    metodo: google_news
+    google_news: { consulta: "site:automation.com", idioma: en }
+    nota: "Prensa de automatización. El RSS bloquea la lectura automática (403); se usa Google News."
+    verificado: 2026-11-06
+
+  - id: security-boulevard-ot
+    nombre: Security Boulevard, Daily OT Security News
+    sitio: https://securityboulevard.com/
+    grupo: especializada
+    tipo: proveedor
+    tematicas: [ciber-ot]
+    metodo: google_news
+    google_news: { consulta: "site:securityboulevard.com \"Daily OT Security News\"", idioma: en }
+    solo_titulares_con: "Daily OT Security News"
+    marcas: [proveedor]
+    nota: "Lo escribe Viakoo, que vende seguridad OT. El RSS bloquea la lectura automática (403); se usa Google News."
+    verificado: 2026-11-06
+
+  - id: viakoo
+    nombre: Viakoo
+    sitio: https://www.viakoo.com/
+    grupo: especializada
+    tipo: proveedor
+    tematicas: [ciber-ot]
+    metodo: rss
+    feeds: [https://www.viakoo.com/feed/]
+    marcas: [proveedor]
+    verificado: 2026-11-06
+
+  # — Tecnología e IT —
+  - id: techcrunch
+    nombre: TechCrunch
+    sitio: https://techcrunch.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [tecnologia]
+    tematicas_por_filtro: [ciber-it]
+    metodo: rss
+    feeds: [https://techcrunch.com/feed/]
+    verificado: 2026-11-06
+
+  - id: the-register
+    nombre: The Register
+    sitio: https://www.theregister.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [tecnologia]
+    tematicas_por_filtro: [ciber-it, ciber-ot]
+    metodo: rss
+    feeds: [https://www.theregister.com/headlines.atom]
+    verificado: 2026-11-06
+
+  - id: macrumors
+    nombre: MacRumors
+    sitio: https://www.macrumors.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://feeds.macrumors.com/MacRumors-All]
+    nota: "Apple."
+    verificado: 2026-11-06
+
+  - id: unite-ai
+    nombre: Unite.AI
+    sitio: https://www.unite.ai/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://www.unite.ai/feed/]
+    nota: "Robótica e IA."
+    verificado: 2026-11-06
+
+  - id: infobae-tecno
+    nombre: Infobae Tecno
+    sitio: https://www.infobae.com/tecno/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://www.infobae.com/arc/outboundfeeds/rss/category/tecno/]
+    verificado: 2026-11-06
+
+  - id: google-blog
+    nombre: Blog de Google
+    sitio: https://blog.google/
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://blog.google/rss/]
+    marcas: [la-empresa]
+    verificado: 2026-11-06
+
+  - id: linux-foundation
+    nombre: Linux Foundation
+    sitio: https://www.linuxfoundation.org/
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [tecnologia]
+    metodo: rss
+    feeds: [https://www.linuxfoundation.org/blog/rss.xml]
+    marcas: [la-empresa]
+    nota: "La fundación. Publica poco (última entrada vista: 26 oct 2026)."
+    verificado: 2026-11-06
+
+  # — Manufactura —
+  - id: the-manufacturer
+    nombre: The Manufacturer
+    sitio: https://www.themanufacturer.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [manufactura]
+    metodo: google_news
+    google_news: { consulta: "site:themanufacturer.com", idioma: en }
+    nota: "Reino Unido. El RSS bloquea la lectura automática (403); se usa Google News."
+    verificado: 2026-11-06
+
+  - id: marklines
+    nombre: MarkLines
+    sitio: https://www.marklines.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [manufactura]
+    metodo: google_news
+    google_news: { consulta: "site:marklines.com", idioma: en }
+    nota: "Industria automotriz, Japón y Asia. Sin RSS público; se usa Google News."
+    verificado: 2026-11-06
+
+  # — Sostenibilidad —
+  - id: climate-home-news
+    nombre: Climate Home News
+    sitio: https://www.climatechangenews.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [sostenibilidad]
+    metodo: rss
+    feeds: [https://www.climatechangenews.com/feed/]
+    verificado: 2026-11-06
+
+  - id: mongabay
+    nombre: Mongabay Latam
+    sitio: https://es.mongabay.com/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [sostenibilidad]
+    metodo: rss
+    feeds: [https://es.mongabay.com/feed/]
+    nota: "Prensa ambiental (edición en español)."
+    verificado: 2026-11-06
+
+  - id: sustainabilityonline
+    nombre: SustainabilityOnline
+    sitio: https://www.sustainabilityonline.net/
+    grupo: especializada
+    tipo: prensa
+    tematicas: [sostenibilidad]
+    metodo: rss
+    feeds: [https://www.sustainabilityonline.net/feed/]
+    nota: "Boletín."
+    verificado: 2026-11-06
+
+  - id: uicn
+    nombre: UICN
+    sitio: https://iucn.org/
+    grupo: especializada
+    tipo: oficial
+    tematicas: [sostenibilidad]
+    metodo: google_news
+    google_news: { consulta: "site:iucn.org", idioma: en }
+    marcas: [oficial]
+    nota: "Organización internacional. Su RSS está abandonado (última entrada 2022); se usa Google News."
+    verificado: 2026-11-06
+
+  - id: beyond-fossil-fuels
+    nombre: Beyond Fossil Fuels
+    sitio: https://beyondfossilfuels.org/
+    grupo: especializada
+    tipo: activista
+    tematicas: [sostenibilidad]
+    metodo: rss
+    feeds: [https://beyondfossilfuels.org/feed/]
+    marcas: [activista]
+    verificado: 2026-11-06
+
+  - id: geneva-environment-network
+    nombre: Geneva Environment Network
+    sitio: https://www.genevaenvironmentnetwork.org/
+    grupo: especializada
+    tipo: oficial
+    tematicas: [sostenibilidad]
+    metodo: sin_acceso
+    nota: "Red de organizaciones. El servidor corta la conexión y Google News no tiene notas recientes; queda inactiva hasta encontrar otra vía."
+    verificado: 2026-11-06
+
+  # ═══ MEDIOS GENERALES (filtro de palabras clave) ═══════════════════════════
+
+  # — Colombia —
+  - id: el-heraldo
+    nombre: El Heraldo
+    sitio: https://www.elheraldo.co/
+    grupo: general
+    tipo: prensa
+    pais: CO
+    tematicas_por_filtro: [colombia, manufactura, sostenibilidad]
+    metodo: rss
+    feeds: ["https://www.elheraldo.co/arc/outboundfeeds/rss/?outputType=xml"]
+    nota: "Prensa regional. Cifras de industria del Dane."
+    verificado: 2026-11-06
+
+  - id: infobae-colombia
+    nombre: Infobae Colombia
+    sitio: https://www.infobae.com/colombia/
+    grupo: general
+    tipo: prensa
+    pais: CO
+    tematicas_por_filtro: [colombia, sostenibilidad]
+    metodo: rss
+    feeds: [https://www.infobae.com/arc/outboundfeeds/rss/category/colombia/]
+    nota: "Confianza empresarial, impuesto saludable."
+    verificado: 2026-11-06
+
+  - id: el-universal
+    nombre: El Universal (Cartagena)
+    sitio: https://www.eluniversal.com.co/
+    grupo: general
+    tipo: prensa
+    pais: CO
+    tematicas_por_filtro: [colombia]
+    metodo: google_news
+    google_news: { consulta: "site:eluniversal.com.co", idioma: es }
+    nota: "Prensa regional. Desempleo. Su RSS estaba detenido desde el 31 de octubre; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: abc-economia
+    nombre: ABC Economía
+    sitio: https://www.abc.es/economia/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [colombia, internacional]
+    metodo: rss
+    feeds: [https://www.abc.es/rss/2.0/economia/]
+    nota: "Mercado laboral. Medio español: para la temática Colombia la nota debe mencionar Colombia."
+    verificado: 2026-11-06
+
+  # — Internacional y mercados —
+  - id: cnbc
+    nombre: CNBC
+    sitio: https://www.cnbc.com/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [internacional, tecnologia]
+    metodo: rss
+    feeds: [https://www.cnbc.com/id/100003114/device/rss/rss.html]
+    verificado: 2026-11-06
+
+  - id: forbes
+    nombre: Forbes
+    sitio: https://www.forbes.com/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [internacional, tecnologia]
+    metodo: rss
+    feeds: [https://www.forbes.com/business/feed/]
+    marcas: [muro-de-pago]
+    verificado: 2026-11-06
+
+  - id: yahoo-finance
+    nombre: Yahoo Finance
+    sitio: https://finance.yahoo.com/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [internacional]
+    metodo: google_news
+    google_news: { consulta: "site:finance.yahoo.com", idioma: en }
+    nota: "Sin RSS que funcione; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: wsj
+    nombre: Wall Street Journal
+    sitio: https://www.wsj.com/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [internacional, tecnologia]
+    metodo: rss
+    feeds:
+      - https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+      - https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+      - https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
+    marcas: [muro-de-pago]
+    nota: "Muro de pago."
+    verificado: 2026-11-06
+
+  - id: investing-com
+    nombre: Investing.com
+    sitio: https://www.investing.com/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [internacional]
+    metodo: rss
+    feeds: [https://www.investing.com/rss/news.rss]
+    marcas: [agencia]
+    nota: "Republica a Reuters."
+    verificado: 2026-11-06
+
+  # — Comunicados —
+  - id: business-wire
+    nombre: Business Wire
+    sitio: https://www.businesswire.com/
+    grupo: general
+    tipo: anuncios-empresa
+    tematicas_por_filtro: [tecnologia, ciber-it, ciber-ot, manufactura, sostenibilidad]
+    metodo: google_news
+    google_news: { consulta: "site:businesswire.com", idioma: en }
+    marcas: [comunicado]
+    nota: "Comunicados de empresa; no es prensa. Su RSS no trae fechas; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: fuels-lubes
+    nombre: Fuels & Lubes
+    sitio: https://www.fuelsandlubes.com/
+    grupo: general
+    tipo: anuncios-empresa
+    tematicas_por_filtro: [sostenibilidad, manufactura]
+    metodo: rss
+    feeds: [https://www.fuelsandlubes.com/feed/]
+    marcas: [comunicado]
+    nota: "Comunicados de empresa."
+    verificado: 2026-11-06
+
+  # — Organismos oficiales —
+  - id: oms
+    nombre: OMS
+    sitio: https://www.who.int/es
+    grupo: general
+    tipo: oficial
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: google_news
+    google_news: { consulta: "site:who.int", idioma: es }
+    marcas: [oficial]
+    nota: "Lancet Countdown. Su RSS estaba detenido desde el 10 de octubre; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: onu
+    nombre: Noticias ONU
+    sitio: https://news.un.org/es/
+    grupo: general
+    tipo: oficial
+    tematicas_por_filtro: [sostenibilidad, internacional]
+    metodo: rss
+    feeds: [https://news.un.org/feed/subscribe/es/news/all/rss.xml]
+    marcas: [oficial]
+    nota: "COP31, dieta saludable."
+    verificado: 2026-11-06
+
+  - id: onu-colombia
+    nombre: ONU Colombia
+    sitio: https://colombia.un.org/es
+    grupo: general
+    tipo: oficial
+    pais: CO
+    tematicas_por_filtro: [sostenibilidad, colombia]
+    metodo: google_news
+    google_news: { consulta: "site:colombia.un.org", idioma: es }
+    marcas: [oficial]
+    nota: "Su RSS estaba detenido desde el 19 de octubre; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: unicef
+    nombre: UNICEF
+    sitio: https://www.unicef.org/es
+    grupo: general
+    tipo: oficial
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: google_news
+    google_news: { consulta: "site:unicef.org", idioma: es }
+    marcas: [oficial]
+    nota: "Resumen SOFI (informe de FAO y agencias de la ONU). Su RSS corta la conexión; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: house-of-commons-library
+    nombre: House of Commons Library
+    sitio: https://commonslibrary.parliament.uk/
+    grupo: general
+    tipo: oficial
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: rss
+    feeds: [https://commonslibrary.parliament.uk/feed/]
+    marcas: [oficial]
+    nota: "Parlamento británico. COP31."
+    verificado: 2026-11-06
+
+  # — Con interés propio —
+  - id: bloomberg-professional
+    nombre: Bloomberg Professional
+    sitio: https://www.bloomberg.com/professional/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [sostenibilidad, internacional]
+    metodo: rss
+    feeds: [https://www.bloomberg.com/professional/feed/]
+    marcas: [muro-de-pago]
+    nota: "Prensa especializada. Regulación."
+    verificado: 2026-11-06
+
+  - id: amnistia
+    nombre: Amnistía Internacional
+    sitio: https://www.amnesty.org/es/
+    grupo: general
+    tipo: activista
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: rss
+    feeds: [https://www.amnesty.org/es/feed/]
+    marcas: [activista]
+    verificado: 2026-11-06
+
+  - id: bbva
+    nombre: BBVA
+    sitio: https://www.bbva.com/es/
+    grupo: general
+    tipo: banco
+    tematicas_por_filtro: [sostenibilidad]
+    metodo: google_news
+    google_news: { consulta: "site:bbva.com", idioma: es }
+    marcas: [banco]
+    nota: "Interés en la financiación climática. Su RSS llega vacío; se usa Google News."
+    verificado: 2026-11-06
+
+  - id: tech-funding-news
+    nombre: Tech Funding News
+    sitio: https://techfundingnews.com/
+    grupo: general
+    tipo: prensa
+    tematicas_por_filtro: [manufactura, tecnologia]
+    metodo: rss
+    feeds: [https://techfundingnews.com/feed/]
+    nota: "Prensa de inversión, basada en anuncios de rondas."
+    verificado: 2026-11-06
+
+  # ═══ DATOS DE REFERENCIA (no van al flujo) ═════════════════════════════════
+
+  - { id: dane, nombre: Dane, sitio: "https://www.dane.gov.co/", grupo: referencia, tipo: oficial, tematicas: [colombia], nota: "Mercado laboral juvenil; cifras oficiales de Colombia." }
+  - { id: congreso-visible, nombre: Congreso Visible, sitio: "https://congresovisible.uniandes.edu.co/", grupo: referencia, tipo: oficial, tematicas: [colombia], nota: "Registro legislativo de la Universidad de los Andes; estado de proyectos de ley." }
+  - { id: nyu-stern, nombre: NYU Stern Center for Sustainable Business, sitio: "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/centers-of-research/center-sustainable-business", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Universidad. Sobreprecio de lo sostenible en EE. UU." }
+  - { id: pwc, nombre: PwC, sitio: "https://www.pwc.com/", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Consultora. Lo que pagaría el consumidor." }
+  - { id: kantar, nombre: Kantar, sitio: "https://www.kantar.com/latin-america", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Investigación de mercados. Consumo sostenible en Latinoamérica; cita a Kearney." }
+  - { id: kearney, nombre: Kearney, sitio: "https://www.kearney.com/", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Consultora de precios. Leída a través de Organisator y Kantar." }
+  - { id: bofa-institute, nombre: Bank of America Institute, sitio: "https://institute.bankofamerica.com/", grupo: referencia, tipo: banco, tematicas: [sostenibilidad], nota: "Banco. Moda sostenible." }
+  - { id: bain, nombre: Bain & Company, sitio: "https://www.bain.com/", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Consultora. Consumo sostenible; sin enlace al estudio en el documento." }
+  - { id: sec, nombre: SEC (EDGAR), sitio: "https://www.sec.gov/edgar/search/", grupo: referencia, tipo: oficial, tematicas: [tecnologia], nota: "Oficial. Reportes de resultados." }
+  - { id: microsoft-ir, nombre: Microsoft, relación con inversionistas, sitio: "https://www.microsoft.com/en-us/investor", grupo: referencia, tipo: la-empresa, tematicas: [tecnologia], nota: "La empresa. Resultados trimestrales." }
+  - { id: nsc-research-center, nombre: NSC Research Center, sitio: "https://nscresearchcenter.org/", grupo: referencia, tipo: consultora, tematicas: [tecnologia], nota: "Centro de investigación. Matrícula universitaria en EE. UU." }
+  - { id: comision-europea, nombre: Comisión Europea, sitio: "https://commission.europa.eu/", grupo: referencia, tipo: oficial, tematicas: [sostenibilidad], nota: "Directiva contra el greenwashing; sin enlace al documento en el chat." }
+  - { id: rappi, nombre: Rappi, sitio: "https://www.rappi.com.co/", grupo: referencia, tipo: tienda, tematicas: [colombia], nota: "Precios y fichas en tienda; cambian por ciudad y semana." }
+  - { id: megatiendas, nombre: Megatiendas, sitio: "https://www.megatiendas.co/", grupo: referencia, tipo: tienda, tematicas: [colombia], nota: "Precios y fichas en tienda; cambian por ciudad y semana." }
+  - { id: novaventa, nombre: Novaventa, sitio: "https://www.novaventa.com/", grupo: referencia, tipo: tienda, tematicas: [colombia], nota: "Precios y fichas en tienda; cambian por ciudad y semana." }
+
+  # ═══ EXCLUIDAS del flujo diario (confirmadas el 6 nov 2026) ════════════════
+  # Para reactivar una: cambia `grupo` y agrega `metodo`, `feeds` y temáticas.
+
+  - { id: deia, nombre: Deia, grupo: excluida, motivo: "Un solo caso (Iberdrola contra Repsol)" }
+  - { id: azat-tv, nombre: Azat TV, grupo: excluida, motivo: "Un solo caso (Binance)" }
+  - { id: modern-ghana, nombre: Modern Ghana, grupo: excluida, motivo: "Un solo caso (COP31)" }
+  - { id: geo-tv, nombre: Geo TV, grupo: excluida, motivo: "Una columna de opinión" }
+  - { id: washington-times, nombre: Washington Times, grupo: excluida, motivo: "Una definición (Generación Z)" }
+  - { id: sustenia, nombre: Sustenia, grupo: excluida, motivo: "Dato desactualizado" }
+  - { id: ai-weekly, nombre: AI Weekly, grupo: excluida, motivo: "Agregador, solo para descubrir" }
+  - { id: substack, nombre: Boletines de Substack, grupo: excluida, motivo: "Agregador, solo para descubrir" }
+  - { id: financefeeds, nombre: FinanceFeeds, grupo: excluida, motivo: "Un solo caso (Binance)" }
+  - { id: el-economista, nombre: El Economista (España), grupo: excluida, motivo: "Un solo caso (Binance)" }
+  - { id: irish-times, nombre: Irish Times, grupo: excluida, motivo: "Un solo caso (COP31)" }
+  - { id: abc-news-australia, nombre: ABC News Australia, grupo: excluida, motivo: "Un solo caso (mercados de Australia)" }
+  - { id: cambio, nombre: Cambio, grupo: excluida, motivo: "Un solo caso (impuesto saludable)" }
+  - { id: ifm-noticias, nombre: IFM Noticias, grupo: excluida, motivo: "Un solo caso (impuesto saludable)" }
+  - { id: el-frente, nombre: El Frente, grupo: excluida, motivo: "Una columna de opinión" }
+  - { id: diarioriente, nombre: DiariOriente, grupo: excluida, motivo: "Un solo caso (desempleo juvenil)" }
+  - { id: la-silla-vacia, nombre: La Silla Vacía, grupo: excluida, motivo: "Un solo caso (Ecopetrol)" }
+  - { id: hngn, nombre: HNGN, grupo: excluida, motivo: "Un solo caso (Samsung)" }
+  - { id: gamingbolt, nombre: GamingBolt, grupo: excluida, motivo: "Un solo caso (Epic Games)" }
+  - { id: que-es, nombre: Qué.es, grupo: excluida, motivo: "Un solo caso (monitor Trueup)" }
+  - { id: the-tribune, nombre: The Tribune, grupo: excluida, motivo: "Republica agencias" }
+  - { id: clearwater-security, nombre: Clearwater Security, grupo: excluida, motivo: "Proveedor sin caso recurrente" }
+  - { id: wiu-cyber, nombre: WIU Cybersecurity Center, grupo: excluida, motivo: "Agregador; repite otras fuentes" }
+  - { id: tech-insider, nombre: Tech Insider, grupo: excluida, motivo: "Agregador; repite otras fuentes" }
+  - { id: bloomberg-linea, nombre: Bloomberg Línea, grupo: excluida, motivo: "Citada por un dato (OIT)" }
+  - { id: insighted, nombre: Insighted, grupo: excluida, motivo: "Citada por un dato (OIT)" }
+  - { id: tiempo-real, nombre: Tiempo Real, grupo: excluida, motivo: "Citada por un dato (OIT)" }
+  - { id: mercado, nombre: Mercado, grupo: excluida, motivo: "Citada por un dato (NielsenIQ)" }
+  - { id: investinglive, nombre: Investinglive, grupo: excluida, motivo: "Citada por un dato (Gallup)" }
+  - { id: harpers, nombre: Harpers, grupo: excluida, motivo: "Citada por un dato (IWSR)" }
+  - { id: vegconomist, nombre: Vegconomist, grupo: excluida, motivo: "Citada por un dato (Good Food Institute)" }
+  - { id: green-queen, nombre: Green Queen, grupo: excluida, motivo: "Citada por un dato (Good Food Institute)" }
+  - { id: infobae-sofi, nombre: Infobae (resumen SOFI), grupo: excluida, motivo: "Citada por un dato; Infobae Colombia y Tecno sí están activas" }
+  - { id: acento, nombre: Acento, grupo: excluida, motivo: "Citada por un dato (SOFI)" }
+  - { id: el-clarin-chile, nombre: El Clarín de Chile, grupo: excluida, motivo: "Citada por un dato (SOFI)" }

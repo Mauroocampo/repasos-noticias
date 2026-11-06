@@ -1,0 +1,21 @@
+# Sitio generado (se arma y publica en cada ejecución)
+sitio/
+
+# Entorno de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Claves y configuración local: NUNCA al repositorio
+.env
+.env.*
+*.key
+secretos*
+
+# Configuración local del editor
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db

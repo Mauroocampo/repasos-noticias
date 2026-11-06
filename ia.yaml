@@ -1,0 +1,36 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# ia.yaml — FASE 2 (todavía desactivada)
+#
+# Aquí se configurarán los resúmenes, el comentario editorial, la clasificación
+# por temática y la búsqueda abierta con IA. Mientras `habilitado` sea false,
+# el actualizador no llama a ningún servicio de IA.
+#
+# La clave NUNCA va en este archivo ni en el repositorio: se guarda en
+# GitHub → Settings → Secrets and variables → Actions con el nombre de
+# `secreto_clave`.
+# ─────────────────────────────────────────────────────────────────────────────
+
+habilitado: false
+
+proveedor: anthropic
+modelo: claude-sonnet-5-5
+secreto_clave: ANTHROPIC_API_KEY
+
+funciones:
+  resumen: false            # resumen en español de cada nota
+  comentario: false         # comentario editorial siguiendo las reglas de marcado
+  clasificacion: false      # temática por IA para medios generales (reemplaza palabras clave)
+  busqueda_abierta: false   # buscar noticias fuera de las fuentes del documento
+
+# Reglas que la IA deberá aplicar (tomadas de las notas de método del documento)
+reglas_marcado:
+  - "Si solo se leyó titular y bajada, decirlo en el resumen."
+  - "Si el estudio es patrocinado, decir por quién, el tamaño de muestra y las regiones."
+  - "Si quien publica es proveedor, activista, banco o consultora, advertir que tiene interés en el tema y que el dato debe contrastarse."
+  - "Si la fuente es la propia empresa, recordar que habla de sí misma."
+  - "Los anuncios de TechDay son de empresa: buscar la fuente original."
+  - "Un agregador sirve para descubrir temas, no para respaldar datos."
+
+busqueda_abierta:
+  max_notas_por_dia: 20
+  consultas: []             # ejemplo: ["manufactura Colombia", "OT security"]

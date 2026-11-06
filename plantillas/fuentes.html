@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block contenido %}
+<h1 class="titulo-pagina">Fuentes y método</h1>
+<p class="entradilla">Cómo se arma este sitio, qué fuentes revisa y cómo se marca cada una. Basado en el documento de fuentes de los repasos de noticias (actualizado el 5 de noviembre de 2026).</p>
+
+<section class="prosa">
+  <h2 class="titulo-seccion">Notas de método</h2>
+  <ul>
+    <li><strong>Prensa:</strong> medio periodístico. Si solo se leyó titular y bajada, se dice en el repaso.</li>
+    <li><strong>Oficial y la empresa:</strong> fuente primaria. La empresa habla de sí misma, así que se lee con eso en mente.</li>
+    <li><strong>Agregador:</strong> sirve para descubrir temas, no para respaldar datos. Por eso los agregadores no entran en el flujo diario.</li>
+    <li><strong>Proveedor, activista, banco o consultora:</strong> quien publica tiene interés en el tema; el dato se contrasta antes de usarlo.</li>
+    <li><strong>Red TechDay:</strong> son anuncios de empresa. Se busca la fuente original y se muestra una sola versión de cada nota; las copias en otros sitios de la red aparecen como «También en».</li>
+    <li><strong>LNS Research:</strong> si el estudio es patrocinado, por quién; tamaño de muestra y regiones.</li>
+    <li>BBC, Wired, TechDay y LNS Research se sumaron como fuentes fijas el 5 de noviembre de 2026.</li>
+  </ul>
+
+  <h2 class="titulo-seccion">Cómo se arma el sitio</h2>
+  <ul>
+    <li>Todos los días a las 6:00 a. m. (hora de Colombia) se lee el RSS de cada fuente. Si una fuente no tiene RSS que funcione, se usa Google News filtrado por su sitio; en ese caso la nota solo trae titular, sin bajada.</li>
+    <li><strong>Fuentes fijas</strong> y <strong>especializadas:</strong> todo lo que publican entra en su temática.</li>
+    <li><strong>Medios generales:</strong> solo entran las notas cuyo titular o bajada contiene palabras clave de la temática.</li>
+    <li>Si la misma nota aparece en varios sitios, se muestra una sola vez.</li>
+    <li>Si una fuente no responde, el sitio se actualiza igual con las demás y el error queda registrado en esta página.</li>
+    <li>Se muestran los últimos {{ cfg.ventana_dias }} días; el histórico queda guardado en el repositorio.</li>
+  </ul>
+
+  <h2 class="titulo-seccion">Marcas</h2>
+  <dl class="leyenda">
+    {% for mid, m in marcas.items() %}
+    <div><dt><span class="marca marca-{{ mid }}">{{ m.texto }}</span></dt><dd>{{ m.explicacion }}</dd></div>
+    {% endfor %}
+  </dl>
+</section>
+
+{% for gid, gnombre, filas in grupos_fuentes %}
+<section>
+  <h2 class="titulo-seccion">{{ gnombre }}</h2>
+  <div class="tabla-envoltura">
+  <table class="tabla">
+    <thead><tr><th>Fuente</th><th>Temática</th><th>Tipo</th><th>Método</th><th>Última lectura</th><th>En el sitio</th></tr></thead>
+    <tbody>
+    {% for r in filas %}
+      <tr>
+        <td><a href="{{ r.f.sitio }}" target="_blank" rel="noopener">{{ r.f.nombre }}</a>
+          {% if r.marcas %}<br>{% for m in r.marcas %}<span class="marca marca-chica">{{ m }}</span>{% endfor %}{% endif %}
+          {% if r.f.nota %}<br><small>{{ r.f.nota }}</small>{% endif %}</td>
+        <td>{{ r.temas | join(', ') }}{% if r.temas_filtro %}{% if r.temas %}<br>{% endif %}<small>Por palabras clave: {{ r.temas_filtro | join(', ') }}</small>{% endif %}</td>
+        <td>{{ r.tipo }}</td>
+        <td>{{ r.metodo }}</td>
+        <td><span class="estado estado-{{ r.clase }}">{{ r.estado }}</span>
+          {% if r.errores %}<details><summary>Ver error</summary><small>{% for e in r.errores %}{{ e }}<br>{% endfor %}</small></details>{% endif %}</td>
+        <td class="num">{{ r.en_sitio }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+</section>
+{% endfor %}
+
+<section>
+  <h2 class="titulo-seccion">Fuera del flujo diario</h2>
+  <p>Aparecieron en el documento por un solo caso, solo sirven para descubrir temas o se citaron por un dato puntual.</p>
+  <ul class="lista-excluidas">
+    {% for f in excluidas %}<li><strong>{{ f.nombre }}</strong>: {{ f.motivo }}</li>{% endfor %}
+  </ul>
+  <p>Los datos y estudios para contrastar ideas están en <a href="{{ raiz }}datos/">Datos de referencia</a>.</p>
+</section>
+{% endblock %}
