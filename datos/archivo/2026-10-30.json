@@ -1,5 +1,15 @@
 [
  {
+  "id": "57a9bf4aea0d8a",
+  "fuente_id": "oms",
+  "titular": "Baseline survey of the pharmaceutical sector in Tanzania",
+  "bajada": "Baseline survey of the pharmaceutical sector in Tanzania WHO | Regional Office for Africa",
+  "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13Smx4c29KV0tNcXBJako5UUlHSEFXY1RmamZKcEVDMlR6N2dReVNJQ2t6UHdCa3YwNllSZDNWU0Y5cWZVYjBNbUJuRWxUODVrNFJnRU50Q2VGTjN4MGpoUkl4WQ?oc=5",
+  "fecha": "2026-10-31T02:04:40+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T22:17:09+00:00"
+ },
+ {
   "id": "af5c0cef18fb1a",
   "fuente_id": "microsoft-threat-intel",
   "titular": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",

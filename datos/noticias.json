@@ -1,6 +1,396 @@
 {
- "actualizado": "2026-11-06T21:40:58+00:00",
+ "actualizado": "2026-11-06T22:17:09+00:00",
  "notas": [
+  {
+   "id": "8e2d431744bc48",
+   "fuente_id": "bbc-mundo",
+   "titular": "El Congreso de Paraguay destituye al presidente Santiago Peña en un juicio político por el escándalo de Ueno Bank",
+   "bajada": "Peña es apartado del cargo y podría enfrentarse ahora a posibles responsabilidades penales por su papel en el escándalo de Ueno Bank.",
+   "enlace": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-06T22:13:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "e311b6ed13e596",
+   "fuente_id": "la-republica",
+   "titular": "Santiago Peña fue destituido como presidente de Paraguay por caso Ueno",
+   "bajada": "La votación selló la suerte del mandatario luego de que se desarticulara por completo su escudo político en Congreso",
+   "enlace": "https://www.larepublica.co/globoeconomia/santiago-pena-fue-destituido-como-presidente-de-paraguay-por-caso-ueno-4519441",
+   "fecha": "2026-11-06T22:12:05+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "2b065c16a29ad3",
+   "fuente_id": "infobae-colombia",
+   "titular": "Activistas e influencers analizaron el caso de Deicy Jiménez y el video en el que aparece con Gustavo Petro: “Si nos importan los derechos de las mujeres...”",
+   "bajada": "Karol Solís Menco destacó que el progresismo debe ser “mucho más grande” que Petro y que el Pacto Histórico; mientras que Laura Camila Vargas dijo que el expresidente “no es incuestionable”",
+   "enlace": "https://www.infobae.com/colombia/2026/11/06/activistas-e-influencers-analizaron-el-caso-de-deicy-jimenez-y-el-video-en-el-que-aparece-con-gustavo-petro-si-nos-importan-los-derechos-de-las-mujeres/",
+   "fecha": "2026-11-06T22:11:14+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "11e6f600e9e84e",
+   "fuente_id": "infobae-colombia",
+   "titular": "Sneyder Pinilla se quedará en La Picota: juez negó tutela con la que buscaba regresar a una guarnición militar para cumplir condena por el caso Ungrd",
+   "bajada": "El exsubdirector de la entidad alegaba riesgos para su vida e integridad física, por lo que solicitó dejar sin efecto su traslado al centro penitenciario",
+   "enlace": "https://www.infobae.com/colombia/2026/11/06/sneyder-pinilla-se-quedara-en-la-picota-juez-nego-tutela-con-la-que-buscaba-regresar-a-una-guarnicion-militar-para-cumplir-condena-por-el-caso-ungrd/",
+   "fecha": "2026-11-06T22:08:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "f0a627c383a821",
+   "fuente_id": "el-heraldo",
+   "titular": "Senado de Paraguay destituye a Santiago Peña como presidente tras escándalo de Ueno bank",
+   "bajada": "En juicio político, fue declarado culpable de “mal desempeño de funciones”.",
+   "enlace": "https://www.elheraldo.co/mundo/2026/11/06/senado-de-paraguay-destituye-a-santiago-pena-como-presidente-tras-escandalo-por-ueno-bank/",
+   "fecha": "2026-11-06T22:07:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "48e3104e269987",
+   "fuente_id": "macrumors",
+   "titular": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
+   "bajada": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked up one of the new machines to get our greasy fingerprints all over that pristine OLED display. Subscribe to the MacRumors YouTube channel for more videos. It's been five years…",
+   "enlace": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
+   "fecha": "2026-11-06T22:06:07+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "8ea1c6d1597cee",
+   "fuente_id": "el-heraldo",
+   "titular": "Barranquilla Design Week 2026: el Caribe se proyecta como epicentro de las industrias creativas y el diseño",
+   "bajada": "Del 11 al 13 de noviembre, Barranquilla será escenario de la primera edición de este encuentro que conectará a diseñadores, arquitectos, empresarios, academia y ciudadanía alrededor del concepto ‘Gen Caribe’.",
+   "enlace": "https://www.elheraldo.co/sociedad/2026/11/06/barranquilla-design-week-2026-el-caribe-se-proyecta-como-epicentro-de-las-industrias-creativas-y-el-diseno/",
+   "fecha": "2026-11-06T22:06:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "b8c141c1543c5d",
+   "fuente_id": "infobae-tecno",
+   "titular": "Empresas de IA ofrecen hasta USD 2 millones por los correos y archivos internos de otras compañías",
+   "bajada": "La venta de 500 millones de mensajes internos de Spirit Airlines quedó en pausa tras la denuncia del sindicato de sus auxiliares de vuelo",
+   "enlace": "https://www.infobae.com/tecno/2026/11/06/empresas-de-ia-ofrecen-hasta-usd-2-millones-por-los-correos-y-archivos-internos-de-otras-companias/",
+   "fecha": "2026-11-06T22:05:37+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "acbe24763d10bc",
+   "fuente_id": "investing-com",
+   "titular": "Royal Caribbean director Arne Wilhelmsen sells $82.1M in stock",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/royal-caribbean-director-arne-wilhelmsen-sells-821m-in-stock-93CH-5009283",
+   "fecha": "2026-11-06T22:01:15+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "c66a7e2c944320",
+   "fuente_id": "investing-com",
+   "titular": "Xometry director Altschuler reports $1.09M class A common stock sale",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/xometry-director-altschuler-reports-109m-class-a-common-stock-sale-93CH-5009284",
+   "fecha": "2026-11-06T22:01:15+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "e0f862b0f799ed",
+   "fuente_id": "wsj",
+   "titular": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound",
+   "bajada": "U.S. stocks ended mixed after strong jobs data and a modest rebound for AI companies failed to quell investor nerves about the sustainability of the AI boom.",
+   "enlace": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6?mod=rss_markets_main",
+   "fecha": "2026-11-06T22:01:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:32:09+00:00"
+  },
+  {
+   "id": "989f97f48c8eba",
+   "fuente_id": "investing-com",
+   "titular": "As tech swoon roils market, US inflation data on tap",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+   "fecha": "2026-11-06T22:00:52+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "b60c4b7c02484f",
+   "fuente_id": "investing-com",
+   "titular": "ZipRecruiter (NASDAQ:ZIP) cto Shimanovsky sells $140,877 in shares",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/ziprecruiter-nasdaqzip-cto-shimanovsky-sells-140877-in-shares-93CH-5009280",
+   "fecha": "2026-11-06T22:00:52+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "5bcde5c6a76e6b",
+   "fuente_id": "investing-com",
+   "titular": "RPM International CEO Frank C. Sullivan announces planned retirement",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/rpm-international-ceo-frank-c-sullivan-announces-planned-retirement-93CH-5009279",
+   "fecha": "2026-11-06T22:00:49+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "397078d751bd59",
+   "fuente_id": "investing-com",
+   "titular": "Democrats planning flood of AI bills when they take control of Congress",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress-5007213",
+   "fecha": "2026-11-06T22:00:24+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "73e12f8f5666d2",
+   "fuente_id": "infobae-colombia",
+   "titular": "Esta es la programación de los partidos de vuelta de las semifinales de la Copa Colombia 2026: se definirán los finalistas",
+   "bajada": "Atlético Nacional, América de Cali, Internacional de Bogotá y Once Caldas buscarán la clasificación para continuar en carrera al título de la Dimayor",
+   "enlace": "https://www.infobae.com/colombia/deportes/2026/11/06/esta-es-la-programacion-de-los-partidos-de-vuelta-de-las-semifinales-de-la-copa-colombia-2026-se-definiran-los-finalistas/",
+   "fecha": "2026-11-06T21:59:28+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:32:09+00:00"
+  },
+  {
+   "id": "61581382f695bf",
+   "fuente_id": "infobae-colombia",
+   "titular": "Murió joven atacado con machete en medio de un caso de intolerancia en Soacha: estaba paseando a su perro",
+   "bajada": "La víctima, de 21 años, resultó herida el 31 de octubre de 2026 durante un episodio de violencia que sigue bajo investigación. Días después, falleció en un centro asistencial por la gravedad de sus lesiones",
+   "enlace": "https://www.infobae.com/colombia/2026/11/06/murio-joven-atacado-con-machete-en-medio-de-un-caso-de-intolerancia-en-soacha-estaba-paseando-a-su-perro/",
+   "fecha": "2026-11-06T21:58:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "e7817fbbc59dc3",
+   "fuente_id": "investing-com",
+   "titular": "S&P revises Boston Scientific outlook to negative on franchise pressures",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/sp-revises-boston-scientific-outlook-to-negative-on-franchise-pressures-5009270",
+   "fecha": "2026-11-06T21:58:19+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "6d2655e9d263fc",
+   "fuente_id": "wsj",
+   "titular": "Meghan Markle’s Father Arrested on Charges Related to Child Sexual Abuse Materials",
+   "bajada": "Federal authorities allege Thomas Markle had a stash of explicit photos in two storage units in California.",
+   "enlace": "https://www.wsj.com/us-news/meghan-markles-father-arrested-on-charges-related-to-child-sexual-abuse-materials-90c2080f?mod=rss_worldnews",
+   "fecha": "2026-11-06T21:58:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "fdfaa0718ff43d",
+   "fuente_id": "investing-com",
+   "titular": "American Healthcare REIT launches $1.75 billion at-the-market equity program",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/american-healthcare-reit-launches-175-billion-atthemarket-equity-program-93CH-5009269",
+   "fecha": "2026-11-06T21:56:44+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "d82abf42cc8660",
+   "fuente_id": "el-heraldo",
+   "titular": "Fiscalía acusa a María Isabel Urrutia por presuntas irregularidades en contrato para controlar el ingreso a estadios",
+   "bajada": "La exministra del Deporte es señalada como posible responsable de los delitos de contrato sin cumplimiento de requisitos legales y falsedad ideológica en documento público.",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/06/fiscalia-acusa-a-maria-isabel-urrutia-por-presuntas-irregularidades-en-contrato-para-controlar-el-ingreso-a-estadios/",
+   "fecha": "2026-11-06T21:56:40+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "12efaece957509",
+   "fuente_id": "wsj",
+   "titular": "Health Care Roundup: Market Talk",
+   "bajada": "Find insight on Novartis, healthcare stocks and more in the latest Market Talks covering Health Care sector.",
+   "enlace": "https://www.wsj.com/business/health-care-roundup-market-talk-266b76c4?mod=rss_markets_main",
+   "fecha": "2026-11-06T21:56:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "f9d39828aaa3a2",
+   "fuente_id": "wsj",
+   "titular": "Auto & Transport Roundup: Market Talk",
+   "bajada": "Find insight on Tesla, Daimler Truck and more in the latest Market Talks covering Auto and Transport sector.",
+   "enlace": "https://www.wsj.com/business/auto-transport-roundup-market-talk-d73630aa?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-06T21:56:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "a10551154230e0",
+   "fuente_id": "wsj",
+   "titular": "Basic Materials Roundup: Market Talk",
+   "bajada": "Find insight on precious metals, Cleveland-Cliffs and more in the latest Market Talks covering Basic Materials.",
+   "enlace": "https://www.wsj.com/business/basic-materials-roundup-market-talk-48777713?mod=rss_markets_main",
+   "fecha": "2026-11-06T21:55:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "815c3b1c82f5e5",
+   "fuente_id": "wsj",
+   "titular": "Energy & Utilities Roundup: Market Talk",
+   "bajada": "Find insight on oil futures, Enbridge, National Grid and more in the latest Market Talks covering Energy and Utilities.",
+   "enlace": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-0d462507?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-06T21:55:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "6ed6856ff86a7e",
+   "fuente_id": "portafolio",
+   "titular": "Don Omar activa preventa para su regreso a Colombia mientras Maluma impulsa alianza con Visa, Bancolombia y Nequi",
+   "bajada": "La estrategia busca ampliar el uso de pagos electrónicos a través de eventos de alta demanda regional.",
+   "enlace": "https://www.portafolio.co/economia/don-omar-activa-preventa-para-su-regreso-a-colombia-mientras-maluma-impulsa-alianza-con-visa-bancolombia-y-nequi-505881",
+   "fecha": "2026-11-06T21:54:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "7c75ede95c881f",
+   "fuente_id": "infobae-colombia",
+   "titular": "Karol G encabezó los seis premios de Colombia en los HEAT 2026: Shakira, Ryan Castro y Jessi Uribe también fueron galardonados",
+   "bajada": "Piso 21 recibió un reconocimiento a su trayectoria y Jessi Uribe se llevó el galardón a Mejor Artista Región Popular, en una noche con amplia presencia nacional durante la gala celebrada en Puerto Vallarta",
+   "enlace": "https://www.infobae.com/colombia/2026/11/06/karol-g-encabezo-los-seis-premios-de-colombia-en-los-heat-2026-shakira-ryan-castro-y-jessi-uribe-tambien-fueron-galardonados/",
+   "fecha": "2026-11-06T21:53:21+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "560223cbf9fa98",
+   "fuente_id": "wsj",
+   "titular": "Tech, Media & Telecom Roundup: Market Talk",
+   "bajada": "Find insight on Quebecor, AI data centers, CoreWeave and more in the latest Market Talks covering Technology, Media and Telecom.",
+   "enlace": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-06T21:53:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "8b008edb3c1b72",
+   "fuente_id": "wsj",
+   "titular": "Financial Services Roundup: Market Talk",
+   "bajada": "Find insight on Ayden, European insurers, U.K. banks and more in the latest Market Talks covering Financial Services.",
+   "enlace": "https://www.wsj.com/business/financial-services-roundup-market-talk-f54a976f?mod=rss_markets_main",
+   "fecha": "2026-11-06T21:53:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "e894b0816dcbc6",
+   "fuente_id": "wsj",
+   "titular": "Tech, Media & Telecom Roundup: Market Talk",
+   "bajada": "Find insight on Quebecor, AI data centers, CoreWeave and more in the latest Market Talks covering Technology, Media and Telecom.",
+   "enlace": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=rss_markets_main",
+   "fecha": "2026-11-06T21:53:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "29182ae8645554",
+   "fuente_id": "investing-com",
+   "titular": "Silgan Holdings updates credit agreement to facilitate planned business contribution",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/silgan-holdings-updates-credit-agreement-to-facilitate-planned-business-contribution-93CH-5009267",
+   "fecha": "2026-11-06T21:52:18+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "e746e547701674",
+   "fuente_id": "portafolio",
+   "titular": "Estos son los municipios y capitales con mejor desempeño fiscal de Colombia",
+   "bajada": "Char aseguró que la ciudad pasó de renegociar sus deudas bajo la Ley 550 a ser “ejemplo nacional”.",
+   "enlace": "https://www.portafolio.co/economia/regiones/estos-son-los-municipios-y-capitales-con-mejor-desempeno-fiscal-de-colombia-505886",
+   "fecha": "2026-11-06T21:49:17+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "a40894d8625812",
+   "fuente_id": "macrumors",
+   "titular": "Apple Store With All-New Design Opening Soon in Southern California",
+   "bajada": "Apple today announced that its retail store at The Forum in Carlsbad, California will be reopening in its original location on Friday, November 20 at 10 a.m. local time, following more than a year of renovations . Additions will likely include a Genius Bar with accessible…",
+   "enlace": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/",
+   "fecha": "2026-11-06T21:48:46+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "c162ffb774bc2f",
+   "fuente_id": "investing-com",
+   "titular": "ReAlpha Tech shareholders approve board proposals including reverse stock split",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/sec-filings/realpha-tech-shareholders-approve-board-proposals-including-reverse-stock-split-93CH-5009256",
+   "fecha": "2026-11-06T21:48:07+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "f2cf78c5e5eaf9",
+   "fuente_id": "portafolio",
+   "titular": "Adición al Presupuesto 2026: la posible asignación para el Fondo Milagro y lo que le correspondería a Air-e",
+   "bajada": "La adición presupuestal busca financiar la reconstrucción y el pago de las deudas de Air-e con las térmicas.",
+   "enlace": "https://www.portafolio.co/economia/gobierno/adicion-al-presupuesto-2026-la-posible-asignacion-para-el-fondo-milagro-y-lo-que-le-corresponderia-a-air-e-505887",
+   "fecha": "2026-11-06T21:47:20+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "6608109659383f",
+   "fuente_id": "infobae-colombia",
+   "titular": "Docente desaparecida hace más de dos años en Barranquilla fue hallada deambulando por las calles de Bogotá: “Apareció, estoy con ella”",
+   "bajada": "Arleth Carolina Álvarez Castillo había sido visto por última vez luego de salir del conjunto residencial Golondrina, ubicado en la urbanización Alameda del Río, en la capital del Atlántico",
+   "enlace": "https://www.infobae.com/colombia/2026/11/06/docente-desaparecida-hace-mas-de-dos-anos-en-barranquilla-fue-hallada-deambulando-por-las-calles-de-bogota-aparecio-estoy-con-ella/",
+   "fecha": "2026-11-06T21:46:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "8847c25fe4e8e1",
+   "fuente_id": "thehackerwire",
+   "titular": "CVE-2026-86044: JupyterLab Desktop Renderer Origin Bypass Leads to Local RCE",
+   "bajada": "Critical Threat Advisory: Assigned a 9.6 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. JupyterLab Desktop is the cross-platform desktop application...",
+   "enlace": "https://www.thehackerwire.com/cve-2026-86044-jupyterlab-desktop-renderer-origin-bypass-leads-to-local-rce/",
+   "fecha": "2026-11-06T21:46:06+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "f5a6335d8f9146",
+   "fuente_id": "el-heraldo",
+   "titular": "Consternación en la cultura chilena por la muerte del oscarizado director Sebastián Lelio",
+   "bajada": "El cineasta falleció en su casa de Las Condes, en Santiago, \"por motivos de salud\", según confirmó su familia en un comunicado.",
+   "enlace": "https://www.elheraldo.co/cultura/cine/2026/11/06/consternacion-en-la-cultura-chilena-por-la-muerte-del-oscarizado-director-sebastian-lelio/",
+   "fecha": "2026-11-06T21:44:21+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "0ceb6d636c1ca5",
+   "fuente_id": "unite-ai",
+   "titular": "Anthropic IPO Valuation Expectations Fall After Technology Selloff",
+   "bajada": "CNBC reported on November 6, 2026 that some Anthropic investors were lowering their valuation expectations after the technology selloff, with one putting a more likely range at $1 trillion to $1.25 trillion. Anthropic was still expected to begin its IPO roadshow in the week of…",
+   "enlace": "https://www.unite.ai/anthropic-ipo-valuation-expectations-fall-after-technology-selloff/",
+   "fecha": "2026-11-06T21:42:05+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
   {
    "id": "dc387d29232a13",
    "fuente_id": "cnbc",
@@ -10,6 +400,16 @@
    "fecha": "2026-11-06T21:40:09+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "42e7486fb0bdda",
+   "fuente_id": "the-register",
+   "titular": "Agents reveal secrets when offered to team up with each other",
+   "bajada": "If you wouldn't put it on GitHub, don't give models access to it",
+   "enlace": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+   "fecha": "2026-11-06T21:39:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
    "id": "a065d4b73b45d4",
@@ -32,6 +432,36 @@
    "primera_vista": "2026-11-06T21:40:58+00:00"
   },
   {
+   "id": "b6d17fe07d8107",
+   "fuente_id": "infobae-tecno",
+   "titular": "Khaby Lame: con sus memes y videos logró una comunidad de millones de personas y ahora es gemelo digital",
+   "bajada": "La marca de Khaby Lame supera los 252 millones de seguidores y genera ingresos anuales estimados en 9,9 millones de dólares",
+   "enlace": "https://www.infobae.com/tecno/2026/11/06/khaby-lame-con-sus-memes-y-videos-logro-una-comunidad-de-millones-de-personas-y-ahora-es-gemelo-digital/",
+   "fecha": "2026-11-06T21:37:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
+   "id": "08a40e1955eaa7",
+   "fuente_id": "infobae-colombia",
+   "titular": "Abogada de Laura Sarabia anunció acciones legales contra Felipe Zuleta por asegurar que clonó el celular de Petro: “Nunca ha tenido acceso”",
+   "bajada": "El periodista publicó el libro ‘Las Mujeres de Petro’, en el que afirma que el teléfono del expresidente fue “gemeleado” por la exfuncionaria, quien al parecer llegó a ser su mano derecha. Afirmó, además, que habría creado una alianza con la ex primera dama Verónica Alcocer",
+   "enlace": "https://www.infobae.com/colombia/2026/11/06/abogada-de-laura-sarabia-anuncio-acciones-legales-contra-felipe-zuleta-por-asegurar-que-clono-el-celular-de-petro-nunca-ha-tenido-acceso/",
+   "fecha": "2026-11-06T21:36:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "f1a9fd9d9d76a5",
+   "fuente_id": "el-heraldo",
+   "titular": "‘Dime’, el video musical con el que Elí García celebra su triunfo en Talento de Barrio en Barranquilla",
+   "bajada": "El intérprete salsero presenta su sencillo, tras ganar la primera temporada de Talento de Barrio, la iniciativa del alcalde Alejandro Char para promover los talentos musicales en las distintas localidades de la ciudad.",
+   "enlace": "https://www.elheraldo.co/sociedad/2026/11/06/dime-el-video-musical-con-el-que-comienza-la-carrera-musical-de-eli-garcia-ganador-de-talento-de-barrio/",
+   "fecha": "2026-11-06T21:34:48+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
    "id": "7ec208ffe86c80",
    "fuente_id": "investing-com",
    "titular": "Ethan Allen shareholders elect new directors and approve executive pay at annual meeting",
@@ -50,16 +480,6 @@
    "fecha": "2026-11-06T21:28:25+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:35:59+00:00"
-  },
-  {
-   "id": "73e12f8f5666d2",
-   "fuente_id": "infobae-colombia",
-   "titular": "Esta es la programación de los partidos de vuelta de las semifinales de la Copa Colombia 2026: se definirán los finalistas",
-   "bajada": "Atlético Nacional, América de Cali, Internacional de Bogotá y Once Caldas buscarán la clasificación para continuar en carrera al título de la Dimayor",
-   "enlace": "https://www.infobae.com/colombia/deportes/2026/11/06/esta-es-la-programacion-de-los-partidos-de-vuelta-de-las-semifinales-de-la-copa-colombia-2026-se-definiran-los-finalistas/",
-   "fecha": "2026-11-06T21:27:49+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:32:09+00:00"
   },
   {
    "id": "fb6b33c29ca929",
@@ -152,16 +572,6 @@
    "primera_vista": "2026-11-06T21:32:09+00:00"
   },
   {
-   "id": "e0f862b0f799ed",
-   "fuente_id": "wsj",
-   "titular": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound",
-   "bajada": "U.S. stocks ended mixed after strong jobs data and a modest rebound for AI companies failed to quell investor nerves about the sustainability of the AI boom.",
-   "enlace": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6?mod=rss_markets_main",
-   "fecha": "2026-11-06T21:22:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:32:09+00:00"
-  },
-  {
    "id": "14c512da92bed1",
    "fuente_id": "infobae-colombia",
    "titular": "María Isabel Urrutia irá a juicio por presunta corrupción: habría redireccionado un contrato de más de $4.950 millones en el Ministerio del Deporte",
@@ -242,6 +652,16 @@
    "primera_vista": "2026-11-06T21:32:09+00:00"
   },
   {
+   "id": "d49f0cef8b818c",
+   "fuente_id": "forbes",
+   "titular": "‘Tulsa King’ Star Gretchen Mol Talks Reunion With Stallone And Creatives For Series’ Fourth Season",
+   "bajada": "\"Tulsa King\" Season 4 star Gretchen Mol discusses her work with Sylvester Stallone, Terence Winter and Taylor Sheridan on the series, plus gives some observations about her character Amanda Clark.",
+   "enlace": "https://www.forbes.com/sites/timlammers/2026/11/06/tulsa-king-star-gretchen-mol-talks-reunion-with-stallone-and-creatives-for-series-fourth-season/",
+   "fecha": "2026-11-06T21:16:54+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
    "id": "1003bafb4fb2a9",
    "fuente_id": "infobae-colombia",
    "titular": "Resultados Super Astro Sol hoy 6 de noviembre: verifique el signo ganador",
@@ -280,6 +700,16 @@
    "fecha": "2026-11-06T21:14:55+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "49240af466e409",
+   "fuente_id": "forbes",
+   "titular": "‘North Of North’ Star Anna Lambe On Season 2 And Inuit Storytelling",
+   "bajada": "Anna Lambe discusses Netflix’s ‘North of North’ Season 2, Siaja’s growth, new challenges, and bringing Inuit storytelling to a global audience.",
+   "enlace": "https://www.forbes.com/sites/danafeldman/2026/11/06/north-of-north-star-anna-lambe-on-season-2-and-inuit-storytelling/",
+   "fecha": "2026-11-06T21:14:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
    "id": "06e4051d891500",
@@ -412,16 +842,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "61581382f695bf",
-   "fuente_id": "infobae-colombia",
-   "titular": "Murió joven atacado con machete en medio de un caso de intolerancia en Soacha: estaba paseando a su perro",
-   "bajada": "La víctima, de 21 años, resultó herida el 31 de octubre de 2026 durante un episodio de violencia que sigue bajo investigación. Días después, falleció en un centro asistencial por la gravedad de sus lesiones",
-   "enlace": "https://www.infobae.com/colombia/2026/11/06/murio-joven-atacado-con-machete-en-medio-de-un-caso-de-intolerancia-en-soacha-estaba-paseando-a-su-perro/",
-   "fecha": "2026-11-06T20:57:09+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
    "id": "9a33a9d649467e",
    "fuente_id": "forbes",
    "titular": "Two Commissioners, One Party, No Statute: What Democrats Inherit On Crypto",
@@ -448,16 +868,6 @@
    "bajada": "",
    "enlace": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
    "fecha": "2026-11-06T20:54:24+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "6d2655e9d263fc",
-   "fuente_id": "wsj",
-   "titular": "Meghan Markle’s Father Arrested on Charges Related to Child Sexual Abuse Materials",
-   "bajada": "Federal authorities allege Thomas Markle had a stash of explicit photos in two storage units in California.",
-   "enlace": "https://www.wsj.com/us-news/meghan-markles-father-arrested-on-charges-related-to-child-sexual-abuse-materials-90c2080f?mod=rss_worldnews",
-   "fecha": "2026-11-06T20:53:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -518,16 +928,6 @@
    "bajada": "",
    "enlace": "https://www.investing.com/news/stock-market-news/onsemi-and-czech-ministry-cancel-2-billion-chip-facility-expansion-5009119",
    "fecha": "2026-11-06T20:47:36+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "08a40e1955eaa7",
-   "fuente_id": "infobae-colombia",
-   "titular": "Abogada de Laura Sarabia anunció acciones legales contra Felipe Zuleta por asegurar que clonó el celular de Petro: “Nunca ha tenido acceso”",
-   "bajada": "El periodista publicó el libro ‘Las Mujeres de Petro’, en el que afirma que el teléfono del expresidente fue “gemeleado” por quien al parecer llegó a ser su mano derecha. Afirmó, además, que habría creado una alianza con la ex primera dama Verónica Alcocer",
-   "enlace": "https://www.infobae.com/colombia/2026/11/06/abogada-de-laura-sarabia-anuncio-acciones-legales-contra-felipe-zuleta-por-asegurar-que-clono-el-celular-de-petro-nunca-ha-tenido-acceso/",
-   "fecha": "2026-11-06T20:47:33+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -870,6 +1270,16 @@
    "fecha": "2026-11-06T20:11:17+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "5922e2252befd4",
+   "fuente_id": "business-wire",
+   "titular": "Egan Nelson Secures Top-Tier Honors in 2027 Best Law Firms Guide",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNF90RkVlUHE3RlRHcHVGZ3EwMng4WkJDRDZQbVJHb0ozQUtJRFRWS2xFdEdtNFNtcFY4OHJPbnMxVE44Q09IaDNlZzFLOHY0QlpXcEJtZEQ0OGZfYmtFTFNNMnh0Z1BaTWFnWXRvMk41eWxKeTZBVFFQdEI0dWFUVUVxUC1PUjlGaTlRNUlPcmFZUFBIb1BCS0dRc2VXV0N3dW53T0F1R2QzdlVaSHJ1bE1DcEdFUGJTc3RHb1hR?oc=5",
+   "fecha": "2026-11-06T20:04:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
    "id": "8d82587d4f1805",
@@ -1232,6 +1642,16 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
+   "id": "af710de3e8b053",
+   "fuente_id": "yahoo-finance",
+   "titular": "IonQ Stocks Surge 10.93% After 336% Revenue Jump and Higher Full-Year Guide",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUpQT0I5YktBRHI2bmhRZmEtWVFxT2pNVGFxcHlBTE5pblFRbnJJUHcwRlFMajZNS0JIakRUeTBOZ3BKQTcxV245V3h3QXp5OUoyOTZvMVotS0xXOThKNUlUQ01QQnNmTG53X3lMYUlod0N3bUJEeG5OeDNPRG5vTkI4Vi0tQ0FLd1F0QWlOanMwdw?oc=5",
+   "fecha": "2026-11-06T19:07:59+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
    "id": "d11516b8d404fa",
    "fuente_id": "infobae-tecno",
    "titular": "Cómo limpiar el aire acondicionado: paso a paso para eliminar polvo y suciedad acumulada",
@@ -1308,16 +1728,6 @@
    "bajada": "El médico Jorge Mario Córdoba, quien ha estado al frente del proceso, dio detalles del momento exacto en que el cantante despertó.",
    "enlace": "https://www.elheraldo.co/sociedad/2026/11/06/cuando-desperto-lo-primero-que-hizo-fue-preguntar-por-cada-uno-de-los-integrantes-y-lloro-a-quienes-fallecieron-medico-de-kbeto/",
    "fecha": "2026-11-06T19:00:27+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "2b065c16a29ad3",
-   "fuente_id": "infobae-colombia",
-   "titular": "Activistas e influencers analizaron el caso de Deicy Jiménez y el video en el que aparece con Gustavo Petro: “Si nos importan los derechos de las mujeres...”",
-   "bajada": "Karol Solís Menco destacó que el progresismo debe ser “mucho más grande” que Petro y que el Pacto Histórico; mientras que Laura Camila Vargas dijo que el expresidente “no es incuestionable”",
-   "enlace": "https://www.infobae.com/colombia/2026/11/06/activistas-e-influencers-analizaron-el-caso-de-deicy-jimenez-y-el-video-en-el-que-aparece-con-gustavo-petro-si-nos-importan-los-derechos-de-las-mujeres/",
-   "fecha": "2026-11-06T19:00:17+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -1478,16 +1888,6 @@
    "bajada": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
    "enlace": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
    "fecha": "2026-11-06T18:43:43+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "6608109659383f",
-   "fuente_id": "infobae-colombia",
-   "titular": "Docente desaparecida hace más de dos años en Barranquilla fue hallada deambulando por las calles de Bogotá: “Apareció, estoy con ella”",
-   "bajada": "Arleth Carolina Álvarez Castillo había sido visto por última vez luego de salir del conjunto residencial Golondrina, ubicado en la urbanización Alameda del Río, en la capital del Atlántico",
-   "enlace": "https://www.infobae.com/colombia/2026/11/06/docente-desaparecida-hace-mas-de-dos-anos-en-barranquilla-fue-hallada-deambulando-por-las-calles-de-bogota-aparecio-estoy-con-ella/",
-   "fecha": "2026-11-06T18:43:32+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -2142,16 +2542,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "12efaece957509",
-   "fuente_id": "wsj",
-   "titular": "Health Care Roundup: Market Talk",
-   "bajada": "Find insight on Novartis, healthcare stocks and more in the latest Market Talks covering Health Care sector.",
-   "enlace": "https://www.wsj.com/business/health-care-roundup-market-talk-266b76c4?mod=rss_markets_main",
-   "fecha": "2026-11-06T17:30:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "aef9ac395ec71a",
    "fuente_id": "it-brief",
    "titular": "Data centre power market set to hit USD $107 billion",
@@ -2192,26 +2582,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "a10551154230e0",
-   "fuente_id": "wsj",
-   "titular": "Basic Materials Roundup: Market Talk",
-   "bajada": "Find insight on Interfor, gold futures and more in the latest Market Talks covering Basic Materials.",
-   "enlace": "https://www.wsj.com/business/basic-materials-roundup-market-talk-48777713?mod=rss_markets_main",
-   "fecha": "2026-11-06T17:28:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "f9d39828aaa3a2",
-   "fuente_id": "wsj",
-   "titular": "Auto & Transport Roundup: Market Talk",
-   "bajada": "Find insight on Tesla, Daimler Truck and more in the latest Market Talks covering Auto and Transport sector.",
-   "enlace": "https://www.wsj.com/business/auto-transport-roundup-market-talk-d73630aa?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-06T17:28:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
    "id": "54e7ad8fd031de",
    "fuente_id": "la-republica",
    "titular": "Bancóldex podrá emitir bonos por $5 billones para financiar proyectos empresariales",
@@ -2228,26 +2598,6 @@
    "bajada": "Dispositivos en el habitáculo del vehículo de Mazda identifican signos de somnolencia y falta de atención, mientras sensores y alertas anticipan desvíos, obstáculos y posibles accidentes",
    "enlace": "https://www.infobae.com/tecno/2026/11/06/como-las-camaras-de-reconocimiento-facial-en-un-auto-detectan-la-fatiga-del-conductor-y-salvan-vidas/",
    "fecha": "2026-11-06T17:25:54+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "560223cbf9fa98",
-   "fuente_id": "wsj",
-   "titular": "Tech, Media & Telecom Roundup: Market Talk",
-   "bajada": "Find insight on Quantinuum, Telus, Nintendo, and more in the latest Market Talks covering Technology, Media and Telecom.",
-   "enlace": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-06T17:25:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "8b008edb3c1b72",
-   "fuente_id": "wsj",
-   "titular": "Financial Services Roundup: Market Talk",
-   "bajada": "Find insight on Ayden, European insurers, U.K. banks and more in the latest Market Talks covering Financial Services.",
-   "enlace": "https://www.wsj.com/business/financial-services-roundup-market-talk-f54a976f?mod=rss_markets_main",
-   "fecha": "2026-11-06T17:25:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -2300,16 +2650,6 @@
    "fecha": "2026-11-06T17:23:52+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "815c3b1c82f5e5",
-   "fuente_id": "wsj",
-   "titular": "Energy & Utilities Roundup: Market Talk",
-   "bajada": "Find insight on Enbridge, National Grid, Woodside Energy and more in the latest Market Talks covering Energy and Utilities.",
-   "enlace": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-0d462507?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-06T17:23:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "68b675b8eb9343",
@@ -3392,6 +3732,16 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
+   "id": "c65c6a6e98dbad",
+   "fuente_id": "security-boulevard-ot",
+   "titular": "Daily OT Security News: November 06, 2026",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2thaGVqRmM2WWliNWdKdDlTU2lLQmkxYWhSNElZUkRESlZCZ2ZUYUxVNkpDejE3aEZYd0NadTdmVUpyVnF3TGJTdC1CQlk2Nk5DQlp2ak81YnMzUTAyT1p1ejB5YUJJU0FISDFFT0xZd2RET3dhWklxWlUzdGVKQU94V3c?oc=5",
+   "fecha": "2026-11-06T15:48:07+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
    "id": "a3c9198b464bf7",
    "fuente_id": "el-heraldo",
    "titular": "Las Fiestas de Independencia de Cartagena también se viven a través de la moda",
@@ -3439,16 +3789,6 @@
    "enlace": "https://www.elheraldo.co/colombia/2026/11/06/abogado-de-angie-rodriguez-renuncia-a-su-representacion-por-motivos-personales/",
    "fecha": "2026-11-06T15:45:09+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "c65c6a6e98dbad",
-   "fuente_id": "security-boulevard-ot",
-   "titular": "Daily OT Security News: November 06, 2026",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2thaGVqRmM2WWliNWdKdDlTU2lLQmkxYWhSNElZUkRESlZCZ2ZUYUxVNkpDejE3aEZYd0NadTdmVUpyVnF3TGJTdC1CQlk2Nk5DQlp2ak81YnMzUTAyT1p1ejB5YUJJU0FISDFFT0xZd2RET3dhWklxWlUzdGVKQU94V3c?oc=5",
-   "fecha": "2026-11-06T15:45:00+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
@@ -4314,8 +4654,8 @@
   {
    "id": "87252fb669a4e7",
    "fuente_id": "bbc-mundo",
-   "titular": "Crisis en Paraguay: presentan los alegatos finales del juicio político al presidente Santiago Peña",
-   "bajada": "El Senado de Paraguay avanza con el juicio político al presidente Santiago Peña por el escándalo desatado tras la caída de Ueno Bank.",
+   "titular": "Crisis en Paraguay: el Congreso destituye a Santiago Peña, el segundo presidente expulsado por juicio político",
+   "bajada": "Los legisladores aprobaron la destitución de Peña por unanimidad, con 44 votos a favor y una ausencia, por el escándalo desatado por la caída de Ueno Bank.",
    "enlace": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-06T14:26:31+00:00",
    "via": "rss",
@@ -4470,6 +4810,16 @@
    "fecha": "2026-11-06T14:20:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "d7df45e743a54f",
+   "fuente_id": "the-manufacturer",
+   "titular": "Rolls-Royce Submarines partners with INFINITY to develop new capabilities for UK defence",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdTFfR2tfWTNJTlUtczRmdVRUWjktQTM4blpaa0ZDR2Y0UlVMRGs4U3VpeElVb21uZWNQS0dhWE1SLTZfVUd0TDZZRTRuV3JkUW5pMXhJOHVvWmEyb0RBWHBBUV9TYkRGcGVsdWtoX2NwbUhFelZtN2QxXzRJaG5VRVdsMUgzZVZjMG1XN2dSQWpPQnRuVlNxX0U3OVM3dTR5MVJkdmhIOGJ4LUsxOFY5STNXUDVRTkdPRHJ3RjRkVFhJelpkZzdCek5n?oc=5",
+   "fecha": "2026-11-06T14:17:42+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
    "id": "40841487de090a",
@@ -5798,16 +6148,6 @@
    "bajada": "La ejecutiva, con 27 años de experiencia en el grupo, sustituirá a Olga Patricia Castaño Díaz, que seguirá como vicepresidenta de Estrategia tras dejar las funciones que ejercía al frente de la compañía",
    "enlace": "https://www.infobae.com/colombia/2026/11/06/ella-es-sonia-abuchar-designada-como-presidenta-encargada-de-isa-la-decision-de-la-junta-directiva-fue-unanime/",
    "fecha": "2026-11-06T12:35:44+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "e894b0816dcbc6",
-   "fuente_id": "wsj",
-   "titular": "Tech, Media & Telecom Roundup: Market Talk",
-   "bajada": "Find insight on Nintendo, Cloudflare , Kakao and more in the latest Market Talks covering Technology, Media and Telecom.",
-   "enlace": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=rss_markets_main",
-   "fecha": "2026-11-06T12:35:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -7892,6 +8232,16 @@
    "primera_vista": "2026-11-06T14:29:07+00:00"
   },
   {
+   "id": "88bbb18b63cca2",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
+   "fecha": "2026-11-06T08:19:42+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "513b500b8d369e",
    "fuente_id": "the-manufacturer",
    "titular": "Leadership - Page 401 of 402 - The Manufacturer",
@@ -8012,6 +8362,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "f8835268e69a40",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dTBWRWw5aFRDSkNodmdMd0hPNWd1NThHMDNvb214ZHBHVVJXUklicWlIYlJ0SlM4blFIUHBpTDZ6YklmbDRjUXA2aXJaRFU?oc=5",
+   "fecha": "2026-11-06T07:45:19+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "2cd3478a79c1ee",
    "fuente_id": "uicn",
    "titular": "- International Union for Conservation of Nature",
@@ -8072,16 +8432,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "3aca9f3043436f",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Vi1KdVlpSjhDbDVkTjdSdklZUjVfN0NtdmQ1RkcwZW5qb0t1YzUydXc2OC1CQUF5OTRlcnpnRHhxaXZHeS1oal9UY3JPUQ?oc=5",
-   "fecha": "2026-11-06T07:32:23+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "0b3108282dcb5b",
    "fuente_id": "the-register",
    "titular": "Safari's Autofill feature may be distorting time",
@@ -8099,16 +8449,6 @@
    "enlace": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
    "fecha": "2026-11-06T07:18:44+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "34328249ba79c9",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUDBQZGNfNE5peHhnLThQR0F6VDQ5bFF4RVhCOVlUX0ZPMjF3WUtWSl81V2NnYjBhN28tMWQ1ejdST1QwWDRTS24xSXVtUQ?oc=5",
-   "fecha": "2026-11-06T07:14:13+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -9080,6 +9420,16 @@
    "fecha": "2026-11-06T03:19:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "69a2ac7d4c5cff",
+   "fuente_id": "el-universal",
+   "titular": "Conozca cuántas listas de aspirantes a ser miembros de la Junta de la CCC, se inscribieron",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbzlUNGJJNE16MlRiSkEyRVQ1OTY1NERGNlYtNjNtREZmUjRIZDFXMV8xQTRvUE9jdTdtZ3RnUjlidEZzMEdHWGZmUTdtUFM0NmU0T2tJSkVNOXBzVEh1YnM2ekRmZkppRTNGUzNrTE9LaDVxQndtMEV3T2l0RjJxWnpfVU1FUlNKN2M1cFphWXFFQ1BicFU3dWNlUFduMUsxanI4SFRLNS1zcDNxc0hfcTRQc3JvdUsyV3cxYUdLTlQzVVJuaVpfT0NQVXVZRnBERHZnUGZxZG9QZw?oc=5",
+   "fecha": "2026-11-06T03:18:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
    "id": "ba06728ddb186f",
@@ -10579,6 +10929,16 @@
    "enlace": "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f",
    "fecha": "2026-11-05T23:44:00+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "4cfcdcb52d1155",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
+   "fecha": "2026-11-05T23:43:53+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -12328,16 +12688,6 @@
    "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGY1dGNCWVg0WG0xVUluWC1ZNVBqTjNTWlFGa05GclYtVUs0aFhkVV94TDNxNWpTNlJ5Q1RuaS1RclB6aDFjQk9DRHlMakZrSDBOYVNKUGtSMEtYRnc4UWJrVUFmdHJsX1NLc0RQdzVmUENhSHk4WGpsTDVmU3VzdTNLQU5RN2o2M2VNN1NlSi1yZDJjQmtxdWV2SFJfVjl4ZzBNV01rT2RpMmt1SGxnMW5RZUhVNEZWRGxEQkdiRlItYVk?oc=5",
    "fecha": "2026-11-05T20:38:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "88bbb18b63cca2",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
-   "fecha": "2026-11-05T20:37:21+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -14872,6 +15222,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "34328249ba79c9",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUDBQZGNfNE5peHhnLThQR0F6VDQ5bFF4RVhCOVlUX0ZPMjF3WUtWSl81V2NnYjBhN28tMWQ1ejdST1QwWDRTS24xSXVtUQ?oc=5",
+   "fecha": "2026-11-05T14:08:50+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "57778522f1eb91",
    "fuente_id": "infobae-tecno",
    "titular": "Micron frenó una planta de memorias de USD 4.500 millones en Taiwán por un conflicto laboral",
@@ -15702,6 +16062,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "3aca9f3043436f",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Vi1KdVlpSjhDbDVkTjdSdklZUjVfN0NtdmQ1RkcwZW5qb0t1YzUydXc2OC1CQUF5OTRlcnpnRHhxaXZHeS1oal9UY3JPUQ?oc=5",
+   "fecha": "2026-11-05T12:03:50+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "d396cf576c6fc8",
    "fuente_id": "infobae-tecno",
    "titular": "Las ventas de la Nintendo Switch 2 cayeron 41% tras las subas de precio y el alza de la memoria",
@@ -16438,16 +16808,6 @@
    "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGdfVVBCNkQ1MjBJellaeThIS3N0YTFwNW1XVEhfMGdZbXQ4M1F3b3JNU2pFdHRqekVoLTB6Y2V2TU1Vb1U4bnpaYWN5bTBXZzBETTNWTkdtalFUVG9pTGZmRjg4bUhiSzlkVnhsdHJDT2hnUkFDZG5xMmJJNFhleFh5Y0ZYWDFLN3Jldy10UlN2NlJJaGloS3E2R1ZRTDVWMmVWbzJ5eFU?oc=5",
    "fecha": "2026-11-05T10:05:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "f8835268e69a40",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80dTBWRWw5aFRDSkNodmdMd0hPNWd1NThHMDNvb214ZHBHVVJXUklicWlIYlJ0SlM4blFIUHBpTDZ6YklmbDRjUXA2aXJaRFU?oc=5",
-   "fecha": "2026-11-05T10:04:36+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -17239,16 +17599,6 @@
    "enlace": "https://www.fuelsandlubes.com/regular-bioethanol-bunkering-begins-at-brazils-port-of-santos/",
    "fecha": "2026-11-05T03:02:46+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "4cfcdcb52d1155",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
-   "fecha": "2026-11-05T03:01:01+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
@@ -21752,6 +22102,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "2d9d49d9c7edbb",
+   "fuente_id": "el-universal",
+   "titular": "Paula Carley Coca tenía 23 años y un hombre, de 63, le quitó la vida en su sitio de trabajo",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUElqc2pYcDE5QzdWUTc5TE5KRm9WeG1CQXdMc3V4Q3VqVnh4NzNRSFlqb1RYdkh6NHZDY3R0TUsybzZnNUtydk91SG1iZnpzT2I1aVRhLTNPV28zNmlfbzZVNzRGdi16M2trLTdHOUhnUG9IeHJDblVQbDVMeS1QZ2V2SzM3Yk4zWWNsTktnVndIN1ltSm5fWlNaak56eE0ySEliRUREZndBWDZ5UFVRZXh5UG9lbFN3bUdiTkM0Y1I4Vk93U0VZTXRRRXVueldMX3RobURtUQ?oc=5",
+   "fecha": "2026-11-03T14:25:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
    "id": "29bd653d5dc6fa",
    "fuente_id": "el-universal",
    "titular": "Recomiendan guardar alimentos y agua en 12 países: Petro habló de guerra nuclear",
@@ -22530,6 +22890,16 @@
    "fecha": "2026-11-03T08:30:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "06213f985dfa4b",
+   "fuente_id": "uicn",
+   "titular": "25782_pdtra2.pdf - IUCN Portals",
+   "bajada": "25782_pdtra2.pdf - IUCN Portals International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BaVY2SWRUVDBrcVNLVlBCT3BKc1BVVS14QzFLSFh5NDFKZHhNZkJ4TFdGSW54eTd0UnhSbVBDTE9LODNadUdJUlh0MmllSEM2VkoyU2NlaFVkZFdjeHU4bC1xazNvTzQ4VkI0QXM3YVFqTXJiZGhMMQ?oc=5",
+   "fecha": "2026-11-03T08:29:19+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
   },
   {
    "id": "56575853bc7e6b",
@@ -24842,6 +25212,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "57a9bf4aea0d8a",
+   "fuente_id": "oms",
+   "titular": "Baseline survey of the pharmaceutical sector in Tanzania",
+   "bajada": "Baseline survey of the pharmaceutical sector in Tanzania WHO | Regional Office for Africa",
+   "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13Smx4c29KV0tNcXBJako5UUlHSEFXY1RmamZKcEVDMlR6N2dReVNJQ2t6UHdCa3YwNllSZDNWU0Y5cWZVYjBNbUJuRWxUODVrNFJnRU50Q2VGTjN4MGpoUkl4WQ?oc=5",
+   "fecha": "2026-10-31T02:04:40+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T22:17:09+00:00"
+  },
+  {
    "id": "af5c0cef18fb1a",
    "fuente_id": "microsoft-threat-intel",
    "titular": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
@@ -24938,16 +25318,6 @@
    "bajada": "Después de recibir la aprobación regulatoria, la empresa ecuatoriana se integrará con el Negocio de Chocolates del Grupo Nutresa",
    "enlace": "https://www.larepublica.co/empresas/grupo-nutresa-cierra-compra-de-la-universal-se-integrara-al-negocio-de-chocolates-4515320",
    "fecha": "2026-10-30T22:22:34+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "48f32d48d5ba51",
-   "fuente_id": "mongabay",
-   "titular": "De la Espriella revocó una resolución que protegía a la Amazonía de la megaminería y la explotación de hidrocarburos",
-   "bajada": "El gobierno de Abelardo De la Espriella derogó en los últimos días la Resolución 961, que prohibía la megaminería y la explotación de hidrocarburos en la Amazonía, abriendo nuevamente la puerta a las concesiones extractivas en la selva. La medida coincide con un acuerdo…",
-   "enlace": "https://es.mongabay.com/short-article/2026/10/de-la-espriella-megamineria-explotacion-hidrocarburos-amazonia/",
-   "fecha": "2026-10-30T21:58:57+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   }
