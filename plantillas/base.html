@@ -14,15 +14,29 @@
     try { var t = localStorage.getItem('tema-color'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
   </script>
 </head>
-<body data-pagina="{{ pagina }}"{% if tema_fijo %} data-tema-fijo="{{ tema_fijo }}"{% endif %}>
+<body data-pagina="{{ pagina }}"{% if tema_fijo %} data-tema-fijo="{{ tema_fijo }}"{% endif %} data-raiz="{{ raiz }}" data-actualizado="{{ actualizado or '' }}">
   <a class="saltar" href="#contenido">Saltar al contenido</a>
   <header class="cabecera">
     <div class="envoltura cabecera-fila">
       <a class="marca-sitio" href="{{ raiz }}">Repasos de noticias</a>
+      <div class="cabecera-acciones">
+      <a class="boton-actualizar" id="boton-actualizar" href="{{ url_ejecutar }}" target="_blank" rel="noopener"
+         title="Abre GitHub para lanzar la actualización (solo la cuenta dueña del repositorio puede hacerlo)">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.6-4.5M4 4v4h4M4 13a8 8 0 0 0 14.6 4.5M20 20v-4h-4"/></svg>
+        <span>Actualizar</span>
+      </a>
       <button class="boton-tema" type="button" id="boton-tema" aria-label="Cambiar entre modo claro y oscuro">
         <svg class="icono-sol" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg>
         <svg class="icono-luna" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg>
       </button>
+      </div>
+    </div>
+    <div class="aviso-actualizacion" id="aviso-actualizacion" role="status" aria-live="polite" hidden>
+      <div class="envoltura aviso-fila">
+        <span id="aviso-texto"></span>
+        <button type="button" class="aviso-boton" id="aviso-recargar" hidden>Ver noticias nuevas</button>
+        <button type="button" class="aviso-cerrar" id="aviso-cerrar" aria-label="Cerrar aviso">×</button>
+      </div>
     </div>
     <nav class="pestanas" aria-label="Secciones">
       <div class="envoltura pestanas-fila">

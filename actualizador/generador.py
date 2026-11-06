@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import os
 import shutil
 from collections import OrderedDict
 from datetime import datetime
@@ -15,6 +16,8 @@ from .config import RAIZ, Config
 SALIDA = RAIZ / "sitio"
 PLANTILLAS = RAIZ / "plantillas"
 ESTATICOS = RAIZ / "estaticos"
+# En GitHub Actions viene en GITHUB_REPOSITORY; en local se usa el repositorio publicado
+REPOSITORIO = os.environ.get("GITHUB_REPOSITORY") or "Mauroocampo/repasos-noticias"
 
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
          "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
@@ -106,6 +109,8 @@ class Generador:
         actualizado = estado.get("actualizado") if estado else None
         self.comun = {
             "version": int(ahora.timestamp()),
+            "actualizado": actualizado,
+            "url_ejecutar": f"https://github.com/{REPOSITORIO}/actions/workflows/actualizar.yml",
             "tematicas": self.cfg.tematicas,
             "actualizado_txt": fecha_hora(datetime.fromisoformat(actualizado).astimezone(self.tz)) if actualizado else "sin datos",
             "total_fuentes": len(est_fuentes),
@@ -138,6 +143,9 @@ class Generador:
         publicas = [{k: v for k, v in n.items() if k not in ("red",)} for n in notas]
         (SALIDA / "noticias.json").write_text(
             json.dumps({"actualizado": actualizado, "notas": publicas}, ensure_ascii=False), encoding="utf-8")
+        # Archivo pequeño que la página consulta para saber si ya hay una actualización nueva
+        (SALIDA / "estado.json").write_text(
+            json.dumps({"actualizado": actualizado, "notas": len(notas)}), encoding="utf-8")
         return SALIDA
 
     def _ctx_fuentes(self, vistas: list[dict], est_fuentes: dict) -> dict:

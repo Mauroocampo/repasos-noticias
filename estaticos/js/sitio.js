@@ -18,6 +18,70 @@
     });
   }
 
+  // ── Botón "Actualizar" ───────────────────────────────────────────────────
+  // El sitio es estático: el botón abre GitHub para lanzar la actualización (solo la
+  // cuenta dueña puede). Mientras tanto, esta página revisa estado.json y avisa al terminar.
+  var cuerpo = document.body;
+  var botonAct = document.getElementById('boton-actualizar');
+  var aviso = document.getElementById('aviso-actualizacion');
+  var avisoTexto = document.getElementById('aviso-texto');
+  var avisoRecargar = document.getElementById('aviso-recargar');
+  var avisoCerrar = document.getElementById('aviso-cerrar');
+  var actual = cuerpo.getAttribute('data-actualizado') || '';
+  var CLAVE = 'actualizacion-pedida';
+  var INTERVALO = 30000, MAXIMO = 20 * 60000;
+  var temporizador = null;
+
+  function mostrarAviso(texto, conRecargar) {
+    avisoTexto.textContent = texto;
+    avisoRecargar.hidden = !conRecargar;
+    aviso.hidden = false;
+  }
+  function detener() {
+    clearInterval(temporizador); temporizador = null;
+    if (botonAct) botonAct.classList.remove('girando');
+    try { sessionStorage.removeItem(CLAVE); } catch (e) {}
+  }
+  function revisar(inicio) {
+    if (Date.now() - inicio > MAXIMO) {
+      detener();
+      mostrarAviso('Todavía no hay datos nuevos. Revisa en GitHub (pestaña Actions) si la actualización terminó o falló.', false);
+      return;
+    }
+    fetch(cuerpo.getAttribute('data-raiz') + 'estado.json?t=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (d && d.actualizado && d.actualizado !== actual) {
+          detener();
+          mostrarAviso('Listo: ya hay noticias nuevas publicadas.', true);
+        }
+      })
+      .catch(function () {});
+  }
+  function esperar(inicio) {
+    if (temporizador) return;
+    if (botonAct) botonAct.classList.add('girando');
+    mostrarAviso('Se abrió GitHub en otra pestaña: presiona «Run workflow». Tarda unos 4 minutos; esta página te avisará cuando termine.', false);
+    temporizador = setInterval(function () { revisar(inicio); }, INTERVALO);
+  }
+  if (botonAct && aviso) {
+    botonAct.addEventListener('click', function () {
+      var inicio = Date.now();
+      try { sessionStorage.setItem(CLAVE, JSON.stringify({ inicio: inicio, actualizado: actual })); } catch (e) {}
+      esperar(inicio);
+    });
+    avisoRecargar.addEventListener('click', function () { location.reload(); });
+    avisoCerrar.addEventListener('click', function () { aviso.hidden = true; detener(); });
+    // Si cambió de pestaña del sitio mientras esperaba, se sigue esperando
+    try {
+      var pedida = JSON.parse(sessionStorage.getItem(CLAVE) || 'null');
+      if (pedida && Date.now() - pedida.inicio < MAXIMO) {
+        if (pedida.actualizado !== actual) { detener(); }
+        else { esperar(pedida.inicio); }
+      }
+    } catch (e) {}
+  }
+
   // ── Filtros ──────────────────────────────────────────────────────────────
   var form = document.getElementById('filtros');
   if (!form) return;

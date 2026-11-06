@@ -57,6 +57,19 @@ a { color: var(--acento); }
 .marca-sitio { font-family: var(--fuente-titular); font-size: 1.25rem; font-weight: 700; color: var(--texto); text-decoration: none; }
 .boton-tema { background: none; border: 1px solid var(--borde); border-radius: 999px; width: 38px; height: 38px; display: grid; place-items: center; cursor: pointer; color: var(--texto); }
 .boton-tema svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; }
+.cabecera-acciones { display: flex; align-items: center; gap: 8px; }
+.boton-actualizar { display: inline-flex; align-items: center; gap: 6px; height: 38px; padding: 0 14px; border: 1px solid var(--borde);
+  border-radius: 999px; color: var(--texto); text-decoration: none; font-size: .92rem; }
+.boton-actualizar:hover, .boton-tema:hover { border-color: var(--acento); color: var(--acento); }
+.boton-actualizar svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.boton-actualizar.girando svg { animation: girar 1.4s linear infinite; }
+@keyframes girar { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .boton-actualizar.girando svg { animation: none; } }
+.aviso-actualizacion { background: var(--acento-suave); border-top: 1px solid var(--borde); font-size: .92rem; }
+.aviso-fila { display: flex; align-items: center; gap: 12px; padding: 8px 16px; flex-wrap: wrap; }
+.aviso-fila span { flex: 1 1 220px; }
+.aviso-boton { font: inherit; padding: 6px 12px; border-radius: 8px; border: 0; background: var(--acento); color: var(--superficie); cursor: pointer; font-weight: 600; }
+.aviso-cerrar { font: inherit; font-size: 1.2rem; line-height: 1; background: none; border: 0; color: var(--texto-suave); cursor: pointer; padding: 4px 6px; }
 .icono-luna { display: none; }
 :root[data-theme="dark"] .icono-sol { display: none; }
 :root[data-theme="dark"] .icono-luna { display: block; }
@@ -150,6 +163,7 @@ details small { word-break: break-all; }
 
 @media (max-width: 560px) {
   .titulo-pagina { font-size: 1.55rem; }
+  .boton-actualizar { padding: 0 11px; }
   .rejilla-destacadas { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 80%;
     overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 6px; }
   .rejilla-destacadas .nota { scroll-snap-align: start; }
