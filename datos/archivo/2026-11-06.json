@@ -1,5 +1,25 @@
 [
  {
+  "id": "a065d4b73b45d4",
+  "fuente_id": "techcrunch",
+  "titular": "The Duo apps are coming, says Apple",
+  "bajada": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+  "enlace": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+  "fecha": "2026-11-06T21:38:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T21:40:58+00:00"
+ },
+ {
+  "id": "dc30c05d7cca53",
+  "fuente_id": "la-republica",
+  "titular": "Los videos del CEO de Ueno Bank que desnudan la crisis del banco paraguayo",
+  "bajada": "Ueno Bank, el sexto banco más grande de Paraguay por volumen de depósitos, fue intervenido el 3 de noviembre",
+  "enlace": "https://www.larepublica.co/globoeconomia/los-videos-del-ceo-de-ueno-bank-que-desnudan-la-crisis-del-banco-paraguayo-4519385",
+  "fecha": "2026-11-06T21:38:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T21:40:58+00:00"
+ },
+ {
   "id": "7ec208ffe86c80",
   "fuente_id": "investing-com",
   "titular": "Ethan Allen shareholders elect new directors and approve executive pay at annual meeting",
@@ -968,6 +988,16 @@
   "fecha": "2026-11-06T19:35:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
+  "id": "c9d00234e7860c",
+  "fuente_id": "yahoo-finance",
+  "titular": "Jensen Huang Out of the World’s 10 Richest People as AI Selloff Hits Wall Street",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU01ZWGFLX3JFVld1NEZrTS1FOTFiVmxjWGQteU5UZ25zU3NnUHZMMzJadlBSOUllZmpFVkpoQ212NkZFNDlhb1J1a1c3ZEdNamM3RHlwMEhBd2JXUG90dTVDWHktcmhVbGNqQmxLWGVOX1cxVWRKcU9wWHhGRnVnT2dzY2ppckhUZVBCcmdiaDBpWk9yQ0ZPeXhB?oc=5",
+  "fecha": "2026-11-06T19:34:42+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:40:58+00:00"
  },
  {
   "id": "80b0864bba1c6b",
@@ -7458,6 +7488,16 @@
   "fecha": "2026-11-06T09:19:49+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "07d43b4cf93104",
+  "fuente_id": "the-manufacturer",
+  "titular": "Automation - Page 24 of 26 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldYNFp0dFNrT0dqOFI1dm85SXBhb3BDSlVLZG1EbVV0N0VwVTdvTFYxU2wtMGVoLVl0cXBvNG5CNWowQ0Fya0ZYUllLWnFsUi1pYUoyZVBqX0YwSUZxZ0E4dDNYcm8yd3JoOFZwSUZLZ2lfSE1CSFNUNUNIbDlPNHlWMllEUldKckNyTkFKS1BURURC?oc=5",
+  "fecha": "2026-11-06T09:17:24+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:40:58+00:00"
  },
  {
   "id": "9e655f288a7ba1",

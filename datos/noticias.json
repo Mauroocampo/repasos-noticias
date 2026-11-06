@@ -1,6 +1,36 @@
 {
- "actualizado": "2026-11-06T21:35:59+00:00",
+ "actualizado": "2026-11-06T21:40:58+00:00",
  "notas": [
+  {
+   "id": "dc387d29232a13",
+   "fuente_id": "cnbc",
+   "titular": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+   "bajada": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
+   "enlace": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+   "fecha": "2026-11-06T21:40:09+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "a065d4b73b45d4",
+   "fuente_id": "techcrunch",
+   "titular": "The Duo apps are coming, says Apple",
+   "bajada": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+   "enlace": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+   "fecha": "2026-11-06T21:38:05+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:40:58+00:00"
+  },
+  {
+   "id": "dc30c05d7cca53",
+   "fuente_id": "la-republica",
+   "titular": "Los videos del CEO de Ueno Bank que desnudan la crisis del banco paraguayo",
+   "bajada": "Ueno Bank, el sexto banco más grande de Paraguay por volumen de depósitos, fue intervenido el 3 de noviembre",
+   "enlace": "https://www.larepublica.co/globoeconomia/los-videos-del-ceo-de-ueno-bank-que-desnudan-la-crisis-del-banco-paraguayo-4519385",
+   "fecha": "2026-11-06T21:38:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:40:58+00:00"
+  },
   {
    "id": "7ec208ffe86c80",
    "fuente_id": "investing-com",
@@ -418,16 +448,6 @@
    "bajada": "",
    "enlace": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
    "fecha": "2026-11-06T20:54:24+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "dc387d29232a13",
-   "fuente_id": "cnbc",
-   "titular": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-   "bajada": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
-   "enlace": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-   "fecha": "2026-11-06T20:53:13+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -1050,6 +1070,16 @@
    "fecha": "2026-11-06T19:35:04+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "c9d00234e7860c",
+   "fuente_id": "yahoo-finance",
+   "titular": "Jensen Huang Out of the World’s 10 Richest People as AI Selloff Hits Wall Street",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU01ZWGFLX3JFVld1NEZrTS1FOTFiVmxjWGQteU5UZ25zU3NnUHZMMzJadlBSOUllZmpFVkpoQ212NkZFNDlhb1J1a1c3ZEdNamM3RHlwMEhBd2JXUG90dTVDWHktcmhVbGNqQmxLWGVOX1cxVWRKcU9wWHhGRnVnT2dzY2ppckhUZVBCcmdiaDBpWk9yQ0ZPeXhB?oc=5",
+   "fecha": "2026-11-06T19:34:42+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:40:58+00:00"
   },
   {
    "id": "80b0864bba1c6b",
@@ -7472,6 +7502,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "07d43b4cf93104",
+   "fuente_id": "the-manufacturer",
+   "titular": "Automation - Page 24 of 26 - The Manufacturer",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldYNFp0dFNrT0dqOFI1dm85SXBhb3BDSlVLZG1EbVV0N0VwVTdvTFYxU2wtMGVoLVl0cXBvNG5CNWowQ0Fya0ZYUllLWnFsUi1pYUoyZVBqX0YwSUZxZ0E4dDNYcm8yd3JoOFZwSUZLZ2lfSE1CSFNUNUNIbDlPNHlWMllEUldKckNyTkFKS1BURURC?oc=5",
+   "fecha": "2026-11-06T09:17:24+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:40:58+00:00"
+  },
+  {
    "id": "9e655f288a7ba1",
    "fuente_id": "oms",
    "titular": "Discrepancias en manejo de cifras de cáncer en Colombia",
@@ -10060,6 +10100,16 @@
    "fecha": "2026-11-06T00:36:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "075d129a97445d",
+   "fuente_id": "the-manufacturer",
+   "titular": "Daily Manufacturing News Digest – the industry stories you should be aware of today",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMV8zU1lqV0xvbzJiM0ROVUNVbk16cmtUUzJHbUtMWXRYYlNKODVFNlg4ZUktUzZMMk1yWjRfei10M3hOelNibzJJX3dvWGRrVXRfb1dyWWtuSG5PWTF4LWFXakg0V1I4bU1fNmstVjFFbFh0cmtSczl1czV3QkRjS05fOXV4N3Nvay1zaE1yTC1PdS0zN09MeURnVElFOHpDbS05N0R6UTdZV1NPWFl3dVBFTmZleWJTdWxkSk1iczdid1ZLTHdVaGtB?oc=5",
+   "fecha": "2026-11-06T00:34:48+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:40:58+00:00"
   },
   {
    "id": "cee356aadb28a7",
@@ -24898,26 +24948,6 @@
    "bajada": "El gobierno de Abelardo De la Espriella derogó en los últimos días la Resolución 961, que prohibía la megaminería y la explotación de hidrocarburos en la Amazonía, abriendo nuevamente la puerta a las concesiones extractivas en la selva. La medida coincide con un acuerdo…",
    "enlace": "https://es.mongabay.com/short-article/2026/10/de-la-espriella-megamineria-explotacion-hidrocarburos-amazonia/",
    "fecha": "2026-10-30T21:58:57+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "bb3231ee7c52ea",
-   "fuente_id": "la-republica",
-   "titular": "Satena prepara nuevas rutas internacionales y evalúa incorporar aviones más grandes",
-   "bajada": "La aerolínea estudia conexiones entre Montería y Miami, así como entre San Andrés y San José de Costa Rica y también anunció un motor de reservas, un programa de lealtad",
-   "enlace": "https://www.larepublica.co/empresas/satena-prepara-nuevas-rutas-internacionales-y-evalua-incorporar-aviones-de-mayor-capacidad-4515296",
-   "fecha": "2026-10-30T21:40:12+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "7160eea9e71ffd",
-   "fuente_id": "wsj",
-   "titular": "Opinion | An AI Halloween Market Scare",
-   "bajada": "Crypto isn’t risk-free after all, as thieves take Binance for $6.3 billion.",
-   "enlace": "https://www.wsj.com/opinion/market-scare-ai-binance-nasdaq-google-alphabet-94e31518?mod=rss_markets_main",
-   "fecha": "2026-10-30T21:36:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   }
