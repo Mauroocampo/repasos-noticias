@@ -360,6 +360,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "b31db00bda89e5",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] JTEKT achieves 97.1% parts-picking success rate with physical AI in factory trial",
+  "bajada": "[Gen-AI Analysis] JTEKT achieves 97.1% parts-picking success rate with physical AI in factory trial Automotive Industry Portal MarkLines",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vR255UktfbVJpRDJ1VUQ3ZnUwM18xSkpsWXhyRlpmQzR1OGdyYjlPNVVndkF2T1VBejNiM1N2Mm10MnpLVENPdk1oSjdBVkRZa1E?oc=5",
+  "fecha": "2026-11-06T02:55:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "3cffe92012cfd8",
   "fuente_id": "infobae-colombia",
   "titular": "Carlos Antonio Vélez alertó por las falencias defensivas de Nacional, América y Junior: “Que no se engañe nadie”",
@@ -1460,6 +1470,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "2c14705ed523c8",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDZYVFlNUEs5R3oxN2piM1FfQl84SUdVN1ZadFhDV2ZaaC1IX25BMVZjQ0ZUQUs5aWg3NGdTdGhRdG1UMU5XN2YyVWRUVlk0eVJ3SHo3SnlULUZmbnNFeGVEQVlTZE9jQzBGQ01vMHQ3dWZLNFA3VFVPMFFiWGh3Q3BROE5WODIwckV2anIxMnZfUHVrbG1fdQ?oc=5",
+  "fecha": "2026-11-06T00:15:45+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "9e503841062bc9",
   "fuente_id": "abc-economia",
   "titular": "Así es el kit de emergencia por si tu banco se cae y no puedes operar 'online'",
@@ -1588,6 +1608,36 @@
   "fecha": "2026-11-06T00:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "9be4610f66c4d3",
+  "fuente_id": "siemens-productcert",
+  "titular": "SSA-045512 V1.2 (Last Update: 2026-11-06): Node2Shell Vulnerability in Siemens Products",
+  "bajada": "On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as “Node2Shell” (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-045512.html",
+  "fecha": "2026-11-06T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "97a863462fa4ca",
+  "fuente_id": "siemens-productcert",
+  "titular": "SSA-443410 V1.1 (Last Update: 2026-11-06): Node2Shell Vulnerability in Industrial Edge Management Applications",
+  "bajada": "Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-443410.html",
+  "fecha": "2026-11-06T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
+  "id": "c597570712255d",
+  "fuente_id": "yahoo-finance",
+  "titular": "Anthropic faces valuation pushback on $1.5T IPO following market rout, WSJ reports",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXdlRUVzQlRZUC1ZVDNyVGdVS3l2ZEZVQ3J5eXVOLVNFZEVBWHFoSi1YS1NtWndpaHh6SjlieVpEQ1lMOG9VVlQ2NTVUaFhRTUtxdmh6OXRneHpKdlZ2VlNad0FqaDYwQ0t0T1FvTmhUYUhkQ2xQck1ieWhwLU9YUm1oWkRmVzRpcVZ2VnNYa2JwOTU3QjRfUjBrRW5wSDNGanc?oc=5",
+  "fecha": "2026-11-05T23:59:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "2d4994bf97732a",
@@ -1990,6 +2040,16 @@
   "primera_vista": "2026-11-06T14:29:07+00:00"
  },
  {
+  "id": "db22859f76faed",
+  "fuente_id": "yahoo-finance",
+  "titular": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjN2dy1ITkREdHRHdTU0S0RheE9VazhWa1FFQm9uanY2eGhUTjRtNjY2MzNuYlU0R3BvY21tSnRVcTh4RnZUcHlPM25RZzh3SFBwRmI0LVFYb196dW5weUJ4R1lKdmZFQmM5WGZQN1Btd3hTc1JGczM2N1Z0a0ZSVkUyb29XSlhZSXRDS0poam1YbHlkeGMwWA?oc=5",
+  "fecha": "2026-11-05T23:03:47+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "c831c3df46c71c",
   "fuente_id": "cnbc",
   "titular": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
@@ -2360,6 +2420,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "49926cd8579e55",
+  "fuente_id": "yahoo-finance",
+  "titular": "Stock Market Today, Nov. 5: Nasdaq Suffers Worst Day in 18 Months as AI Trade Comes Under Fire",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTJTRVhydmRiVkhUVkw0N3BJM1ZzVFFmbW9CUXJVYjZMWmN3bkphMG10Tmk5eFo2NWpzSVhpQXBNXzdTZ0QyRmNDMENQdU9EUDhza2VDSlREaGRwNjZxWllpbzJiTElzX2ZuLUtzNk9la2lBX3FTNE9WWEZpUDlBcTlKNWVTMEh2R2NQQ0lteE9EelE?oc=5",
+  "fecha": "2026-11-05T22:15:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "a22db52ef1085b",
   "fuente_id": "el-heraldo",
   "titular": "Fiscalía de Paraguay incluye a Santiago Peña en su investigación penal por el escándalo de Ueno bank",
@@ -2428,6 +2498,16 @@
   "fecha": "2026-11-05T22:10:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "c8073bfd8bb7fb",
+  "fuente_id": "wsj",
+  "titular": "Basic Materials Roundup: Market Talk",
+  "bajada": "Find insight on gold futures, palm oil, London’s miners and more in the latest Market Talks covering Basic Materials.",
+  "enlace": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
+  "fecha": "2026-11-05T22:10:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "d54b20a79ea20e",
@@ -2528,6 +2608,16 @@
   "fecha": "2026-11-05T22:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "3411130f4381ef",
+  "fuente_id": "business-wire",
+  "titular": "Thermo Fisher Scientific Announces Quarterly Dividend",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmlSQkpUMi1ZNnQ1UHdFVmFaVEZ1QlIzaVc2RU1tR3kyYWRiNUh2ZG5idmlqdXU4b3lIcEZ3SkhjY1dGRDZJTHhyVzdlOWhwMUdURDNCQnVBb2tTRXRlSGQtQzJ5VGs0SkdJbjJMaXFYemlUdlZOT1h5aDF4NkN2ZkhiNlh6bnBEcmFoWHROaFR0RW9FWHJxRFh5ZVhmclhEaUI3YWRqQURWb1VqcHFB?oc=5",
+  "fecha": "2026-11-05T22:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "e7d05f6a247697",
@@ -3030,6 +3120,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "85acb527626c76",
+  "fuente_id": "business-wire",
+  "titular": "NuScale Power Reports Third Quarter 2026 Results",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamQtNF8zZ19VaU1PbE1WcE0ycXBMNDBqWUxuYVBscUx5YlFiWWdLWFczWlJocHVuMWFnS1pQeVhiN3E3TU5LQzQ0OGVpYjZtU2VIZ3RWQnhEZFR6N2htUEx4RnR6T0s3dnlMcUR0Vl80ZFJBQXFMbmJwYkVZRE9OVktsMDdLMkRpbzNkZy0yMjBoSGlaZkZkOTFIUEo5TGNTOW9Vd0g1d2c?oc=5",
+  "fecha": "2026-11-05T21:15:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "19c090dad9bce4",
   "fuente_id": "wsj",
   "titular": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
@@ -3070,6 +3170,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "bdb67ce135c5fd",
+  "fuente_id": "business-wire",
+  "titular": "Tandem Diabetes Care Names Jeannette Bankes as President and Chief Executive Officer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWdNamJhZTJOZW0zQXl0MHhIeHNrbGpSTFlhT05wN21aTTlLYmVxQ1Nmb0phemNNZG5OT190dG44bzJYVHh6UHJwSjJwaE5VLTJEWC1sSHY3dFc0UXZGM2NDTXRVMGpFaVRRM29zVGdhczczRVMtSk1ZQ0FaTzNURENXWkh1MkNtcXNXNEpvU0ZZcEhnOHlkeXVLd2NTQXlsVmhzOVVoajZZMU9pUzFCMGNNenZlQ29CYkVUTlhGN2ZpQ2NkVC1sWGRmbDFQSE04VjZMSk1yV0M?oc=5",
+  "fecha": "2026-11-05T21:08:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "467f3966099743",
   "fuente_id": "yahoo-finance",
   "titular": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
@@ -3088,6 +3198,16 @@
   "fecha": "2026-11-05T21:07:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "dbdfbf9c0b26aa",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] Lucid-Uber-Nuro Gravity robotaxi launch in Bay Area delayed to Q1 2027",
+  "bajada": "[Gen-AI Analysis] Lucid-Uber-Nuro Gravity robotaxi launch in Bay Area delayed to Q1 2027 Automotive Industry Portal MarkLines",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyQjU3Wlc0cUQ2REJVTmZTRnFDTWhSeE5IU1VobmlPc0lkVUUxNHBWLU1pcTJEMFpoOEFlakw3SlhIcTlQNEhkWWZZMEZOaXVkY1E?oc=5",
+  "fecha": "2026-11-05T21:07:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "5b114e4c27325d",
@@ -3120,6 +3240,26 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "bba2f126c8385f",
+  "fuente_id": "business-wire",
+  "titular": "Mattel Names Steve Totzke President and Chief Operating Officer; Roberto Stanichi Steps Down as President, Chief Marketing and Brand Officer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQmxWVTVoeDdfQnd2WTByVGJtTjlILTNqODl1eVlYSEpLTUFvV0ZJaGUzbnBZN2JWVE1iY3h3UXlfaUxxbVdhZG9waVNnN3NsS2w5RHRKaUVTQlV5aGNYRGRqeHNZTXJhdlFadDN0SXoxOU1lRy1taHZNMUlUc3VYbF9NNW4wQXZ6eEszYW1LSkc0bElMSVo1QWhMdk4zNFMxY2tTYkUxN1dyVVN5ZU1FMXhDZE5iUHZiRmgyRUtzVmVnRXZDQTNNcXVjMEdqWXNXanZNQ09xcnRQUnNNeldNNEpNZmZZdXVvX3g1c2RZREhnU1labDVqMzlXMGFKaF9fa0V6a0JnQjR1U0I5Ni1nY29vUVY0M1R6MVp0VlZwX2U?oc=5",
+  "fecha": "2026-11-05T21:05:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
+  "id": "aa30e3b72beb78",
+  "fuente_id": "business-wire",
+  "titular": "IonQ Announces Record 3Q26 Revenues and Raises FY2026 Guidance to $505 - $515 Million as Backlog Grows to $1.2 Billion",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNG1zcHlvSy1HSGdxSmN5ZExSUXc3VVRxZjM0SjNZMW1JWnJsdmlNVVRZUkpTQ29wMEVjTlNqNmt1WUhIUVdkNm5kYUhpLW1PX1diWEVFdDZEUE1QTVV6VHl6azk0dENWOG40SC1QQlRZQm16WG83Sy1oYWpwaFp1NHdFVURaV3MtM2NvTnJEMFllODBackh3VTNWZWNfTm5xN1dBdUdXRjJqN3ZZc1E5bFhtNWtLQTM0bWh4RWxCMVFFZUdKNU9nM2xBdWM1R1phOUtLNlUyVUJ3dVhGM2pzSjBveXlXWkljMHdzUEpOSnBpd2dtY1NlMnYxNF84YWo0Z0dRTWNUY19leThZVkE?oc=5",
+  "fecha": "2026-11-05T21:05:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "877b7f9a0fde95",
   "fuente_id": "business-wire",
   "titular": "Dropbox Announces Third Quarter 2026 Results",
@@ -3128,6 +3268,16 @@
   "fecha": "2026-11-05T21:04:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "5fcaf36cbf7d4c",
+  "fuente_id": "wsj",
+  "titular": "The 2027 Tax Brackets Are Here. See Where You Land.",
+  "bajada": "Inflation adjustments to tax brackets, the standard deduction, the child tax credit and more are meant to give taxpayers relief from rising costs of living.",
+  "enlace": "https://www.wsj.com/personal-finance/taxes/the-2027-tax-brackets-are-here-see-where-you-land-c20ada58?mod=rss_markets_main",
+  "fecha": "2026-11-05T21:04:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "c4528829fc026a",
@@ -3470,6 +3620,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "b8020e00df1cef",
+  "fuente_id": "yahoo-finance",
+  "titular": "'Tax the rich' won in ballot measures across the US",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1VqTmk5OEVQSkEteGdKcVkySmp6ZWRFRUVUM1JSS1FlMlF4QVZOc1lEMUNFTkdiSkpNOG95blpjMGtLWU1lVGw2Y2VJODBSVXBESE5aamkzLU05Uk5PbFZ3bHdZYzF5N3QxQWNxMjJHdnczcEJtTFBOVmg1V3I0R1RnSkowQnc1a0ZqNnZsdVBJcE9Dbk4zUUlVTjdpNGVPdThGTkhFYUhsQQ?oc=5",
+  "fecha": "2026-11-05T20:16:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "db6b83293e6558",
   "fuente_id": "el-universal",
   "titular": "Sicarios le quitaron la vida a alias ‘el Águila’ y la Policía les dio de baja",
@@ -3608,6 +3768,16 @@
   "fecha": "2026-11-05T19:54:47+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "f8abd7dcd943aa",
+  "fuente_id": "la-republica",
+  "titular": "Marco Rubio consideraría dejar el gobierno tras la derrota republicana en las 'midterms'",
+  "bajada": "No es inusual que los miembros del gabinete abandonen una administración cuando entra en su fase de transición",
+  "enlace": "https://www.larepublica.co/globoeconomia/marco-rubio-consideraria-dejar-el-gobierno-tras-derrota-republicana-en-las-midterms-4518576",
+  "fecha": "2026-11-05T19:54:47+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "e88d571f89cb7e",
@@ -4680,6 +4850,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "68ec7abc4f3acb",
+  "fuente_id": "business-wire",
+  "titular": "Higher Logic Acquires Mission Fuel AI to Expand Education Services for Associations",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZTUydnRNSzA4YmpLOElBZVJ1cGJVX1R4NHdCTlJURnlVdjZvdE9GZWVoYWxMcWdURm12dkVqY0VZZGhKMEM3WFV2WEU3ZVNzSlZaQ2dGWWtlbFNTVlFqOEU2Nmo3VlU0Zy1yLXF6QkRFVU54bjVKdnZBanZIQ0thU3dOZFp2eHBDZWk1TUppXy1pdHZNQ1hLbklQckRVMXlLSkRWa0Z0QXFSaTQtTXBZWTd6SDRack5aY2wtXzJDZkkzWWtjZGo0ams4c3hZb1JZbTJhVjJXWQ?oc=5",
+  "fecha": "2026-11-05T17:02:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "23a6d17cc28a29",
   "fuente_id": "the-register",
   "titular": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
@@ -5080,6 +5260,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "eadba74859f6b0",
+  "fuente_id": "yahoo-finance",
+  "titular": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGkxMkNJZ0ZEVU0xYURfUlR4dnNYOUNzZGFQQ3NJUGh5M0xzQkJyT0Nna3k0Z2FJLTAteGJRRFpDTXY2MENPMUZMZ3k5VWNFV0dFc1BIbVdaNlhVX2oxNWhlZGpCVUNWRG9tYWxYc0pLNlBwRFRpMUY1X1pkemdpNXU1UFRkSGxoRnVQMm1pMGtvZmtOVFlid0lENUQ?oc=5",
+  "fecha": "2026-11-05T16:00:16+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "f443b0ba0cfa02",
   "fuente_id": "futurefive",
   "titular": "Flip-a-Tyrant! arrives on Android and iPhone debut",
@@ -5368,6 +5558,16 @@
   "fecha": "2026-11-05T15:15:20+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "6506172bd10001",
+  "fuente_id": "yahoo-finance",
+  "titular": "'Every alarm bell warning of a substantial bear market is ringing': Major US hedge fund says FOMO is turning to FOGO",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUV1cEZnSFRxTU5sMUxfNGxxQmZGT0V0Ym81RDBEZW5GVlE5SzF3Q0t1aktxLTM5dHZ2Rks1Zm42WEdkRlBvNDBjc2ZMdTJfMGR2N1pkd0VVZ2luOFpXS0JYc3o0c3Z2aklIWXhTLThsT0RlM05mZEFkejhzenF5Z094aDMyZjZCSFFhaS1SVjB6Ml9WYlJ5MWxtVFRPclQteC1R?oc=5",
+  "fecha": "2026-11-05T15:15:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "58312fd07781d0",
@@ -6000,6 +6200,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "c0efe418075fa4",
+  "fuente_id": "business-wire",
+  "titular": "Xandar Kardian Introduces Somily, Bringing Radar From the Hospital to the Bedroom Wall to Read the Chest, Not the Pulse at the Wrist, While You Sleep",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNempCclhtOVRRV2pYUjJZMDlMOWIxYUY2ZDJGY2owLXNaUlg3cEM0VnpOWUYwM21KNXpHZHVBSHBCZkNpUFd0SjU0VnZrUkFZcnU3S0Z5dmt2VUs1c05sVGFFTll1ZGk4SFg5SUJaamZ1NkxQd2dtbjVPY3UyMjdRNDZZNTlITzM3czlCVlRzSTlNUm44cjJINFhQc0hKYzh5WFhxVEFXTm1SM0E4OGhpOEt2bThfdzA0LUVaV2FJVVIzdFdmenpHLXdRRUFvZFVLMExiLVF1VW1uM0FJd2t0SFh0TC1Gam5BVjVHRFk0d0RMUzJ5UTN3cmxFZWU2eGhPUm04Z0RPQjlDQ1o1c1hIVU96N1RQQmhIQ1V2QXhnemR2a2pJbE5Ndi1GZw?oc=5",
+  "fecha": "2026-11-05T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "8c148f2ef1366b",
   "fuente_id": "agronegocios",
   "titular": "Conozca los resultados de las loterías del Valle, Manizales, y del Meta del 4 de noviembre",
@@ -6298,6 +6508,16 @@
   "fecha": "2026-11-05T13:18:43+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "80ad7d1b8f6056",
+  "fuente_id": "yahoo-finance",
+  "titular": "JPMorgan says Fed Chair Kevin Warsh needs to spend more time with Congress to keep his gig",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRks0N18zSlpleTBjTlpKX2JiVnMwUktqV0pCMFhFMlVCZXV0a0NDelRwVmJHelUxOEluOEZuZlJ6NzAwVWw5dDJKbXo0T0lmeG1SZl9laXB5UlFiVFN2NmlWaE55ZFRFS0pJczV3bkpEQVZhTzNBcVVmQ2N0NjFPcnVNeWhSOG9Kbkk1OHRXc3kxZ2s5QldjNFlYZ2xvUDd0aUhCSjJkUnNxZUdKVFB2NkY4b1Uybm01X2ZMZEpsSzNNM0FHSjJuY0lFcTdnX3FISjdIeUw4RzVpcTVJb0pJRg?oc=5",
+  "fecha": "2026-11-05T13:17:03+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "b1a610c44daf3a",
@@ -6980,6 +7200,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "c0d362f27949b5",
+  "fuente_id": "business-wire",
+  "titular": "Krispy Kreme Reports Third Quarter 2026 Financial Results, Increases Revenue Guidance as Significant Turnaround Progress Continues",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZE82NGhGdVpVMUlpLWZ3VjlIMjRrSnBleVNuNXA3Rk9Eblg3ZmJkU0ljazVoVWdpdXpVYzZsYk5oeGNFU0t2VmRKTE5PU0g2ckdFcEhPbjAxZU94OHhsVThTODRPMDhGOUljVFVMRkhZVXVHZjduMmRvMnZkcUt2dGJRM3paUk9Nc0IwNS14NGVEaUhsRHVReHpsOWE5VkgyVW81aEtkWjk5R3pSN21BdktkT3JXUGZ0RFJzUUpxTmRhS3ZNS3kxVEg2YWpfd0hYcXRwcUdpT1ZPcE9MamJDVGEyOG9vTDdlQ3FVZnFKdkNKMVJvaG5rYmlkUUNqUjNTV3JYM3NxNVNhQ05IY2tVTzM4Mlg?oc=5",
+  "fecha": "2026-11-05T11:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
   "id": "f7a35848fe853a",
   "fuente_id": "house-of-commons-library",
   "titular": "The NATO Parliamentary Assembly and UK delegations",
@@ -7307,6 +7537,16 @@
   "enlace": "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd?mod=rss_worldnews",
   "fecha": "2026-11-05T10:49:00+00:00",
   "via": "rss",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "5bb6d203c51f9c",
+  "fuente_id": "yahoo-finance",
+  "titular": "Softbank's $5.4 bln takeover of ABB robotics unit blocked by China- FT",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUw4WkN5cDZra2ttaHRqSGtjUmc3UlZHSER3aTlVQVRSVGtlS3BtNjVHXzh1V2REVXJGdDl0bHFkUG5zaXRBdDEzZHJBNnlwbk9OeHU2N3RnSG5Xc0lPZzFBMFlvd01FRzJXeHB4alZwUnBNUkswNjd5aWwwd1E2WmFzOVlOVjRMQm1POS1UbGhYeG8?oc=5",
+  "fecha": "2026-11-05T10:48:12+00:00",
+  "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
@@ -8008,6 +8248,16 @@
   "fecha": "2026-11-05T06:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "0f1839f5082f6e",
+  "fuente_id": "unicef",
+  "titular": "- UNICEF WeShare",
+  "bajada": "UNICEF WeShare",
+  "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12YVcyajJmQ1VQcEdRbHU1Q1B0UlBTRjI0V0J3WEIzR2VNYy1YUFN1d3dSb1RQQlNQY3FOX253VHlZMDFpdndMeTIyckVFa2VpVjhibkNWTk9OQUk?oc=5",
+  "fecha": "2026-11-05T05:17:58+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
   "id": "2a5b7d5a686a58",
