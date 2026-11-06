@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-06T21:14:46+00:00",
+ "actualizado": "2026-11-06T21:16:46+00:00",
  "notas": [
+  {
+   "id": "4e8f2eb5c14381",
+   "fuente_id": "cnbc",
+   "titular": "OpenAI bugging suspect Alfozan pleads not guilty",
+   "bajada": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+   "enlace": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+   "fecha": "2026-11-06T21:15:47+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
   {
    "id": "3fdea51ec79775",
    "fuente_id": "wired",
@@ -378,16 +388,6 @@
    "bajada": "La Universidad de Cincinnati transforma los sonidos de hélices y motores dañados en datos para alertar a los operadores antes de un vuelo. Este avance podría reforzar los controles previos al vuelo",
    "enlace": "https://www.infobae.com/tecno/2026/11/06/desarrollan-un-sistema-que-detecta-fallas-en-drones-antes-del-despegue/",
    "fecha": "2026-11-06T20:30:49+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
-  },
-  {
-   "id": "4e8f2eb5c14381",
-   "fuente_id": "cnbc",
-   "titular": "OpenAI bugging suspect Alfozan pleads not guilty",
-   "bajada": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-   "enlace": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-   "fecha": "2026-11-06T20:30:32+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
@@ -3472,6 +3472,16 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
+   "id": "24c421999995d9",
+   "fuente_id": "yahoo-finance",
+   "titular": "Nvidia stock oversold setup: Key levels after a 9% drop",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5",
+   "fecha": "2026-11-06T15:09:36+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:16:46+00:00"
+  },
+  {
    "id": "13169e7cb7fde7",
    "fuente_id": "yahoo-finance",
    "titular": "Chip stocks lead tech rebound as SpaceX, Tesla jump: AlphaCheck",
@@ -4640,6 +4650,16 @@
    "fecha": "2026-11-06T13:36:31+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "eb7177997c3acf",
+   "fuente_id": "yahoo-finance",
+   "titular": "Google parent reveals $548 million bet on beaten-down chip stock",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFdHMFhfc0p5eUg4UWVkYWEwZl96ZTFEeDI3VzJCSUd2ajV0QWhjRkVDVkU5RjJhYjF3cEM5VncwRnFPY0RQbVpsVFZfM2FjN3pCWnFFaE9QdlNUdWV2c0M3dkZRU2tqZFZqQmJaNWF3MmVvcldIbkU3bzVBbXlUQlJiVjF4RElzc2pqQlRtdld4ck9fdTBqYkNxdUZRejg?oc=5",
+   "fecha": "2026-11-06T13:36:11+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:16:46+00:00"
   },
   {
    "id": "c533d131b3d658",
@@ -6195,7 +6215,7 @@
    "id": "605ef487b469cd",
    "fuente_id": "forbes",
    "titular": "Why It Will Be Nearly Impossible For Congress To Break The Pentagon’s Elon Dependency",
-   "bajada": "The arena in which Democrats may wish to lessen Musk’s influence the most—the defense sector—may be exactly where it is hardest to do so.",
+   "bajada": "he arena in which Democrats may wish to lessen Musk’s influence the most—the defense sector—may be exactly where it is hardest to do so.",
    "enlace": "https://www.forbes.com/sites/monicahunter-hart/2026/11/06/why-it-will-be-nearly-impossible-for-congress-to-break-the-pentagons-elon-dependency/",
    "fecha": "2026-11-06T11:30:00+00:00",
    "via": "rss",
@@ -17932,6 +17952,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "8c9c6073fe56ef",
+   "fuente_id": "business-wire",
+   "titular": "Exelon Seeks to Protect Customers from “Unreasonable Costs” in New FERC Complaint",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTU5sWS13VGFKdWZ2aDBmWUFZbGpQanZTYklFeXdwTndzLTBKYjNCT19hQm04b3NWTzZxLXlVMk9ySUlQNXpBOGwwWXRfVG02TU5hd1gxTU8zdHMxYlZqTzdKYU0wd0xUS3ViMHJvUHd3MS14LTJlejNHQUsxZkdUYUVqQTlOUFVZWjNYZ0pWRzVmYllFbEFyQ2wzUklsdVJPT3pUc0NwRXY2dDB1dUoyQ0MtMERmZDUwb3JmeHRNRDBXbjd4TElHWWprU0M0bkJKRnc?oc=5",
+   "fecha": "2026-11-04T19:31:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:16:46+00:00"
+  },
+  {
    "id": "85098fa545e779",
    "fuente_id": "business-wire",
    "titular": "Capital Markets Lawyer Cameron Half Joins Dorsey’s London Office",
@@ -20470,6 +20500,16 @@
    "fecha": "2026-11-03T21:23:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "628a4213673710",
+   "fuente_id": "el-universal",
+   "titular": "Video: así fue el impactante choque de helicópteros cerca del Everest",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3JFTGhuTGdTbmxfdDg1Q3M0REpYbjJGQmhfQk4tZUtFNklsV19ZN29XeUhUX2Z2MVhleWNDSjFYYzROelpEM0xOWFptbzNXbU81eXBOZFE4am5pbHVENjRWWUg3VDdYckRDTVhaNHB2WTVSa3FWdTVXSnVZUzdXWmxMbnZLUmg4NkpEc3BmTUpqNWExUm0wM0FmM2duQmpLLTgxOFpnLVRrM0VYSVJIWHE4UUkxU2Z6?oc=5",
+   "fecha": "2026-11-03T21:21:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T21:16:46+00:00"
   },
   {
    "id": "4949255efa9db3",
