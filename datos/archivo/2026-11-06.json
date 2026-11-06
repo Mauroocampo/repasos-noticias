@@ -1,5 +1,125 @@
 [
  {
+  "id": "ba5a66e510a8c8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Microsoft Warns Fake Game Downloads Are Secretly Monetizing Windows PCs",
+  "bajada": "Fake game downloads and cracked software installers are turning Windows PCs into money-making tools for campaign operators. Microsoft has warned that deceptive installation packages quietly deliver software that shares internet bandwidth, runs distributed-computing workloads, or…",
+  "enlace": "https://cybersecuritynews.com/microsoft-warns-fake-game-downloads/",
+  "fecha": "2026-11-06T14:38:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "35aad76a0c8314",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Anthropic’s Claude Code Reportedly Leaks User Email Addresses Through HTTP User-Agent Headers",
+  "bajada": "Anthropic’s Claude Code is facing privacy concerns after a user reported that the AI coding tool sent their email address to third-party websites through HTTP User-Agent headers during web searches, without permission. The report raises questions about how coding agents handle…",
+  "enlace": "https://cybersecuritynews.com/claude-code-leaks-user-email/",
+  "fecha": "2026-11-06T14:37:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "81173264f799f9",
+  "fuente_id": "investing-com",
+  "titular": "Trump administration scraps meeting of panel that includes Meta’s Zuckerberg, Nvidia’s Huang",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/trump-administration-scraps-meeting-of-panel-that-includes-metas-zuckerberg-nvidias-huang-5008582",
+  "fecha": "2026-11-06T14:36:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "cd3bbed4061445",
+  "fuente_id": "investing-com",
+  "titular": "Nasdaq rebounds at the open after AI rout; yields rise on blockbuster jobs report",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240",
+  "fecha": "2026-11-06T14:36:45+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "0307ca1c3ff590",
+  "fuente_id": "investing-com",
+  "titular": "Rush Street Interactive stock hits 52-week low at 11.33 USD",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/rush-street-interactive-stock-hits-52week-low-at-1133-usd-93CH-5008622",
+  "fecha": "2026-11-06T14:36:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "fcb278b508fea2",
+  "fuente_id": "investing-com",
+  "titular": "SLM stock hits 52-week low at $17.22",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/slm-stock-hits-52week-low-at-1722-93CH-5008621",
+  "fecha": "2026-11-06T14:36:35+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "486e8e295d0cbf",
+  "fuente_id": "investing-com",
+  "titular": "Canada’s unemployment rate reaches six-month high",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/economy-news/canadas-unemployment-rate-edges-up-to-sixmonth-high-in-october-5008181",
+  "fecha": "2026-11-06T14:36:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "7630a4a2e114f6",
+  "fuente_id": "investing-com",
+  "titular": "Ellington Financial stock hits 52-week low at 11.23 USD",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/ellington-financial-stock-hits-52week-low-at-1123-usd-93CH-5008619",
+  "fecha": "2026-11-06T14:35:55+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "99fe8149e2c553",
+  "fuente_id": "investing-com",
+  "titular": "AllianceBernstein stock hits 52-week low at $33.88",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/alliancebernstein-stock-hits-52week-low-at-3388-93CH-5008618",
+  "fecha": "2026-11-06T14:35:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "0e43a13a608c1e",
+  "fuente_id": "infobae-tecno",
+  "titular": "Cómo recuperar fotos eliminadas del celular: paso a paso para rescatar las imágenes en Android, iPhone y Google Fotos",
+  "bajada": "Antes de recurrir a programas de recuperación, conviene revisar las papeleras del teléfono y comprobar si las fotografías tienen una copia de seguridad en la nube",
+  "enlace": "https://www.infobae.com/tecno/2026/11/06/como-recuperar-fotos-eliminadas-del-celular-paso-a-paso-para-rescatar-las-imagenes-en-android-iphone-y-google-fotos/",
+  "fecha": "2026-11-06T14:35:21+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "270c7de0f2fa5e",
+  "fuente_id": "el-heraldo",
+  "titular": "Lorenzo dio la lista de convocados para amistosos ante Chile: el barranquillero Deivis Vásquez fue llamado",
+  "bajada": "La escuadra nacional jugará dos partidos ante ‘la roja’, el 13 y 17 de noviembre.",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/06/lorenzo-dio-la-lista-de-convocados-para-amistosos-ante-chile-el-barranquillero-deivis-vasquez-fue-llamado/",
+  "fecha": "2026-11-06T14:33:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "f411e1a00483f8",
+  "fuente_id": "investing-com",
+  "titular": "Raymond James reiterates Humana stock rating on Q3 beat",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-humana-stock-rating-on-q3-beat-93CH-5008608",
+  "fecha": "2026-11-06T14:32:59+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
   "id": "cc5077247da7bd",
   "fuente_id": "asuntos-legales",
   "titular": "Deicy Jiménez entregó evidencias a la Fiscalía por red de contratos a cambio de favores sexuales",
@@ -8,6 +128,36 @@
   "fecha": "2026-11-06T14:32:58+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:34:20+00:00"
+ },
+ {
+  "id": "4beab7771179a0",
+  "fuente_id": "investing-com",
+  "titular": "Prestige Consumer Healthcare stock hits 52-week low at 42.5 USD",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/prestige-consumer-healthcare-stock-hits-52week-low-at-425-usd-93CH-5008607",
+  "fecha": "2026-11-06T14:32:58+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "0b8ff93f4c7ecd",
+  "fuente_id": "investing-com",
+  "titular": "BofA cuts Dentsply Sirona stock price target on guidance reset",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/analyst-ratings/bofa-cuts-dentsply-sirona-stock-price-target-on-guidance-reset-93CH-5008606",
+  "fecha": "2026-11-06T14:32:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
+ },
+ {
+  "id": "9e5dbc22c1b392",
+  "fuente_id": "unite-ai",
+  "titular": "The Rise of the Executive AI Briefing: How CEOs Start Their Day in the Agentic Era",
+  "bajada": "For years, “data‑driven leadership” has meant some version of the same morning ritual, where a CEO skims a static dashboard, scrolls through long email threads, and flips through a carefully assembled briefing deck prepared the night before. That workflow was barely sufficient…",
+  "enlace": "https://www.unite.ai/executive-ai-briefings-context-graphs/",
+  "fecha": "2026-11-06T14:32:26+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
  },
  {
   "id": "a003104eade459",
@@ -458,6 +608,16 @@
   "fecha": "2026-11-06T14:07:52+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "6c0ad9a09d8565",
+  "fuente_id": "yahoo-finance",
+  "titular": "'A blowout': US added 165,000 jobs in October, trouncing expectations",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFMzd0lzMk5DTVZ6TjBBOWR1QWMzQ1Zya0lId29ybVRCaDRKYW1hSEJVQzJWXzU3b0pvdVpHeER4RlI3eE1HWmpLWFNrcW9QaTkxXzNtWUNxZ1pZd0NkTnlrRFhUUE9rSDVDLUhBcUE0S3NzQlpEVS1COENPRjhWVnBNWlZXNHhUSXIyS1FFa0tOQzF6a1U3eWhjWDIwM1E5VC1URlNpNmtoZUE4dTMyZFJsR3ZRUTRsSnJHdzJR?oc=5",
+  "fecha": "2026-11-06T14:06:32+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
  },
  {
   "id": "f501177dee2801",
@@ -2380,6 +2540,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "7820de5cc39535",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fRUVqYnhXMGJjaDMtTFhtX0x0eko3QWY2RXNST1E5SldrWFV4TGtHcWRscnA1c3pCRHV6bXNtelp6Z2IxTWhwTlZyNW9ZT2M?oc=5",
+  "fecha": "2026-11-06T11:11:09+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
   "id": "453acf6977b973",
   "fuente_id": "la-republica",
   "titular": "EPS Sanitas reportó entrega de 60.799 fórmulas en Bogotá tras cambio de operador",
@@ -2928,6 +3098,16 @@
   "fecha": "2026-11-06T09:49:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "92e80f7bb77323",
+  "fuente_id": "the-manufacturer",
+  "titular": "Automation - Page 26 of 26 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWF0LTRtc1A1NXo1ZlZwUVpGWTZGYS1hVmlfRXEyV3kyLXA3Uk1vUXZyZk85V3BVbUcwQlhvS3hkdHE4ZWZrdmlJU3F1TEx4TUZ1RktqN0UtNHVYeVBXekV0V1RmTlJ5VWZIajNtV05xaWRQRE1qaGoySm15OFdHMlhqbWdkb1BLV1lGZVVBUnBROXZM?oc=5",
+  "fecha": "2026-11-06T09:47:28+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
  },
  {
   "id": "cdbf3054ee3e2b",
@@ -3488,6 +3668,16 @@
   "fecha": "2026-11-06T08:22:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "513b500b8d369e",
+  "fuente_id": "the-manufacturer",
+  "titular": "Leadership - Page 401 of 402 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BXzBHdGpuZWNVcnEwVmpYdmFDbFpISFNqRUZEMmxpTTY1amJUMnY2ZVZmQ29zZHcxX0M1elpyNHFoekgzUG1Kd0NsUjQyVS1iM2hRSlR2TEZSdDJkU0o0U1lnSXUxSi13YnNGcg?oc=5",
+  "fecha": "2026-11-06T08:18:45+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:39:23+00:00"
  },
  {
   "id": "e812cc86ffd487",
