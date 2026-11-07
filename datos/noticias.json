@@ -1,6 +1,116 @@
 {
- "actualizado": "2026-11-07T12:59:03+00:00",
+ "actualizado": "2026-11-07T13:19:28+00:00",
  "notas": [
+  {
+   "id": "97b1cc911aa35d",
+   "fuente_id": "cnbc",
+   "titular": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+   "bajada": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+   "enlace": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+   "fecha": "2026-11-07T13:03:12+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "a3d2185b980a7e",
+   "fuente_id": "investing-com",
+   "titular": "GATX svp Kevin Hillesland sells $355,801 in common stock",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/gatx-svp-kevin-hillesland-sells-355801-in-common-stock-93CH-5009874",
+   "fecha": "2026-11-07T13:01:26+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "cb405340cecf5f",
+   "fuente_id": "cnbc",
+   "titular": "America doesn't like socialism. So why are socialists winning?",
+   "bajada": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
+   "enlace": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+   "fecha": "2026-11-07T13:01:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "2ff8f911fa6d41",
+   "fuente_id": "investing-com",
+   "titular": "French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/commodities-news/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60-5009873",
+   "fecha": "2026-11-07T13:00:36+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "025c78d940d2b8",
+   "fuente_id": "el-heraldo",
+   "titular": "Cerca de 1,2 millones de clientes de Ueno bank en Paraguay han recibido ya sus fondos",
+   "bajada": "Los más de 90.000 jubilados en el país cobrarán sus salarios y aguinaldos “en tiempo y forma” el próximo 17 de noviembre, según el Instituto de Previsión Social.",
+   "enlace": "https://www.elheraldo.co/mundo/2026/11/07/cerca-de-12-millones-de-clientes-de-ueno-bank-en-paraguay-han-recibido-ya-sus-fondos/",
+   "fecha": "2026-11-07T13:00:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "c3121b04e57bdb",
+   "fuente_id": "cnbc",
+   "titular": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+   "bajada": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+   "enlace": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+   "fecha": "2026-11-07T13:00:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "f04c1d742c51f4",
+   "fuente_id": "cnbc",
+   "titular": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+   "bajada": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
+   "enlace": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+   "fecha": "2026-11-07T13:00:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "a7733f71f01864",
+   "fuente_id": "wired",
+   "titular": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+   "bajada": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+   "enlace": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+   "fecha": "2026-11-07T13:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "33418af48db6fa",
+   "fuente_id": "unite-ai",
+   "titular": "What Is Model Distillation? How Large AI Models Teach Smaller Ones",
+   "bajada": "Model distillation transfers behavior from a larger or more capable teacher into a smaller student model using teacher outputs, internal signals, or softened probability targets. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+   "enlace": "https://www.unite.ai/what-is-model-distillation-how-large-ai-models-teach-smaller-ones/",
+   "fecha": "2026-11-07T13:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "5b9497fb90379b",
+   "fuente_id": "cybersecurity-news",
+   "titular": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+   "bajada": "SonicWall has warned customers to patch a SonicOS SSLVPN vulnerability that could let attackers bypass SAML authentication and its multi-factor authentication checks. Tracked as CVE-2026-19868, the flaw carries a CVSS score of 7.1. The company has investigated a report…",
+   "enlace": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/",
+   "fecha": "2026-11-07T12:59:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "b0ebc49ba45ec4",
+   "fuente_id": "investing-com",
+   "titular": "Tata Chemicals Q2 FY27 slides: revenue rises 8% as margins contract",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/tata-chemicals-q2-fy27-slides-revenue-rises-8-as-margins-contract-93CH-5009868",
+   "fecha": "2026-11-07T12:58:30+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
   {
    "id": "fdcf38454f733e",
    "fuente_id": "bbc-mundo",
@@ -22,6 +132,16 @@
    "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
+   "id": "fe41beaa62b3fd",
+   "fuente_id": "investing-com",
+   "titular": "Putin deepens Japan Tobacco expropriation with second asset seizure decree",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/putin-deepens-japan-tobacco-expropriation-with-second-asset-seizure-decree-5009867",
+   "fecha": "2026-11-07T12:48:11+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
    "id": "50344faf2818af",
    "fuente_id": "el-heraldo",
    "titular": "Sube a 55 el número de muertos en el ataque ruso del lunes contra una escuela en Zaporiyia",
@@ -30,6 +150,16 @@
    "fecha": "2026-11-07T12:45:08+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "afa00bfb577be4",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: Tata Chemicals posts mixed Q2 2027 results as margins weaken",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-tata-chemicals-posts-mixed-q2-2027-results-as-margins-weaken-93CH-5009865",
+   "fecha": "2026-11-07T12:43:51+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
   },
   {
    "id": "f37bcfbb636acd",
@@ -82,6 +212,16 @@
    "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
+   "id": "87a51e2537bd88",
+   "fuente_id": "forbes",
+   "titular": "Why The Warriors Aren't Parting Ways With Kristaps Porziņģis… Yet",
+   "bajada": "Porziņģis won't play for the Warriors due to an ongoing health condition, but his contract could be the ticket for them to make a fairly substantial midseason upgrade.",
+   "enlace": "https://www.forbes.com/sites/bryantoporek/2026/11/07/why-the-warriors-arent-parting-ways-with-kristaps-porziis-yet/",
+   "fecha": "2026-11-07T12:00:09+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
    "id": "19ec048c8740fe",
    "fuente_id": "cnbc",
    "titular": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
@@ -100,6 +240,36 @@
    "fecha": "2026-11-07T12:00:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "215cbed1f36c02",
+   "fuente_id": "forbes",
+   "titular": "Dodgers’ $102 Million Castoff Trevor Bauer Claims MLB Blocked Postseason Return",
+   "bajada": "The Los Angeles Dodgers’ polarizing former pitcher sent a message about reunion interest from MLB teams.",
+   "enlace": "https://www.forbes.com/sites/peterchawaga/2026/11/07/dodgers-102-million-castoff-trevor-bauer-claims-mlb-blocked-postseason-return/",
+   "fecha": "2026-11-07T12:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "7b27e3e4d23205",
+   "fuente_id": "forbes",
+   "titular": "5 Best Mutual Funds To Buy Now For 2027",
+   "bajada": "Looking to build or rebalance your portfolio for 2027? Explore top mutual funds to buy now to help position your portfolio for growth.",
+   "enlace": "https://www.forbes.com/sites/investor-hub/article/best-mutual-funds-2027/",
+   "fecha": "2026-11-07T12:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "fd792bd64867e4",
+   "fuente_id": "forbes",
+   "titular": "Rogan And Other ‘Manosphere’ Figures—Who Platformed Trump In 2024—React To Midterms Blowout",
+   "bajada": "Joe Rogan cited the “deeply unpopular” Iran war as one of the reasons Republican candidates crumbled in the midterm elections, as President Donald Trump’s break from the “manosphere” coalition continues.",
+   "enlace": "https://www.forbes.com/sites/conormurray/2026/11/07/rogan-and-other-manosphere-figures-who-platformed-trump-in-2024-react-to-midterms-blowout/",
+   "fecha": "2026-11-07T12:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
   },
   {
    "id": "49df2970bb4eff",
@@ -182,6 +352,16 @@
    "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
+   "id": "0e4a5e681e09a0",
+   "fuente_id": "yahoo-finance",
+   "titular": "NASDAQ Composite (^IXIC) Charts, Data & News",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aSUhWeElNUGdhSS1RWWFWU2IzelpJYUdjTVh2TkV1RFhkbU5ydnNTaGV2eGxfRVJJVnM1OU9rcVVvTzVaSTNrWGhnRzdYNVowSHc?oc=5",
+   "fecha": "2026-11-07T11:42:02+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
    "id": "4fde34ae4c1de5",
    "fuente_id": "investing-com",
    "titular": "Earnings call transcript: MDVP Q3 2026 revenue hits record as shares rise 5.25%",
@@ -190,6 +370,26 @@
    "fecha": "2026-11-07T11:41:18+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "c333a3779d9c7f",
+   "fuente_id": "yahoo-finance",
+   "titular": "META_TITLE_QUOTE",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02aDBpUWN4ZVp0ajliNXhvdWpuVWc1Z1B4eEVyUUFmN2RoazgzbUlUaU9kR1JTU2Q0bVR6ck45M2szN28wUWVmcmRoZlRnQQ?oc=5",
+   "fecha": "2026-11-07T11:40:22+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
+  },
+  {
+   "id": "18609404c27b7e",
+   "fuente_id": "yahoo-finance",
+   "titular": "META_TITLE_QUOTE",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpVTJIYnhWcW1kNFFKTHNoajhPeE9zSW9lTElhZkZvcEo3MExtQnpIZjBRek95cWJ0XzRKMzBtMHh0Ty1SYVRESUxfRTJ4Zw?oc=5",
+   "fecha": "2026-11-07T11:40:12+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "77226991424e18",
@@ -350,16 +550,6 @@
    "fecha": "2026-11-07T11:05:07+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
-  },
-  {
-   "id": "19cffb427cf71d",
-   "fuente_id": "yahoo-finance",
-   "titular": "META_TITLE_QUOTE",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
-   "fecha": "2026-11-07T11:03:08+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "86ada3774201aa",
@@ -2220,6 +2410,16 @@
    "fecha": "2026-11-06T23:54:33+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "61e6ae6c532989",
+   "fuente_id": "yahoo-finance",
+   "titular": "META_TITLE_QUOTE",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRk9FdlZiYjE5WEpNVU9JaWdVNnZOWjRCVURLNUw4OE02QWF4LTJqR1pwYktsLXZGLTV2QkQ1Qjhjay1fUXFBOHByUXk?oc=5",
+   "fecha": "2026-11-06T23:51:52+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
   },
   {
    "id": "7816501cba5b96",
@@ -6852,16 +7052,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "2eb08d6c9e7465",
-   "fuente_id": "yahoo-finance",
-   "titular": "S&P 500 (^GSPC) Charts, Data & News",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Vm8yM2lLRXFrWEhqVUdJZ3JhRWpCbjNiN3lDWGxXWkxXR1pNSzQ5S3lPcmIwYWxjRVVRN2p1Tkt6X29rWDIyaG1OLWxuODNmWFE?oc=5",
-   "fecha": "2026-11-06T15:47:56+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-07T12:59:03+00:00"
-  },
-  {
    "id": "a3c9198b464bf7",
    "fuente_id": "el-heraldo",
    "titular": "Las Fiestas de Independencia de Cartagena también se viven a través de la moda",
@@ -7020,6 +7210,16 @@
    "fecha": "2026-11-06T15:31:59+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "2eb08d6c9e7465",
+   "fuente_id": "yahoo-finance",
+   "titular": "S&P 500 (^GSPC) Charts, Data & News",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Vm8yM2lLRXFrWEhqVUdJZ3JhRWpCbjNiN3lDWGxXWkxXR1pNSzQ5S3lPcmIwYWxjRVVRN2p1Tkt6X29rWDIyaG1OLWxuODNmWFE?oc=5",
+   "fecha": "2026-11-06T15:30:09+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "c62e2b3bb48b9b",
@@ -7410,6 +7610,16 @@
    "fecha": "2026-11-06T15:02:02+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "244cd0c2f111d2",
+   "fuente_id": "yahoo-finance",
+   "titular": "Dow Jones Industrial Average (^DJI) Charts, Data & News",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53MklaLWlSV2JrNHpBa2pYYWg1UVVGOHE3UGxDUlZJU3RuZVYzdE1RY1A3Y0dGc1hDVXYxc3dGWm52Rk1MUlZyaXo2bllyTWxz?oc=5",
+   "fecha": "2026-11-06T15:01:17+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T13:19:28+00:00"
   },
   {
    "id": "17e04fbcf2b3d1",
@@ -18712,16 +18922,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "18609404c27b7e",
-   "fuente_id": "yahoo-finance",
-   "titular": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpVTJIYnhWcW1kNFFKTHNoajhPeE9zSW9lTElhZkZvcEo3MExtQnpIZjBRek95cWJ0XzRKMzBtMHh0Ty1SYVRESUxfRTJ4Zw?oc=5",
-   "fecha": "2026-11-05T13:34:23+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "2145b6054d4127",
    "fuente_id": "infobae-tecno",
    "titular": "Nokia 1100 vs el primer iPhone de Apple: cuánto duraba la batería de cada modelo",
@@ -19149,6 +19349,16 @@
    "enlace": "https://www.wsj.com/business/retail/papa-johns-cuts-outlook-again-as-quarterly-sales-sink-789ef18c?mod=pls_whats_news_us_business_f",
    "fecha": "2026-11-05T12:45:00+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "19cffb427cf71d",
+   "fuente_id": "yahoo-finance",
+   "titular": "META_TITLE_QUOTE",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
+   "fecha": "2026-11-05T12:40:50+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {

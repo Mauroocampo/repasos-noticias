@@ -910,6 +910,16 @@
   "primera_vista": "2026-11-07T11:52:57+00:00"
  },
  {
+  "id": "61e6ae6c532989",
+  "fuente_id": "yahoo-finance",
+  "titular": "META_TITLE_QUOTE",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRk9FdlZiYjE5WEpNVU9JaWdVNnZOWjRCVURLNUw4OE02QWF4LTJqR1pwYktsLXZGLTV2QkQ1Qjhjay1fUXFBOHByUXk?oc=5",
+  "fecha": "2026-11-06T23:51:52+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
+ },
+ {
   "id": "7816501cba5b96",
   "fuente_id": "infobae-tecno",
   "titular": "Microsoft Paint después de 40 años se sigue usando, pero hoy está asediado por ciberataques",
@@ -5868,6 +5878,16 @@
   "fecha": "2026-11-06T15:02:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
+  "id": "244cd0c2f111d2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Dow Jones Industrial Average (^DJI) Charts, Data & News",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53MklaLWlSV2JrNHpBa2pYYWg1UVVGOHE3UGxDUlZJU3RuZVYzdE1RY1A3Y0dGc1hDVXYxc3dGWm52Rk1MUlZyaXo2bllyTWxz?oc=5",
+  "fecha": "2026-11-06T15:01:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
  },
  {
   "id": "17e04fbcf2b3d1",
