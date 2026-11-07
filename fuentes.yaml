@@ -521,7 +521,8 @@ fuentes:
   - id: infobae-tecno
     nombre: Infobae Tecno
     sitio: https://www.infobae.com/tecno/
-    grupo: especializada
+    grupo: excluida
+    motivo: "Retirada a pedido el 7 nov 2026. Para reactivarla, vuelve a poner grupo: especializada."
     tipo: prensa
     tematicas: [tecnologia]
     metodo: rss
@@ -658,7 +659,8 @@ fuentes:
   - id: infobae-colombia
     nombre: Infobae Colombia
     sitio: https://www.infobae.com/colombia/
-    grupo: general
+    grupo: excluida
+    motivo: "Retirada a pedido el 7 nov 2026. Para reactivarla, vuelve a poner grupo: general."
     tipo: prensa
     pais: CO
     tematicas_por_filtro: [colombia, sostenibilidad]
@@ -937,6 +939,6 @@ fuentes:
   - { id: harpers, nombre: Harpers, grupo: excluida, motivo: "Citada por un dato (IWSR)" }
   - { id: vegconomist, nombre: Vegconomist, grupo: excluida, motivo: "Citada por un dato (Good Food Institute)" }
   - { id: green-queen, nombre: Green Queen, grupo: excluida, motivo: "Citada por un dato (Good Food Institute)" }
-  - { id: infobae-sofi, nombre: Infobae (resumen SOFI), grupo: excluida, motivo: "Citada por un dato; Infobae Colombia y Tecno sí están activas" }
+  - { id: infobae-sofi, nombre: Infobae (resumen SOFI), grupo: excluida, motivo: "Citada por un dato; Infobae Colombia y Tecno también se retiraron (7 nov 2026)" }
   - { id: acento, nombre: Acento, grupo: excluida, motivo: "Citada por un dato (SOFI)" }
   - { id: el-clarin-chile, nombre: El Clarín de Chile, grupo: excluida, motivo: "Citada por un dato (SOFI)" }
