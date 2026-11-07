@@ -5090,6 +5090,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "878457d1781503",
+  "fuente_id": "yahoo-finance",
+  "titular": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI build-out",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3FPNFVNS29WSDJ6eFFqa3kwc0p0ZUZUbm5rbUp6M3poX3ZYNjFwMVR3bXJ6Tko4c0Y2ZUpGZ202LU1pQlc0cEVvQS01Z0RUMVVxemNzcGlIcmdaTkdIWjlrYlpaUFRxYXA5aTBPVWRCRkdSR3VsVjkwREJxLUt0elduNmdESVFQbWphX1RTQ3p1YkdsV1pneXAtYmlCcVgzZUFobGhZMmZxTl9CV1FVSEY0Z1k5dEk5M2U3d0hFQXI3RktJS1FKT2pYdjBFei1maGpjTEFNdjRmWTRIUGxLaVRmN2YtTlE?oc=5",
+  "fecha": "2026-11-05T16:49:52+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T16:43:48+00:00"
+ },
+ {
   "id": "9e32549d0ce0d7",
   "fuente_id": "la-republica",
   "titular": "Nasdaq cae 5% mientras se agudiza venta de acciones de fabricantes de chips",
@@ -5798,6 +5808,16 @@
   "fecha": "2026-11-05T15:05:39+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "7573a205ab3d21",
+  "fuente_id": "yahoo-finance",
+  "titular": "SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXFMYkpnZmtUS09fdXJBX0kwd01pcVRVX1A0dmVRWXVXTXJ4dmVkN0N4dHF3OGxNMzR1bTJOVUhmcWdGblBEZkZlSjNxU0p4X3doZG1BTlVUYTVhcTRTV1lZbWs5OTNMZUVzbzhzMWljTVlBQnNLaEV5V0syRkY1UHpRZTZZTm1uamxjVWs0bzNINlV4bWFZLTFYcXItUk1faWRiOVByR1AxTFpQSnFMRjlwWVJQOC13M2x0dGNfYVRSdDZpb2JpRg?oc=5",
+  "fecha": "2026-11-05T15:04:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T16:43:48+00:00"
  },
  {
   "id": "351a3e7be5f33a",
@@ -6860,6 +6880,16 @@
   "primera_vista": "2026-11-07T11:52:57+00:00"
  },
  {
+  "id": "fd93ce978ae222",
+  "fuente_id": "business-wire",
+  "titular": "Kalepa Raises $75 Million at a $470 Million Valuation to Bring Professional Grade AI to Every Task in the Insurance Value Chain",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSHZzS2cyaUtpdmdybzlfZE1QWVdESFNVd0JQUnJQQVlGb3VJRzFRZWxCNEF6aHVpMzlhd2JoTnpVQlhzSUpaa2MtU21rVjZrYzZhdnByeXFnTWkwdVY0bU0xclZvSi1DNXhQaTFDZTZyaEFwNF9tNkxiTEJjZVk3amxLeDh2bTFwcVNaV01OYUdiQTlkUWJwdm1VUG5vTGNLTkE1UzlPa2RScUNPVXJkSTBjeXR2S0NjRDhXOElJMTNGWFY3SmRaa2JOdTQ1ZWp5UmZYaW1LMDdQU0VBcGx6eXJ6NU9adl9ZbEZoSmQ1elh3bjRDeUxOcHdwTGVOUjJsbnV1RUcwcnYxcjBMSXJQNFQtWF9PbWM?oc=5",
+  "fecha": "2026-11-05T13:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T16:43:48+00:00"
+ },
+ {
   "id": "70fe398593fe79",
   "fuente_id": "house-of-commons-library",
   "titular": "The UK’s new judge at the International Court of Justice",
@@ -7268,6 +7298,16 @@
   "fecha": "2026-11-05T12:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "c5dcde34549253",
+  "fuente_id": "business-wire",
+  "titular": "Horizon Quantum Signs Non-Binding Letter of Intent to Acquire Entropica Labs",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSktGRVJRZzlsdEJVRVozeEZ3Z0g5eFQ3TS1aUFFIRnNWZ242aE84RC1VeUlHYWd2RzZHMGhBUmZ3WWZBMGVlNjUxWlIzR0NuVkpTUG9PZjJKeWE0c09BNjN3bXB5ZnlnU3lIQ1FSbHVOZGZ4X1dQcF9IUXBCcWNCQkxPdjB1THZ5Q0E0S2IzenJ0VFhSa1VWVzNhX0REVHFRc19kNVplZlJCQ0l2c1lmYVpvWG9fcF9WZUhuTEVCUm5tMms3SUs0YzNRMHlBUQ?oc=5",
+  "fecha": "2026-11-05T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T16:43:48+00:00"
  },
  {
   "id": "60dabb322b5b56",
