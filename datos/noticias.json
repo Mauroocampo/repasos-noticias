@@ -1,6 +1,116 @@
 {
- "actualizado": "2026-11-07T11:52:57+00:00",
+ "actualizado": "2026-11-07T12:59:03+00:00",
  "notas": [
+  {
+   "id": "fdcf38454f733e",
+   "fuente_id": "bbc-mundo",
+   "titular": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\"",
+   "bajada": "El escritor Julio Rojas, creador del Caso 63, lleva años siguiendo los avances científicos y tecnológicos de nuestro tiempo para escribir ciencia ficción con una alta dosis de realismo. BBC News Mundo habló con él en el marco del Hay Festival Arequipa 2026.",
+   "enlace": "https://www.bbc.com/mundo/articles/cr3wvvlp9vx1o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-07T12:52:27+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "51015478bb21ab",
+   "fuente_id": "cnbc",
+   "titular": "Berkshire shares surge as Wall Street swoons amid AI fears",
+   "bajada": "Berkshire Hathaway shares roared past the S&P 500 index this week and are outperforming the benchmark for the year-to-date.",
+   "enlace": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+   "fecha": "2026-11-07T12:49:19+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "50344faf2818af",
+   "fuente_id": "el-heraldo",
+   "titular": "Sube a 55 el número de muertos en el ataque ruso del lunes contra una escuela en Zaporiyia",
+   "bajada": "Podría ser el ataque ruso contra civiles más mortífero de toda la guerra.",
+   "enlace": "https://www.elheraldo.co/mundo/2026/11/07/sube-a-55-el-numero-de-muertos-en-el-ataque-ruso-del-lunes-contra-una-escuela-en-zaporiyia/",
+   "fecha": "2026-11-07T12:45:08+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "f37bcfbb636acd",
+   "fuente_id": "bbc-mundo",
+   "titular": "Ueno Bank, el banco que se expandió durante la presidencia de Peña en Paraguay y colapsó en un día",
+   "bajada": "El escándalo puso al sistema político y financiero de Paraguay contra las cuerdas.",
+   "enlace": "https://www.bbc.com/mundo/watch/cmje5q2gd2pdo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-07T12:33:51+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "13920389694479",
+   "fuente_id": "el-heraldo",
+   "titular": "Capturan a ocho integrantes de las disidencias de las Farc en Soacha: pretendían trasladar a cuatro menores de edad hasta el Guaviare",
+   "bajada": "Así lo anunció el presidente Abelardo De la Espriella a través de sus redes sociales.",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/07/capturan-a-ocho-integrantes-de-las-disidencias-de-las-farc-en-soacha-pretendian-trasladar-a-cuatro-menores-de-edad-hasta-el-guaviare/",
+   "fecha": "2026-11-07T12:31:44+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "c40a209a119492",
+   "fuente_id": "investing-com",
+   "titular": "Surya Roshni Q2 FY27 slides: record revenue masks margin pressure",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/surya-roshni-q2-fy27-slides-record-revenue-masks-margin-pressure-93CH-5009862",
+   "fecha": "2026-11-07T12:23:15+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "9de415ee23aa29",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: Surya Roshni posts record Q2 FY 2027 revenue",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-surya-roshni-posts-record-q2-fy-2027-revenue-93CH-5009858",
+   "fecha": "2026-11-07T12:08:30+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "5a80221989eae0",
+   "fuente_id": "el-heraldo",
+   "titular": "Masacre en Toro, Valle del Cauca: hombres armados asesinaron a tres mujeres de una misma familia",
+   "bajada": "Las autoridades realizaron un consejo de seguridad y ofrecieron recompensa por información de los responsables.",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/07/masacre-en-toro-valle-del-cauca-hombres-armados-asesinaron-a-tres-mujeres-de-una-misma-familia/",
+   "fecha": "2026-11-07T12:04:21+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "19ec048c8740fe",
+   "fuente_id": "cnbc",
+   "titular": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+   "bajada": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+   "enlace": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+   "fecha": "2026-11-07T12:00:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "32a897765d0931",
+   "fuente_id": "wired",
+   "titular": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+   "bajada": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+   "enlace": "https://www.wired.com/gallery/best-wifi-routers/",
+   "fecha": "2026-11-07T12:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "49df2970bb4eff",
+   "fuente_id": "investing-com",
+   "titular": "MODIVO Platform Q3 2026 slides: gross margin tops 50%, EBITDA up 48%",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/modivo-platform-q3-2026-slides-gross-margin-tops-50-ebitda-up-48-93CH-5009851",
+   "fecha": "2026-11-07T11:52:20+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
   {
    "id": "221ebdd219175a",
    "fuente_id": "infobae-tecno",
@@ -22,6 +132,26 @@
    "primera_vista": "2026-11-07T11:52:57+00:00"
   },
   {
+   "id": "e8e1252ca1df0d",
+   "fuente_id": "investing-com",
+   "titular": "Marriott president & CEO Anthony Capuano sells $26.6m in company stock",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/marriott-president--ceo-anthony-capuano-sells-266m-in-company-stock-93CH-5009848",
+   "fecha": "2026-11-07T11:46:19+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "9cb7f0b33511c1",
+   "fuente_id": "investing-com",
+   "titular": "Kayne Anderson evp Harrison Little buys $51,538 in KYN stock",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/kayne-anderson-evp-harrison-little-buys-51538-in-kyn-stock-93CH-5009847",
+   "fecha": "2026-11-07T11:46:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "6a99c5216a0cea",
    "fuente_id": "infobae-tecno",
    "titular": "Palacio de Justicia: actores de “Palacio” de Netflix cuentan cómo recrearon la toma con tecnología y nuevos lenguajes",
@@ -40,6 +170,26 @@
    "fecha": "2026-11-07T11:45:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "6edb68c59404c6",
+   "fuente_id": "investing-com",
+   "titular": "Panvel Q3 2026 slides: digital sales surge to 47% as profits jump 35%",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/panvel-q3-2026-slides-digital-sales-surge-to-47-as-profits-jump-35-93CH-5009845",
+   "fecha": "2026-11-07T11:43:04+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "4fde34ae4c1de5",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: MDVP Q3 2026 revenue hits record as shares rise 5.25%",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-mdvp-q3-2026-revenue-hits-record-as-shares-rise-525-93CH-5009844",
+   "fecha": "2026-11-07T11:41:18+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "77226991424e18",
@@ -122,6 +272,16 @@
    "primera_vista": "2026-11-07T11:52:57+00:00"
   },
   {
+   "id": "adb6cd4f0d9529",
+   "fuente_id": "forbes",
+   "titular": "Mets Castoff Skipper Carlos Mendoza Breaks Silence After Joining Rival Phillies",
+   "bajada": "The former New York Mets manager sent an initial message about taking over a challenging role for the division rival Philadelphia Phillies.",
+   "enlace": "https://www.forbes.com/sites/peterchawaga/2026/11/07/mets-castoff-skipper-carlos-mendoza-breaks-silence-after-joining-rival-phillies/",
+   "fecha": "2026-11-07T11:30:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "68e4932335e6c5",
    "fuente_id": "investing-com",
    "titular": "Earnings call transcript: Grupo Panvel tops Q3 2026 estimates as revenue jumps",
@@ -190,6 +350,16 @@
    "fecha": "2026-11-07T11:05:07+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "19cffb427cf71d",
+   "fuente_id": "yahoo-finance",
+   "titular": "META_TITLE_QUOTE",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
+   "fecha": "2026-11-07T11:03:08+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "86ada3774201aa",
@@ -280,6 +450,36 @@
    "fecha": "2026-11-07T10:48:23+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "0eee9d56d4857c",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Va04wYjUwWDFxdTlKZFB4OXFRRmxwdDVpQVFqNnJOREsxNVVic0E1ejBJNEpralkzS21TRXdTUFNKQXRRTHc?oc=5",
+   "fecha": "2026-11-07T10:43:07+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "168924ff5e8fdc",
+   "fuente_id": "yahoo-finance",
+   "titular": "Arm Holdings plc (ARM) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbDlXa05SUTZEbnEzRmQ5RWJYSnFSQ3pVM0l5d1c2QkpwYU8zNm9mU0VLc2ozdEY4QUdiUmJqT25pczJyR2ktTGs4T20?oc=5",
+   "fecha": "2026-11-07T10:36:02+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
+   "id": "c0313837d142ce",
+   "fuente_id": "yahoo-finance",
+   "titular": "META_TITLE_QUOTE",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQ1NKM2RUYWVMenRSd1BNSGJKbEUxSXprVGNBek5Wdi14M1RobEhUNkR2SER0VWpVSlFSb0pKcjcxbG5OdXRLVzNHV3dIdw?oc=5",
+   "fecha": "2026-11-07T10:36:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:29:07+00:00"
   },
   {
    "id": "c8791a89c6170f",
@@ -430,6 +630,16 @@
    "fecha": "2026-11-07T10:00:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "ad0c69f7557d67",
+   "fuente_id": "unicef",
+   "titular": "Register for free",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTS1dua1VhYl9sd2pfc0VaQTE3SFMxajNUeXlFX01UeHBxZUQ5UmtWZGNDR3RuTjYtdzg2WF9BSklxVGVUSlEzaThObTFuS3RaV2l1aW80emR2RzU5aXI2ZUtHRlo3LUhG?oc=5",
+   "fecha": "2026-11-07T09:54:29+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "83bd01c05b29b5",
@@ -640,6 +850,16 @@
    "fecha": "2026-11-07T06:30:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "10633df8998e7c",
+   "fuente_id": "oms",
+   "titular": "- World Health Organization (WHO)",
+   "bajada": "World Health Organization (WHO)",
+   "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNNUE4V3BOWUltS3VtcU9CcmR1WFpBVGJ5T3B2azk1a1RqaVhhSVkwUFZ5bWZzR1FaRmVZUVB2WFd1SHpRVzF0b21oV3FhYWRhd3BaNUxKcy0yNDRLV2ZWWE1iUVFKOVpHUE1RUGZITnVjMEU?oc=5",
+   "fecha": "2026-11-07T06:22:54+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "bc35ad79c23f31",
@@ -1132,6 +1352,16 @@
    "primera_vista": "2026-11-07T11:52:57+00:00"
   },
   {
+   "id": "4f0b9c9468d28d",
+   "fuente_id": "uicn",
+   "titular": "mc_costa_rica.pdf - IUCN Portals",
+   "bajada": "mc_costa_rica.pdf - IUCN Portals International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52ZENjX1oyMkx5RjdaQlRFdWdKSDhFZE0zdWJIWFZRNzZCMTZGZFVlcGhHNVpwcnJlOHNNUmVxRmZ1b3ZsdlZTNXZzNzY2UTgtUDdXRXBudUNfUVRMd210amY0MWtCRzI1bkxWVVNxVlZuQWN3WktFcGdR?oc=5",
+   "fecha": "2026-11-07T03:55:01+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "484488a0073c06",
    "fuente_id": "bbc-mundo",
    "titular": "De qué se acusa a Santiago Peña, el presidente de Paraguay que fue destituido por el Congreso en juicio político tras la crisis de Ueno Bank",
@@ -1440,6 +1670,16 @@
    "fecha": "2026-11-07T02:04:26+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "53b5470703663f",
+   "fuente_id": "yahoo-finance",
+   "titular": "Here’s Why Karman Holdings (KRMN) Climbed 42%",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGJ2NmtXc0tMejAtSjg0a2dna19ITDAyek5XOHpPWHpfamIyYXVuanRLN05wUXN6SU1WTzRTOW1STjZxdWxQTnR4WnBrS3pkNkN0djFqbDJmY2JCYzZFVTdaWkc0X0F0T2V4TGw2QWJVVnBtX3FqVDNDSkFKQU5YYmVFQkZZN3NhczB6SFE4clFHTjZyZUdDamMxQQ?oc=5",
+   "fecha": "2026-11-07T02:04:26+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "87558cbdb54463",
@@ -2412,16 +2652,6 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
-   "id": "0eee9d56d4857c",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "International Union for Conservation of Nature",
-   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Va04wYjUwWDFxdTlKZFB4OXFRRmxwdDVpQVFqNnJOREsxNVVic0E1ejBJNEpralkzS21TRXdTUFNKQXRRTHc?oc=5",
-   "fecha": "2026-11-06T22:51:06+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "b8caeab3cf0e3f",
    "fuente_id": "agronegocios",
    "titular": "Federación de cafeteros apuesta por nuevas variedades y compra de café en cereza",
@@ -2660,6 +2890,16 @@
    "fecha": "2026-11-06T22:14:47+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T22:28:23+00:00"
+  },
+  {
+   "id": "c02ebca68c8568",
+   "fuente_id": "uicn",
+   "titular": "WCC-2025-Res-019 - Activity Report submission form",
+   "bajada": "WCC-2025-Res-019 - Activity Report submission form International Union for Conservation of Nature",
+   "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVFNUd0YydWRlLTJna25IS21SRXhOalQ3RjNRTUZaUEJNZnVzOW1oYTBPVDdLYUpiZGpoMlBNbzYxckRCZUpiNW9Dek95aDIxZUN6b3FB?oc=5",
+   "fecha": "2026-11-06T22:14:15+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "590e1de4b359d8",
@@ -6052,6 +6292,16 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
+   "id": "a55211f74f6fb2",
+   "fuente_id": "yahoo-finance",
+   "titular": "DraftKings Inc. (DKNG) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJUXlGaEI0ejJoNEpnbDJhQWFOZXBncG9TMVJaS2lFZnpxdGdDTE9yOGtlOGFiYlQ3amlpMlU2YzlHUFlNU3JXWDRXVTVRQQ?oc=5",
+   "fecha": "2026-11-06T16:42:24+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "06b50c831c97af",
    "fuente_id": "macrumors",
    "titular": "The MacRumors Show: iOS 27.3 Looks Like a Huge Update",
@@ -6600,6 +6850,16 @@
    "fecha": "2026-11-06T15:48:07+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T21:14:46+00:00"
+  },
+  {
+   "id": "2eb08d6c9e7465",
+   "fuente_id": "yahoo-finance",
+   "titular": "S&P 500 (^GSPC) Charts, Data & News",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Vm8yM2lLRXFrWEhqVUdJZ3JhRWpCbjNiN3lDWGxXWkxXR1pNSzQ5S3lPcmIwYWxjRVVRN2p1Tkt6X29rWDIyaG1OLWxuODNmWFE?oc=5",
+   "fecha": "2026-11-06T15:47:56+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "a3c9198b464bf7",
@@ -9652,16 +9912,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "19cffb427cf71d",
-   "fuente_id": "yahoo-finance",
-   "titular": "META_TITLE_QUOTE",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
-   "fecha": "2026-11-06T11:41:40+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "8a6cba1d695cce",
    "fuente_id": "el-heraldo",
    "titular": "De la Espriella celebra histórico decomiso de 104 armas y lanza advertencia a las ACSN: “Tienen los días contados”",
@@ -10422,16 +10672,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "c0313837d142ce",
-   "fuente_id": "yahoo-finance",
-   "titular": "Sandisk Corporation (SNDK) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQ1NKM2RUYWVMenRSd1BNSGJKbEUxSXprVGNBek5Wdi14M1RobEhUNkR2SER0VWpVSlFSb0pKcjcxbG5OdXRLVzNHV3dIdw?oc=5",
-   "fecha": "2026-11-06T10:20:25+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:29:07+00:00"
-  },
-  {
    "id": "092890ea30ce68",
    "fuente_id": "help-net-security",
    "titular": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
@@ -10750,6 +10990,16 @@
    "fecha": "2026-11-06T09:30:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "6bcfa3e973d8c0",
+   "fuente_id": "yahoo-finance",
+   "titular": "Elon Musk’s Net Worth Drops Nearly $80 Billion In A Day As Tesla And SpaceX Stock Crater During Tech Wipe-Out",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWJORk1ubkxkUG5ERWRHQnJfNmFTM3F3U2dPX1ZVckdQWDlFYTJmNWFVWUdkbllDTzVXWnVvZWJLNDNNbTVpYlZmQWVtZWxtLTJHd1MtTzc1UDRDc2NCQTdhejRKcnhjaHNqM0FxWnFoaFFPR2lhaXBLZWY2eFlwcDBzTzlUR1BpSDBacmVkbThKR196?oc=5",
+   "fecha": "2026-11-06T09:27:48+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "f36193f8a368d5",
@@ -15392,6 +15642,16 @@
    "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
+   "id": "ff722bb54bab9a",
+   "fuente_id": "business-wire",
+   "titular": "Five9 to Acquire Level AI, Advancing AI-Powered CX Platform",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeU5JV01QeUZIeWJhZlI3OWt3WW1KeTByYW9CMEoyZUZ4OVZMeHNvMUVmclJSUVBVMjNKZlBhVXZfcHNmZ1NMZ3ZlQWxlQ3llMW5qR1A5bHdvRDJYbFNMVzgtU3h0UzBOSFJFenFpUHR3bGc2QVc4R0dJX2Z3NmJZQmlaYVdIRGNkSVJqZUY4MkFZZTBIdXhHU3Bfdnp0Z3pZcDhweVZNcW1xSUlLdG5WdGVpVDQ0UQ?oc=5",
+   "fecha": "2026-11-05T21:05:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "877b7f9a0fde95",
    "fuente_id": "business-wire",
    "titular": "Dropbox Announces Third Quarter 2026 Results",
@@ -16917,7 +17177,7 @@
    "titular": "SAM Acquires SSP Innovations and 3-GIS to Support Continued Innovation and Expand AI-Enabled Digital Solutions",
    "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRVU2bGszR1c3b3NhOXpvMVhqZF80SnJhdTZKUjdVZDVKM0NBbWxQR1N5NG5MZFpoSXU1T0RtU3lJSE1GeWhrNHFxYnpTc1ZqQm9pZUVEUzBYbFdjXzZLYzAyV2xBX0p6enhLMkRsb2QzYXVkQUloNWhmaVdjMUVWOVdRSERfVjNjRkgtMm8wUC1uM3hvaUhTZ2FhT3Y5d1JlWWt0UVZNYjZEZ3Zna2M1bmdjOEl1eWFNMDV1ekswOE5FY29veF9rM1dxeGFrRnM0OTFkNEFOMEQzS2tScUVJNWoxdF9BZ1hoNE1ZZ0dvRXhqV1NrbnFCZ2Joaw?oc=5",
-   "fecha": "2026-11-05T17:06:39+00:00",
+   "fecha": "2026-11-05T17:06:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
@@ -19432,6 +19692,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "7b019ab36dcf67",
+   "fuente_id": "yahoo-finance",
+   "titular": "Intel Corporation (INTC) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Wa0h2alQyRXF0QkZpclVyeUFURi1idHJYWXYydjFScXYybURWODFXWmFMdHc2UkptNmZBWXBhVUw0OVVPS18yWVFvaEhBdw?oc=5",
+   "fecha": "2026-11-05T11:27:53+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:34:20+00:00"
+  },
+  {
    "id": "c7efbb5e74c4a0",
    "fuente_id": "infobae-tecno",
    "titular": "Hackers roban contraseñas y correos de clientes de DreamHost durante más de dos meses sin ser detectados",
@@ -19680,6 +19950,16 @@
    "fecha": "2026-11-05T10:46:10+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "127895a4d231f1",
+   "fuente_id": "yahoo-finance",
+   "titular": "Apple Inc. (AAPL) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oRWFDOUk5RnFwTHd2QWxnZnYwNXZRTEtYaDRVUXZZVEJrSW5aWGdPZ1BwSFJtQ2RXWGY2OGJiTzU5MGZrbjZhUlNQdGZmUQ?oc=5",
+   "fecha": "2026-11-05T10:43:51+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "ece5115ebce482",
@@ -22282,6 +22562,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "804675020cc61f",
+   "fuente_id": "business-wire",
+   "titular": "Mattel Brick Shop™ Makes Iconic Hot Wheels ® Cars Buildable with New Hot Wheels Racer™ Series",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmt3SHpGbFMtUlRlY3JiRjhFZUZhT3VOVDE0X3N2OWlFV1dZOTJRcDhTd1BXcldwRG5lYmxSUnRvTHN6ZlphQWEtaUdaUk1ETGxaTEtCY0JVSHFnVm8wRHJGb3J5M0daT3J0WThJYm5SRENLN2FIOWxERTRKc3Znb1FBVFRjOVVhU1RyVlhvXzQxLW92Vmo0RWwxYjV5NnYwZ05IUkZvWmZhUlFZampEaTdlUkRzYmNUTU9HQ2s1TFZ6NkotVHZ2SEtIa3hXTUpCU2YyTGJ4Q3h5ZFMxTEsw?oc=5",
+   "fecha": "2026-11-04T17:00:34+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "20811656a0f4f1",
    "fuente_id": "business-wire",
    "titular": "Announcing Learn: OpenEvidence's Personalized Medical Education Platform",
@@ -22990,16 +23280,6 @@
    "fecha": "2026-11-04T13:36:26+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "7b019ab36dcf67",
-   "fuente_id": "yahoo-finance",
-   "titular": "Intel Corporation (INTC) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Wa0h2alQyRXF0QkZpclVyeUFURi1idHJYWXYydjFScXYybURWODFXWmFMdHc2UkptNmZBWXBhVUw0OVVPS18yWVFvaEhBdw?oc=5",
-   "fecha": "2026-11-04T13:36:02+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:34:20+00:00"
   },
   {
    "id": "ccb9215b7575c8",
@@ -28260,36 +28540,6 @@
    "fecha": "2026-10-31T13:22:20+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:29:07+00:00"
-  },
-  {
-   "id": "84a7c263089135",
-   "fuente_id": "mongabay",
-   "titular": "De cuentos infantiles a guías comunitarias: así buscan en México y Colombia convivir en paz con los animales silvestres | Coyuntura ambiental",
-   "bajada": "¿Es posible que animales silvestres y comunidades compartan el territorio sin poner en riesgo las actividades productivas ni la conservación de la especie? Experiencias en México y Colombia demuestran que sí. En la Selva Maya, medidas como cercas eléctricas, corrales nocturnos y…",
-   "enlace": "https://es.mongabay.com/2026/10/cuentos-infantiles-guias-comunitarias-mexico-colombia-convivir-paz-animales-silvestres/",
-   "fecha": "2026-10-31T12:17:07+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "280eb5badea033",
-   "fuente_id": "onu",
-   "titular": "Cambio climático: Nueva York se protege elevando un parque para contener la subida del nivel del mar",
-   "bajada": "Catorce años después del huracán Sandy, Nueva York eleva hasta tres metros el East River Park y construye muros y compuertas ocultas para proteger a más de 110.000 residentes, con una inversión de 2000 millones de dólares. La ONU advierte de que 770 millones de personas viven a…",
-   "enlace": "https://news.un.org/feed/view/es/story/2026/10/1542118",
-   "fecha": "2026-10-31T12:00:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "26b9dcd62ce6c4",
-   "fuente_id": "the-manufacturer",
-   "titular": "Jobs - Page 3 of 260 - The Manufacturer",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMingJBVV95cUxOek9ScE5FRzhuMmRhc01NSHFicE05aHhZU3NsbDR0blpxSnlIMWFvMXFXSFM1YjEybXlHSWRwcW1rOV9FajkzZlZ3V3VidllDR3ZxWnZMdGxfcXl5N3RDMkswcklINm9hamVOUWpwb3NSRTIwV1FaZFFsU1lfWFRnVnFuV1MtN250eFA5Q3VzeHBBMWRIdWxndWRiUjZYRzlyZFd3VGRPMEVDNWpURnRmSnpVaEpuRzRwVUN4bm1fZEY3U3RDNi04RHlXa0Jha0Z2YjJuTjhQTDlhNTdGeFN2X3BUdDhwTzlSSjluTmYyOTlyNFJ1R3R6UGdSYm5XLUMxQ3c4T3o0S2RzbC00Q0oyNS1HZUxwWkdyOTdjcjNB?oc=5",
-   "fecha": "2026-10-31T11:56:31+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   }
  ]
 }

@@ -1,5 +1,115 @@
 [
  {
+  "id": "fdcf38454f733e",
+  "fuente_id": "bbc-mundo",
+  "titular": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\"",
+  "bajada": "El escritor Julio Rojas, creador del Caso 63, lleva años siguiendo los avances científicos y tecnológicos de nuestro tiempo para escribir ciencia ficción con una alta dosis de realismo. BBC News Mundo habló con él en el marco del Hay Festival Arequipa 2026.",
+  "enlace": "https://www.bbc.com/mundo/articles/cr3wvvlp9vx1o?at_medium=RSS&at_campaign=rss",
+  "fecha": "2026-11-07T12:52:27+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "51015478bb21ab",
+  "fuente_id": "cnbc",
+  "titular": "Berkshire shares surge as Wall Street swoons amid AI fears",
+  "bajada": "Berkshire Hathaway shares roared past the S&P 500 index this week and are outperforming the benchmark for the year-to-date.",
+  "enlace": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+  "fecha": "2026-11-07T12:49:19+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "50344faf2818af",
+  "fuente_id": "el-heraldo",
+  "titular": "Sube a 55 el número de muertos en el ataque ruso del lunes contra una escuela en Zaporiyia",
+  "bajada": "Podría ser el ataque ruso contra civiles más mortífero de toda la guerra.",
+  "enlace": "https://www.elheraldo.co/mundo/2026/11/07/sube-a-55-el-numero-de-muertos-en-el-ataque-ruso-del-lunes-contra-una-escuela-en-zaporiyia/",
+  "fecha": "2026-11-07T12:45:08+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "f37bcfbb636acd",
+  "fuente_id": "bbc-mundo",
+  "titular": "Ueno Bank, el banco que se expandió durante la presidencia de Peña en Paraguay y colapsó en un día",
+  "bajada": "El escándalo puso al sistema político y financiero de Paraguay contra las cuerdas.",
+  "enlace": "https://www.bbc.com/mundo/watch/cmje5q2gd2pdo?at_medium=RSS&at_campaign=rss",
+  "fecha": "2026-11-07T12:33:51+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "13920389694479",
+  "fuente_id": "el-heraldo",
+  "titular": "Capturan a ocho integrantes de las disidencias de las Farc en Soacha: pretendían trasladar a cuatro menores de edad hasta el Guaviare",
+  "bajada": "Así lo anunció el presidente Abelardo De la Espriella a través de sus redes sociales.",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/07/capturan-a-ocho-integrantes-de-las-disidencias-de-las-farc-en-soacha-pretendian-trasladar-a-cuatro-menores-de-edad-hasta-el-guaviare/",
+  "fecha": "2026-11-07T12:31:44+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "c40a209a119492",
+  "fuente_id": "investing-com",
+  "titular": "Surya Roshni Q2 FY27 slides: record revenue masks margin pressure",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/surya-roshni-q2-fy27-slides-record-revenue-masks-margin-pressure-93CH-5009862",
+  "fecha": "2026-11-07T12:23:15+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "9de415ee23aa29",
+  "fuente_id": "investing-com",
+  "titular": "Earnings call transcript: Surya Roshni posts record Q2 FY 2027 revenue",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-surya-roshni-posts-record-q2-fy-2027-revenue-93CH-5009858",
+  "fecha": "2026-11-07T12:08:30+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "5a80221989eae0",
+  "fuente_id": "el-heraldo",
+  "titular": "Masacre en Toro, Valle del Cauca: hombres armados asesinaron a tres mujeres de una misma familia",
+  "bajada": "Las autoridades realizaron un consejo de seguridad y ofrecieron recompensa por información de los responsables.",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/07/masacre-en-toro-valle-del-cauca-hombres-armados-asesinaron-a-tres-mujeres-de-una-misma-familia/",
+  "fecha": "2026-11-07T12:04:21+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "19ec048c8740fe",
+  "fuente_id": "cnbc",
+  "titular": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+  "bajada": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+  "enlace": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+  "fecha": "2026-11-07T12:00:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "32a897765d0931",
+  "fuente_id": "wired",
+  "titular": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+  "bajada": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+  "enlace": "https://www.wired.com/gallery/best-wifi-routers/",
+  "fecha": "2026-11-07T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "49df2970bb4eff",
+  "fuente_id": "investing-com",
+  "titular": "MODIVO Platform Q3 2026 slides: gross margin tops 50%, EBITDA up 48%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/modivo-platform-q3-2026-slides-gross-margin-tops-50-ebitda-up-48-93CH-5009851",
+  "fecha": "2026-11-07T11:52:20+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
   "id": "221ebdd219175a",
   "fuente_id": "infobae-tecno",
   "titular": "Qué celulares se quedarán sin WhatsApp a partir del 16 de noviembre",
@@ -20,6 +130,26 @@
   "primera_vista": "2026-11-07T11:52:57+00:00"
  },
  {
+  "id": "e8e1252ca1df0d",
+  "fuente_id": "investing-com",
+  "titular": "Marriott president & CEO Anthony Capuano sells $26.6m in company stock",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/insider-trading-news/marriott-president--ceo-anthony-capuano-sells-266m-in-company-stock-93CH-5009848",
+  "fecha": "2026-11-07T11:46:19+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "9cb7f0b33511c1",
+  "fuente_id": "investing-com",
+  "titular": "Kayne Anderson evp Harrison Little buys $51,538 in KYN stock",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/insider-trading-news/kayne-anderson-evp-harrison-little-buys-51538-in-kyn-stock-93CH-5009847",
+  "fecha": "2026-11-07T11:46:13+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
   "id": "6a99c5216a0cea",
   "fuente_id": "infobae-tecno",
   "titular": "Palacio de Justicia: actores de “Palacio” de Netflix cuentan cómo recrearon la toma con tecnología y nuevos lenguajes",
@@ -38,6 +168,26 @@
   "fecha": "2026-11-07T11:45:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "6edb68c59404c6",
+  "fuente_id": "investing-com",
+  "titular": "Panvel Q3 2026 slides: digital sales surge to 47% as profits jump 35%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/panvel-q3-2026-slides-digital-sales-surge-to-47-as-profits-jump-35-93CH-5009845",
+  "fecha": "2026-11-07T11:43:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "4fde34ae4c1de5",
+  "fuente_id": "investing-com",
+  "titular": "Earnings call transcript: MDVP Q3 2026 revenue hits record as shares rise 5.25%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-mdvp-q3-2026-revenue-hits-record-as-shares-rise-525-93CH-5009844",
+  "fecha": "2026-11-07T11:41:18+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
  },
  {
   "id": "77226991424e18",
@@ -120,6 +270,16 @@
   "primera_vista": "2026-11-07T11:52:57+00:00"
  },
  {
+  "id": "adb6cd4f0d9529",
+  "fuente_id": "forbes",
+  "titular": "Mets Castoff Skipper Carlos Mendoza Breaks Silence After Joining Rival Phillies",
+  "bajada": "The former New York Mets manager sent an initial message about taking over a challenging role for the division rival Philadelphia Phillies.",
+  "enlace": "https://www.forbes.com/sites/peterchawaga/2026/11/07/mets-castoff-skipper-carlos-mendoza-breaks-silence-after-joining-rival-phillies/",
+  "fecha": "2026-11-07T11:30:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
   "id": "68e4932335e6c5",
   "fuente_id": "investing-com",
   "titular": "Earnings call transcript: Grupo Panvel tops Q3 2026 estimates as revenue jumps",
@@ -188,6 +348,16 @@
   "fecha": "2026-11-07T11:05:07+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "19cffb427cf71d",
+  "fuente_id": "yahoo-finance",
+  "titular": "META_TITLE_QUOTE",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
+  "fecha": "2026-11-07T11:03:08+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
   "id": "86ada3774201aa",
@@ -278,6 +448,36 @@
   "fecha": "2026-11-07T10:48:23+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "0eee9d56d4857c",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Va04wYjUwWDFxdTlKZFB4OXFRRmxwdDVpQVFqNnJOREsxNVVic0E1ejBJNEpralkzS21TRXdTUFNKQXRRTHc?oc=5",
+  "fecha": "2026-11-07T10:43:07+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "168924ff5e8fdc",
+  "fuente_id": "yahoo-finance",
+  "titular": "Arm Holdings plc (ARM) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbDlXa05SUTZEbnEzRmQ5RWJYSnFSQ3pVM0l5d1c2QkpwYU8zNm9mU0VLc2ozdEY4QUdiUmJqT25pczJyR2ktTGs4T20?oc=5",
+  "fecha": "2026-11-07T10:36:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
+ },
+ {
+  "id": "c0313837d142ce",
+  "fuente_id": "yahoo-finance",
+  "titular": "META_TITLE_QUOTE",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQ1NKM2RUYWVMenRSd1BNSGJKbEUxSXprVGNBek5Wdi14M1RobEhUNkR2SER0VWpVSlFSb0pKcjcxbG5OdXRLVzNHV3dIdw?oc=5",
+  "fecha": "2026-11-07T10:36:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:29:07+00:00"
  },
  {
   "id": "c8791a89c6170f",
@@ -428,6 +628,16 @@
   "fecha": "2026-11-07T10:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "ad0c69f7557d67",
+  "fuente_id": "unicef",
+  "titular": "Register for free",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTS1dua1VhYl9sd2pfc0VaQTE3SFMxajNUeXlFX01UeHBxZUQ5UmtWZGNDR3RuTjYtdzg2WF9BSklxVGVUSlEzaThObTFuS3RaV2l1aW80emR2RzU5aXI2ZUtHRlo3LUhG?oc=5",
+  "fecha": "2026-11-07T09:54:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
  },
  {
   "id": "83bd01c05b29b5",
@@ -638,6 +848,16 @@
   "fecha": "2026-11-07T06:30:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "10633df8998e7c",
+  "fuente_id": "oms",
+  "titular": "- World Health Organization (WHO)",
+  "bajada": "World Health Organization (WHO)",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNNUE4V3BOWUltS3VtcU9CcmR1WFpBVGJ5T3B2azk1a1RqaVhhSVkwUFZ5bWZzR1FaRmVZUVB2WFd1SHpRVzF0b21oV3FhYWRhd3BaNUxKcy0yNDRLV2ZWWE1iUVFKOVpHUE1RUGZITnVjMEU?oc=5",
+  "fecha": "2026-11-07T06:22:54+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
  },
  {
   "id": "bc35ad79c23f31",
