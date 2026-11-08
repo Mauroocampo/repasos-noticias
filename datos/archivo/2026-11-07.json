@@ -300,6 +300,16 @@
   "primera_vista": "2026-11-08T12:17:31+00:00"
  },
  {
+  "id": "90d6a5c2670381",
+  "fuente_id": "yahoo-finance",
+  "titular": "Car buying mistake costing Aussies drivers $15,000 as EV tax changes loom",
+  "bajada": "Car buying mistake costing Aussies drivers $15,000 as EV tax changes loom Yahoo Finance Australia",
+  "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGZKelNQWXRlZkZwSVZMMUlLNmFlRlF5eFhuSWxEQ2dMbzQwMjRmLTZldExVR1puMVBxN18wbzNjcGxIQ0d5U3NLdHRxT2w5cE1wSWUwVXQ2TFVuek1hX29PZzV5R1hPX1p2MTNJWlN6UFB4UlNHMkJWejZFeUtEcVFXZkZQYkg1WUZETFBXMml1a0JCZktnbE1ZR19lZ3ZQazZTLVNuZEY4eUNZdnhWU2Rzd2gxRlNyWktZRg?oc=5",
+  "fecha": "2026-11-08T01:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-08T14:16:43+00:00"
+ },
+ {
   "id": "a038f9da7d2eb9",
   "fuente_id": "yahoo-finance",
   "titular": "Airbus SE (EADSY) Seasonal Returns Chart",
@@ -338,6 +348,16 @@
   "fecha": "2026-11-08T00:27:33+00:00",
   "via": "rss",
   "primera_vista": "2026-11-08T12:17:31+00:00"
+ },
+ {
+  "id": "4ce975a516e21a",
+  "fuente_id": "yahoo-finance",
+  "titular": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1pqbDQ5WVE2dF91SUpERC1aLTVTeUU5clhENXFHbW9xb3hybFpNaWRaczltdFhwaHpxeTF1SUJDempKS0hNU1llVkREOHF2dUR5TW40MktCMnlMbnFDem1aV0RTcjlUcl9NNVh4VmxzcktFN2o2eHdFMjJuN2pncGotdTdoaEhRdWVzRDk5LTZiYUdIZnF1TnN3?oc=5",
+  "fecha": "2026-11-08T00:22:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-08T14:16:43+00:00"
  },
  {
   "id": "100ceb2007ad56",
@@ -800,6 +820,16 @@
   "primera_vista": "2026-11-08T12:17:31+00:00"
  },
  {
+  "id": "7fd99c9d7796f5",
+  "fuente_id": "yahoo-finance",
+  "titular": "Clearway Energy, Inc. (CWEN) Seasonal returns chart",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBONnA4TWtRdDBheG1WWG13LUxBeXowVkJMc1VXNnA5bFhTOGpvbU9kMEhzWTlacTFYSlRPSG1abGp3akt1UmE4NHFTMmxtMzdBamIxUU9aeU04T19ZWWYyOFBn?oc=5",
+  "fecha": "2026-11-07T21:52:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-08T14:16:43+00:00"
+ },
+ {
   "id": "5c785807632ca7",
   "fuente_id": "portafolio",
   "titular": "Centro Democrático cuestiona IVA a alimentos, internet y servicios de salud en la Ley de Rescate Económico",
@@ -1008,6 +1038,16 @@
   "fecha": "2026-11-07T20:39:29+00:00",
   "via": "rss",
   "primera_vista": "2026-11-08T12:17:31+00:00"
+ },
+ {
+  "id": "010d4e288114e1",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CU2hvRHcwb1djMk95RG5LS3VMM0hfckdqbndJOFB4UFBweVpPNk5seXNRU2NFRWtkMWlyUDBKN245aUNYU3hkUHBtdDhzR2s?oc=5",
+  "fecha": "2026-11-07T20:33:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
   "id": "7d72151337e8b3",
@@ -1258,6 +1298,16 @@
   "fecha": "2026-11-07T19:12:20+00:00",
   "via": "rss",
   "primera_vista": "2026-11-08T12:17:31+00:00"
+ },
+ {
+  "id": "2fb7c5973b0e51",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kRGs2aV9uRW1ZdjVBQi1xS1JsUVhKNjlXQ1N2RlNwNzlfcmk0RFZLbjBfbVF1LTNxbnNMd3Voc3pCWmlVZ2hSeGgzTmJLUWM?oc=5",
+  "fecha": "2026-11-07T19:11:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
   "id": "782ffd47a51f10",
@@ -2300,6 +2350,16 @@
   "primera_vista": "2026-11-07T16:43:48+00:00"
  },
  {
+  "id": "88bbb18b63cca2",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "International Union for Conservation of Nature",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USklGc1NVUGcwLUEyNVh4em0wajZWRklJUWpCdTdnX0Z4c05MeWlyczNGNDR0S3VZdktwRVNtclJZZTFXb1R4RktoUzFZdw?oc=5",
+  "fecha": "2026-11-07T13:35:37+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
   "id": "102283a3e94114",
   "fuente_id": "bbc-mundo",
   "titular": "Casavalle, la barriada humilde de Montevideo que aguarda al papa León XIV estremecida por la violencia",
@@ -2468,6 +2528,16 @@
   "fecha": "2026-11-07T13:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-07T16:43:48+00:00"
+ },
+ {
+  "id": "244cd0c2f111d2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Dow Jones Industrial Average (^DJI) Charts, Data & News",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53MklaLWlSV2JrNHpBa2pYYWg1UVVGOHE3UGxDUlZJU3RuZVYzdE1RY1A3Y0dGc1hDVXYxc3dGWm52Rk1MUlZyaXo2bllyTWxz?oc=5",
+  "fecha": "2026-11-07T12:59:43+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
  },
  {
   "id": "5b9497fb90379b",
