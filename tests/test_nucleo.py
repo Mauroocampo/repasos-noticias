@@ -44,7 +44,8 @@ def test_asignar_fija_mas_filtro():
     f = Filtro(CLAVES)
     fuente = {"id": "x", "tematicas": ["colombia"], "tematicas_por_filtro": ["tecnologia"], "pais": "CO"}
     temas, como = f.asignar({"titular": "Bancos usan IA", "bajada": ""}, fuente)
-    assert temas == ["colombia", "tecnologia"] and como == "fuente"
+    assert temas == ["colombia", "tecnologia"] and como == "contenido"
+    assert f.asignar({"titular": "Sube el recaudo", "bajada": ""}, fuente) == (["colombia"], "fuente")
     general = {"id": "y", "tematicas_por_filtro": ["tecnologia"]}
     assert f.asignar({"titular": "Receta de arepas", "bajada": ""}, general)[0] == []
 

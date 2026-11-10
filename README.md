@@ -11,9 +11,13 @@ Colombia (negocios, economía y energía) · Internacional y mercados · Tecnolo
 - **Actualización diaria.** Todos los días a las 6:00 a. m. (hora de Colombia), GitHub Actions lee las fuentes, guarda los datos en `datos/` y publica el sitio.
 - **Cómo se lee cada fuente.** Se usa su RSS. Si no tiene uno que funcione, se usa Google News filtrado por su sitio.
 - **Los grupos de fuentes:**
-  - Fijas y especializadas: todo lo que publican entra en su temática.
-  - Medios generales: solo entran las notas que pasan el filtro de palabras clave.
+  - Fijas y especializadas: conservan su temática propia y suman las que indique el contenido.
+  - Medios generales: solo entran las notas que pasan las palabras clave.
   - Datos y estudios: no van al flujo; están en la página *Datos de referencia*.
+- **Clasificación por contenido.** La temática sale del titular y la bajada, con las reglas de `palabras-clave.yaml`:
+  - Colombia solo si la nota trata de Colombia; las notas internacionales de medios colombianos van a Internacional y mercados.
+  - Ciberseguridad OT entra desde cualquier fuente si la nota trata de sistemas de control o físicos.
+  - Se descartan las entradas que no son noticias (páginas de sección, paginación y portadas).
 - **Duplicados.** Si la misma nota sale en varios sitios (por ejemplo, en la red TechDay), se muestra una sola versión, con «También en».
 - **Marcas.** Junto a cada nota aparece su marca: muro de pago, proveedor, comunicado de empresa, activista, posible patrocinio, etc.
 - **Fuentes que fallan.** Si una fuente no responde, el sitio se actualiza igual con las demás. El error queda en `datos/registro/` y en la página *Fuentes y método*.
@@ -23,7 +27,7 @@ Colombia (negocios, economía y energía) · Internacional y mercados · Tecnolo
 | Archivo | Para qué |
 |---|---|
 | [`fuentes.yaml`](fuentes.yaml) | Todas las fuentes: grupo, tipo, temáticas, método, feeds, marcas y notas. Para agregar una fuente, copia un bloque; para sacarla, pon `grupo: excluida`. |
-| [`palabras-clave.yaml`](palabras-clave.yaml) | Filtro por temática para los medios generales. Las instrucciones están al inicio del archivo. |
+| [`palabras-clave.yaml`](palabras-clave.yaml) | Reglas para clasificar por contenido: palabras por temática, señales de Colombia y del exterior, reglas de Ciberseguridad OT y patrones de entradas que no son noticias. Las instrucciones están al inicio del archivo. |
 | [`ia.yaml`](ia.yaml) | Fase 2 (desactivada): resúmenes, comentario editorial y clasificación con IA. |
 
 Después de editar, guarda el cambio en GitHub. El sitio se vuelve a publicar solo en uno o dos minutos.
@@ -68,10 +72,10 @@ Para ver el sitio en tu computador: `python -m http.server 8765 --directory siti
 
 ```
 fuentes.yaml            fuentes, grupos, temáticas, marcas (único archivo de fuentes)
-palabras-clave.yaml     filtro por temática
+palabras-clave.yaml     reglas de clasificación por contenido
 ia.yaml                 fase 2 (desactivada)
 actualizar.py           comando principal
-actualizador/           lector, filtro, duplicados, marcas, generador
+actualizador/           lector, filtro, descartes, duplicados, marcas, generador
   ia/                   fase 2: resumen, clasificador, búsqueda abierta (solo estructura)
 plantillas/             HTML (Jinja2)
 estaticos/              CSS y JavaScript

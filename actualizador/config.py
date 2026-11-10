@@ -126,6 +126,13 @@ def validar(cfg: Config) -> None:
         if any(t in f.get("tematicas_por_filtro", []) for f in cfg.fuentes) and t not in cfg.palabras_clave:
             problemas.append(f"palabras-clave.yaml: falta la temática `{t}`.")
 
+    ajustes = cfg.palabras_clave.get("ajustes") or {}
+    for t in list(ajustes.get("tematicas_abiertas") or []) + [ajustes.get("tematica_exterior") or "internacional"]:
+        if t not in temas:
+            problemas.append(f"palabras-clave.yaml: en `ajustes`, la temática `{t}` no existe.")
+        elif t not in cfg.palabras_clave:
+            problemas.append(f"palabras-clave.yaml: falta la temática `{t}`.")
+
     if cfg.url_actualizar and not cfg.url_actualizar.startswith("https://"):
         problemas.append("url_actualizar: debe empezar por https:// (o dejarse vacía).")
 

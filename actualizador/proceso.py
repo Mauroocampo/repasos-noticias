@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 
 from . import almacen, duplicados, ia, lector, marcas
 from .config import Config
+from .descartes import Descartes
 from .filtro import Filtro
 
 log = logging.getLogger("actualizador")
@@ -61,14 +62,19 @@ def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int
 def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
     """Aplica la configuración actual: fuente, tipo, temáticas y marcas."""
     filtro = Filtro(cfg.palabras_clave)
+    descartes = Descartes(cfg.palabras_clave.get("no_noticias"))
     fuentes = cfg.fuentes_por_id
     salida = []
+    descartadas = 0
     for n in crudas:
         f = fuentes.get(n["fuente_id"])
         if not f or f["grupo"] not in ("fija", "especializada", "general"):
             continue  # la fuente se quitó o se excluyó
         exigido = (f.get("solo_titulares_con") or "").lower()
         if exigido and exigido not in n["titular"].lower():
+            continue
+        if descartes.motivo(n, f):
+            descartadas += 1  # página de sección, paginación o portada: no es una noticia
             continue
         temas, como = filtro.asignar(n, f)
         if not temas:
@@ -87,6 +93,8 @@ def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
             "resumen": None,
             "comentario": None,
         })
+    if descartadas:
+        log.info("Se descartaron %d entradas que no son noticias (secciones, paginación, portadas)", descartadas)
     return salida
 
 

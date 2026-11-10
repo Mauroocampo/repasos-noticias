@@ -18,8 +18,12 @@
   <h2 class="titulo-seccion">Cómo se arma el sitio</h2>
   <ul>
     <li>Todos los días a las 6:00 a. m. (hora de Colombia) se lee el RSS de cada fuente. Si una fuente no tiene RSS que funcione, se usa Google News filtrado por su sitio; en ese caso la nota solo trae titular, sin bajada.</li>
-    <li><strong>Fuentes fijas</strong> y <strong>especializadas:</strong> todo lo que publican entra en su temática.</li>
+    <li>La temática de cada nota sale de su <strong>titular y su bajada</strong>. Una nota puede estar en más de una temática.</li>
+    <li><strong>Fuentes fijas</strong> y <strong>especializadas:</strong> conservan su temática propia y suman las que indique el contenido.</li>
     <li><strong>Medios generales:</strong> solo entran las notas cuyo titular o bajada contiene palabras clave de la temática.</li>
+    <li><strong>Colombia:</strong> solo las notas que tratan de Colombia. Las notas internacionales de los medios colombianos van a Internacional y mercados.</li>
+    <li><strong>Ciberseguridad OT:</strong> entra cualquier nota, de cualquier fuente, que trate de sistemas de control o físicos (ICS, SCADA, PLC, avisos de CISA y de fabricantes industriales, protocolos industriales).</li>
+    <li>Se descartan las entradas que no son noticias: páginas de sección, de paginación y portadas.</li>
     <li>Si la misma nota aparece en varios sitios, se muestra una sola vez.</li>
     <li>Si una fuente no responde, el sitio se actualiza igual con las demás y el error queda registrado en esta página.</li>
     <li>Se muestran los últimos {{ cfg.ventana_dias }} días; el histórico queda guardado en el repositorio.</li>

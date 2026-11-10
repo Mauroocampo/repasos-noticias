@@ -1,12 +1,16 @@
 # ─────────────────────────────────────────────────────────────────────────────
-# palabras-clave.yaml — filtro por temática
+# palabras-clave.yaml — reglas para clasificar las noticias POR CONTENIDO
 #
-# Se aplica a:
-#   - los medios generales (grupo: general), y
-#   - las temáticas extra (`tematicas_por_filtro`) de fijas y especializadas.
+# La temática de cada nota sale de su titular y su bajada, no de la fuente.
+# Este archivo se puede editar sin tocar código.
 #
-# Una nota entra en una temática si su titular o bajada contiene alguna
-# palabra de `incluir` y ninguna de `excluir`.
+# Qué significa cada lista de una temática:
+#   incluir       basta UNA de estas palabras para que la nota entre.
+#   ambiguas      palabras que por sí solas engañan (p. ej. "PLC" también es
+#                 un tipo de empresa). Solo cuentan si además aparece alguna
+#                 palabra de `acompanantes`.
+#   acompanantes  palabras que confirman a las ambiguas.
+#   excluir       si aparece alguna, la nota NO entra en la temática.
 #
 # Reglas de escritura:
 #   - No importan mayúsculas ni tildes: "economia" encuentra "Economía".
@@ -15,12 +19,249 @@
 #     sostenibilidad, sostenibles.
 #   - Frases entre comillas: "banco de la republica".
 #
-# Temática Colombia: si el medio NO es colombiano (sin `pais: CO` en
-# fuentes.yaml), la nota además debe tener alguna palabra de `contexto`.
+# A qué fuentes se aplica:
+#   - Fijas y especializadas conservan su temática propia (un medio de
+#     ciberseguridad sigue en Ciberseguridad IT) y SUMAN las que diga el
+#     contenido, entre las de su lista `tematicas_por_filtro` en fuentes.yaml.
+#   - Medios generales: solo entran las notas que pasan estas reglas.
+#   - Las temáticas de `tematicas_abiertas` (abajo) valen para TODAS las fuentes.
+#
+# Colombia depende siempre del contenido:
+#   - Medio colombiano (`pais: CO`): la nota es de Colombia salvo que sea del
+#     exterior y no mencione a Colombia (`contexto`). Es del exterior si está en
+#     la sección internacional del medio (`secciones_exterior` en fuentes.yaml,
+#     p. ej. /globoeconomia/ en La República) o, si el medio no tiene esa
+#     sección, si tiene palabras de `exterior`.
+#     Las notas del exterior de Portafolio, La República y Agronegocios van a
+#     Internacional; las de los medios generales solo entran si además pasan
+#     las palabras clave de Internacional.
+#   - Medio extranjero: solo es de Colombia si menciona alguna palabra de `contexto`.
 # ─────────────────────────────────────────────────────────────────────────────
 
+ajustes:
+  # Temáticas que cualquier fuente puede recibir si el contenido lo dice
+  tematicas_abiertas: [ciber-ot]
+  # A dónde van las notas de medios colombianos que tratan de otro país
+  tematica_exterior: internacional
+
+# Entradas que NO son noticias y se descartan (páginas de sección, paginación, portadas)
+no_noticias:
+  # En el titular. El signo # significa "un número cualquiera".
+  titulares:
+    - "page # of #"
+    - "pagina # de #"
+    - ", author at "
+    - "- page #"
+  # En la dirección de la nota (no aplica a los enlaces de Google News, que no la muestran)
+  rutas: ["/page/", "/category/", "/categoria/", "/tag/", "/tags/", "/etiqueta/", "/author/", "/autor/"]
+  # Descartar enlaces a la portada del sitio y titulares que son el nombre del medio
+  portadas: true
+
 colombia:
-  contexto: [colombia, colombian*, bogota, medellin, cali, barranquilla, cartagena, bucaramanga, petro, ecopetrol]
+  # Señales de que la nota trata de Colombia
+  contexto:
+    - colombia
+    - colombian*
+    - bogota
+    - medellin
+    - cali
+    - barranquilla
+    - cartagena
+    - bucaramanga
+    - cucuta
+    - pereira
+    - manizales
+    - "santa marta"
+    - villavicencio
+    - antioquia
+    - cundinamarca
+    - atlantico
+    - "valle del cauca"
+    - "la guajira"
+    - monteria
+    - sincelejo
+    - valledupar
+    - riohacha
+    - soledad
+    - ibague
+    - neiva
+    - pasto
+    - popayan
+    - armenia
+    - tunja
+    - yopal
+    - buenaventura
+    - tolima
+    - huila
+    - boyaca
+    - narino
+    - choco
+    - caldas
+    - risaralda
+    - quindio
+    - petro
+    - "casa de narino"
+    - minhacienda
+    - mintrabajo
+    - minenergia
+    - mincomercio
+    - mincit
+    - minagricultura
+    - minsalud
+    - mintic
+    - "ministerio de hacienda"
+    - "ministerio del trabajo"
+    - "ministerio de minas"
+    - dian
+    - dane
+    - banrep
+    - "banco de la republica"
+    - superfinanciera
+    - superintendencia*
+    - supersalud
+    - superservicios
+    - creg
+    - upme
+    - anh
+    - ani
+    - invias
+    - fedesarrollo
+    - andi
+    - fenalco
+    - anif
+    - "consejo gremial"
+    - corficolombiana
+    - "corte constitucional"
+    - "consejo de estado"
+    - "congreso de la republica"
+    - trm
+    - "bolsa de valores de colombia"
+    - bvc
+    - colcap
+    - ecopetrol
+    - bancolombia
+    - "grupo aval"
+    - davivienda
+    - "grupo sura"
+    - "grupo argos"
+    - nutresa
+    - "cementos argos"
+    - celsia
+    - epm
+    - isa
+    - "grupo energia bogota"
+    - geb
+    - avianca
+    - "grupo exito"
+    - terpel
+    - promigas
+    - canacol
+    - air-e
+    - afinia
+    - "federacion nacional de cafeteros"
+    - fedegan
+  # Señales de que la nota trata de otro país o del mundo
+  exterior:
+    - "estados unidos"
+    - "ee. uu."
+    - "ee.uu."
+    - eeuu
+    - estadounidense*
+    - norteamerica*
+    - washington
+    - "nueva york"
+    - "wall street"
+    - texas
+    - california
+    - florida
+    - "casa blanca"
+    - trump
+    - "reserva federal"
+    - fed
+    - canada
+    - canadiense*
+    - mexico
+    - mexican*
+    - brasil
+    - brasilen*
+    - argentina
+    - argentin*
+    - milei
+    - chile
+    - chilen*
+    - peru
+    - peruan*
+    - ecuador
+    - ecuatorian*
+    - venezuela
+    - venezolan*
+    - bolivia
+    - bolivian*
+    - paraguay
+    - uruguay
+    - panama
+    - panamen*
+    - "costa rica"
+    - cuba
+    - europa
+    - europe*
+    - eurozona
+    - "union europea"
+    - bce
+    - espana
+    - "gobierno espanol"
+    - madrid
+    - francia
+    - frances
+    - francesa
+    - franceses
+    - paris
+    - alemania
+    - aleman
+    - alemana
+    - alemanes
+    - italia
+    - italian*
+    - meloni
+    - "reino unido"
+    - britanic*
+    - londres
+    - rusia
+    - ruso
+    - rusa
+    - rusos
+    - ucrania
+    - china
+    - chino
+    - chinos
+    - pekin
+    - japon
+    - japones*
+    - india
+    - corea
+    - taiwan
+    - asia
+    - asiatic*
+    - africa
+    - african*
+    - australia
+    - israel
+    - iran
+    - "arabia saudita"
+    - "medio oriente"
+    - opep
+    - fmi
+    - "fondo monetario internacional"
+    - "banco mundial"
+    - ocde
+    - g20
+    - g7
+    - spacex
+    - tesla
+    - "elon musk"
+    - nasdaq
+    - "dow jones"
+    - "s&p 500"
   incluir:
     - economi*
     - "banco de la republica"
@@ -167,24 +408,114 @@ ciber-it:
   excluir: []
 
 ciber-ot:
+  # Basta una: términos que casi solo se usan al hablar de seguridad industrial
   incluir:
-    - ics
     - scada
-    - plc
     - "sistemas de control industrial"
+    - "sistema de control industrial"
     - "industrial control system*"
     - "operational technology"
+    - "tecnologia operacional"
+    - "tecnologia operativa"
     - "ot security"
+    - "seguridad ot"
     - "ot/iot"
     - "it/ot"
+    - "ot/ics"
+    - "ics/ot"
+    - "ics advisor*"
+    - "ics-cert"
+    - "industrial cybersecurity"
+    - "ciberseguridad industrial"
+    # avisos ICSA de CISA
+    - icsa*
+    # protocolos industriales
+    - modbus
+    - profinet
+    - "ethernet/ip"
+    - "cc-link"
+    - "opc ua"
+    - dnp3
+    # proveedores de seguridad OT
+    - nozomi
+    - claroty
+    - dragos
+    # productos con avisos recientes (agrega aquí los que vayan saliendo)
+    - "powersystem center"
+    - "subnet solutions"
+  # Ambiguas: solo cuentan junto a una palabra de `acompanantes`
+  ambiguas:
+    # sistemas de control y físicos
+    - ics
+    - plc
+    - plcs
+    - dcs
+    - hmi
+    - hmis
+    - cip
+    - rtu
+    - historian*
+    - historiador*
+    - subestacion*
+    - substation*
+    - "power grid"
+    - "red electrica"
+    - "water utilit*"
+    - "water treatment"
     - "critical infrastructure"
     - "infraestructura critica"
-    - "water utility"
-    - "power grid"
+    - refrigeracion
+    - refrigeration
+    - freezer*
+    - congelador*
+    - "cadena de frio"
+    - "cold chain"
+    - "cold storage"
+    - "building automation"
+    - "industrial automation"
+    - "automatizacion industrial"
+    - "industrial router*"
+    - "industrial network*"
+    - "industrial system*"
+    # fabricantes industriales
     - siemens
-    - "rockwell automation"
-    - "schneider electric"
-    - modbus
+    - rockwell
+    - schneider
+    - mitsubishi
+    - honeywell
+    - abb
+    - emerson
+    - "phoenix contact"
+    - wago
+    - "johnson controls"
+    - "hitachi energy"
+    - copeland
+  # Palabras de seguridad que confirman a las ambiguas
+  acompanantes:
+    - ciberseguridad
+    - ciberataque*
+    - ciberdelincuen*
+    - cybersecurity
+    - cyberattack*
+    - "cyber attack*"
+    - cyber
+    - hack*
+    - vulnerab*
+    - cve*
+    - cvss
+    - exploit*
+    - flaw*
+    - ransomware
+    - malware
+    - botnet
+    - advisory
+    - advisories
+    - "aviso de seguridad"
+    - "security advisor*"
+    - "security patch*"
+    - "security update*"
+    - "threat actor*"
+    - cisa
   excluir: []
 
 manufactura:

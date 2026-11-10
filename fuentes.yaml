@@ -11,9 +11,15 @@
 #   sitio               página principal del medio
 #   grupo               fija | especializada | general | referencia | excluida
 #   tipo                tipo de fuente (ver `tipos` abajo); sirve para el filtro
-#   pais                CO si es colombiana (afecta el filtro de la temática Colombia)
-#   tematicas           todo lo que publica entra en estas temáticas
-#   tematicas_por_filtro  solo entra si pasa las palabras clave de palabras-clave.yaml
+#   pais                CO si es colombiana (afecta la temática Colombia)
+#   tematicas           temática propia de la fuente. Colombia no se hereda: una nota
+#                       de un medio colombiano que trata de otro país va a Internacional
+#   tematicas_por_filtro  temáticas que puede recibir según el contenido de cada nota
+#                       (reglas en palabras-clave.yaml)
+#   secciones_exterior  (opcional) para medios colombianos que separan lo internacional
+#                       en una sección, p. ej. ["/globoeconomia/"]. Si se pone, la sección
+#                       decide si la nota es del exterior; si no, deciden las palabras
+#                       de `colombia.exterior` en palabras-clave.yaml
 #   metodo              rss | google_news | sin_acceso
 #   feeds               lista de URLs RSS/Atom (si metodo: rss)
 #   google_news         {consulta, idioma: es|en} (si metodo: google_news)
@@ -89,7 +95,7 @@ fuentes:
     tipo: prensa
     pais: CO
     tematicas: [colombia]
-    tematicas_por_filtro: [manufactura, sostenibilidad]
+    tematicas_por_filtro: [internacional, tecnologia, manufactura, sostenibilidad]
     metodo: rss
     feeds:
       - https://www.portafolio.co/rss/economia.xml
@@ -105,7 +111,8 @@ fuentes:
     tipo: prensa
     pais: CO
     tematicas: [colombia]
-    tematicas_por_filtro: [internacional, manufactura, sostenibilidad]
+    tematicas_por_filtro: [internacional, tecnologia, manufactura, sostenibilidad]
+    secciones_exterior: ["/globoeconomia/"]
     metodo: rss
     feeds:
       - https://www.larepublica.co/rss/economia
@@ -123,7 +130,7 @@ fuentes:
     tipo: prensa
     pais: CO
     tematicas: [colombia]
-    tematicas_por_filtro: [sostenibilidad]
+    tematicas_por_filtro: [internacional, sostenibilidad]
     metodo: rss
     feeds: [https://www.agronegocios.co/rss/]
     nota: "Prensa sectorial del grupo La República. Agro y Ley de Rescate."
@@ -650,7 +657,8 @@ fuentes:
     grupo: general
     tipo: prensa
     pais: CO
-    tematicas_por_filtro: [colombia, manufactura, sostenibilidad]
+    tematicas_por_filtro: [colombia, internacional, manufactura, sostenibilidad]
+    secciones_exterior: ["/mundo/"]
     metodo: rss
     feeds: ["https://www.elheraldo.co/arc/outboundfeeds/rss/?outputType=xml"]
     nota: "Prensa regional. Cifras de industria del Dane."
