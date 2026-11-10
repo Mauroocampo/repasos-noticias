@@ -40,6 +40,16 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "f129823bc4a9ec",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-89103: SAP Gateway Default ACL Bypass Grants Unauthenticated Internal Access",
+  "bajada": "Critical Threat Advisory: Assigned a 10 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. SAP Gateway activates the default Access Control...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-89103-sap-gateway-default-acl-bypass-grants-unauthenticated-internal-access/",
+  "fecha": "2026-11-10T04:32:24+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "0cbf608f993786",
   "fuente_id": "el-heraldo",
   "titular": "Ecopetrol emitió bonos por US$2.000 millones para refinanciar deuda y pagar parte de sus obligaciones de 2029",
@@ -88,6 +98,16 @@
   "fecha": "2026-11-10T04:15:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "d8e7eb004c60d3",
+  "fuente_id": "the-manufacturer",
+  "titular": "Automation - Page 55 of 55 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2bk9rU2lfeUJGWW1VU1hqVUlQRl83RlJSSGRQUWc2MkpibzBnbldlOHlUaWx5Z1V6dFJqVE9hM0dXbC15WGhIT1NPYzZHeTY2QWJHWVp6c2hqOTNjcHBRRlh5bDZIUQ?oc=5",
+  "fecha": "2026-11-10T04:14:53+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "406d6fc55b9dbf",
@@ -790,6 +810,16 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "ffd151f29e4975",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-89126: SAP Web Dispatcher Memory Corruption Enables Unauthenticated Remote Code Execution",
+  "bajada": "Critical Threat Advisory: Assigned a 10 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. SAP Web Dispatcher does not sufficiently validate...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-89126-sap-web-dispatcher-memory-corruption-enables-unauthenticated-remote-code-execution/",
+  "fecha": "2026-11-10T01:47:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "4765223643dd16",
   "fuente_id": "ecommercenews",
   "titular": "Pattern helps Oroton boost apparel reach across channels",
@@ -798,6 +828,16 @@
   "fecha": "2026-11-10T01:46:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "c4e1ce1a3149f8",
+  "fuente_id": "futurefive",
+  "titular": "Adobe & Disney strike multi-year AI creative alliance",
+  "bajada": "Disney will get early access to Adobe's latest AI tools as the companies push custom models into films, parks and sports content.",
+  "enlace": "https://futurefive.com.au/story/adobe-disney-strike-multi-year-ai-creative-alliance",
+  "fecha": "2026-11-10T01:45:51+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "9c888dc227866e",
@@ -848,6 +888,16 @@
   "fecha": "2026-11-10T01:32:09+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "fdc4073b312fda",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-89119: SAP Web Dispatcher & NetWeaver Admin Session Hijack Leads to Full OS Compromise",
+  "bajada": "Critical Threat Advisory: Assigned a 9.6 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. SAP Web Dispatcher and SAP NetWeaver Application...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-89119-sap-web-dispatcher-netweaver-admin-session-hijack-leads-to-full-os-compromise/",
+  "fecha": "2026-11-10T01:31:31+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "ecccde4a665193",
@@ -1010,6 +1060,16 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "ab799e94757cb3",
+  "fuente_id": "the-manufacturer",
+  "titular": "Daily Manufacturing News Digest – the industry stories you should be aware of today",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdk1GOC1aTWVzTW13REIyWGU0d0xib1N5clpzRENxd0RETjB6STBLWkphOFJVNmMxYndoOFpSX2RKTVdnLUJYV2c0YjIyS0hzY3EwRlhobXFXcXFXblNSXy1sWUhvbTlCRUtXYzJ3TVNuNjlZMDJGT2lYNnZFN0FHbGw5QWxtaUREZ0RCY1lqYXZLMnZGa004WXc1MTVWS3Y4UzFreU01elV0dkZrM19tTk5JSllsV0pSOGZZcHlpdDhiX3BMSUprcXhR?oc=5",
+  "fecha": "2026-11-10T00:57:44+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "41f2d021e403e0",
   "fuente_id": "la-republica",
   "titular": "La SIC archivó la investigación contra Ecopetrol y Helistar por los varios contratos aéreos",
@@ -1028,6 +1088,16 @@
   "fecha": "2026-11-10T00:37:53+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "d25ecffa128620",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-125383: INDOTALENT WHMS Authentication Bypass: Hard-coded JWT Key Grants Unauthenticated Admin Access",
+  "bajada": "Critical Threat Advisory: Assigned a 9.8 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. INDOTALENT WHMS (Asp.Net-Core-Inventory-Order-Management-System)…",
+  "enlace": "https://www.thehackerwire.com/cve-2026-125383-indotalent-whms-authentication-bypass-hard-coded-jwt-key-grants-unauthenticated-admin-access/",
+  "fecha": "2026-11-10T00:31:26+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "c0313837d142ce",
@@ -1960,6 +2030,26 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "1a8c232b96854a",
+  "fuente_id": "yahoo-finance",
+  "titular": "Take-Two (NASDAQ:TTWO) reports sales below analyst estimates in Q3 CY2026 earnings",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0dydFVsM1ZmM2NTNWhrYlkyUWZDRzdpdVNPMFFFUnpmMW5zSVZUUmtZTml0b2lwUmlTTzh4bS0xUmVYXzBsMzRTaUhnVlk1WDJKOVhYUl9PUkFsdFE0V2VSbUdqWUxhM0VqaktUdmJXVkdyS0JWblNxQW9YSU5fUWJka3pMTVppdHdQUy1ST0VqTnIxX2ZzV1hR?oc=5",
+  "fecha": "2026-11-09T22:26:39+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "023686ef125c20",
+  "fuente_id": "yahoo-finance",
+  "titular": "Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positioning Ahead of Q3 Report",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2FWMzROUnREdXFpQ0hoTGsyVURuQVRRaFNfTlhOWjlXWWlyeFRvV1hWLThmVmJlSWkzVF85bmdsMFMtZEFYNnUzMzdfZFY4MVkwM3pnc1hFQ2c0WFFIZkd0SHR6VGp5TmFsX0FOcmpwWnBkTXh0M1ZvUkFyVWhXbWtjMld6b2dLdFZZalBvQTFORjg?oc=5",
+  "fecha": "2026-11-09T22:24:10+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "52f44ce038f57c",
   "fuente_id": "cnbc",
   "titular": "3 unexpected reasons the October jobs report was so strong",
@@ -2098,6 +2188,16 @@
   "fecha": "2026-11-09T22:10:28+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "f4064c178e252f",
+  "fuente_id": "yahoo-finance",
+  "titular": "Why Retail Investors Are Watching Nvidia Alternatives In AI Infrastructure",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2d0cjVWVGRvb2dhQlU1ZUhhNVNaVERQNlQ5UUl1YWctbzJzWERJQVR4djY4bmZIcUVibzM2a1NIZEtxNV9GRTNwdlg0bUttMXk5dUJCZFZEUjVSTnFsT2hlbkdSUmVUcnVSc1I5ZDVaNU9JVjI0b0ZUUVBnVjFFbi1lZ2RvWDQtaXVDcXRBQnNGZDdoTFFlVTRvZWs1U0ZzMEE?oc=5",
+  "fecha": "2026-11-09T22:09:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "555fb104beef3f",
@@ -2810,6 +2910,16 @@
   "primera_vista": "2026-11-09T21:16:06+00:00"
  },
  {
+  "id": "f6e5208d8b7e33",
+  "fuente_id": "unicef",
+  "titular": "1.5.2. Cluster coordination French/Spanish modules",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GY0l5cUhSeEJDdGl0NGw0SXktd0hqRFN1M1R3ZmE4akNjYm5YRlRrMzlZSFZRVTFsaHR2aGRJVWRhdjdFcjBTamxYc1c0c2oza3BmZzFQZmpVb1hIckVOMTZKYUhaQzhBdk9YSTMzdDV6UQ?oc=5",
+  "fecha": "2026-11-09T20:52:24+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "5ff9dc880363cd",
   "fuente_id": "investing-com",
   "titular": "Entrada Therapeutics at Guggenheim: four data readouts loom",
@@ -3438,6 +3548,16 @@
   "fecha": "2026-11-09T19:34:43+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T21:16:06+00:00"
+ },
+ {
+  "id": "050e1ed1d8531a",
+  "fuente_id": "the-manufacturer",
+  "titular": "Apprenticeships - Page 74 of 74 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVW9QNWpqcHVqMVBOSC1CUE92dDMzb2RYMk1WNWhKRW1uTnB4amF1TEFhcmxJTEdOVmVNTTVnTFdocjdqeGhzUVpPNzFncXktM2VLSWpjSmJkOGxuYTMyblBFVHpzRWhVbDR3dW8zTGlDMEk5NzVHcHVMbFNfdXEzQ3c3cGNvdVJZNEpjY3NyWEs3X21CRkxBQmRlcHJqT09jMmNKMndSb0t2TVZrVFlnTFdFVHNDZjUyblpTTUx5WW5rT2JNbHU1aGhqUlpMc0hCWUlIUkJwdTVaN2x2MmUxVlNTT2JVbFQ4SWZJaHNWMkVBdzg2UzlPYU9lWlg4Z2J5MnVJUVdvUGNMWF9HNmE4bkE4Mlk3c3VydjZ3NWZWQnBNVVRnUmhGWUlkTQ?oc=5",
+  "fecha": "2026-11-09T19:34:42+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "4da88f9b764774",
@@ -5190,6 +5310,16 @@
   "primera_vista": "2026-11-09T21:16:06+00:00"
  },
  {
+  "id": "fd6fd481c64485",
+  "fuente_id": "yahoo-finance",
+  "titular": "Alphabet Inc. (GOOG) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pUnVuQ3AzSDN2ZjNaRU14NEpwR0tOZTJibGx3TGlrM050RW9UdHRSMWZJX0RUcE9TZDU5QkJkWU5SYS1zNW9rR1pTZDRCZw?oc=5",
+  "fecha": "2026-11-09T16:43:09+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-08T16:53:53+00:00"
+ },
+ {
   "id": "35f8e8c241e830",
   "fuente_id": "el-heraldo",
   "titular": "Ramsés Vargas Quevedo, joven desaparecido en Bogotá, fue hallado muerto con un impacto de bala en la cabeza",
@@ -5358,6 +5488,16 @@
   "fecha": "2026-11-09T16:15:40+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T21:16:06+00:00"
+ },
+ {
+  "id": "127895a4d231f1",
+  "fuente_id": "yahoo-finance",
+  "titular": "Apple Inc. (AAPL) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oRWFDOUk5RnFwTHd2QWxnZnYwNXZRTEtYaDRVUXZZVEJrSW5aWGdPZ1BwSFJtQ2RXWGY2OGJiTzU5MGZrbjZhUlNQdGZmUQ?oc=5",
+  "fecha": "2026-11-09T16:14:23+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T12:59:03+00:00"
  },
  {
   "id": "d770670ffe0a85",
@@ -5548,6 +5688,26 @@
   "fecha": "2026-11-09T15:55:53+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T21:16:06+00:00"
+ },
+ {
+  "id": "c802b285edcfb2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbWY1cHQ5MEJvWUhYRWtaWjBMdEVIMlB0cnRkdFpKNDRCMjVIWlJmWDVxdE5jUlhkWGFHeU9DSDFGamNwR2ROYmx6NDhZZw?oc=5",
+  "fecha": "2026-11-09T15:55:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "e3f01d2ee92a8d",
+  "fuente_id": "the-manufacturer",
+  "titular": "The Manufacturer, Author at The Manufacturer - Page 66 of 1382",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcjB3d0dwdHBIODV5ak1WRHZOWUp3cHpDTi1OSWhhQzFyUzA1OFlGUC1vNGRGelJlTTJzd1l2U1J6VEtWUEdZUUpiOGUzMUV5M1BaM1FzTnNia1pMUWdiY2s2LUJ1MTlhY192bjAzVzlvQVJMSDZXMzNuRGI3N29Ubko5Q2tTM01VLUhOUWxVd1BYU2t4U2ZTZXNPTFBwdWZOR2RiVDY5bXg2UnNIS3dNWTEyQjIzX19MWnZqSG9mZGY4WjNOdUF2b0FsWmZYRE5HSGRHSHhmbko5VUNSMDhWbzB4WTI1TF95V2VTN191YTZZdjhVcHY4dUtLeS1BQ0NpSDNiNnJGR0gxcDdPQmNGMkFjSndBbVJrUUwtSFNtMHNCakxQ?oc=5",
+  "fecha": "2026-11-09T15:51:20+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "e7091223548d53",
@@ -6770,6 +6930,26 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "86068c86b716a2",
+  "fuente_id": "business-wire",
+  "titular": "Adobe and The Walt Disney Company Announce Multi-Year Strategic Alliance to Support Disney Innovation with New AI-Powered Tools",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNLS1udnZNSGg2MTM4YnRBSnBtN0xZTnVvSUtYbGN0SXlNMENWaEVqV1BlNWgxTWZlb29aWmJkblVyQXV2YTA2T3BCQktndzNyVmFadzdXTE85dmdscHh3WkNKT09wbkx6LUlIM1BOR19qRmdSZUtaU2tSVGlqV2Uzd1pmYV9ZeklaRkRzNG5ydkxZQldXNjNMSGw0eEdOZVZ6SGNtbmNPUndwUVJfcVl5OWx0ZGJmX2J1dkdiNkhNekdydzhhOGpJNnRfc0EzTmF3SzhZWTU5TTI4RHFLR0hPSFVRMkd2NUs2Ul9Jc0VXR1lPTjBNb0xSQ1ZaeTBKa2RtMmRSYlJ6bjNTVGxfb1o2dlh3?oc=5",
+  "fecha": "2026-11-09T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "99a94d79dee1e2",
+  "fuente_id": "the-manufacturer",
+  "titular": "Jobs - Page 50 of 261 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMG5iM0dnR2txY0tDMXdvYzUtbmNPUWdxTXo1OHg1N1ZjVWZ5NkdyTXYwZmNfelhna0VZMk9sYWJadE12TU51MmdPcmR3WFQ4a01hT0ZnamM3V2JVNzl0VGpZMzdwdVRVcHZhbHNWX29VRzAwdDhTUmFEZVRSeUxwNk9uaGQ1TTJkSG83cHp4VDNtNXlqMVpsemQ4cFI1NlBCWHJFSXYyUU1IUHZsTVlIYlZYNjYyVG5Ra1BZdFJlRGMyM1EzWEdDblRCdHgwSks4MHItT0kydWpFdkVpbWlsTVRVMU9jUnVuRDNvS0xwSTIxOXN5UXdzbGIzTG5hQUg5VUgtM0ZGNHNGQ0Vua3lrSUlWUklMZnN4MlpkWFFMbw?oc=5",
+  "fecha": "2026-11-09T13:54:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "6d1369eb071dc6",
   "fuente_id": "yahoo-finance",
   "titular": "Google’s chip business is on a faster track than Nvidia’s own AI boom",
@@ -7348,6 +7528,16 @@
   "fecha": "2026-11-09T12:59:40+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-09T21:16:06+00:00"
+ },
+ {
+  "id": "6ae773501363fd",
+  "fuente_id": "el-universal",
+  "titular": "Cartagena espera más de 112 mil pasajeros por las Fiestas de Independencia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV08ycjdTRmZFckxvZ2RyT3JpTDF2eU9TTTV2VHJ0cFFTWXNha25LemhaX0tlQ1BQb1dvVlRKQlNwZkFZT3RKelR3OUhiQm1mQUVyU2l0RW15NS1SQ1dPUndLVDNpZGtfaWdheS16ckZjeU5mRlNBV0pVRENFc3ZxdGdVSEJQbm9NeGkzZWhiQjFSWDloalVESXZnY00zTGFoNWEwbjZOQ2pQdnFxcmZteDJoV292Z1RTaGdkQWgtM3RvMnJPT0E?oc=5",
+  "fecha": "2026-11-09T12:59:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "7742f27761391a",
@@ -9660,6 +9850,16 @@
   "primera_vista": "2026-11-09T13:10:03+00:00"
  },
  {
+  "id": "fce2fd8e0ce924",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] South Korean manufacturing labor disputes decline, but workdays lost rise 45%",
+  "bajada": "[Gen-AI Analysis] South Korean manufacturing labor disputes decline, but workdays lost rise 45% Automotive Industry Portal MarkLines",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRC1qUXk2VDVNcE5nV25jdDUtcGZzejVmM1BQVTNzRzQ1cUFua3JwNjZRY2xXeEpTWmhBMHlYcjQteGMtNWxrbUJQN3FuaVBNMHc?oc=5",
+  "fecha": "2026-11-09T08:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
   "id": "580f1022fbb2f5",
   "fuente_id": "yahoo-finance",
   "titular": "Tech firms claw back some losses after midterms rout, eyes on Nvidia",
@@ -9838,6 +10038,26 @@
   "fecha": "2026-11-09T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-09T21:16:06+00:00"
+ },
+ {
+  "id": "aae4594281adfc",
+  "fuente_id": "el-universal",
+  "titular": "Sicarios acabaron con la vida de Jesús ‘Chucho’ Tejedor en 13 de Junio: una mujer se salvó",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdDM2bGpXZWhpVDFhT0Izc1VPcjI0eWI5NDU2X1lRa04yb29ONXpfVGI2YnpjeGJTWkU0MnJFcnZ2bnJmaVRDWG9raHgxMkN2VnhISm54TlRNUllSR1FrNlFqbGttNFRfbTVXY1RGTGJGZWp3Ulg3c2Ixai1pRzBPT1RMSlJzVjNWVXFuVlVMWEJpdXdYNkgzbmdyb0FjQ0hZUTFsaXV3UnJHZS05WjZOODF2S1M0WHhqcTFEUHNaUU1VZEJmT1otNW02SmFWTzE0a19jQQ?oc=5",
+  "fecha": "2026-11-09T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "81c1810c31398c",
+  "fuente_id": "unicef",
+  "titular": "Dos niñas y un niño mueren como consecuencia de las fuertes lluvias que golpean a las familias desplazadas en Gaza",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTBqWF9RNzFza1RINUxHbmpILXhWUWxIaVh5N2FSQ1FwX2duWEhlR0ZIb0dtTm5YMVJfeU1zZGJoeHM0eFRNNnp6UkcwVEp1TWp4azF2LXVoalVqZjJjZG5HbjN2aEk5QUszZEw5eGlXRzNJR05EMWgxTzc4NU5QNVlqV3ZXN0NtdmFYS0gyYnV6TGlqVFE?oc=5",
+  "fecha": "2026-11-09T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "12ce136ea2cf81",
