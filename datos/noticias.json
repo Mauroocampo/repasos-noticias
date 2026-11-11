@@ -1,6 +1,376 @@
 {
- "actualizado": "2026-11-11T15:14:29+00:00",
+ "actualizado": "2026-11-11T15:39:57+00:00",
  "notas": [
+  {
+   "id": "c303b229544bcc",
+   "fuente_id": "macrumors",
+   "titular": "Samsung Early Black Friday Event Brings Major Sales to Frame TVs and More",
+   "bajada": "Samsung recently kicked off its own early Black Friday sale , offering big sitewide discounts on TVs, monitors, storage accessories, Galaxy smartphones and watches, home appliances, and more. Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a…",
+   "enlace": "https://www.macrumors.com/2026/11/11/samsung-early-black-friday/",
+   "fecha": "2026-11-11T15:37:52+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "43d5516b34b017",
+   "fuente_id": "investing-com",
+   "titular": "DCM Q3 2026 slides: organic growth returns, margins expand sharply",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/dcm-q3-2026-slides-organic-growth-returns-margins-expand-sharply-93CH-5019473",
+   "fecha": "2026-11-11T15:34:49+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "fcb2a410edfb50",
+   "fuente_id": "investing-com",
+   "titular": "TJX Cos. shares may move 4.8% on Nov. 18 earnings report",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/tjx-cos-shares-may-move-48-on-nov-18-earnings-report-93CH-5019472",
+   "fecha": "2026-11-11T15:34:41+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "2535d81fe9d1c1",
+   "fuente_id": "investing-com",
+   "titular": "Why is Micron Technology stock surging today?",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-surging-today-93CH-5019470",
+   "fecha": "2026-11-11T15:34:27+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "54a9800d2a046d",
+   "fuente_id": "el-heraldo",
+   "titular": "“Me he sentido como en casa”: León XIV se despide de Argentina",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/mundo/2026/11/11/me-he-sentido-como-en-casa-leon-xiv-se-despide-de-argentina/",
+   "fecha": "2026-11-11T15:34:22+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "993c3c79ca8984",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: OTP Bank posts solid Q3 2026 growth as stock rises",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-otp-bank-posts-solid-q3-2026-growth-as-stock-rises-93CH-5019469",
+   "fecha": "2026-11-11T15:34:21+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "5f8e26b36ac467",
+   "fuente_id": "the-register",
+   "titular": "Apple's touchscreen MacBook Pro does not like to be taken apart",
+   "bajada": "Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery",
+   "enlace": "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110",
+   "fecha": "2026-11-11T15:34:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "54e4e54db393f4",
+   "fuente_id": "el-heraldo",
+   "titular": "Quesos Del Vecchio ratifica su certificación como Empresa B y mantiene su apuesta por el crecimiento sostenible",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/contenidos-en-alianza/2026/11/11/quesos-del-vecchio-ratifica-su-certificacion-como-empresa-b-y-mantiene-su-apuesta-por-el-crecimiento-sostenible/",
+   "fecha": "2026-11-11T15:34:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "433eb8d10349f8",
+   "fuente_id": "investing-com",
+   "titular": "AxoGen at Canaccord forum: growth plan widens beyond nerve repair",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/axogen-at-canaccord-forum-growth-plan-widens-beyond-nerve-repair-93CH-5019467",
+   "fecha": "2026-11-11T15:33:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "355f6572bb8843",
+   "fuente_id": "investing-com",
+   "titular": "CeriBell at canaccord medtech forum: growth broadens beyond seizures",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/ceribell-at-canaccord-medtech-forum-growth-broadens-beyond-seizures-93CH-5019466",
+   "fecha": "2026-11-11T15:33:07+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "0ad074ebabe9c0",
+   "fuente_id": "investing-com",
+   "titular": "Verisign announces .web domain launch timeline starting Dec. 10",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/verisign-announces-web-domain-launch-timeline-starting-dec-10-93CH-5019465",
+   "fecha": "2026-11-11T15:32:31+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "1e7e18ef5489d7",
+   "fuente_id": "investing-com",
+   "titular": "Why is Lumentum stock surging today?",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-surging-today-93CH-5019464",
+   "fecha": "2026-11-11T15:32:28+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "a4b41588e28130",
+   "fuente_id": "investing-com",
+   "titular": "XBTFX Unveils Its Biggest Rebuild Yet: New Brand Identity and a Redesigned Client Experience",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/press-releases/xbtfx-unveils-its-biggest-rebuild-yet-new-brand-identity-and-a-redesigned-client-experience-5019463",
+   "fecha": "2026-11-11T15:32:27+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "5545258a9aa496",
+   "fuente_id": "investing-com",
+   "titular": "Old Second Bancorp director Billy Lyons Jr. buys $572 in stock",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/old-second-bancorp-director-billy-lyons-jr-buys-572-in-stock-93CH-5019460",
+   "fecha": "2026-11-11T15:31:08+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "3ab674d00e1b28",
+   "fuente_id": "wired",
+   "titular": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+   "bajada": "",
+   "enlace": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+   "fecha": "2026-11-11T15:30:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "6752a79eed2fc0",
+   "fuente_id": "unite-ai",
+   "titular": "Databricks Turns Genie Into an Autonomous Enterprise AI Coworker",
+   "bajada": "Databricks on November 11, 2026, introduced a new Genie that it describes as an autonomous AI coworker for continuous, long-running enterprise work. The assistant can run scheduled or event-triggered jobs, follow up on missing information and manage several assignments at once…",
+   "enlace": "https://www.unite.ai/databricks-turns-genie-into-an-autonomous-enterprise-ai-coworker/",
+   "fecha": "2026-11-11T15:29:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "dde54230743512",
+   "fuente_id": "cnbc",
+   "titular": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+   "bajada": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+   "enlace": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+   "fecha": "2026-11-11T15:28:29+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "d717cb3dc94f73",
+   "fuente_id": "unite-ai",
+   "titular": "Google DeepMind’s AlphaGenome 2 Predicts Cell-State Variant Effects",
+   "bajada": "Google DeepMind announced AlphaGenome 2 on November 11, 2026, a deep-learning model that predicts how DNA variants affect gene regulation in individual cell types and states. Trained on more than 100 million individual cell profiles, it is available for non-commercial research…",
+   "enlace": "https://www.unite.ai/google-deepminds-alphagenome-2-predicts-cell-state-variant-effects/",
+   "fecha": "2026-11-11T15:28:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "8cac0d25da6ac2",
+   "fuente_id": "la-republica",
+   "titular": "Debate del salario mínimo para en México llega con propuestas diferenciadas",
+   "bajada": "Sindicatos plantean eliminar el MIR, mientras empresarios buscan mantenerlo parcialmente, y gobierno y académicos proponen reducirlo gradualmente ante sus efectos en la estructura salarial",
+   "enlace": "https://www.larepublica.co/globoeconomia/debate-del-salario-minimo-para-en-mexico-llega-con-propuestas-diferenciadas-4522482",
+   "fecha": "2026-11-11T15:26:26+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "a3129807f15ec6",
+   "fuente_id": "abc-economia",
+   "titular": "Última hora de la huelga general 11N, en directo: piquetes, servicios mínimos, cargas policiales, situación en Cercanías, Metro y transporte público, carreteras cortadas y noticias sobre la manifestación por la vivienda hoy",
+   "bajada": "Sigue en directo la huelga general convocada el 11 de noviembre en España . CCOO y UGT han denunciado «cargas» y «agresiones» de la Policía Nacional en puntos como Valladolid. Vías como la M-30 o la A-5 en Madrid y la A-2 o la AP-7 en Barcelona han sido algunas de las afectadas…",
+   "enlace": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
+   "fecha": "2026-11-11T15:26:24+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "fddcb081101cfd",
+   "fuente_id": "abc-economia",
+   "titular": "Gonzalo Bernardos, economista: «Los sindicatos han convocado la huelga general en España, pero cuando ellos han negociado los sueldos se ha perdido el 2,9% de poder adquisitivo»",
+   "bajada": "España ha amanecido este miércoles, 11 de noviembre, con cortes de carreteras, piquetes, enfrentamientos con la Policía y miles de trabajadores ausentándose de sus puestos para secundar la huelga general de 24 horas convocada por sindicatos como UGT y CCOO .Los sindicatos…",
+   "enlace": "https://www.abc.es/economia/gonzalo-bernardos-economista-sindicatos-convocado-huelga-general-20261111125406-nt.html",
+   "fecha": "2026-11-11T15:24:59+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "bb88a08d575edb",
+   "fuente_id": "wsj",
+   "titular": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=rss_markets_main",
+   "fecha": "2026-11-11T15:23:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:03:43+00:00"
+  },
+  {
+   "id": "cfb83dd0e1c2bc",
+   "fuente_id": "wsj",
+   "titular": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-11T15:23:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:03:43+00:00"
+  },
+  {
+   "id": "072f8792e7041a",
+   "fuente_id": "portafolio",
+   "titular": "Precio del euro hoy en Colombia: así cotiza la divisa europea este 11 de noviembre",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/economia/finanzas/precio-del-euro-hoy-en-colombia-asi-cotiza-la-divisa-europea-este-11-de-noviembre-506133",
+   "fecha": "2026-11-11T15:22:07+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "dd32e46d36c7d8",
+   "fuente_id": "el-heraldo",
+   "titular": "Uninorte y la OPS logran reducir los temores frente a la vacuna contra el VPH en Arauca",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/11/uninorte-y-la-ops-logran-reducir-los-temores-frente-a-la-vacuna-contra-el-vph-en-arauca/",
+   "fecha": "2026-11-11T15:21:43+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "e2c34e8d4a830d",
+   "fuente_id": "cnbc",
+   "titular": "WNBA Finals MVP Gabby Williams: 'Our existence is political'",
+   "bajada": "Golden State Valkyries star Gabby Williams speaks about winning the WNBA championship, being named Finals MVP, and the culture war over women's sports.",
+   "enlace": "https://www.cnbc.com/2026/11/11/gabby-williams-embraces-role-in-wnbas-political-and-cultural-debates-.html",
+   "fecha": "2026-11-11T15:20:59+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "175b54666cef79",
+   "fuente_id": "macrumors",
+   "titular": "iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones",
+   "bajada": "Apple's iPhone 18 Pro Max placed first overall in a battery comparison of 32 smartphones, with other iPhone models leading individual tests and matching significantly more expensive devices. CNET assessed each phone using two tests totaling three hours and 45 minutes. One…",
+   "enlace": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
+   "fecha": "2026-11-11T15:20:52+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "40c2dfa9a03833",
+   "fuente_id": "el-heraldo",
+   "titular": "Horóscopo de Mhoni Vidente para este miércoles 11 de noviembre con predicciones para cada signo",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/horoscopo/2026/11/11/horoscopo-de-mhoni-vidente-para-este-miercoles-11-de-noviembre-con-predicciones-para-cada-signo/",
+   "fecha": "2026-11-11T15:17:11+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "a6f171cdbd2684",
+   "fuente_id": "unite-ai",
+   "titular": "Fractile Secures Over £500M in Series C With UK State Backing",
+   "bajada": "The UK government announced on November 11, 2026 that its Sovereign AI Venture Fund and the British Business Bank are backing Fractile in a Series C round worth more than £500 million, valuing the London- and Bristol-based AI chip startup at more than £5 billion. CapitalG…",
+   "enlace": "https://www.unite.ai/fractile-secures-over-500m-in-series-c-with-uk-state-backing/",
+   "fecha": "2026-11-11T15:17:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "3379485e3856ae",
+   "fuente_id": "el-heraldo",
+   "titular": "Anif plantea mantener el impuesto de renta empresarial y frenar alzas del IVA en su propuesta tributaria",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/economia/2026/11/11/anif-plantea-mantener-el-impuesto-de-renta-empresarial-y-frenar-alzas-del-iva-en-su-propuesta-tributaria/",
+   "fecha": "2026-11-11T15:16:49+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "6322788b877797",
+   "fuente_id": "unite-ai",
+   "titular": "No Tongues! AI Researchers Address Missing Anatomy in Facial Animation",
+   "bajada": "Missed in 2026: It's that time of year when the research scene dips and spikes in quality and volume in lockstep with the last few conferences of November and December. To traverse these sporadic famines, we're taking a look at some of the more interesting papers that nearly…",
+   "enlace": "https://www.unite.ai/no-tongues-ai-researchers-address-missing-anatomy-in-facial-animation/",
+   "fecha": "2026-11-11T15:15:26+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "be9ceb1251a9dd",
+   "fuente_id": "el-heraldo",
+   "titular": "Falcao García volverá a vestir los colores del Atlético de Madrid para jugar un partido de leyendas",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/deportes/2026/11/11/falcao-garcia-volvera-a-vestir-los-colores-del-atletico-de-madrid-para-jugar-un-partido-de-leyendas/",
+   "fecha": "2026-11-11T15:15:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "e03d7d21ff9be9",
+   "fuente_id": "la-republica",
+   "titular": "La marcha atrás con la sanción a la anestesista Miralles: una \"sugerencia\" del MSP tras un pedido de Orsi de revisar la decisión",
+   "bajada": "El MSP sumó al expediente la resolución de condena, el acuerdo en la Justicia civil y una investigación en la mutualista Universal para plantearle al presidente que volviera a fijar la pena en cinco añosEl MSP sumó al expediente la resolución de condena, el acuerdo en la…",
+   "enlace": "https://www.larepublica.co/globoeconomia/la-marcha-atras-con-la-sancion-a-la-anestesista-miralles-una-sugerencia-del-msp-tras-un-pedido-de-orsi-de-revisar-la-decision-4522474",
+   "fecha": "2026-11-11T15:15:07+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "6d4946e95924e9",
+   "fuente_id": "cnbc",
+   "titular": "Measles is surging in the U.S. — and outbreaks can cost millions",
+   "bajada": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
+   "enlace": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+   "fecha": "2026-11-11T15:14:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "e23262a4d5c28a",
+   "fuente_id": "portafolio",
+   "titular": "Tras el robo de su camión, esta empresa que apuesta por apartamentos pequeños impulsó sus ventas",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/negocios/comercio/tras-el-robo-de-su-camion-esta-empresa-que-apuesta-por-apartamentos-pequenos-impulso-sus-ventas-506134",
+   "fecha": "2026-11-11T15:14:17+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
+   "id": "570217f0c1c62f",
+   "fuente_id": "abc-economia",
+   "titular": "'Ciberseguridad: preparados para lo que viene'",
+   "bajada": "La jornada 'Ciberseguridad: preparados para lo que viene' abordará, en la sede de Vocento-ABC, el viernes 13 de noviembre, con el patrocinio de Indra Group, Izertis y Samsung y la colaboración de NTT Data, las claves para afrontar un evidente desafío para personas y…",
+   "enlace": "https://www.abc.es/economia/ciberseguridad-preparados-viene-20261105115844-nt.html",
+   "fecha": "2026-11-11T15:14:16+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "be61c0ce95f51b",
+   "fuente_id": "abc-economia",
+   "titular": "La huelga general pincha en los aeropuertos, pero provoca la cancelación de uno de cada 4 trenes de alta velocidad",
+   "bajada": "La huelga general deja una doble lectura en el transporte de pasajeros español. En el caso de los aeropuertos, la afectación ha sido mínima, y apenas se han cancelado el 5% de los vuelos programados para esta mañana de miércoles, mientras que en el ferrocarril las consecuencias…",
+   "enlace": "https://www.abc.es/economia/cancelados-234-vuelos-aeropuertos-espanoles-causa-huelga-20261111113419-nt.html",
+   "fecha": "2026-11-11T15:13:41+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
   {
    "id": "2d8d4010bd6eb9",
    "fuente_id": "cnbc",
@@ -10,6 +380,16 @@
    "fecha": "2026-11-11T15:13:39+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T14:03:43+00:00"
+  },
+  {
+   "id": "09f14bd2859597",
+   "fuente_id": "portafolio",
+   "titular": "¿Lucha por compradores? Construyen un D1 sobre un Ara y la imagen se vuelve viral en las redes sociales",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/negocios/empresas/lucha-por-compradores-construyen-un-d1-sobre-un-ara-y-la-imagen-se-vuelve-viral-en-las-redes-sociales-506132",
+   "fecha": "2026-11-11T15:11:12+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
   },
   {
    "id": "360795a62ce754",
@@ -92,6 +472,16 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
+   "id": "1034bea0db0472",
+   "fuente_id": "forbes",
+   "titular": "AEW’s Marina Shafir Talks Jon Moxley’s Best Advice, PAC And Full Gear",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/robwolkenbrod/2026/11/11/aews-marina-shafir-talks-jon-moxleys-best-advice-pac-and-full-gear/",
+   "fecha": "2026-11-11T15:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
    "id": "7e8e726775c88a",
    "fuente_id": "the-manufacturer",
    "titular": "Manufacturing Leaders' Summit - day 1 takeaways",
@@ -132,6 +522,16 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
+   "id": "76bd7d4029284e",
+   "fuente_id": "forbes",
+   "titular": "‘Lanterns’ Season 2 Cancellation Confirmed False, For Now",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/paultassi/2026/11/11/lanterns-season-2-cancellation-confirmed-false-for-now/",
+   "fecha": "2026-11-11T14:53:22+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
    "id": "f909bdf7ac2635",
    "fuente_id": "investing-com",
    "titular": "Figure Tech earnings on deck: Can margins offset EPS decline?",
@@ -162,16 +562,6 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
-   "id": "fddcb081101cfd",
-   "fuente_id": "abc-economia",
-   "titular": "Gonzalo Bernardos, economista: «Los sindicatos han convocado la huelga general en España, pero cuando ellos han negociado los sueldos se ha perdido el 2,9% de poder adquisitivo»",
-   "bajada": "España ha amanecido este miércoles, 11 de noviembre, con cortes de carreteras, piquetes, enfrentamientos con la Policía y miles de trabajadores ausentándose de sus puestos para secundar la huelga general de 24 horas convocada por sindicatos como UGT y CCOO .Los sindicatos…",
-   "enlace": "https://www.abc.es/economia/gonzalo-bernardos-economista-sindicatos-convocado-huelga-general-20261111125406-nt.html",
-   "fecha": "2026-11-11T14:52:57+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "b5d3dad939322b",
    "fuente_id": "el-heraldo",
    "titular": "Con el Congreso se puede construir colectivamente en torno a la Ley de Rescate: vicepresidente",
@@ -198,16 +588,6 @@
    "bajada": "",
    "enlace": "https://www.investing.com/news/earnings/pelagos-insurance-earnings-in-focus-after-heavy-q2-losses-93CH-5019313",
    "fecha": "2026-11-11T14:52:16+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T15:05:23+00:00"
-  },
-  {
-   "id": "dde54230743512",
-   "fuente_id": "cnbc",
-   "titular": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
-   "bajada": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-   "enlace": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-   "fecha": "2026-11-11T14:52:03+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
@@ -302,6 +682,16 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
+   "id": "89f340871570a9",
+   "fuente_id": "forbes",
+   "titular": "White House Counsel Sends Letter To Try And Stop Democrats From Investigating Trump",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/alisondurkee/2026/11/11/white-house-counsel-sends-letter-to-try-and-stop-democrats-from-investigating-trump/",
+   "fecha": "2026-11-11T14:50:04+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
+  },
+  {
    "id": "7fdc2229aa0e38",
    "fuente_id": "bbc-mundo",
    "titular": "Qué ventajas tienen los niños que tienen amigos imaginarios",
@@ -350,6 +740,16 @@
    "fecha": "2026-11-11T14:46:40+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "f2a0f38c3469c5",
+   "fuente_id": "forbes",
+   "titular": "Johnny Walker Just Jumped Ahead Of His Brother In The UFC Rankings, And Valter Has Won 5 Straight By Submission",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/brianmazique/2026/11/11/johnny-walker-just-jumped-ahead-of-his-brother-in-the-ufc-rankings-and-valter-has-won-5-straight-by-submission/",
+   "fecha": "2026-11-11T14:45:25+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
   },
   {
    "id": "8d6f8ab853ac82",
@@ -510,6 +910,16 @@
    "fecha": "2026-11-11T14:30:30+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "252d995dc5cfd4",
+   "fuente_id": "forbes",
+   "titular": "Iran War Funding Fight Intensifies As Potential Senate Showdown Looms",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/juliagledhill/2026/11/11/iran-war-funding-fight-intensifies-as-potential-senate-showdown-looms/",
+   "fecha": "2026-11-11T14:30:11+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
   },
   {
    "id": "9f1b21d7a15c93",
@@ -915,16 +1325,6 @@
    "fecha": "2026-11-11T14:12:21+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T14:21:33+00:00"
-  },
-  {
-   "id": "6d4946e95924e9",
-   "fuente_id": "cnbc",
-   "titular": "Measles is surging in the U.S. — and outbreaks can cost millions",
-   "bajada": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
-   "enlace": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-   "fecha": "2026-11-11T14:10:19+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
    "id": "6f62c937976e5c",
@@ -1447,26 +1847,6 @@
    "primera_vista": "2026-11-11T14:03:43+00:00"
   },
   {
-   "id": "bb88a08d575edb",
-   "fuente_id": "wsj",
-   "titular": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=rss_markets_main",
-   "fecha": "2026-11-11T13:36:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T14:03:43+00:00"
-  },
-  {
-   "id": "cfb83dd0e1c2bc",
-   "fuente_id": "wsj",
-   "titular": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-11T13:36:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T14:03:43+00:00"
-  },
-  {
    "id": "1c6858a0737c06",
    "fuente_id": "unite-ai",
    "titular": "Torus Raises $500M Growth Capital to Expand Modular AI Infrastructure",
@@ -1603,16 +1983,6 @@
    "bajada": "Intensifying competition in the world's largest auto market forced Nissan to cut its annual sales forecast for a second time in months.",
    "enlace": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
    "fecha": "2026-11-11T13:18:48+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "be61c0ce95f51b",
-   "fuente_id": "abc-economia",
-   "titular": "La huelga general pincha en los aeropuertos, pero provoca la cancelación de uno de cada 4 trenes de alta velocidad",
-   "bajada": "La huelga general deja una doble lectura en el transporte de pasajeros español. En el caso de los aeropuertos, la afectación ha sido mínima, y apenas se han cancelado el 5% de los vuelos programados para esta mañana de miércoles, mientras que en el ferrocarril las consecuencias…",
-   "enlace": "https://www.abc.es/economia/cancelados-234-vuelos-aeropuertos-espanoles-causa-huelga-20261111113419-nt.html",
-   "fecha": "2026-11-11T13:13:45+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
@@ -2297,16 +2667,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "a3129807f15ec6",
-   "fuente_id": "abc-economia",
-   "titular": "Última hora de la huelga general 11N, en directo: piquetes, servicios mínimos, cargas policiales, situación en Cercanías, Metro y transporte público, carreteras cortadas y noticias sobre la manifestación por la vivienda hoy",
-   "bajada": "Sigue en directo la huelga general convocada el 11 de noviembre en España . CCOO y UGT han denunciado «cargas» y «agresiones» de la Policía Nacional en puntos como Valladolid. Vías como la M-30 o la A-5 en Madrid y la A-2 o la AP-7 en Barcelona han sido algunas de las afectadas…",
-   "enlace": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
-   "fecha": "2026-11-11T12:08:59+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "72cfc022776aa8",
    "fuente_id": "forbes",
    "titular": "Kennedy Family Sues To Block Trump’s 250-Foot Arch—Says It Would Cast Shadow On JFK’s Grave",
@@ -2729,7 +3089,7 @@
   {
    "id": "83b5988d716ce2",
    "fuente_id": "la-republica",
-   "titular": "España va a la primera huelga general en 14 años ante la crisis de la vivienda",
+   "titular": "España va a la primera huelga general en 14 años ante crisis de vivienda en antesala electoral",
    "bajada": "El presidente del Gobierno, Pedro Sánchez, espera aprovechar el descontento de los votantes por la situación de la vivienda en las elecciones del 29 de noviembre",
    "enlace": "https://www.larepublica.co/globoeconomia/espana-va-a-la-primera-huelga-general-en-14-anos-ante-la-crisis-de-la-vivienda-4522287",
    "fecha": "2026-11-11T11:25:28+00:00",
@@ -2805,6 +3165,16 @@
    "fecha": "2026-11-11T11:20:40+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "8ed0007c0aaed5",
+   "fuente_id": "mongabay",
+   "titular": "Del mar al papel: el bioarte que busca cambiar la mirada sobre las macroalgas | ENTREVISTA",
+   "bajada": "Caminar por la playa ya no es lo mismo para Ingrith León. En sus paseos, donde antes podía ver algas dispersas sobre la arena, ahora reconoce especies, distingue sus formas y texturas e incluso identifica pequeños organismos que encuentran refugio y alimento entre ellas. Lo que…",
+   "enlace": "https://es.mongabay.com/2026/11/mar-bioarte-busca-cambiar-mirada-sobre-macroalgas-entrevista/",
+   "fecha": "2026-11-11T11:19:54+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
   },
   {
    "id": "94859fd8cdf85a",
@@ -6085,6 +6455,16 @@
    "fecha": "2026-11-11T01:22:11+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "6c0c3d1620255d",
+   "fuente_id": "la-republica",
+   "titular": "Bienes y servicios que subirán de precio durante las primeras semanas de 2027",
+   "bajada": "La actualización salarial podría llegar a elevar obligaciones laborales y presionar los costos de servicios como vigilancia, aseo y mantenimiento",
+   "enlace": "https://www.larepublica.co/economia/bienes-y-servicios-que-subiran-de-precio-durante-las-primeras-semanas-de-2027-4521322",
+   "fecha": "2026-11-11T01:22:11+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:39:57+00:00"
   },
   {
    "id": "c609e48660890c",
@@ -47132,16 +47512,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "570217f0c1c62f",
-   "fuente_id": "abc-economia",
-   "titular": "'Ciberseguridad: preparados para lo que viene'",
-   "bajada": "La jornada 'Ciberseguridad: preparados para lo que viene' abordará, en la sede de Vocento-ABC, el viernes 13 de noviembre, con el patrocinio de Indra Group, Izertis y Samsung y la colaboración de NTT Data, las claves para afrontar un evidente desafío para personas y…",
-   "enlace": "https://www.abc.es/economia/ciberseguridad-preparados-viene-20261105115844-nt.html",
-   "fecha": "2026-11-06T08:59:31+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "a156b9e8e17c33",
    "fuente_id": "forbes",
    "titular": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
@@ -59517,76 +59887,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "1a7c02b0aaabbe",
-   "fuente_id": "the-register",
-   "titular": "US gov IT worker pleads guilty to sending Top Secret files to Ethiopia",
-   "bajada": "Help desk technician agrees to minimum 10-year jail term after being caught copying files for more than 2 years",
-   "enlace": "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
-   "fecha": "2026-11-04T15:39:30+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "dbc28c7ad08331",
-   "fuente_id": "la-republica",
-   "titular": "Exportaciones de septiembre sumaron US$5.410,7 millones y alcanzaron máximos de 2022",
-   "bajada": "El oro y el petróleo impulsaron un crecimiento de 16,4% en las ventas externas del mes, que fueron las más altas para un mes de septiembre",
-   "enlace": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
-   "fecha": "2026-11-04T15:38:14+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "31ce77991e1203",
-   "fuente_id": "agronegocios",
-   "titular": "Lucero, la vaca que produjo 102,7 litros en una ordeñada y rompió el récord nacional",
-   "bajada": "La ejemplar pertenece a la Ganadería Las Marías, propiedad de José Luis Murillo. El resultado superaría los 97,9 litros alcanzados por otra vaca en ExpoCaquetá 2025",
-   "enlace": "https://www.agronegocios.co/finca/una-vaca-en-caqueta-rompio-el-record-nacional-de-produccion-de-leche-con-mas-de-100-litros-4517415",
-   "fecha": "2026-11-04T15:32:25+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "96f4f8712515d6",
-   "fuente_id": "yahoo-finance",
-   "titular": "Market analysts react to Democratic sweep in US midterms",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXlBejdoWVpxdU15MVlzajFKY05OWFprdXpONnZkbFozZlRiMHc5WVRIOTJmY0hDSVowdE1saHNLb0FBSnNlQ0tSTU16UjdwMGFqeWRHeVcwOUJ2ajluRjRQY0dKbENTZ3liSUI1SjQ2dVNQWjVRVllDYW1RaUFwV2t5UTNjVUlUWm4tTHZyR1hFS1o4OUJxRTZFRGZhcnc5?oc=5",
-   "fecha": "2026-11-04T15:30:48+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "9f36bb265e04b3",
-   "fuente_id": "yahoo-finance",
-   "titular": "Why the stock market is unexpectedly rallying in the wake of the Democratic blue wave",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlFaNkI0NnB4NjF6WndabWw1SG1CSzdqZ0JINHk5cWx4RjB1RV9uVmdUeVR3SEZpSVJqYTFURU5Rek9aRl9KTnVzUFBMdFdlOERJNlF2Sy1teEY1d19UVFNleURESkctTDVGNDlrWElFSmcyTkl4V0N1bjc1cTh3Nm9vcnJBSXVod1FPTGN4azRBTHJmSjVaazMwMEJPQXZMVXVRQWhhUmgwazJNTmdMNG9rTlpSU1BtdjNOUGI0bE9LY3lKc01YM1MwbGF5amxwN1Q4TTM5UVZ0dw?oc=5",
-   "fecha": "2026-11-04T15:29:56+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "e7e87bb99c9d9b",
-   "fuente_id": "la-republica",
-   "titular": "Las acciones suben y el dólar cae tras victoria demócrata en el Congreso de Estados Unidos",
-   "bajada": "Las empresas de Elon Musk, Tesla Inc. y SpaceX caían tras las victorias demócratas en el Senado y en la elección a gobernador de Texas",
-   "enlace": "https://www.larepublica.co/globoeconomia/las-acciones-suben-y-el-dolar-cae-tras-victoria-democrata-en-el-congreso-de-estados-unidos-4517454",
-   "fecha": "2026-11-04T15:27:22+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "7fc330c4e13257",
-   "fuente_id": "la-republica",
-   "titular": "Déficit comercial de EE.UU. se reduce por el repunte de las exportaciones de bienes",
-   "bajada": "Las cifras comerciales mensuales, que no están ajustadas a la inflación, han fluctuado debido a los aranceles estadounidenses",
-   "enlace": "https://www.larepublica.co/globoeconomia/deficit-comercial-de-ee-uu-se-reduce-ligeramente-por-el-repunte-de-las-exportaciones-de-bienes-4517444",
-   "fecha": "2026-11-04T15:18:17+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "67518e2f5e3970",
    "fuente_id": "portafolio",
    "titular": "El efecto tijera en el que se encuentra el sector exportador de café",
@@ -59605,16 +59905,6 @@
    "fecha": "2026-11-04T13:44:32+00:00",
    "via": "portada",
    "primera_vista": "2026-11-11T15:12:27+00:00"
-  },
-  {
-   "id": "b0c13eb71aa4c4",
-   "fuente_id": "la-republica",
-   "titular": "Andrés Manuel López niega los cargos de corrupción antes de su candidatura al Congreso mexicano",
-   "bajada": "“Nunca he intercedido en nombre de ninguna persona o empresa para ayudarles a conseguir un contrato o un acuerdo comercial”, dijo López Beltrán",
-   "enlace": "https://www.larepublica.co/globoeconomia/andres-manuel-lopez-niega-los-cargos-de-corrupcion-antes-de-su-candidatura-al-congreso-mexicano-4517320",
-   "fecha": "2026-11-04T13:21:09+00:00",
-   "via": "portada",
-   "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
    "id": "09b8720922fc4b",

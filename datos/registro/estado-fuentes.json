@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T15:14:29+00:00",
+ "actualizado": "2026-11-11T15:39:57+00:00",
  "fuentes": {
   "portafolio": {
    "ok": true,
@@ -8,9 +8,9 @@
    "notas": 55,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00",
+   "revisado": "2026-11-11T15:39:57+00:00",
    "portada": {
-    "notas": 71,
+    "notas": 72,
     "error": null
    }
   },
@@ -21,7 +21,7 @@
    "notas": 242,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00",
+   "revisado": "2026-11-11T15:39:57+00:00",
    "portada": {
     "notas": 109,
     "error": null
@@ -34,7 +34,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "bbc-mundo": {
    "ok": true,
@@ -43,7 +43,7 @@
    "notas": 33,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "wired": {
    "ok": true,
@@ -52,7 +52,7 @@
    "notas": 50,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "it-brief": {
    "ok": true,
@@ -61,7 +61,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "securitybrief": {
    "ok": true,
@@ -70,7 +70,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "channellife": {
    "ok": true,
@@ -79,7 +79,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "datacentrenews": {
    "ok": true,
@@ -88,7 +88,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "cfotech": {
    "ok": true,
@@ -97,7 +97,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "ecommercenews": {
    "ok": true,
@@ -106,7 +106,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "telconews": {
    "ok": true,
@@ -115,7 +115,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "futurefive": {
    "ok": true,
@@ -124,7 +124,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "lns-research": {
    "ok": true,
@@ -133,7 +133,7 @@
    "notas": 2,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "the-hacker-news": {
    "ok": true,
@@ -142,7 +142,7 @@
    "notas": 50,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "securityweek": {
    "ok": true,
@@ -151,7 +151,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "help-net-security": {
    "ok": true,
@@ -160,25 +160,31 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "cyberpress": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 10,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://cyberpress.org/feed/: ValueError: el feed no trae notas (<unknown>:2:119: not well-formed (invalid token))",
+    "respaldo Google News: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acyberpress.org+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "cybersecurity-news": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 10,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://cybersecuritynews.com/feed/: ValueError: el feed no trae notas (<unknown>:2:119: not well-formed (invalid token))",
+    "respaldo Google News: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acybersecuritynews.com+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "thehackerwire": {
    "ok": true,
@@ -187,7 +193,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "petri": {
    "ok": true,
@@ -196,7 +202,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "redmond": {
    "ok": true,
@@ -205,7 +211,7 @@
    "notas": 5,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "malwarebytes": {
    "ok": true,
@@ -214,7 +220,7 @@
    "notas": 16,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "microsoft-threat-intel": {
    "ok": true,
@@ -223,18 +229,19 @@
    "notas": 4,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "cisa-ics": {
-   "ok": true,
-   "parcial": true,
-   "respaldo": true,
+   "ok": false,
+   "parcial": false,
+   "respaldo": false,
    "notas": 0,
    "errores": [
-    "https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml"
+    "https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml",
+    "respaldo Google News: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acisa.gov%2Fnews-events%2Fics-advisories+when%3A7d&hl=en-US&gl=US&ceid=US:en"
    ],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "siemens-productcert": {
    "ok": true,
@@ -243,18 +250,19 @@
    "notas": 24,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "rockwell-psirt": {
-   "ok": true,
-   "parcial": true,
-   "respaldo": true,
+   "ok": false,
+   "parcial": false,
+   "respaldo": false,
    "notas": 0,
    "errores": [
-    "https://www.rockwellautomation.com/bin/rss/security-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.rockwellautomation.com/bin/rss/security-advisories.xml"
+    "https://www.rockwellautomation.com/bin/rss/security-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.rockwellautomation.com/bin/rss/security-advisories.xml",
+    "respaldo Google News: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Arockwellautomation.com%2Fen-us%2Ftrust-center+when%3A7d&hl=en-US&gl=US&ceid=US:en"
    ],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "abb-psirt": {
    "ok": true,
@@ -263,7 +271,7 @@
    "notas": 2,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "certvde": {
    "ok": true,
@@ -272,7 +280,7 @@
    "notas": 8,
    "errores": [],
    "metodo": "avisos_html",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "schneider-psirt": {
    "ok": false,
@@ -283,7 +291,7 @@
     "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp: HTTPError: 403 Client Error: Forbidden for url: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
    ],
    "metodo": "avisos_html",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "jci-psirt": {
    "ok": true,
@@ -292,7 +300,7 @@
    "notas": 1,
    "errores": [],
    "metodo": "avisos_html",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "industrial-cyber": {
    "ok": true,
@@ -301,16 +309,18 @@
    "notas": 9,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "automation-com": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 15,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Aautomation.com+when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aautomation.com+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "viakoo": {
    "ok": true,
@@ -319,7 +329,7 @@
    "notas": 35,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "techcrunch": {
    "ok": true,
@@ -328,7 +338,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "the-register": {
    "ok": true,
@@ -337,7 +347,7 @@
    "notas": 50,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "macrumors": {
    "ok": true,
@@ -346,7 +356,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "unite-ai": {
    "ok": true,
@@ -355,7 +365,7 @@
    "notas": 25,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "google-blog": {
    "ok": true,
@@ -364,7 +374,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "linux-foundation": {
    "ok": true,
@@ -373,25 +383,29 @@
    "notas": 1,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "the-manufacturer": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 48,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Athemanufacturer.com+when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Athemanufacturer.com+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "marklines": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 21,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Amarklines.com+when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Amarklines.com+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "climate-home-news": {
    "ok": true,
@@ -400,7 +414,7 @@
    "notas": 19,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "mongabay": {
    "ok": true,
@@ -409,7 +423,7 @@
    "notas": 30,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "sustainabilityonline": {
    "ok": true,
@@ -418,16 +432,18 @@
    "notas": 9,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "uicn": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 56,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Aiucn.org+when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aiucn.org+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "beyond-fossil-fuels": {
    "ok": true,
@@ -436,25 +452,27 @@
    "notas": 1,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "el-heraldo": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 98,
+   "notas": 99,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "el-universal": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 100,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Aeluniversal.com.co+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aeluniversal.com.co+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "abc-economia": {
    "ok": true,
@@ -463,7 +481,7 @@
    "notas": 25,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "cnbc": {
    "ok": true,
@@ -472,7 +490,7 @@
    "notas": 30,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "forbes": {
    "ok": true,
@@ -481,16 +499,18 @@
    "notas": 25,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "yahoo-finance": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 98,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Afinance.yahoo.com+when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Afinance.yahoo.com+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "wsj": {
    "ok": true,
@@ -499,7 +519,7 @@
    "notas": 188,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "investing-com": {
    "ok": true,
@@ -508,16 +528,18 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "business-wire": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 99,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Abusinesswire.com+when%3A7d&hl=en-US&gl=US&ceid=US:en: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Abusinesswire.com+when%3A7d&hl=en-US&gl=US&ceid=US:en"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "fuels-lubes": {
    "ok": true,
@@ -526,16 +548,18 @@
    "notas": 16,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "oms": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 21,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Awho.int+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Awho.int+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "onu": {
    "ok": true,
@@ -544,25 +568,29 @@
    "notas": 11,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "onu-colombia": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 3,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Acolombia.un.org+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acolombia.un.org+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "unicef": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 23,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Aunicef.org+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aunicef.org+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "house-of-commons-library": {
    "ok": true,
@@ -571,7 +599,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "bloomberg-professional": {
    "ok": true,
@@ -580,7 +608,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "amnistia": {
    "ok": true,
@@ -589,16 +617,18 @@
    "notas": 6,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "bbva": {
-   "ok": true,
+   "ok": false,
    "parcial": false,
    "respaldo": false,
-   "notas": 45,
-   "errores": [],
+   "notas": 0,
+   "errores": [
+    "https://news.google.com/rss/search?q=site%3Abbva.com+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Abbva.com+when%3A7d&hl=es-419&gl=CO&ceid=CO:es-419"
+   ],
    "metodo": "google_news",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "tech-funding-news": {
    "ok": true,
@@ -607,7 +637,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   },
   "geneva-environment-network": {
    "ok": false,
@@ -615,7 +645,7 @@
    "notas": 0,
    "metodo": "sin_acceso",
    "errores": [],
-   "revisado": "2026-11-11T15:14:29+00:00"
+   "revisado": "2026-11-11T15:39:57+00:00"
   }
  }
 }
