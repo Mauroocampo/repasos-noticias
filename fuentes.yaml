@@ -496,6 +496,8 @@ fuentes:
     tematicas: [ciber-ot]
     metodo: rss
     feeds: [https://www.rockwellautomation.com/bin/rss/security-advisories.xml]
+    # Desde los servidores de GitHub el RSS responde 403: se usa Google News como respaldo
+    respaldo_google_news: { consulta: "site:rockwellautomation.com/en-us/trust-center", idioma: en }
     marcas: [la-empresa]
     verificado: 2026-11-11
 
@@ -533,7 +535,7 @@ fuentes:
     pagina_avisos: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
     extractor: schneider
     marcas: [la-empresa]
-    nota: "Sin RSS: se lee la tabla de su página de notificaciones."
+    nota: "Sin RSS: se lee la tabla de su página de notificaciones. Desde los servidores de GitHub la página responde 403 (11 nov 2026); sus avisos llegan también por CISA y por el resumen de Viakoo."
     verificado: 2026-11-11
 
   - id: jci-psirt
