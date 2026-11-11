@@ -1,6 +1,36 @@
 {
- "actualizado": "2026-11-11T15:05:23+00:00",
+ "actualizado": "2026-11-11T15:12:27+00:00",
  "notas": [
+  {
+   "id": "51cd1e75636f71",
+   "fuente_id": "el-universal",
+   "titular": "Jóvenes de la Escuela Taller Cartagena viajarán a Uruguay para un intercambio de saberes",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcENtYmRmZ0hiZmdMWllKeVh4RFlLSDhjOHJxbWo5V29WTURlaUM1czR6ajZaWkw1UjlHUWVvVDBYNnFjSkNuX09lQUFyYkxTX0FLdUlGZVBUbkJ6OVU5NTctUHk3U0YyZ3FBcmVjUXcxSC1nNDB5UGE1TEJoRFlOemxfQVZZTFp3QXZOUWc0U28zRWJxZGVLOFh4Y0dJRzl3V2ZyRm9lRElnSHdCaHQ0c3E0aFlxNmpMWndseHJBdDN2Y20tdGpFWG56dXRFRUc3MkxCMVdZZUg?oc=5",
+   "fecha": "2026-11-11T15:07:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
+   "id": "6475040b79c392",
+   "fuente_id": "wsj",
+   "titular": "Nasdaq Jumps After CoreWeave Earnings",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
+   "fecha": "2026-11-11T15:06:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "95e399d5eda2b7",
+   "fuente_id": "el-heraldo",
+   "titular": "Barranquilla será sede del Premio Excelencia Policial: 43 uniformados compiten por el reconocimiento",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/11/barranquilla-sera-sede-del-premio-excelencia-policial-43-uniformados-compiten-por-el-reconocimiento/",
+   "fecha": "2026-11-11T15:04:30+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
   {
    "id": "de395c3eeb13e5",
    "fuente_id": "techcrunch",
@@ -10,6 +40,26 @@
    "fecha": "2026-11-11T15:02:47+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "b187db9cdf9752",
+   "fuente_id": "unite-ai",
+   "titular": "Rox Raises $100M Series B at $1.3B Valuation to Advance AI Research",
+   "bajada": "Reuters reported on November 11, 2026, that Rox had raised $100 million in a Series B round valuing the San Francisco-based startup at $1.3 billion. General Catalyst and March Capital co-led the financing as Rox prepares to expand its AI research and enterprise reach. Existing…",
+   "enlace": "https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/",
+   "fecha": "2026-11-11T15:02:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
+   "id": "1afad9574cf3a4",
+   "fuente_id": "cnbc",
+   "titular": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+   "bajada": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
+   "enlace": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+   "fecha": "2026-11-11T15:00:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "6619f09dbc0d0a",
@@ -40,6 +90,16 @@
    "fecha": "2026-11-11T14:55:27+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "41bbf09b553249",
+   "fuente_id": "the-register",
+   "titular": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+   "bajada": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+   "enlace": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
+   "fecha": "2026-11-11T14:55:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "09b05015722549",
@@ -130,6 +190,16 @@
    "fecha": "2026-11-11T14:52:03+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "f523a1c4beb152",
+   "fuente_id": "portafolio",
+   "titular": "No fueron los radares: esta es la causa de la falla que afectó el embarque de pasajeros en el aeropuerto El Dorado",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/economia/regiones/no-fueron-los-radares-la-causa-de-la-falla-en-el-dorado-segun-la-aerocivil-506118",
+   "fecha": "2026-11-11T14:52:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
    "id": "79023c45b65a20",
@@ -242,13 +312,23 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
+   "id": "300d1d2e8e8b5b",
+   "fuente_id": "portafolio",
+   "titular": "ETB mejoró 18% su resultado operacional en el tercer trimestre, pese a menores ingresos",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/negocios/empresas/etb-mejoro-18-su-resultado-operacional-en-el-tercer-trimestre-pese-a-menores-ingresos-506139",
+   "fecha": "2026-11-11T14:46:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "b8e8baa5e5e411",
    "fuente_id": "portafolio",
    "titular": "¿Energía para la región? De esto se trata el proyecto",
    "bajada": "",
    "enlace": "https://www.portafolio.co/energia/energia-para-la-region-de-esto-se-trata-el-proyecto-506140",
    "fecha": "2026-11-11T14:46:40+00:00",
-   "via": "pagina",
+   "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
@@ -599,7 +679,7 @@
   {
    "id": "61bce2858435bc",
    "fuente_id": "la-republica",
-   "titular": "Grupo Éxito, Nutresa y Claro lideran el ranking de facturación con corte a septiembre",
+   "titular": "Grupo Éxito, Nutresa y Claro lideran el ranking de facturación a septiembre",
    "bajada": "Los resultados financieros muestran diferencias en el desempeño de las compañías de sectores como comercio, alimentos, telecomunicaciones y energía",
    "enlace": "https://www.larepublica.co/empresas/las-empresas-que-lideran-el-ranking-de-resultados-empresariales-2026-4522313",
    "fecha": "2026-11-11T14:20:24+00:00",
@@ -613,7 +693,7 @@
    "bajada": "",
    "enlace": "https://www.portafolio.co/energia/exxonmobil-abre-la-puerta-a-regresar-a-venezuela-firma-memorando-para-evaluar-inversiones-petroleras-506131",
    "fecha": "2026-11-11T14:20:03+00:00",
-   "via": "pagina",
+   "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
@@ -725,6 +805,16 @@
    "fecha": "2026-11-11T14:13:22+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "c00d41fc086e93",
+   "fuente_id": "the-register",
+   "titular": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away",
+   "bajada": "Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you",
+   "enlace": "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
+   "fecha": "2026-11-11T14:13:20+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "1313861655c362",
@@ -913,7 +1003,7 @@
    "bajada": "",
    "enlace": "https://www.portafolio.co/energia/diamondback-energy-y-kkr-compraran-el-70-de-deep-blue-en-una-operacion-valorada-en-us-2-100-millones-506126",
    "fecha": "2026-11-11T14:00:37+00:00",
-   "via": "pagina",
+   "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
@@ -1427,6 +1517,16 @@
    "primera_vista": "2026-11-11T14:03:43+00:00"
   },
   {
+   "id": "df89be52240b7a",
+   "fuente_id": "the-register",
+   "titular": "2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials",
+   "bajada": "YouHack thought protecting members' passwords with mostly unsalted MD5 hashes would do",
+   "enlace": "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
+   "fecha": "2026-11-11T13:28:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "d58c153a54f46b",
    "fuente_id": "la-republica",
    "titular": "El dólar se cotiza en $3.297,46 y tocó un máximo de $3.300 no registrado en cinco semanas",
@@ -1493,16 +1593,6 @@
    "bajada": "Intensifying competition in the world's largest auto market forced Nissan to cut its annual sales forecast for a second time in months.",
    "enlace": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
    "fecha": "2026-11-11T13:18:48+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "6475040b79c392",
-   "fuente_id": "wsj",
-   "titular": "Nasdaq Futures Rally as AI Optimism Returns",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
-   "fecha": "2026-11-11T13:14:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
@@ -1777,16 +1867,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "f523a1c4beb152",
-   "fuente_id": "portafolio",
-   "titular": "No fueron los radares: esta es la causa de la falla que afectó el registro y embarque de pasajeros en El Dorado",
-   "bajada": "",
-   "enlace": "https://www.portafolio.co/economia/regiones/no-fueron-los-radares-la-causa-de-la-falla-en-el-dorado-segun-la-aerocivil-506118",
-   "fecha": "2026-11-11T12:49:58+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "3b54b60391de94",
    "fuente_id": "investing-com",
    "titular": "Earnings call transcript: Conduit shares fall as premium growth slows in Q3 2026",
@@ -1845,6 +1925,16 @@
    "fecha": "2026-11-11T12:45:46+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "a57268c6f33ff9",
+   "fuente_id": "the-register",
+   "titular": "Apple tells its Support Community to STFU",
+   "bajada": "User-to-user forum goes read-only ahead of November 20 closure, with archive's fate unclear",
+   "enlace": "https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090",
+   "fecha": "2026-11-11T12:43:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "7203a5cbd68533",
@@ -2167,6 +2257,16 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
+   "id": "e8e32a79112ccf",
+   "fuente_id": "mongabay",
+   "titular": "Con El Niño en marcha, una investigación busca anticipar las mareas rojas en Chile | ESTUDIO",
+   "bajada": "Un grupo de expertos a bordo del buque científico alemán Meteor recorrió la Patagonia chilena para investigar las microalgas causantes de floraciones algales nocivas (FAN) y los factores que favorecen el fenómeno. La también llamada marea roja causa la mortalidad de peces y…",
+   "enlace": "https://es.mongabay.com/2026/11/el-nino-investigacion-busca-anticipar-mareas-rojas-chile/",
+   "fecha": "2026-11-11T12:09:17+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "9976a3d3d9c80c",
    "fuente_id": "unite-ai",
    "titular": "Drugmakers in China Explore AI Marketing Amid Anti-Graft Scrutiny",
@@ -2215,6 +2315,16 @@
    "fecha": "2026-11-11T12:06:20+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "07df1a0aa3ea83",
+   "fuente_id": "the-register",
+   "titular": "Shipping giant Maersk probes 'IT security incident,' data theft",
+   "bajada": "Says it 'strongly' suspects attack limited to legacy system, and that nothing sensitive is at risk",
+   "enlace": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
+   "fecha": "2026-11-11T12:05:34+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "41680577296918",
@@ -2747,16 +2857,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "0288edefa7751b",
-   "fuente_id": "yahoo-finance",
-   "titular": "Corning Incorporated (GLW) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nSHNYMU5wOGxHNjViZ3FFQnBoUjVSc2ZhemhwVlhDSktLUjlWbUdDYlpEVGRfVlE2NDJKU2t5bFFXZ3F4cVJET0tYUEg?oc=5",
-   "fecha": "2026-11-11T11:04:42+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "3f801cdae16070",
    "fuente_id": "unite-ai",
    "titular": "XpertDox Raises $20M Series A to Expand Autonomous Medical Coding",
@@ -3057,16 +3157,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "c0313837d142ce",
-   "fuente_id": "yahoo-finance",
-   "titular": "Sandisk Corporation (SNDK) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQ1NKM2RUYWVMenRSd1BNSGJKbEUxSXprVGNBek5Wdi14M1RobEhUNkR2SER0VWpVSlFSb0pKcjcxbG5OdXRLVzNHV3dIdw?oc=5",
-   "fecha": "2026-11-11T10:35:45+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:29:07+00:00"
-  },
-  {
    "id": "fac3eba829342d",
    "fuente_id": "securityweek",
    "titular": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
@@ -3165,6 +3255,16 @@
    "fecha": "2026-11-11T10:25:54+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "2620d6518c92af",
+   "fuente_id": "oms",
+   "titular": "EB26.R22 Contribuciones con destino al Fondo de Donativos para el Fomento de la Salud El Consejo Ejecutivo, Visto el informe del",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXJ6cENPWkFsR3VKV1c0dUNYaEY4M2JKbDJCVVJWM3hGVGZ6TTN5R2lVNk81T0VkdlNHMTlwV0dZMkxISWhFTkpWMzhiQ3hVd3hoU2FiQTZQazVPY0wyR1Z3VWZXR2x4WWZUQlBNc2g4aUlvSmJCeDlwUFQyRXJ6dWdUQQ?oc=5",
+   "fecha": "2026-11-11T10:25:33+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "3d26e78bb1fae0",
@@ -3637,16 +3737,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "d9e172a18d3bbb",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZmVqOFk3SlhPb0tnU2xDbGRLY29yY0VlMGI2TE8tbENVZUlsQ1l3SGFYWG5qREpIenloaVlmUEFmQUpaVWc?oc=5",
-   "fecha": "2026-11-11T08:40:50+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-09T13:10:03+00:00"
-  },
-  {
    "id": "feff30dda79fd8",
    "fuente_id": "it-brief",
    "titular": "AlgoSec wins AWS infrastructure protection security badge",
@@ -3777,6 +3867,16 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
+   "id": "c7420a3615f971",
+   "fuente_id": "oms",
+   "titular": "El Consejo Ejecutivo, Visto el informe del Director General sobre los Miembros que tienen atrasos de contribuciones de impor- ta",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVW9PNkpEeEc1UDAyb0Q2azRiS3RybnNFeDJUNmJxSVVVWTNUaVJzOWJWemVwR2p5YkU0WmJ0dWxnSXltMHpVMjBhZExqbVpvc01QYU1rb2ZOSkJSVlczdTV6SmVtREtmMTloU19ScnZyMEs3Y0JoVXVQU1U0MTFkMG02UQ?oc=5",
+   "fecha": "2026-11-11T08:01:41+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "2db612bf901e38",
    "fuente_id": "business-wire",
    "titular": "New In-Memory Database Purpose-Built for AI Agents",
@@ -3885,16 +3985,6 @@
    "fecha": "2026-11-11T07:30:51+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "cb4a0ef927c145",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5WDlUUUMzM1RfWTcyRjNOdmtkWkx5UEhqa0l3Zlp1aFN6b1UtbzBfV3Y1cjNRbU0zdWNNSG9mM05manR5U1E?oc=5",
-   "fecha": "2026-11-11T07:30:06+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "56ff8a6cf9b186",
@@ -7989,7 +8079,7 @@
   {
    "id": "9de575dfa82601",
    "fuente_id": "la-republica",
-   "titular": "Colpensiones recaudó $2,02 billones y garantiza pago a cerca de 1,9 millones de pensionados",
+   "titular": "Colpensiones recaudó $2,02 billones y garantiza pago a 1,9 millones de pensionados",
    "bajada": "En el periodo reportado se registraron 17.874 nuevas afiliaciones y 8.027 traslados procedentes de fondos privados de pensión",
    "enlace": "https://www.larepublica.co/finanzas/colpensiones-recaudo-2-02-billones-y-garantiza-pago-a-cerca-de-1-952-368-pensionados-4521526",
    "fecha": "2026-11-10T19:17:45+00:00",
@@ -8277,6 +8367,16 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
+   "id": "299e9cc3966bfd",
+   "fuente_id": "yahoo-finance",
+   "titular": "Meta Platforms, Inc. (META) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xUkhVQWwwajZlWkxJNzUyWVB3bWZoazBrbGVaS0RlMjRaVVdBaGtOajVZYmU3cXlGZUkwUjVWbk5hU04wN1hjYUU2UGM4Zw?oc=5",
+   "fecha": "2026-11-10T18:33:03+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
    "id": "f3f225b501e144",
    "fuente_id": "the-register",
    "titular": "14-year-old creates tool for AI agents to band together like a team",
@@ -8295,16 +8395,6 @@
    "fecha": "2026-11-10T18:30:45+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "299e9cc3966bfd",
-   "fuente_id": "yahoo-finance",
-   "titular": "Meta Platforms, Inc. (META) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xUkhVQWwwajZlWkxJNzUyWVB3bWZoazBrbGVaS0RlMjRaVVdBaGtOajVZYmU3cXlGZUkwUjVWbk5hU04wN1hjYUU2UGM4Zw?oc=5",
-   "fecha": "2026-11-10T18:29:02+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
    "id": "bda486d7fd4e78",
@@ -12292,16 +12382,6 @@
    "primera_vista": "2026-11-10T18:25:48+00:00"
   },
   {
-   "id": "19cffb427cf71d",
-   "fuente_id": "yahoo-finance",
-   "titular": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
-   "fecha": "2026-11-10T13:49:11+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
    "id": "ea155f88612327",
    "fuente_id": "business-wire",
    "titular": "Net Asset Value(s)",
@@ -12500,6 +12580,16 @@
    "fecha": "2026-11-10T13:27:34+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T18:25:48+00:00"
+  },
+  {
+   "id": "2eb08d6c9e7465",
+   "fuente_id": "yahoo-finance",
+   "titular": "S&P 500 (^GSPC) Charts, Data & News",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Vm8yM2lLRXFrWEhqVUdJZ3JhRWpCbjNiN3lDWGxXWkxXR1pNSzQ5S3lPcmIwYWxjRVVRN2p1Tkt6X29rWDIyaG1OLWxuODNmWFE?oc=5",
+   "fecha": "2026-11-10T13:26:34+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "5285921e36bb15",
@@ -13082,6 +13172,16 @@
    "primera_vista": "2026-11-10T13:27:10+00:00"
   },
   {
+   "id": "19cffb427cf71d",
+   "fuente_id": "yahoo-finance",
+   "titular": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
+   "fecha": "2026-11-10T12:41:35+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "3d9e0ba6f6cfdd",
    "fuente_id": "house-of-commons-library",
    "titular": "Constituency data: Businesses and industries",
@@ -13300,16 +13400,6 @@
    "fecha": "2026-11-10T12:23:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T13:27:10+00:00"
-  },
-  {
-   "id": "2eb08d6c9e7465",
-   "fuente_id": "yahoo-finance",
-   "titular": "S&P 500 (^GSPC) Charts, Data & News",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Vm8yM2lLRXFrWEhqVUdJZ3JhRWpCbjNiN3lDWGxXWkxXR1pNSzQ5S3lPcmIwYWxjRVVRN2p1Tkt6X29rWDIyaG1OLWxuODNmWFE?oc=5",
-   "fecha": "2026-11-10T12:21:44+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "bd340ca7f7b982",
@@ -14460,6 +14550,16 @@
    "fecha": "2026-11-10T10:30:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T13:27:10+00:00"
+  },
+  {
+   "id": "cb4a0ef927c145",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5WDlUUUMzM1RfWTcyRjNOdmtkWkx5UEhqa0l3Zlp1aFN6b1UtbzBfV3Y1cjNRbU0zdWNNSG9mM05manR5U1E?oc=5",
+   "fecha": "2026-11-10T10:25:42+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "f38c757c26e761",
@@ -23397,6 +23497,16 @@
    "primera_vista": "2026-11-09T21:16:06+00:00"
   },
   {
+   "id": "0288edefa7751b",
+   "fuente_id": "yahoo-finance",
+   "titular": "Corning Incorporated (GLW) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nSHNYMU5wOGxHNjViZ3FFQnBoUjVSc2ZhemhwVlhDSktLUjlWbUdDYlpEVGRfVlE2NDJKU2t5bFFXZ3F4cVJET0tYUEg?oc=5",
+   "fecha": "2026-11-09T14:03:10+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
    "id": "92c7545f4c38de",
    "fuente_id": "the-register",
    "titular": "The AI bubble can wait, but your exit plan can't",
@@ -23545,6 +23655,16 @@
    "fecha": "2026-11-09T13:49:51+00:00",
    "via": "rss",
    "primera_vista": "2026-11-09T21:16:06+00:00"
+  },
+  {
+   "id": "c0313837d142ce",
+   "fuente_id": "yahoo-finance",
+   "titular": "Sandisk Corporation (SNDK) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQ1NKM2RUYWVMenRSd1BNSGJKbEUxSXprVGNBek5Wdi14M1RobEhUNkR2SER0VWpVSlFSb0pKcjcxbG5OdXRLVzNHV3dIdw?oc=5",
+   "fecha": "2026-11-09T13:49:05+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:29:07+00:00"
   },
   {
    "id": "0f8258a02de63e",
@@ -31712,6 +31832,16 @@
    "primera_vista": "2026-11-08T16:53:53+00:00"
   },
   {
+   "id": "d9e172a18d3bbb",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZmVqOFk3SlhPb0tnU2xDbGRLY29yY0VlMGI2TE8tbENVZUlsQ1l3SGFYWG5qREpIenloaVlmUEFmQUpaVWc?oc=5",
+   "fecha": "2026-11-08T08:38:27+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-09T13:10:03+00:00"
+  },
+  {
    "id": "5851dbe2eed6ff",
    "fuente_id": "the-manufacturer",
    "titular": "SupplyChain - Page 71 of 78 - The Manufacturer",
@@ -31780,6 +31910,16 @@
    "fecha": "2026-11-08T06:00:01+00:00",
    "via": "rss",
    "primera_vista": "2026-11-08T12:17:31+00:00"
+  },
+  {
+   "id": "19e27857e3a382",
+   "fuente_id": "la-republica",
+   "titular": "Noviembre, mes de los milagros corporativos",
+   "bajada": "Una empresa no debería medir su éxito por la cantidad de funcionarios que sobrevivieron a noviembre, sino por los resultados que se lograron sin perder el ...",
+   "enlace": "https://www.larepublica.co/analisis/ramiro-santa-513971/noviembre-mes-de-los-milagros-corporativos-4519880",
+   "fecha": "2026-11-08T05:02:21+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "3372af43615ea4",
@@ -35957,6 +36097,16 @@
    "primera_vista": "2026-11-07T11:52:57+00:00"
   },
   {
+   "id": "bc2b2de2a97d19",
+   "fuente_id": "la-republica",
+   "titular": "Contra el crimen",
+   "bajada": "Cuando se captura sin una investigación sólida, los jueces pueden negar las medidas de aseguramiento y la insuficiencia probatoria puede impedir después qu...",
+   "enlace": "https://www.larepublica.co/analisis/francisco-barbosa-3943941/contra-el-crimen-4519695",
+   "fecha": "2026-11-07T05:01:49+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "650f3faac56c42",
    "fuente_id": "la-republica",
    "titular": "De 10 trabajadores de economía colaborativa, cuatro tienen dificultades de pago",
@@ -35965,6 +36115,26 @@
    "fecha": "2026-11-07T05:01:46+00:00",
    "via": "rss",
    "primera_vista": "2026-11-07T11:52:57+00:00"
+  },
+  {
+   "id": "2bb87f027fc24a",
+   "fuente_id": "la-republica",
+   "titular": "¡Sin carbón no hay paraíso!",
+   "bajada": "La crecente demanda por carbón se explica en gran medida porque aunque la Transición energética propende por la electrificación de la economía en procura d...",
+   "enlace": "https://www.larepublica.co/analisis/amylkar-d-acosta-m-557896/sin-carbon-no-hay-paraiso-4519667",
+   "fecha": "2026-11-07T05:01:42+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
+   "id": "10301078bd8a85",
+   "fuente_id": "la-republica",
+   "titular": "Lo que la Generación Z europea le advierte a Colombia",
+   "bajada": "Es una generación convencida de que vivirá peor que sus padres y que ya no le cree a las instituciones que le prometieron lo contrario. Thomas Piketty lo r...",
+   "enlace": "https://www.larepublica.co/analisis/p-harold-castilla-devoz-2912463/lo-que-la-generacion-z-europea-le-advierte-a-colombia-4519680",
+   "fecha": "2026-11-07T05:01:38+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "3c40faf3c17b1e",
@@ -35987,6 +36157,26 @@
    "primera_vista": "2026-11-07T11:52:57+00:00"
   },
   {
+   "id": "fb31ceb0eeae68",
+   "fuente_id": "la-republica",
+   "titular": "La democracia liberal",
+   "bajada": "La democracia liberal, estandarte político de Occidente, es el propósito político de países que suman un tercio de la población del mundo. La mitad de este...",
+   "enlace": "https://www.larepublica.co/analisis/gustavo-moreno-montalvo-2565659/la-democracia-liberal-4519666",
+   "fecha": "2026-11-07T05:01:31+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
+   "id": "5dd9f483b3b9ad",
+   "fuente_id": "la-republica",
+   "titular": "No hay tal vida privada",
+   "bajada": "Durante los últimos días he hablado directamente con Deicy Jiménez para entender la historia que ella misma decidió revelar exponiendo su identidad, su seg...",
+   "enlace": "https://www.larepublica.co/analisis/santiago-angel-rodriguez-3548824/no-hay-tal-vida-privada-4519665",
+   "fecha": "2026-11-07T05:01:24+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "a155d1a18811af",
    "fuente_id": "la-republica",
    "titular": "El agro necesita más proyectos, menos peleas",
@@ -35995,6 +36185,16 @@
    "fecha": "2026-11-07T05:01:23+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "480344347f61cd",
+   "fuente_id": "la-republica",
+   "titular": "Tres excusas para un mesías",
+   "bajada": "Desde que estalló el escándalo de los “sexocontratos”, los defensores del expresidente empezaron diciendo que Deicy mentía y que su denuncia era una cortin...",
+   "enlace": "https://www.larepublica.co/analisis/jerome-sanabria-3850986/tres-excusas-para-un-mesias-4519658",
+   "fecha": "2026-11-07T05:01:19+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "901379991b4150",
@@ -44342,6 +44542,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "1039384726095c",
+   "fuente_id": "uicn",
+   "titular": "Traf-026.pdf - IUCN Portals",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXN5ZHFiQmJFMzdlUFc3TGZFWnRUTjFmQzVpSHd4c25MYXZzV1EwZjQwVWN3NWJmVm9vU0JlbzdvUld3RlpwUXc3ZXBNZGs0VVdTQkJ0Vl91UF9BN0JVWVF0dnktc3cxZVJna3Z3SmNmbHNhQkFMeHRSUHh1NjJLQjhobW1KanVhNkFmVUVoc1FHeXdMcm8tOUgxN3ZpNGk5MndhUmh2RnpWZVlRR3ZN?oc=5",
+   "fecha": "2026-11-06T13:19:37+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "8281a8f2f7bcc3",
    "fuente_id": "security-boulevard-ot",
    "titular": "Apple’s 10-K on AI Agent Risk | Kovrr",
@@ -47712,6 +47922,16 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
+   "id": "94965073703160",
+   "fuente_id": "la-republica",
+   "titular": "El crecimiento también merece un rescate",
+   "bajada": "No se trata de sustituir ingresos tributarios inmediatos por promesas de ingresos futuros derivados del crecimiento. Se trata de acompañar el ajuste con un...",
+   "enlace": "https://www.larepublica.co/analisis/juan-fernando-samudio-3439437/el-crecimiento-tambien-merece-un-rescate-4518615",
+   "fecha": "2026-11-06T05:01:44+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
+  },
+  {
    "id": "cb7dfda1742675",
    "fuente_id": "la-republica",
    "titular": "Pese a lluvias por encima de lo normal en algunas regiones, embalses están en 78%",
@@ -47880,6 +48100,16 @@
    "fecha": "2026-11-06T05:00:58+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-08T12:17:31+00:00"
+  },
+  {
+   "id": "7aa2896ef0b761",
+   "fuente_id": "la-republica",
+   "titular": "Avances de los derechos de la naturaleza (comentario a la Sentencia C-353 de 2026)",
+   "bajada": "La Corte admitió dos cargos para el análisis de la exequibilidad de la Ley 2415 de 2024: uno, por presuntos vicios de procedimiento y otro, por la presunta...",
+   "enlace": "https://www.larepublica.co/analisis/daniel-bogoya-4518609/avances-de-los-derechos-de-la-naturaleza-comentario-a-la-sentencia-c-353-de-2026-4518618",
+   "fecha": "2026-11-06T05:00:57+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "87ac8625f8e3e7",
@@ -59357,14 +59587,14 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
-   "id": "42231831ec14af",
-   "fuente_id": "el-universal",
-   "titular": "3 barrios de Cartagena no tendrán agua este jueves 5 de noviembre de 2026",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1ZwcVhaVGdTSmdQR1RPcW1XdE9mSGlaTzJGMHZacVRSSXh2SDJxWjdvdE01bHl1dEdGMzdCdU9PZ2xHVjRNUVQ5dUtDZkdyUF8zUmpha0lBM2tSU3NaUE9tVklpNEduSlNIOEFaWFhfcHJXc0tTenMzMGRaNTNrWHAyZUlVN0xZT1dES19wZWprOGN3MGJxSW1rYXgyV0tHb3pBZWlBcjVjVDc5dDlzRjhFeGdUaTZ6RmVhZFZKZjJJcm11?oc=5",
-   "fecha": "2026-11-04T15:10:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
+   "id": "df8020ac428b63",
+   "fuente_id": "la-republica",
+   "titular": "Pedro Sánchez reforma el Gobierno tras la dimisión del ministro de Transportes español",
+   "bajada": "En un discurso, Sánchez elogió a Puente por su dignidad política, señalando que su decisión ayudaba a recuperar la confianza en el sistema ferroviario",
+   "enlace": "https://www.larepublica.co/globoeconomia/pedro-sanchez-reforma-el-gobierno-tras-la-dimision-del-ministro-de-transportes-espanol-4517365",
+   "fecha": "2026-11-04T13:44:32+00:00",
+   "via": "portada",
+   "primera_vista": "2026-11-11T15:12:27+00:00"
   },
   {
    "id": "b0c13eb71aa4c4",

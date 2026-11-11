@@ -1,5 +1,25 @@
 [
  {
+  "id": "51cd1e75636f71",
+  "fuente_id": "el-universal",
+  "titular": "Jóvenes de la Escuela Taller Cartagena viajarán a Uruguay para un intercambio de saberes",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcENtYmRmZ0hiZmdMWllKeVh4RFlLSDhjOHJxbWo5V29WTURlaUM1czR6ajZaWkw1UjlHUWVvVDBYNnFjSkNuX09lQUFyYkxTX0FLdUlGZVBUbkJ6OVU5NTctUHk3U0YyZ3FBcmVjUXcxSC1nNDB5UGE1TEJoRFlOemxfQVZZTFp3QXZOUWc0U28zRWJxZGVLOFh4Y0dJRzl3V2ZyRm9lRElnSHdCaHQ0c3E0aFlxNmpMWndseHJBdDN2Y20tdGpFWG56dXRFRUc3MkxCMVdZZUg?oc=5",
+  "fecha": "2026-11-11T15:07:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
+  "id": "95e399d5eda2b7",
+  "fuente_id": "el-heraldo",
+  "titular": "Barranquilla será sede del Premio Excelencia Policial: 43 uniformados compiten por el reconocimiento",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/11/barranquilla-sera-sede-del-premio-excelencia-policial-43-uniformados-compiten-por-el-reconocimiento/",
+  "fecha": "2026-11-11T15:04:30+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
   "id": "de395c3eeb13e5",
   "fuente_id": "techcrunch",
   "titular": "Siri co-founder backs Helix for its voice ID tech",
@@ -8,6 +28,26 @@
   "fecha": "2026-11-11T15:02:47+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "b187db9cdf9752",
+  "fuente_id": "unite-ai",
+  "titular": "Rox Raises $100M Series B at $1.3B Valuation to Advance AI Research",
+  "bajada": "Reuters reported on November 11, 2026, that Rox had raised $100 million in a Series B round valuing the San Francisco-based startup at $1.3 billion. General Catalyst and March Capital co-led the financing as Rox prepares to expand its AI research and enterprise reach. Existing…",
+  "enlace": "https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/",
+  "fecha": "2026-11-11T15:02:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
+  "id": "1afad9574cf3a4",
+  "fuente_id": "cnbc",
+  "titular": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+  "bajada": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
+  "enlace": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+  "fecha": "2026-11-11T15:00:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
  },
  {
   "id": "6619f09dbc0d0a",
@@ -38,6 +78,16 @@
   "fecha": "2026-11-11T14:55:27+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "41bbf09b553249",
+  "fuente_id": "the-register",
+  "titular": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+  "bajada": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+  "enlace": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
+  "fecha": "2026-11-11T14:55:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
  },
  {
   "id": "09b05015722549",
@@ -218,6 +268,16 @@
   "fecha": "2026-11-11T14:49:16+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "300d1d2e8e8b5b",
+  "fuente_id": "portafolio",
+  "titular": "ETB mejoró 18% su resultado operacional en el tercer trimestre, pese a menores ingresos",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/etb-mejoro-18-su-resultado-operacional-en-el-tercer-trimestre-pese-a-menores-ingresos-506139",
+  "fecha": "2026-11-11T14:46:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
  },
  {
   "id": "b8e8baa5e5e411",
@@ -613,6 +673,16 @@
   "fecha": "2026-11-11T14:13:22+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T14:21:33+00:00"
+ },
+ {
+  "id": "c00d41fc086e93",
+  "fuente_id": "the-register",
+  "titular": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away",
+  "bajada": "Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you",
+  "enlace": "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
+  "fecha": "2026-11-11T14:13:20+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
  },
  {
   "id": "1313861655c362",
@@ -1295,6 +1365,16 @@
   "primera_vista": "2026-11-11T14:03:43+00:00"
  },
  {
+  "id": "df89be52240b7a",
+  "fuente_id": "the-register",
+  "titular": "2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials",
+  "bajada": "YouHack thought protecting members' passwords with mostly unsalted MD5 hashes would do",
+  "enlace": "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
+  "fecha": "2026-11-11T13:28:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
   "id": "d58c153a54f46b",
   "fuente_id": "la-republica",
   "titular": "El dólar se cotiza en $3.297,46 y tocó un máximo de $3.300 no registrado en cinco semanas",
@@ -1765,6 +1845,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "a57268c6f33ff9",
+  "fuente_id": "the-register",
+  "titular": "Apple tells its Support Community to STFU",
+  "bajada": "User-to-user forum goes read-only ahead of November 20 closure, with archive's fate unclear",
+  "enlace": "https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090",
+  "fecha": "2026-11-11T12:43:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
   "id": "7203a5cbd68533",
   "fuente_id": "cnbc",
   "titular": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
@@ -2085,6 +2175,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "e8e32a79112ccf",
+  "fuente_id": "mongabay",
+  "titular": "Con El Niño en marcha, una investigación busca anticipar las mareas rojas en Chile | ESTUDIO",
+  "bajada": "Un grupo de expertos a bordo del buque científico alemán Meteor recorrió la Patagonia chilena para investigar las microalgas causantes de floraciones algales nocivas (FAN) y los factores que favorecen el fenómeno. La también llamada marea roja causa la mortalidad de peces y…",
+  "enlace": "https://es.mongabay.com/2026/11/el-nino-investigacion-busca-anticipar-mareas-rojas-chile/",
+  "fecha": "2026-11-11T12:09:17+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
   "id": "9976a3d3d9c80c",
   "fuente_id": "unite-ai",
   "titular": "Drugmakers in China Explore AI Marketing Amid Anti-Graft Scrutiny",
@@ -2133,6 +2233,16 @@
   "fecha": "2026-11-11T12:06:20+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "07df1a0aa3ea83",
+  "fuente_id": "the-register",
+  "titular": "Shipping giant Maersk probes 'IT security incident,' data theft",
+  "bajada": "Says it 'strongly' suspects attack limited to legacy system, and that nothing sensitive is at risk",
+  "enlace": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
+  "fecha": "2026-11-11T12:05:34+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
  },
  {
   "id": "41680577296918",
@@ -3155,6 +3265,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "2620d6518c92af",
+  "fuente_id": "oms",
+  "titular": "EB26.R22 Contribuciones con destino al Fondo de Donativos para el Fomento de la Salud El Consejo Ejecutivo, Visto el informe del",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXJ6cENPWkFsR3VKV1c0dUNYaEY4M2JKbDJCVVJWM3hGVGZ6TTN5R2lVNk81T0VkdlNHMTlwV0dZMkxISWhFTkpWMzhiQ3hVd3hoU2FiQTZQazVPY0wyR1Z3VWZXR2x4WWZUQlBNc2g4aUlvSmJCeDlwUFQyRXJ6dWdUQQ?oc=5",
+  "fecha": "2026-11-11T10:25:33+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
+ },
+ {
   "id": "3d26e78bb1fae0",
   "fuente_id": "unite-ai",
   "titular": "NTT’s Physics-Based World Model Screens Robot Actions Before Execution",
@@ -3803,6 +3923,16 @@
   "fecha": "2026-11-11T08:17:53+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "c7420a3615f971",
+  "fuente_id": "oms",
+  "titular": "El Consejo Ejecutivo, Visto el informe del Director General sobre los Miembros que tienen atrasos de contribuciones de impor- ta",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVW9PNkpEeEc1UDAyb0Q2azRiS3RybnNFeDJUNmJxSVVVWTNUaVJzOWJWemVwR2p5YkU0WmJ0dWxnSXltMHpVMjBhZExqbVpvc01QYU1rb2ZOSkJSVlczdTV6SmVtREtmMTloU19ScnZyMEs3Y0JoVXVQU1U0MTFkMG02UQ?oc=5",
+  "fecha": "2026-11-11T08:01:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:12:27+00:00"
  },
  {
   "id": "2db612bf901e38",
