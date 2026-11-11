@@ -41,3 +41,6 @@
 2026-11-11T15:12:27+00:00	cisa-ics	https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
 2026-11-11T15:12:27+00:00	rockwell-psirt	https://www.rockwellautomation.com/bin/rss/security-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.rockwellautomation.com/bin/rss/security-advisories.xml
 2026-11-11T15:12:27+00:00	schneider-psirt	https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp: HTTPError: 403 Client Error: Forbidden for url: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+2026-11-11T15:14:29+00:00	cisa-ics	https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
+2026-11-11T15:14:29+00:00	rockwell-psirt	https://www.rockwellautomation.com/bin/rss/security-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.rockwellautomation.com/bin/rss/security-advisories.xml
+2026-11-11T15:14:29+00:00	schneider-psirt	https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp: HTTPError: 403 Client Error: Forbidden for url: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp

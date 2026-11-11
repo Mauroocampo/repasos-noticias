@@ -1,6 +1,26 @@
 {
- "actualizado": "2026-11-11T15:12:27+00:00",
+ "actualizado": "2026-11-11T15:14:29+00:00",
  "notas": [
+  {
+   "id": "2d8d4010bd6eb9",
+   "fuente_id": "cnbc",
+   "titular": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
+   "bajada": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+   "enlace": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+   "fecha": "2026-11-11T15:13:39+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:03:43+00:00"
+  },
+  {
+   "id": "360795a62ce754",
+   "fuente_id": "unite-ai",
+   "titular": "Serve Robotics Opens Delivery Fleet to Developers and AI Agents",
+   "bajada": "Serve Robotics launched its AV Delivery Developer Portal on November 11, 2026, giving independent developers, businesses and AI assistants a public API for requesting deliveries from its 2,000-robot sidewalk fleet, plus a sandbox for testing without dispatching a live machine…",
+   "enlace": "https://www.unite.ai/serve-robotics-opens-delivery-fleet-to-developers-and-ai-agents/",
+   "fecha": "2026-11-11T15:07:04+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T15:14:29+00:00"
+  },
   {
    "id": "51cd1e75636f71",
    "fuente_id": "el-universal",
@@ -390,16 +410,6 @@
    "fecha": "2026-11-11T14:40:50+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T15:05:23+00:00"
-  },
-  {
-   "id": "2d8d4010bd6eb9",
-   "fuente_id": "cnbc",
-   "titular": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
-   "bajada": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
-   "enlace": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-   "fecha": "2026-11-11T14:40:44+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T14:03:43+00:00"
   },
   {
    "id": "c3d97c9d01fdd8",
@@ -3297,6 +3307,16 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
+   "id": "4cfcdcb52d1155",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
+   "fecha": "2026-11-11T10:17:14+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "e2a02c3baccd8d",
    "fuente_id": "forbes",
    "titular": "Jorge Masvidal Says The $200,000 UFC 334 Ticket Is In His Pocket — And That It Pays $1 Million If Josh Hokit Beats Ciryl Gane",
@@ -4829,7 +4849,7 @@
   {
    "id": "6cc1f08322bce7",
    "fuente_id": "la-republica",
-   "titular": "\"Ya superamos 2 millones de inversionistas particulares en los fondos colectivos, FIC\"",
+   "titular": "\"Superamos 2 millones de inversionistas particulares en fondos colectivos, FIC\"",
    "bajada": "Alejandro Gómez, Presidente del Consejo Directivo de Asofiduciarias y de Aval Fiduciaria, destacó la integración de cuatro fiduciarias",
    "enlace": "https://www.larepublica.co/finanzas/entrevista-con-alejandro-gomez-presidente-del-consejo-directivo-de-asofiduciarias-y-presidente-de-aval-fiduciaria-4521838",
    "fecha": "2026-11-11T05:01:36+00:00",
@@ -14432,6 +14452,16 @@
    "primera_vista": "2026-11-11T15:05:23+00:00"
   },
   {
+   "id": "c980915f819b32",
+   "fuente_id": "certvde",
+   "titular": "MB connect line: Multiple Vulnerabilities in mbCONNECT24/mymbCONNECT24",
+   "bajada": "Multiple vulnerabilities have been discovered in MB connect line mbCONNECT24/mymbCONNECT24 that could allow RCE, DoS or information leakage.",
+   "enlace": "https://certvde.com/en/advisories/VDE-2026-079/",
+   "fecha": "2026-11-10T11:00:00+00:00",
+   "via": "pagina",
+   "primera_vista": "2026-11-11T15:14:29+00:00"
+  },
+  {
    "id": "189dcdf5c29bf7",
    "fuente_id": "wsj",
    "titular": "How Target Planned for Brian Cornell’s Successor",
@@ -15150,16 +15180,6 @@
    "fecha": "2026-11-10T08:38:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T13:27:10+00:00"
-  },
-  {
-   "id": "4cfcdcb52d1155",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
-   "fecha": "2026-11-10T08:33:01+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "76b04b25935f1e",
@@ -59567,16 +59587,6 @@
    "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
-   "id": "7e9bf40fc1a346",
-   "fuente_id": "yahoo-finance",
-   "titular": "SpaceX and Tesla 'need to find the path forward with Texas' on the back of midterm 'Blue Wave'",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHduc3R2VTVQb29rU1RiRE9ySFZDNFNzT2U1dUMxSU5ta3MtSjVTLVZrOTlEaDBYS0dlSWItUGtQV3R6cXFYb05nRzB6emp6VXMzMkdJeUYzd3lGbjRaZ2ZIbmhJcC1ZRHdXM3dIUEZXRGVVWFVMWWVqbzA1ZnNuaXR3WThGeHM2TjNDOXZVbmk5cUZueEliTnBIZ0UyZ08tWEozSDlDSUhvTk84R1BMcHBWTkJTTUlDeHRjVjFxTDlQSlh5Zk1ISkFKcDAxY2dPMUc5RWIxWnRpUkVkY1V3WmtZRDhmVU91a2c?oc=5",
-   "fecha": "2026-11-04T15:14:13+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-07T11:52:57+00:00"
-  },
-  {
    "id": "67518e2f5e3970",
    "fuente_id": "portafolio",
    "titular": "El efecto tijera en el que se encuentra el sector exportador de café",
@@ -59685,6 +59695,16 @@
    "fecha": "2026-10-30T15:11:44+00:00",
    "via": "portada",
    "primera_vista": "2026-11-11T15:05:23+00:00"
+  },
+  {
+   "id": "90c5a81060975e",
+   "fuente_id": "portafolio",
+   "titular": "Los ‘gota a gota’ pueden cobrar hasta 666% anual: la apuesta del Gobierno y los gremios para combatirlos",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/mis-finanzas/creditos/los-gota-a-gota-pueden-cobrar-hasta-666-anual-la-apuesta-del-gobierno-y-los-gremios-para-combatirlos-505010",
+   "fecha": "2026-10-23T20:10:37+00:00",
+   "via": "portada",
+   "primera_vista": "2026-11-11T15:14:29+00:00"
   },
   {
    "id": "75877c60f7565d",
