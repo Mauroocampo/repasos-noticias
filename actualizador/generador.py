@@ -43,6 +43,7 @@ class Generador:
     def __init__(self, cfg: Config):
         self.cfg = cfg
         self.tz = ZoneInfo(cfg.zona_horaria)
+        self.textos_ocultas = {k: (v or {}).get("texto", k) for k, v in (cfg.palabras_clave.get("relevancia") or {}).items()}
         self.env = Environment(
             loader=FileSystemLoader(PLANTILLAS),
             autoescape=select_autoescape(["html"]),
@@ -60,11 +61,23 @@ class Generador:
             "hora": hora(local),
             "tipo_txt": self.cfg.tipos.get(n.get("tipo"), n.get("tipo") or ""),
             "temas_txt": [(t, temas.get(t, t)) for t in n["tematicas"]],
+            "tambien_por_titular": self._por_titular(n),
+            "oculta_txt": self.textos_ocultas.get(n.get("oculta"), n.get("oculta") or ""),
             "marcas_txt": [
                 (m, self.cfg.marcas[m]["texto"], self.cfg.marcas[m].get("explicacion", ""))
                 for m in n.get("marcas", []) if m in self.cfg.marcas
             ],
         }
+
+    def _por_titular(self, n: dict) -> list[dict]:
+        """"También en" de una historia: una línea por titular, con todas las fuentes que lo publicaron."""
+        lineas: OrderedDict[str, dict] = OrderedDict()
+        nombres = {f["id"]: f["nombre"] for f in self.cfg.fuentes}
+        for o in n.get("tambien_en", []):
+            titular = o.get("titular") or n["titular"]
+            linea = lineas.setdefault(titular, {"titular": titular, "enlace": o["enlace"], "fuentes": []})
+            linea["fuentes"].append((nombres.get(o["fuente_id"], o["fuente_id"]), o["enlace"]))
+        return list(lineas.values())
 
     def _por_dia(self, notas: list[dict]) -> list[tuple[str, list[dict]]]:
         grupos: OrderedDict[str, list[dict]] = OrderedDict()
@@ -82,7 +95,7 @@ class Generador:
         conteo: dict[str, int] = {}
         salida = []
         for n in notas:
-            if n["grupo"] != "fija":
+            if n["grupo"] != "fija" or n.get("oculta"):
                 continue
             familia = n.get("red") or n["fuente_id"]
             if conteo.get(familia, 0) < por_familia:
@@ -122,7 +135,8 @@ class Generador:
         self._pagina(
             "flujo.html", SALIDA / "index.html", "",
             pagina="portada", titulo="Lo más reciente", tema_fijo=None,
-            destacadas=self._destacadas(vistas), dias=self._por_dia(vistas), total=len(vistas),
+            destacadas=self._destacadas(vistas), dias=self._por_dia(vistas),
+            total=sum(1 for n in vistas if not n.get("oculta")), ocultas=sum(1 for n in vistas if n.get("oculta")),
             fuentes_op=fuentes_op, tipos_op=tipos_op,
         )
         for t in self.cfg.tematicas:
@@ -132,7 +146,8 @@ class Generador:
                 "flujo.html", SALIDA / "tematica" / t["id"] / "index.html", "../../",
                 pagina=t["id"], titulo=t["nombre"], tema_fijo=t["id"],
                 destacadas=self._destacadas(del_tema, por_familia=1), dias=self._por_dia(del_tema),
-                total=len(del_tema), fuentes_op=fo, tipos_op=to,
+                total=sum(1 for n in del_tema if not n.get("oculta")),
+                ocultas=sum(1 for n in del_tema if n.get("oculta")), fuentes_op=fo, tipos_op=to,
             )
 
         self._pagina("fuentes.html", SALIDA / "fuentes" / "index.html", "../",

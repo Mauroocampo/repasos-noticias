@@ -9,6 +9,8 @@ from . import almacen, duplicados, ia, lector, marcas
 from .config import Config
 from .descartes import Descartes
 from .filtro import Filtro
+from .historias import Agrupador
+from .relevancia import Relevancia
 
 log = logging.getLogger("actualizador")
 
@@ -63,6 +65,7 @@ def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
     """Aplica la configuración actual: fuente, tipo, temáticas y marcas."""
     filtro = Filtro(cfg.palabras_clave)
     descartes = Descartes(cfg.palabras_clave.get("no_noticias"))
+    relevancia = Relevancia(cfg.palabras_clave.get("relevancia"))
     fuentes = cfg.fuentes_por_id
     salida = []
     descartadas = 0
@@ -88,6 +91,8 @@ def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
             "tematicas": temas,
             "marcas": marcas.marcar(n, f),
             "clasificado_por": como,
+            # Categoría de relevancia por la que se oculta (None: se muestra)
+            "oculta": relevancia.categoria(n),
             "tambien_en": [],
             # Campos reservados para la fase 2 (IA)
             "resumen": None,
@@ -96,6 +101,34 @@ def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
     if descartadas:
         log.info("Se descartaron %d entradas que no son noticias (secciones, paginación, portadas)", descartadas)
     return salida
+
+
+TIPOS_PRIMARIOS = {"oficial", "la-empresa"}
+
+
+def prioridad(n: dict):
+    """Orden para elegir la nota principal de una historia (menor = primero)."""
+    if n.get("grupo") == "fija":
+        nivel = 0
+    elif n.get("tipo") in TIPOS_PRIMARIOS:
+        nivel = 1
+    elif n.get("grupo") == "especializada":
+        nivel = 2
+    else:
+        nivel = 3
+    return (nivel, 0 if n.get("bajada") else 1, n["fecha"])
+
+
+def agrupar(notas: list[dict], cfg: Config) -> list[dict]:
+    """Une copias (misma nota en varios sitios) y luego notas de la misma historia.
+
+    Las notas ocultas por relevancia se agrupan aparte, para que nunca sean la
+    principal de una historia visible.
+    """
+    agrupador = Agrupador(cfg.palabras_clave.get("historias"))
+    visibles = duplicados.eliminar([n for n in notas if not n.get("oculta")])
+    ocultas = duplicados.eliminar([n for n in notas if n.get("oculta")])
+    return agrupador.agrupar(visibles, prioridad) + ocultas
 
 
 def actualizar(cfg: Config, con_red: bool = True) -> dict:
@@ -115,7 +148,7 @@ def actualizar(cfg: Config, con_red: bool = True) -> dict:
         crudas = combinar(previas, [], ahora, cfg.ventana_dias)
         estado = estado_previo or {"actualizado": None, "fuentes": {}}
 
-    notas = duplicados.eliminar(enriquecer(crudas, cfg))
+    notas = agrupar(enriquecer(crudas, cfg), cfg)
     notas.sort(key=lambda n: n["fecha"], reverse=True)
     notas = ia.procesar(notas, cfg.ia)
     return {"ahora": ahora, "notas": notas, "estado": estado}

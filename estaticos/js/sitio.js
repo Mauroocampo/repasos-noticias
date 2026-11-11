@@ -121,7 +121,7 @@
   var sinResultados = document.getElementById('sin-resultados');
   var limpiar = document.getElementById('limpiar');
   var compartir = document.getElementById('compartir');
-  var campos = ['periodo', 'tema', 'fuente', 'tipo', 'q', 'fijas'];
+  var campos = ['periodo', 'tema', 'fuente', 'tipo', 'q', 'fijas', 'descartadas'];
   var sinResultadosTexto = sinResultados.textContent;
 
   // "Hoy" es el día actual en la hora de Colombia (no la del navegador)
@@ -181,6 +181,7 @@
                (!v.fuente || n.getAttribute('data-fuente') === v.fuente) &&
                (!v.tipo || n.getAttribute('data-tipo') === v.tipo) &&
                (!v.fijas || n.getAttribute('data-grupo') === 'fija') &&
+               (v.descartadas || !n.hasAttribute('data-oculta')) &&
                (!q || n._texto.indexOf(q) >= 0);
       if (ok) coinciden++;
       var mostrar = ok && mostradas < visibles;

@@ -108,6 +108,13 @@ a { color: var(--acento); }
 .nota-bajada { margin: 6px 0 0; color: var(--texto-suave); font-size: .94rem; }
 .nota-etiquetas { margin: 10px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .nota-tambien { margin: 8px 0 0; font-size: .82rem; color: var(--texto-suave); }
+.nota-historia summary { cursor: pointer; font-weight: 600; color: var(--texto-suave); }
+.nota-historia ul { margin: 6px 0 0; padding-left: 18px; }
+.nota-historia li { margin: 3px 0; line-height: 1.4; }
+.nota-historia .tambien-fuente { white-space: normal; }
+.nota-historia .tambien-fuente a { color: var(--texto-suave); font-weight: 600; }
+.nota-oculta { opacity: .72; border-style: dashed; }
+.marca-oculta { background: var(--error-fondo); color: var(--error); }
 .tema { font-size: .75rem; padding: 2px 8px; border-radius: 999px; background: var(--acento-suave); color: var(--acento); text-decoration: none; }
 .marca { font-size: .75rem; padding: 2px 8px; border-radius: 4px; font-weight: 600; background: var(--m-empresa-f); color: var(--m-empresa); cursor: help; }
 .marca-muro-de-pago { background: var(--m-pago-f); color: var(--m-pago); }

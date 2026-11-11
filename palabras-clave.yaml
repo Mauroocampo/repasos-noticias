@@ -57,6 +57,356 @@ no_noticias:
   # Descartar enlaces a la portada del sitio y titulares que son el nombre del medio
   portadas: true
 
+# ─────────────────────────────────────────────────────────────────────────────
+# Filtro de RELEVANCIA: notas que no corresponden a las temáticas.
+# No se borran: quedan ocultas y se ven con la casilla "Mostrar descartadas".
+#   texto         etiqueta que se muestra ("Oculta: ofertas")
+#   incluir       palabras que detectan la categoría (titular y bajada)
+#   solo_titular  true: `incluir` se busca solo en el titular
+#   al_inicio     el titular empieza así
+#   al_final      el titular termina así
+#   excepto       si aparece alguna, la nota NO se oculta
+# Se revisan en este orden; la primera categoría que coincide es la que se muestra.
+# ─────────────────────────────────────────────────────────────────────────────
+relevancia:
+
+  bufetes:
+    texto: "comunicado de bufete"
+    incluir:
+      - "investors have opportunity"
+      - "have opportunity to join"
+      - "opportunity to lead"
+      - "fraud investigation"
+      - "shareholder alert"
+      - "investor alert"
+      - "shareholders who lost"
+      - "investors who lost"
+      - "lead plaintiff"
+      - "lead plaintiff deadline"
+      - "class action reminder"
+      - "class action filed"
+      - "class action lawsuit filed"
+      - "reminds investors"
+      - "encourages investors"
+      - "announces investigation"
+      - "investigation on behalf"
+      - "deadline alert"
+      - "on behalf of investors"
+      - "on behalf of shareholders"
+      - "rosen law"
+      - pomerantz
+      - "bragar eagel"
+      - "levi & korsinsky"
+      - "faruqi & faruqi"
+      - "glancy prongay"
+      - "bronstein, gewirtz"
+      - "kessler topaz"
+      - "robbins geller"
+      - "the gross law firm"
+      - "schall law"
+    solo_titular: true
+
+  ofertas:
+    texto: "ofertas y descuentos"
+    incluir:
+      - discount
+      - discounts
+      - discounted
+      - "best deals"
+      - "best deal"
+      - "deals on"
+      - "deal alert"
+      - "deals:"
+      - "% off"
+      - "price drop"
+      - "sale:"
+      - "on sale"
+      - "save up to"
+      - "flash sale"
+      - "lowest price"
+      - "all-time low"
+      - "black friday"
+      - "cyber monday"
+      - "prime day"
+      - coupon*
+      - "promo code"
+      - descuento*
+      - "en oferta"
+      - "ofertas del dia"
+      - "ofertas de black friday"
+      - "ofertas imperdibles"
+      - "black days"
+      - cupon*
+    solo_titular: true
+    excepto: ["discount rate", "discount window", "discount retailer*", "discount store*", "tasa de descuento", tributari*, "descuento tributario", dian, sancion*, intereses]
+
+  resenas:
+    texto: "reseña de producto"
+    al_inicio: ["review:", "resena:", "hands-on:", "first look:", "probamos"]
+    al_final: ["review roundup", "hands-on", "first look", "resena"]
+    incluir:
+      - "hands-on review"
+      - "review:"
+      - "book review"
+      - "we tested"
+      - "tried and tested"
+      - "best headphones"
+      - "best earbuds"
+      - "best laptops"
+      - "best phones"
+      - "best smartwatch*"
+      - "best tvs"
+      - "buying guide"
+      - "gift guide"
+      - "guia de regalos"
+      - "guia de compras"
+    solo_titular: true
+    excepto: ["imf review", imf, fmi, "peer review", "code review", "under review", "judicial review", "policy review", "strategic review", "year in review", "week in review", "board review"]
+
+  entretenimiento:
+    texto: "entretenimiento"
+    incluir:
+      - "tv shows"
+      - "tv series"
+      - "to stream"
+      - "what to watch"
+      - "shows to watch"
+      - "movies to watch"
+      - "streaming this"
+      - "new on netflix"
+      - "on netflix"
+      - "on hulu"
+      - "on disney+"
+      - "on prime video"
+      - "movies to"
+      - "best movies"
+      - "box office"
+      - trailer
+      - "season finale"
+      - episode
+      - "series de television"
+      - "peliculas para"
+      - "series para"
+      - estreno*
+      - taquilla
+      - telenovela*
+      - novela
+      - concierto*
+      - "video game*"
+      - videojuego*
+      - anime
+    solo_titular: true
+    excepto: [subscriber*, suscriptor*, earnings, ingresos, stock*, market*, mercado*, fed, inflation, inflacion, rates, tasas, acquisition, adquisicion, merger, fusion, "market share", acciones, shares, stock, layoff*, despido*, "antitrust", regulador*, regulator*]
+
+  farandula:
+    texto: "farándula"
+    incluir:
+      - farandula
+      - "reality show"
+      - celebrity
+      - celebrities
+      - celebridad*
+      - famoso
+      - famosa
+      - famosos
+      - horoscopo
+      - horoscope
+      - "signo zodiacal"
+      - "miss universo"
+      - "reina de belleza"
+      - "reinado"
+      - "red carpet"
+      - "alfombra roja"
+    solo_titular: true
+
+  loterias:
+    texto: "loterías"
+    incluir:
+      - loteria*
+      - baloto
+      - "resultados del chance"
+      - "chance de hoy"
+      - "miloto"
+      - "super astro"
+      - "resultados del sorteo"
+      - sorteo*
+      - "lottery"
+      - "powerball"
+      - "mega millions"
+    excepto: ["coljuegos", "industria de juegos", "juegos de suerte y azar"]
+
+  manualidades:
+    texto: "manualidades y hogar"
+    incluir:
+      - "pesebre casero"
+      - pesebre*
+      - manualidad*
+      - "hagalo usted mismo"
+      - "hazlo tu mismo"
+      - diy
+      - "recipe for"
+      - "recipes for"
+      - "recetas de"
+      - "recetas para"
+      - "como decorar"
+      - decoracion
+      - "arbol de navidad"
+      - sourdough
+      - jardineria
+      - mascota*
+    solo_titular: true
+    excepto: ["industria de mascotas", "pet industry", "mercado de mascotas", negocio*, mercado, empresa*, sector]
+
+  deportes:
+    texto: "deportes"
+    incluir:
+      - futbol
+      - gol
+      - goles
+      - golazo
+      - liga
+      - "liga betplay"
+      - "seleccion colombia"
+      - "copa sudamericana"
+      - "copa libertadores"
+      - "copa america"
+      - "copa mundial"
+      - "mundial de futbol"
+      - "mundial 2026"
+      - "champions league"
+      - "partido de futbol"
+      - "junior de barranquilla"
+      - "independiente santa fe"
+      - "world cup"
+      - "premier league"
+      - laliga
+      - nfl
+      - nba
+      - mlb
+      - nhl
+      - ufc
+      - "formula 1"
+      - tenis
+      - tennis
+      - ciclismo
+      - "tour de francia"
+      - beisbol
+      - baseball
+      - boxeo
+      - atletismo
+      - olimpic*
+      - olympic*
+      - goleador
+      - entrenador
+      - "atletico nacional"
+      - millonarios
+      - "america de cali"
+      - "deportivo cali"
+    solo_titular: true
+    excepto:
+      # Negocios del deporte: sí son relevantes
+      - "derechos de transmision"
+      - "derechos de television"
+      - "broadcast rights"
+      - "media rights"
+      - patrocinio*
+      - patrocinador*
+      - sponsorship*
+      - "venta del club"
+      - "compra del club"
+      - valoracion
+      - valuation
+      - ingresos
+      - revenue
+      - acciones
+      - "bolsa de valores"
+      - inversion
+      - inversionista*
+      - investor*
+      - "sociedad anonima deportiva"
+      - estadio
+      - stadium
+      - "apuestas deportivas"
+      - "sports betting"
+      # No es deporte: política o negocios con un personaje del deporte
+      - "secretario de prensa"
+      - "press secretary"
+      - vuelos
+      - aerolinea*
+
+# ─────────────────────────────────────────────────────────────────────────────
+# HISTORIAS: notas distintas sobre la misma historia se agrupan en "También en".
+# Dos notas son la misma historia si se publicaron con menos de `ventana_horas`
+# de diferencia (respecto a la nota más reciente del grupo) y comparten
+# entidades distintivas: nombres propios, empresas, siglas y cifras.
+# ─────────────────────────────────────────────────────────────────────────────
+historias:
+  activo: true
+  ventana_horas: 48
+  # Comparten al menos 2 entidades y 1 palabra clave del hecho (p. ej. Huang + Nvidia + espía)
+  min_entidades: 2
+  # …o al menos 3 entidades, aunque no compartan palabras clave
+  min_entidades_solas: 3
+  # …o 1 entidad y titulares muy parecidos (0 a 100)
+  similitud_titular: 70
+  # Una palabra que aparece en más de este porcentaje de las notas no distingue una historia
+  max_frecuencia: 0.05
+  # Tamaño máximo de un grupo
+  max_grupo: 60
+  # Una historia necesita notas de al menos este número de fuentes distintas
+  min_fuentes: 2
+  # Una palabra con mayúscula solo es nombre propio si sale en minúscula en menos de
+  # este porcentaje de sus apariciones ("Critical", "Files" no lo son)
+  max_minuscula: 0.25
+  # Palabras que una fuente repite en más de este porcentaje de sus notas se ignoran
+  max_por_fuente: 0.2
+  # Entidades demasiado generales: nunca cuentan para unir
+  genericas: [
+    estados, unidos, ee, uu, eeuu, us, usa, america, americano, american, trump, donald, biden,
+    china, chino, chinos, chinese, colombia, colombiano, colombian, gobierno, government, gobiernos,
+    presidente, president, ministro, minister, ceo, cfo, cto, ia, ai, inteligencia, artificial,
+    mexico, brasil, brazil, europa, europe, european, eu, ue, uk, india, rusia, russia, ucrania, ukraine,
+    iran, israel, japon, japan, alemania, germany, francia, france, espana, spain, canada, australia,
+    australian, australians, nz, asia, africa, latinoamerica, latam, america latina,
+    fed, reserva, federal, banco, bank, central, nacional, national, global, mundial, world, internacional,
+    international, nuevo, nueva, new, primer, primera, first, gran, big, top, best, mejor, mejores,
+    millones, million, millions, billion, billones, mil, us$, usd, cop, eur, dolar, dolares, dollar, dollars,
+    2025, 2026, 2027, q1, q2, q3, q4, inc, corp, corporation, ltd, plc, sa, sas, llc, group, grupo,
+    company, compania, empresa, empresas, companies, mercado, mercados, market, markets, sector,
+    enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre,
+    january, february, march, april, may, june, july, august, september, october, november, december,
+    lunes, martes, miercoles, jueves, viernes, sabado, domingo,
+    monday, tuesday, wednesday, thursday, friday, saturday, sunday,
+    news, noticias, report, reports, informe, update, live, daily, weekly, ot, it, security, seguridad,
+    announces, anuncia, launches, lanza, says, dice, according, segun, how, why, what, que, por, como,
+    # nombres de dos palabras que, separados, contarían dos veces
+    wall, street, york, white, house, casa, blanca, silicon, valley, hong, kong, united, states, kingdom,
+    reino, unido, union, europea, latina, sur, south, north, norte, east, west, middle, medio, oriente
+  ]
+  # En una historia de 3 o más notas, también se une una nota que comparte 1 entidad y
+  # al menos este número de palabras clave del hecho
+  min_claves_con_una_entidad: 2
+  # Equivalencias entre idiomas: cada lista cuenta como una sola palabra
+  equivalencias:
+    - [espia, espias, spy, spies, espionaje, espionage]
+    - [infidelidad, affair, amante, mistress, extramarital]
+    - [escandalo, scandal]
+    - [divorcio, divorce]
+    - [despido, despidos, layoff, layoffs, recortes, recorta, recortara, cuts]
+    - [arancel, aranceles, tariff, tariffs]
+    - [adquisicion, adquiere, acquisition, acquire, acquires, compra, buys]
+    - [fusion, merger]
+    - [demanda, lawsuit, sues, demandas]
+    - [huelga, strike]
+    - [quiebra, bankruptcy]
+    - [hackeo, hackers, hack, hacks, ciberataque, cyberattack, breach]
+    - [elecciones, election, elections, midterm, midterms]
+    - [refrigeracion, refrigeration, freezer, freezers, congelador, congeladores, nevera]
+    - [inflacion, inflation]
+    - [petroleo, oil, crudo]
+    - [resultados, results, earnings, ganancias]
+    - [investigacion, investigation, probe]
+
 colombia:
   # Señales de que la nota trata de Colombia
   contexto:
@@ -305,7 +655,8 @@ colombia:
     - "impuesto saludable"
     - "confianza empresarial"
     - "confianza del consumidor"
-  excluir: [futbol, gol, liga, "seleccion colombia", "copa sudamericana", "copa libertadores", mundial, farandula, horoscopo, novela, reality]
+  # Deportes, farándula y similares ya no se excluyen aquí: los oculta `relevancia` (arriba)
+  excluir: []
 
 internacional:
   incluir:
@@ -353,7 +704,7 @@ internacional:
     - merger*
     - acquisition*
     - gdp
-  excluir: [nfl, nba, celebrity, "best deals", horoscope, futbol, recipe]
+  excluir: []
 
 tecnologia:
   incluir:

@@ -1,5 +1,5 @@
 {% macro nota(n, raiz, compacta=false) %}
-<article class="nota{% if n.grupo == 'fija' %} nota-fija{% endif %}"
+<article class="nota{% if n.grupo == 'fija' %} nota-fija{% endif %}{% if n.oculta %} nota-oculta{% endif %}"{% if n.oculta %} data-oculta="{{ n.oculta }}" hidden{% endif %}
   data-temas="{{ n.tematicas | join(' ') }}" data-fuente="{{ n.fuente_id }}"
   data-tipo="{{ n.tipo }}" data-grupo="{{ n.grupo }}" data-dia="{{ n.local.strftime('%Y-%m-%d') }}"
   data-texto="{{ (n.titular ~ ' ' ~ (n.bajada or '')) | lower }}">
@@ -15,13 +15,25 @@
   {% if n.bajada and not compacta %}<p class="nota-bajada">{{ n.bajada }}</p>{% endif %}
   {% if not compacta %}
   <p class="nota-etiquetas">
+    {% if n.oculta %}<span class="marca marca-oculta" title="Oculta por el filtro de relevancia (palabras-clave.yaml)">Oculta: {{ n.oculta_txt }}</span>{% endif %}
     {% for m, texto, expl in n.marcas_txt %}<span class="marca marca-{{ m }}" title="{{ expl }}">{{ texto }}</span>{% endfor %}
     {% for t, nombre in n.temas_txt %}<a class="tema" href="{{ raiz }}tematica/{{ t }}/">{{ nombre | replace(': negocios, economía y energía', '') }}</a>{% endfor %}
   </p>
   {% if n.tambien_en %}
+  {% set historia = n.tambien_en | selectattr('historia') | list %}
+  {% if not historia %}
   <p class="nota-tambien">También en:
     {% for o in n.tambien_en %}<a href="{{ o.enlace }}" target="_blank" rel="noopener">{{ nombres_fuentes.get(o.fuente_id, o.fuente_id) }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
   </p>
+  {% else %}
+  {% set fuentes_historia = n.tambien_en | map(attribute='fuente_id') | unique | list %}
+  <details class="nota-tambien nota-historia"{% if n.tambien_por_titular | length <= 4 %} open{% endif %}>
+    <summary>También en {{ fuentes_historia | length }} {{ 'fuente' if fuentes_historia | length == 1 else 'fuentes' }} · {{ n.tambien_en | length }} {{ 'nota' if n.tambien_en | length == 1 else 'notas' }} sobre esta historia</summary>
+    <ul>
+      {% for l in n.tambien_por_titular %}<li><a href="{{ l.enlace }}" target="_blank" rel="noopener">{{ l.titular }}</a> <span class="tambien-fuente">— {% for nombre, enlace in l.fuentes %}<a href="{{ enlace }}" target="_blank" rel="noopener">{{ nombre }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</span></li>{% endfor %}
+    </ul>
+  </details>
+  {% endif %}
   {% endif %}
   {% else %}
     {% if n.marcas_txt %}<p class="nota-etiquetas">{% for m, texto, expl in n.marcas_txt %}<span class="marca marca-{{ m }}" title="{{ expl }}">{{ texto }}</span>{% endfor %}</p>{% endif %}

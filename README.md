@@ -18,6 +18,8 @@ Colombia (negocios, economía y energía) · Internacional y mercados · Tecnolo
   - Colombia solo si la nota trata de Colombia; las notas internacionales de medios colombianos van a Internacional y mercados.
   - Ciberseguridad OT entra desde cualquier fuente si la nota trata de sistemas de control o físicos.
   - Se descartan las entradas que no son noticias (páginas de sección, paginación y portadas).
+  - Se ocultan, sin borrarlas, las notas que no corresponden a las temáticas (sección `relevancia`): se ven con «Mostrar descartadas».
+- **Historias.** Notas distintas sobre la misma historia en 48 horas se agrupan en «También en», con una nota principal (sección `historias` de `palabras-clave.yaml`).
 - **Duplicados.** Si la misma nota sale en varios sitios (por ejemplo, en la red TechDay), se muestra una sola versión, con «También en».
 - **Marcas.** Junto a cada nota aparece su marca: muro de pago, proveedor, comunicado de empresa, activista, posible patrocinio, etc.
 - **Fuentes que fallan.** Si una fuente no responde, el sitio se actualiza igual con las demás. El error queda en `datos/registro/` y en la página *Fuentes y método*.

@@ -48,6 +48,7 @@
       <input type="search" name="q" placeholder="Palabra del titular" autocomplete="off">
     </label>
     <label class="casilla"><input type="checkbox" name="fijas" value="1"> Solo fuentes fijas</label>
+    {% if ocultas %}<label class="casilla" title="Entretenimiento, reseñas, ofertas, loterías, manualidades, farándula, deportes y comunicados de bufetes (reglas en palabras-clave.yaml)"><input type="checkbox" name="descartadas" value="1"> Mostrar descartadas ({{ ocultas }})</label>{% endif %}
     <p class="filtros-resumen"><span id="conteo">{{ total }}</span> noticias
       <button type="button" id="limpiar" class="enlace-boton" hidden>Quitar filtros</button>
       <button type="button" id="compartir" class="enlace-boton">Copiar enlace de esta vista</button>

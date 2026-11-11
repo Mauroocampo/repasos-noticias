@@ -14,7 +14,7 @@ import re
 import unicodedata
 
 # Claves de palabras-clave.yaml que no son temáticas
-RESERVADAS = {"ajustes", "no_noticias"}
+RESERVADAS = {"ajustes", "no_noticias", "relevancia", "historias"}
 
 
 def normalizar(texto: str) -> str:
