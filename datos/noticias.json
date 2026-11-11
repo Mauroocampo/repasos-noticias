@@ -1,6 +1,236 @@
 {
- "actualizado": "2026-11-11T14:06:36+00:00",
+ "actualizado": "2026-11-11T14:21:33+00:00",
  "notas": [
+  {
+   "id": "61bce2858435bc",
+   "fuente_id": "la-republica",
+   "titular": "Grupo Éxito, Nutresa y Claro lideran el ranking de facturación con corte a septiembre",
+   "bajada": "Los resultados financieros muestran diferencias en el desempeño de las compañías de sectores como comercio, alimentos, telecomunicaciones y energía",
+   "enlace": "https://www.larepublica.co/empresas/las-empresas-que-lideran-el-ranking-de-resultados-empresariales-2026-4522313",
+   "fecha": "2026-11-11T14:20:24+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "fd0bef9b9951ab",
+   "fuente_id": "cnbc",
+   "titular": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+   "bajada": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+   "enlace": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "fecha": "2026-11-11T14:16:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "f4dce453164889",
+   "fuente_id": "wsj",
+   "titular": "U.S. Natural Gas Futures Continue to Climb",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_markets_main",
+   "fecha": "2026-11-11T14:15:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "5dde1764905e63",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: Exasol Q3 2026 profit rises as churn clouds outlook",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-exasol-q3-2026-profit-rises-as-churn-clouds-outlook-93CH-5019145",
+   "fecha": "2026-11-11T14:14:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "9f41154727534b",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: Riskified tops Q3 2026 revenue forecast, shares jump",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-riskified-tops-q3-2026-revenue-forecast-shares-jump-93CH-5019144",
+   "fecha": "2026-11-11T14:13:59+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "478b9464418d50",
+   "fuente_id": "abc-economia",
+   "titular": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
+   "bajada": "La primera huelga general en 14 años ha arrancado durante la madrugada de este miércoles con piquetes informativos en las principales áreas industriales del país, cortes en las carreteras de acceso a las grandes capitales a primera hora de la mañana y algunos incidentes que han…",
+   "enlace": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
+   "fecha": "2026-11-11T14:13:58+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "a9b17bdc742f54",
+   "fuente_id": "cnbc",
+   "titular": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+   "bajada": "President Zelenskyy warned Tuesday that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks got underway.",
+   "enlace": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+   "fecha": "2026-11-11T14:13:40+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "13e8d9eae738d1",
+   "fuente_id": "cnbc",
+   "titular": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+   "bajada": "CoreWeave lifts the AI trade, and my advice to Nvidia.",
+   "enlace": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "fecha": "2026-11-11T14:13:25+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "d1395402f1c44f",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: D-BOX posts record Q2 recurring revenue in FY2027",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-dbox-posts-record-q2-recurring-revenue-in-fy2027-93CH-5019143",
+   "fecha": "2026-11-11T14:13:25+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "55a066536fa757",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: Kruger Products posts q3 2026 revenue beat",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-kruger-products-posts-q3-2026-revenue-beat-93CH-5019142",
+   "fecha": "2026-11-11T14:13:22+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "1313861655c362",
+   "fuente_id": "wsj",
+   "titular": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+   "fecha": "2026-11-11T14:13:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
+   "id": "370b72be59f0c1",
+   "fuente_id": "investing-com",
+   "titular": "FlexGen to integrate MN8’s 86MW solar project in West Virginia",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/flexgen-to-integrate-mn8s-86mw-solar-project-in-west-virginia-93CH-5019140",
+   "fecha": "2026-11-11T14:12:46+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "fcc06d66154c29",
+   "fuente_id": "investing-com",
+   "titular": "Supermicro ships H15 servers with AMD’s 6th gen EPYC processors",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/supermicro-ships-h15-servers-with-amds-6th-gen-epyc-processors-93CH-5019138",
+   "fecha": "2026-11-11T14:12:45+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "bdcfb4cbe9b874",
+   "fuente_id": "investing-com",
+   "titular": "Critical Metals completes European Lithium acquisition",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/critical-metals-completes-european-lithium-acquisition-93CH-5019139",
+   "fecha": "2026-11-11T14:12:45+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "f216976bbd0ecb",
+   "fuente_id": "investing-com",
+   "titular": "JAKKS Pacific partners with Skybound for Invincible toys",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/jakks-pacific-partners-with-skybound-for-invincible-toys-93CH-5019137",
+   "fecha": "2026-11-11T14:12:44+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "3b18279dda91f1",
+   "fuente_id": "el-heraldo",
+   "titular": "De la Espriella revoca designación de Camilo Noguera como director del ICANH: “Nadie está por encima de las reglas”",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/11/de-la-espriella-revoca-designacion-de-camilo-noguera-como-director-del-icanh-nadie-esta-por-encima-de-las-reglas/",
+   "fecha": "2026-11-11T14:12:39+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "33d86874135445",
+   "fuente_id": "investing-com",
+   "titular": "After US market shake-out, signs suggest too soon to say worst is over",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/economy-news/after-us-market-shakeout-signs-suggest-too-soon-to-say-worst-is-over-5018331",
+   "fecha": "2026-11-11T14:12:32+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "fb092a09a6d1d7",
+   "fuente_id": "investing-com",
+   "titular": "Thomson Reuters unveils $500 million share buyback plan",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/thomson-reuters-unveils-500-million-share-buyback-plan-5018791",
+   "fecha": "2026-11-11T14:12:21+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "6d4946e95924e9",
+   "fuente_id": "cnbc",
+   "titular": "Measles is surging in the U.S. — and outbreaks can cost millions",
+   "bajada": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
+   "enlace": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+   "fecha": "2026-11-11T14:10:19+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "d2da19719ec2df",
+   "fuente_id": "unite-ai",
+   "titular": "Hitachi Vantara Adds In-Place Lakehouse Queries to VSP One Object",
+   "bajada": "Hitachi Vantara announced on November 11, 2026 that VSP One Object can query supported open-format data directly on the storage platform, with a four-node starting configuration intended to simplify deployment. The update also adds governance features to Hitachi iQ Studio for…",
+   "enlace": "https://www.unite.ai/hitachi-vantara-adds-in-place-lakehouse-queries-to-vsp-one-object/",
+   "fecha": "2026-11-11T14:09:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "f15fc19c910274",
+   "fuente_id": "portafolio",
+   "titular": "Desempleo en Colombia cae a 9,5% y registra la mayor baja entre los países de la Ocde",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/economia/desempleo-en-colombia-cae-a-9-5-y-registra-la-mayor-baja-entre-los-paises-de-la-ocde-506129",
+   "fecha": "2026-11-11T14:08:32+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "dad65c12b0784d",
+   "fuente_id": "unite-ai",
+   "titular": "ChatGPT Users Can Compare Home and Auto Quotes Through VIU by HUB",
+   "bajada": "VIU by HUB, the digital insurance brokerage backed by HUB International, launched its Personal Insurance plugin in ChatGPT on November 11, 2026. The tool lets consumers in 48 states compare home and auto insurance quotes, with a licensed advisor following up to finalize and bind…",
+   "enlace": "https://www.unite.ai/chatgpt-users-can-compare-home-and-auto-quotes-through-viu-by-hub/",
+   "fecha": "2026-11-11T14:04:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
+   "id": "1cd19c3223b5fd",
+   "fuente_id": "portafolio",
+   "titular": "Operadores aumentaron hasta 97% el bloqueo de líneas telefónicas en las cárceles",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/economia/gobierno/operadores-aumentaron-hasta-97-el-bloqueo-de-lineas-telefonicas-en-las-carceles-506127",
+   "fecha": "2026-11-11T14:01:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
   {
    "id": "0ccfb511c0c877",
    "fuente_id": "techcrunch",
@@ -32,6 +262,26 @@
    "primera_vista": "2026-11-11T14:06:36+00:00"
   },
   {
+   "id": "8039b104ba7381",
+   "fuente_id": "abc-economia",
+   "titular": "El efecto de la huelga general del 11N, medido por el consumo eléctrico",
+   "bajada": "El consumo eléctrico es un indicador que tradicionalmente se utiliza para evaluar el seguimiento real de las huelgas generales. Así una mayor caída del consumo se relaciona con un mayor seguimiento, provocado por los paros en la producción. En la jornada de hoy el mayor desfase…",
+   "enlace": "https://www.abc.es/economia/demanda-electrica-registra-caida-maxima-huelga-20261111125107-nt.html",
+   "fecha": "2026-11-11T13:58:44+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "4c88bc1c66a89d",
+   "fuente_id": "securityweek",
+   "titular": "Asus, Zoom Release Security Patches",
+   "bajada": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
+   "enlace": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+   "fecha": "2026-11-11T13:58:38+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
    "id": "7fdc2229aa0e38",
    "fuente_id": "bbc-mundo",
    "titular": "Animales invisibles y cartones de leche parlanchines: cómo los amigos imaginarios pueden potenciar nuestra mente",
@@ -60,6 +310,16 @@
    "fecha": "2026-11-11T13:54:41+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T14:03:43+00:00"
+  },
+  {
+   "id": "e3ca702cb78ae8",
+   "fuente_id": "yahoo-finance",
+   "titular": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWdSbHUwUHp3b2d6LXhNcWR5NGpEeC1Nd2hsN2pUNHl3aVRrR09oSFhYdGQyNFVSdXVxZkZadDA1TTNwcV9ycF9jUlRJcnpSaUFnenIwdzlpM1g1V0lERE1ScEIwalZZb1JrYXVvVXZySUJyRmZXMmZWYmE5TlFUR2hmcy1Id20ydlB0dElabUtPU0l2WGI1dHZqNExXSmNZSEJCUmZhdnk2SklpeUlENWdwanVtZGFIdndGVXBQSUQ3V0dLbW5JZlktYWRSWlp3RVVnM3R2UlNuUTBqbG5kc0lnZzJpWmJaNFlITExJLVpkM1ZKUTQ4bWU4ekl4eVhod3h5Q0pUUmhobGZHRG05MUFoVU15OG5IUG9Xaw?oc=5",
+   "fecha": "2026-11-11T13:54:39+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
   },
   {
    "id": "b38e32be70521d",
@@ -182,12 +442,12 @@
    "primera_vista": "2026-11-11T14:03:43+00:00"
   },
   {
-   "id": "fd0bef9b9951ab",
-   "fuente_id": "cnbc",
-   "titular": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-   "bajada": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-   "enlace": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-   "fecha": "2026-11-11T13:50:31+00:00",
+   "id": "fddcb081101cfd",
+   "fuente_id": "abc-economia",
+   "titular": "Gonzalo Bernardos, economista: «Los sindicatos han convocado la huelga general en España, pero cuando ellos han negociado los sueldos se ha perdido el 2,9% de poder adquisitivo»",
+   "bajada": "España ha amanecido este miércoles, 11 de noviembre, con cortes de carreteras, piquetes, enfrentamientos con la Policía y miles de trabajadores ausentándose de sus puestos para secundar la huelga general de 24 horas convocada por UGT y CCOO .Los sindicatos aseguran que el…",
+   "enlace": "https://www.abc.es/economia/gonzalo-bernardos-economista-sindicatos-convocado-huelga-general-20261111125406-nt.html",
+   "fecha": "2026-11-11T13:51:12+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
@@ -282,16 +542,6 @@
    "primera_vista": "2026-11-11T14:03:43+00:00"
   },
   {
-   "id": "8039b104ba7381",
-   "fuente_id": "abc-economia",
-   "titular": "El efecto de la huelga general del 11N, medido por el consumo eléctrico",
-   "bajada": "El consumo eléctrico es un indicador que tradicionalmente se utiliza para evaluar el seguimiento real de las huelgas generales. Así una mayor caída del consumo se relaciona con un mayor seguimiento, provocado por los paros en la producción. En la jornada de hoy el mayor desfase…",
-   "enlace": "https://www.abc.es/economia/demanda-electrica-registra-caida-maxima-huelga-20261111125107-nt.html",
-   "fecha": "2026-11-11T13:44:26+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "c8ffed874fdfbe",
    "fuente_id": "unite-ai",
    "titular": "ABB Robotics Supplies 1,700+ Robots for BMW’s Neue Klasse Production",
@@ -340,16 +590,6 @@
    "fecha": "2026-11-11T13:42:03+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T14:03:43+00:00"
-  },
-  {
-   "id": "478b9464418d50",
-   "fuente_id": "abc-economia",
-   "titular": "La primera huelga general en 14 años se estrena con más piquetes que seguimiento",
-   "bajada": "La primera huelga general en 14 años ha arrancado durante la madrugada de este miércoles con piquetes informativos en las principales áreas industriales del país, cortes en las carreteras de acceso a las grandes capitales a primera hora de la mañana y algunos incidentes que han…",
-   "enlace": "https://www.abc.es/economia/cortes-carreteras-incidentes-primeras-horas-huelga-afectacion-20261111120911-nt.html",
-   "fecha": "2026-11-11T13:41:10+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
    "id": "bc3cbacb21403c",
@@ -440,6 +680,16 @@
    "fecha": "2026-11-11T13:30:09+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T14:03:43+00:00"
+  },
+  {
+   "id": "bf416b9760fba6",
+   "fuente_id": "business-wire",
+   "titular": "Tempus to Present Six Abstracts Accepted at the 2026 Connective Tissue Oncology Society Annual Meeting",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZlpES2xla3JTdEgxTzhwT043bm5WR1JXaHZSeFBQeUJmeXJ4MXQtUlJXMnBqMlVfODkyaGQybGQxSXJHSnFtbVczUThUeURLYmlxcEJBTnJDdXJBUXJ2bnU4YnVpNmQ0eVY0dG0tbVFhdk1wY19hc2JlQ3N4TnpCcTBXM0Y3N0xiUmo1TVJtNzhRRmdPanhuRkRoZkUxRlFEdXo0R3BpUzA0blhUcGZuOXFWdWxadXBCbmRWSXNGVkFaVDRDUmw0dVpMUzNjWkxNSjBMUC1BZno1dWtZeURUb1o3d0NTSEJZX3BIRHVNWjI?oc=5",
+   "fecha": "2026-11-11T13:30:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
   },
   {
    "id": "4a30111124c070",
@@ -1132,16 +1382,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "a9b17bdc742f54",
-   "fuente_id": "cnbc",
-   "titular": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-   "bajada": "President Zelenskyy warned Tuesday that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks got underway.",
-   "enlace": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-   "fecha": "2026-11-11T12:12:48+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "47415c49529e58",
    "fuente_id": "wsj",
    "titular": "Leadership Lessons From EY’s Former CEO",
@@ -1302,16 +1542,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "6d4946e95924e9",
-   "fuente_id": "cnbc",
-   "titular": "Measles is surging in the U.S. — and outbreaks can cost millions",
-   "bajada": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
-   "enlace": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-   "fecha": "2026-11-11T12:00:01+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "8093ffbfe80e70",
    "fuente_id": "wired",
    "titular": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
@@ -1378,16 +1608,6 @@
    "bajada": "",
    "enlace": "https://www.wsj.com/logistics-report/russian-diesel-plan-founders-as-u-s-bound-tankers-change-course-4d4dc8b9?mod=pls_whats_news_us_business_f",
    "fecha": "2026-11-11T11:55:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "fddcb081101cfd",
-   "fuente_id": "abc-economia",
-   "titular": "Gonzalo Bernardos, economista: «Los sindicatos han convocado la huelga general, pero cuando ellos han negociado los sueldos se ha perdido el 2,9% de poder adquisitivo»",
-   "bajada": "España ha amanecido este miércoles, 11 de noviembre, con cortes de carreteras, piquetes, enfrentamientos con la Policía y miles de trabajadores ausentándose de sus puestos para secundar la huelga general de 24 horas convocada por UGT y CCOO .Los sindicatos aseguran que el…",
-   "enlace": "https://www.abc.es/economia/gonzalo-bernardos-economista-sindicatos-convocado-huelga-general-20261111125406-nt.html",
-   "fecha": "2026-11-11T11:54:06+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
@@ -1952,16 +2172,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "f4dce453164889",
-   "fuente_id": "wsj",
-   "titular": "European TTF Gas Rises as Storage Withdrawals Accelerate",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_markets_main",
-   "fecha": "2026-11-11T10:54:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "a487a0a47376f3",
    "fuente_id": "wsj",
    "titular": "European TTF Gas Rises as Storage Withdrawals Accelerate",
@@ -2200,6 +2410,16 @@
    "fecha": "2026-11-11T10:19:02+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "4cfcdcb52d1155",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
+   "fecha": "2026-11-11T10:17:14+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "e2a02c3baccd8d",
@@ -2642,26 +2862,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "d9e172a18d3bbb",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZmVqOFk3SlhPb0tnU2xDbGRLY29yY0VlMGI2TE8tbENVZUlsQ1l3SGFYWG5qREpIenloaVlmUEFmQUpaVWc?oc=5",
-   "fecha": "2026-11-11T08:40:50+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-09T13:10:03+00:00"
-  },
-  {
-   "id": "2db4d37f6071f9",
-   "fuente_id": "unicef",
-   "titular": "Driver/Messenger (G-2), FT, #137735, Havana – Cuba, LACR",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjktdTY2dmtpLTVsTjF0R09HUGgxRDFhUkctMXE2aldnRUVyZ1h0RXFCbWkyRnQ5dFZxSm84aWZFc09fSUZjX0xxZmNjSnQ4ME10aTRDM2F2SFplQjl1Y2N6QnpGdU5rQ0VsRUE2SHNCRU1RRHMyWkpwZzMzTUROdjJrd1JrUy1D?oc=5",
-   "fecha": "2026-11-11T08:30:34+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "feff30dda79fd8",
    "fuente_id": "it-brief",
    "titular": "AlgoSec wins AWS infrastructure protection security badge",
@@ -2900,16 +3100,6 @@
    "fecha": "2026-11-11T07:30:51+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "cb4a0ef927c145",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5WDlUUUMzM1RfWTcyRjNOdmtkWkx5UEhqa0l3Zlp1aFN6b1UtbzBfV3Y1cjNRbU0zdWNNSG9mM05manR5U1E?oc=5",
-   "fecha": "2026-11-11T07:30:06+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "56ff8a6cf9b186",
@@ -4175,7 +4365,7 @@
    "id": "d1d23cc021ea69",
    "fuente_id": "oms",
    "titular": "Untitled",
-   "bajada": "Untitled World Health Organization (WHO)",
+   "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRXNwQ1g2OXRFXzlZa1JkaE8zSTV6Uktxbmt4T1FRSmFWQS1acnhiVlBrQk10Wl9JQ25XTFBFdXJlNTRqWTF0NkdIcXhuYTc1eTNtdnUtUE0yNTQxalh3SlJiRWNHcXFmd0ZmalR2RERoei1MaTZZWkFaZWlZTkxSTWlpZw?oc=5",
    "fecha": "2026-11-11T03:52:24+00:00",
    "via": "google_news",
@@ -4829,6 +5019,16 @@
    "enlace": "https://www.wsj.com/business/energy-oil/masayoshi-sons-huge-bet-on-electrical-turbines-backfires-b51f160c?mod=pls_whats_news_us_business_f",
    "fecha": "2026-11-11T01:00:00+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "2db4d37f6071f9",
+   "fuente_id": "unicef",
+   "titular": "Driver/Messenger (G-2), FT, #137735, Havana – Cuba, LACR",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjktdTY2dmtpLTVsTjF0R09HUGgxRDFhUkctMXE2aldnRUVyZ1h0RXFCbWkyRnQ5dFZxSm84aWZFc09fSUZjX0xxZmNjSnQ4ME10aTRDM2F2SFplQjl1Y2N6QnpGdU5rQ0VsRUE2SHNCRU1RRHMyWkpwZzMzTUROdjJrd1JrUy1D?oc=5",
+   "fecha": "2026-11-11T00:58:01+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
@@ -5800,6 +6000,16 @@
    "fecha": "2026-11-10T21:45:45+00:00",
    "via": "rss",
    "primera_vista": "2026-11-11T13:22:39+00:00"
+  },
+  {
+   "id": "d1cbaa73ae1409",
+   "fuente_id": "business-wire",
+   "titular": "Hyliion Holdings Reports Third-Quarter 2026 Financial Results",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm5DeWhnUzVWUWtGeGVDblVUbGU2OUhkNnpRcDdkaU5MZE9rVkpfbHJMSXluNFFpano3TWdidUNTSVVqMTRiNXJScVRaUDhTeWt4SGhEMllrRUE1UnRPYXhpVjVBREg4b0pRcGFLVEZUWWR6UjhvTzVGMnQxYW1kVHJWcWhvZUF6eXVHcUhKOE9XS0tNSW15U2xkY0dwWkJYNkZ4ZUhvY3N2OTd1ZVcycGo4eDFPYWpkOWc?oc=5",
+   "fecha": "2026-11-10T21:45:43+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
   },
   {
    "id": "c180deda3fd942",
@@ -8522,6 +8732,16 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
+   "id": "b6979ee1656e8c",
+   "fuente_id": "yahoo-finance",
+   "titular": "CoreWeave, Inc. (CRWV) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zWXliMnRkQ2VveXdTSW1lT09VeHFVZGFZQk11bWNtOG94aEdGX05zVVd0bkRfdkNTU0lWRlhRTUlzakFZZFFyZTFoei1adw?oc=5",
+   "fecha": "2026-11-10T16:46:48+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
    "id": "6e1ee7d852aa30",
    "fuente_id": "thehackerwire",
    "titular": "CVE-2026-125757: mailcow: dockerized SSTI Enables rspamd Container Command Execution and Mail Manipulation",
@@ -10500,16 +10720,6 @@
    "fecha": "2026-11-10T14:00:13+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "1313861655c362",
-   "fuente_id": "wsj",
-   "titular": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-   "fecha": "2026-11-10T14:00:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "3ade5778b29411",
@@ -12942,6 +13152,16 @@
    "primera_vista": "2026-11-10T13:27:10+00:00"
   },
   {
+   "id": "cb4a0ef927c145",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5WDlUUUMzM1RfWTcyRjNOdmtkWkx5UEhqa0l3Zlp1aFN6b1UtbzBfV3Y1cjNRbU0zdWNNSG9mM05manR5U1E?oc=5",
+   "fecha": "2026-11-10T10:25:42+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "f38c757c26e761",
    "fuente_id": "cnbc",
    "titular": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
@@ -13530,16 +13750,6 @@
    "fecha": "2026-11-10T08:38:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-10T13:27:10+00:00"
-  },
-  {
-   "id": "4cfcdcb52d1155",
-   "fuente_id": "uicn",
-   "titular": "- International Union for Conservation of Nature",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15OUVYZ3ctd2laVkZnQjctSUxvTUozVDhqTm90YThxUVduOWdJX3AtM2tpajdYYlppSjZfalpUZzdDN3I5OUFXdnpPUVFhbms?oc=5",
-   "fecha": "2026-11-10T08:33:01+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "76b04b25935f1e",
@@ -16822,6 +17032,16 @@
    "primera_vista": "2026-11-10T13:27:10+00:00"
   },
   {
+   "id": "c64405e6311ad9",
+   "fuente_id": "marklines",
+   "titular": "[Gen-AI Analysis] Tesla adding extra shift at Gigafactory Texas as Cybertruck story evolves",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkVi1FWV9uNURVSXRqWTZMUkVDSWtPTkNHR043bTdmNjVzNjRWRDVUSl9xYURCMlZQRlpPNU04emV6TDVjM0pVdUVyT09aRER3cHc?oc=5",
+   "fecha": "2026-11-09T22:01:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
    "id": "76fdf5e52119a1",
    "fuente_id": "el-heraldo",
    "titular": "¿Junior vs. Real Madrid en el ‘Supermetro’?: esto dijo el Mincomercio sobre su propuesta al equipo español",
@@ -17260,6 +17480,16 @@
    "fecha": "2026-11-09T21:15:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-09T21:16:06+00:00"
+  },
+  {
+   "id": "871a951fb0ee50",
+   "fuente_id": "business-wire",
+   "titular": "Xylem Completes Acquisition of Cornell Pump and Roper Pump",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGxucWhYLXRlTWE4SGsxZ2J5YXVXVDVkcmtGZGlRRTNMWjJnWXRmcmc1NEY3WGQ1aldqTDJFNElNTlV5bUpTdnNwV0hFTkV1SGE0dXlBd09ZaFhMNVVjSVN6Q3dJTjdkd0lnWUFOZU51NjdzZWNmbmpyVjE4dllMRmVBR1N6OWdKSkpMUU9xOGYwU09VR081c3JxYjg1UWYwRy1jRkhTUWlqdFlacjFlM2dNTTQxdw?oc=5",
+   "fecha": "2026-11-09T21:15:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
   },
   {
    "id": "b2ab9e941c69a7",
@@ -21710,6 +21940,16 @@
    "fecha": "2026-11-09T13:49:00+00:00",
    "via": "rss",
    "primera_vista": "2026-11-09T13:10:03+00:00"
+  },
+  {
+   "id": "30a0881d9bec7e",
+   "fuente_id": "el-universal",
+   "titular": "Caso ‘Ueno Bank’: la propiedad de Santiago Peña que ahora interesa a la Fiscalía",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWRyOEVNZkdURDZ6bEVkWlRtUE03dVJMM1c4UXA5YkRrbzgyWXVtNnk4VEpiNEx6dFRjNmN0QXlZNEhSbXhQNDdUWkNDOWRscFNCdkQ4LW1sM1BKRzhkNGJlbC1xbEN3VnFGV29lbmhLU2ZLNmtKRFZNVU9pMXQtLTNNcTh1anJ1SnhuN1pwaGtaTkw3MUVTWHQtbFcyc0Q0b2JFM19EcEVsVDBHMENzbEk2N1ZvQmc5R1oxYUUwel9FRVFD?oc=5",
+   "fecha": "2026-11-09T13:49:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
   },
   {
    "id": "206c7bbf4a5693",
@@ -29622,6 +29862,16 @@
    "primera_vista": "2026-11-08T12:17:31+00:00"
   },
   {
+   "id": "44a5690415ae81",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXSjk5bjJmX1hNTjRqUVBOUERFckQ2MXdieks4S0xMOVdVUGFEUldlbXJMazBTVUhHcldISHJZYjdOaU1QMlhLX0JQSU8xdXdnbDVNWVBQV3BvWFU?oc=5",
+   "fecha": "2026-11-08T08:56:12+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-11T14:21:33+00:00"
+  },
+  {
    "id": "c82cfaca3c3c38",
    "fuente_id": "the-manufacturer",
    "titular": "SupplyChain - Page 69 of 78 - The Manufacturer",
@@ -29630,6 +29880,16 @@
    "fecha": "2026-11-08T08:51:20+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-08T16:53:53+00:00"
+  },
+  {
+   "id": "d9e172a18d3bbb",
+   "fuente_id": "uicn",
+   "titular": "- International Union for Conservation of Nature",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZmVqOFk3SlhPb0tnU2xDbGRLY29yY0VlMGI2TE8tbENVZUlsQ1l3SGFYWG5qREpIenloaVlmUEFmQUpaVWc?oc=5",
+   "fecha": "2026-11-08T08:38:27+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-09T13:10:03+00:00"
   },
   {
    "id": "5851dbe2eed6ff",
@@ -41075,7 +41335,7 @@
    "id": "7d7c2669218988",
    "fuente_id": "uicn",
    "titular": "25971_otec.pdf - IUCN Portals",
-   "bajada": "25971_otec.pdf - IUCN Portals International Union for Conservation of Nature",
+   "bajada": "",
    "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kTDUyTnBjTGM1NkhlV0ZOUEkwcWREVDhyOXkxV0tDR3JjRndjWjUzTWwwVTRPaEVZUld5UmY4dVFNdFNLNHRxV3Q3SHZieGRuVHF2VFVIT3NvaUtBaDd0dTEwZElKbW1aSzlkWGN5ZXVtTVhoLUE?oc=5",
    "fecha": "2026-11-06T14:23:15+00:00",
    "via": "google_news",
@@ -56890,56 +57150,6 @@
    "fecha": "2026-11-04T14:25:16+00:00",
    "via": "rss",
    "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "826d3693363372",
-   "fuente_id": "business-wire",
-   "titular": "Together AI Launches Together Compiler for Continual Optimization of Open Source AI Models",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRlR6eVJpVFQ2LW5uaW05QTNhNkhZVlN2NHdTMG5qMGRIb1QxRlhjb3dEbG42dmtRaEFSLTc5OWRGclBkT01lSGo4X09QYU9vYnVFdHQ5YzlELUpsMjFPdDhpSjFhS0VfTFYydjdLd1VwSHFZMXFJeHRQS2JSRjdQNUhSTmVGc2lteVBnOHd4VEFCbUp1ZUIybzBVdEFob25nRjFVZk4zX2dIbHQwOXZ0Qi0wOUxuRFJsLWhqTnJVS3MwajVyMExWSEQyUVFhTUwzT1Q4TWZFOHFBS0hMTG1VcA?oc=5",
-   "fecha": "2026-11-04T14:19:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "4c25b0647c6237",
-   "fuente_id": "viakoo",
-   "titular": "Daily OT Security News: November 04, 2026",
-   "bajada": "Daily OT Security News: November 04, 2026 Five source-verified developments and their operational implications. 1. CISA flags authorization and SQL-injection flaws in Subnet Solutions PowerSYSTEM Center Source date: 2026-11-03 News briefing CISA's advisory ICSA-26-307-01…",
-   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-04-2026/",
-   "fecha": "2026-11-04T14:15:15+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-06T14:29:07+00:00"
-  },
-  {
-   "id": "bd61e48b6c3059",
-   "fuente_id": "business-wire",
-   "titular": "Gilead and Kite Advance Leadership With New Data Across Pipeline and Portfolio at ASH 2026",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcTZJeldPNVdkX1hKTlVSNktEVV85czZsWV9Cd01VUjVQTFpwZndKZXgyNDRIU0hhSFZvUm9ULThaTHl0LVlTYzl4S1k3d1lKaW43Wm1oNGoyLXNMb3RSYTJXV3FiSVdmYWVSdWRnb0QzZmRCR1ptdUdPNURoaXoyU3dROVJLM2xaT1BuaTJWUjY4UFJWNk1USHBqM0pSRlZ1T0IyMk5wWkFKejNwZklER0JFWXRFd0Z4UUhBc1Y4YlZMRDAydllvelFHWEY4bktWZlVmbHYtbzMwX0x3OTVnYg?oc=5",
-   "fecha": "2026-11-04T14:15:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-08T16:53:53+00:00"
-  },
-  {
-   "id": "de06969c599d39",
-   "fuente_id": "business-wire",
-   "titular": "Penn-BioNTech Innovative Therapeutics Seed Fund Announces First Investment",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1FjZUREYmZ0TEh3WTlvTURseEZnalVvMTZtRWZ1UkVHOWJVdVh1Q3N5X29xNV9SbXphTGhQT0dxa2xYY2VqS3FoUUk4TzNyVHZOS0s5cnBIRzY3VU42aVJkeEhHcThXVUZvU2lua1h5S2VDMzJpTXdWRXE0cW9zWk1HRGdraXAxOG5aRkpHVXdNQVhoZTc0M056Xy1QRmpZZTJjMkpfYlBtc01NaDgtLUU0MXIxYjBRbXVYb3o4NGhQRml1aWlrWkVuTQ?oc=5",
-   "fecha": "2026-11-04T14:14:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
-  },
-  {
-   "id": "aee2c12e40698f",
-   "fuente_id": "business-wire",
-   "titular": "U.S. FDA Grants Priority Review to BeOne Medicines’ BRUKINSA Combination in First-Line Mantle Cell Lymphoma",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUnhrSHJ0REwzelRKc3VCRFUwLUI5YXpST3lVa0NJczhVYVY3TlRqa0ZTcGVFeG00dVdBY2hGdXZkRHkyRi1KQi1vMHpFcm1IRURFeWhQaUk5YjZ3QW96VW52dVpSQjE5aG5lV2tlcDRsbVA0Q254V2ZsZmpibXFRbDhseVVWWXVjOEd4MkR6cGlqSENZM0RJc0Y2Sk96UnlrSWl1YUZQeWNoQWt1YnhSUjZTUlB1RWJlNFpiVUNNcFktem5XY1NDNUxYellOUi11Zk50blJNVVN1WnFEdFcwdWhHeVVtVWhKSml3YXd6NlBnVDZ5c3c?oc=5",
-   "fecha": "2026-11-04T14:13:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T21:14:46+00:00"
   },
   {
    "id": "75877c60f7565d",
