@@ -142,4 +142,8 @@ class Filtro:
                 agregar(tema)
             por_contenido = True
 
+        # Fuentes fijas sin temática propia (p. ej. LNS Research): si el contenido no
+        # indica ninguna, va a su `tematica_por_defecto`
+        if not temas and fuente.get("tematica_por_defecto"):
+            return [fuente["tematica_por_defecto"]], "fuente"
         return temas, ("contenido" if por_contenido or not base else "fuente")

@@ -117,6 +117,12 @@ def validar(cfg: Config) -> None:
             problemas.append(f"{fid}: método rss sin `feeds`.")
         elif metodo == "google_news" and not (f.get("google_news") or {}).get("consulta"):
             problemas.append(f"{fid}: método google_news sin `google_news.consulta`.")
+        if f.get("tematica_por_defecto") and f["tematica_por_defecto"] not in temas:
+            problemas.append(f"{fid}: tematica_por_defecto `{f['tematica_por_defecto']}` no existe.")
+        if "mostrar_bajada" in f and not isinstance(f["mostrar_bajada"], bool):
+            problemas.append(f"{fid}: mostrar_bajada debe ser true o false.")
+        if f.get("ventana_dias") is not None and (not isinstance(f["ventana_dias"], int) or f["ventana_dias"] < 1):
+            problemas.append(f"{fid}: ventana_dias debe ser un número entero de días.")
         if not f.get("tematicas") and not f.get("tematicas_por_filtro"):
             problemas.append(f"{fid}: no tiene ninguna temática.")
         if grupo == "general" and f.get("tematicas"):

@@ -20,6 +20,9 @@ Colombia (negocios, economía y energía) · Internacional y mercados · Tecnolo
   - Se descartan las entradas que no son noticias (páginas de sección, paginación y portadas).
   - Se ocultan, sin borrarlas, las notas que no corresponden a las temáticas (sección `relevancia`): se ven con «Mostrar descartadas».
 - **Historias.** Notas distintas sobre la misma historia en 48 horas se agrupan en «También en», con una nota principal (sección `historias` de `palabras-clave.yaml`).
+- **Derechos de los medios.** En `fuentes.yaml`, `mostrar_bajada: false` hace que de una fuente se muestren solo titular, fuente y enlace, y que su bajada no se guarde. Está puesto en Portafolio, El Heraldo y Wired (su pie de página prohíbe la reproducción) y, por precaución, en WSJ, Forbes, Bloomberg Professional e Investing.com (bloquean la revisión automática).
+- **Fuentes que publican poco.** `ventana_dias` en una fuente guarda más días de ella; lo que sea más viejo que la ventana del sitio solo sale en «Fuentes fijas: lo último» (se usa en LNS Research).
+- **Hora.** Todas las horas están en hora de Colombia (America/Bogota) y el sitio avisa que el contenido es automático y no está verificado.
 - **Duplicados.** Si la misma nota sale en varios sitios (por ejemplo, en la red TechDay), se muestra una sola versión, con «También en».
 - **Marcas.** Junto a cada nota aparece su marca: muro de pago, proveedor, comunicado de empresa, activista, posible patrocinio, etc.
 - **Fuentes que fallan.** Si una fuente no responde, el sitio se actualiza igual con las demás. El error queda en `datos/registro/` y en la página *Fuentes y método*.

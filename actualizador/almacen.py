@@ -60,8 +60,12 @@ def registrar_errores(estado_fuentes: dict, ahora: datetime) -> None:
     ERRORES.write_text("\n".join(todas) + "\n", encoding="utf-8")
 
 
-def archivar(notas: list[dict], zona: str) -> None:
-    """Guarda cada nota cruda en datos/archivo/AAAA-MM-DD.json según su fecha local."""
+def archivar(notas: list[dict], zona: str, sin_bajada: set | None = None) -> None:
+    """Guarda cada nota cruda en datos/archivo/AAAA-MM-DD.json según su fecha local.
+
+    `sin_bajada`: fuentes cuya bajada no se guarda (prohíben reproducir su contenido).
+    """
+    sin_bajada = sin_bajada or set()
     tz = ZoneInfo(zona)
     por_dia: dict[str, list[dict]] = {}
     for n in notas:
@@ -72,4 +76,7 @@ def archivar(notas: list[dict], zona: str) -> None:
         previas = {n["id"]: n for n in _leer(ruta, [])}
         for n in nuevas:
             previas.setdefault(n["id"], n)
+        for i, n in previas.items():
+            if n.get("bajada") and n.get("fuente_id") in sin_bajada:
+                previas[i] = {**n, "bajada": ""}
         _escribir(ruta, sorted(previas.values(), key=lambda n: n["fecha"], reverse=True))

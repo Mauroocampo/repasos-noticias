@@ -48,6 +48,11 @@ def url_google_news(gn: dict, dias: int) -> str:
     return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
 
 
+def muestra_bajada(fuente: dict) -> bool:
+    """False si la fuente pide mostrar solo titular, fuente y enlace (`mostrar_bajada: false`)."""
+    return fuente.get("mostrar_bajada", True) is not False
+
+
 def urls_de(fuente: dict, dias: int) -> list[str]:
     if fuente.get("metodo") == "google_news":
         return [url_google_news(fuente["google_news"], dias)]
@@ -120,7 +125,9 @@ def interpretar(contenido: bytes, fuente: dict, ahora: datetime, dias: int) -> l
             titular = _titular_google_news(titular, e)
         if exigido and exigido not in titular.lower():
             continue
-            bajada = ""  # Google News solo repite el titular y el enlace
+        if via == "google_news" or not muestra_bajada(fuente):
+            # Google News solo repite el titular; y hay medios que prohíben reproducir su texto
+            bajada = ""
         else:
             bajada = limpiar(e.get("summary") or e.get("description"))
             if bajada.lower().startswith(titular.lower()[:40]) and len(bajada) <= len(titular) + 20:

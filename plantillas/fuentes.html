@@ -21,6 +21,9 @@
     <li>La temática de cada nota sale de su <strong>titular y su bajada</strong>. Una nota puede estar en más de una temática.</li>
     <li><strong>Fuentes fijas</strong> y <strong>especializadas:</strong> conservan su temática propia y suman las que indique el contenido.</li>
     <li><strong>Medios generales:</strong> solo entran las notas cuyo titular o bajada contiene palabras clave de la temática.</li>
+    <li><strong>Derechos de los medios:</strong> de las fuentes marcadas «Solo titular» se muestran solo el titular, la fuente y el enlace, porque su pie de página prohíbe reproducir el contenido (o no se pudo revisar). Su bajada tampoco se guarda.</li>
+    <li><strong>Fuentes que publican poco</strong> (como LNS Research): su última publicación aparece en «Fuentes fijas: lo último» aunque tenga más de {{ cfg.ventana_dias }} días.</li>
+    <li>Todas las horas están en <strong>hora de Colombia</strong> (America/Bogota, UTC−5).</li>
     <li><strong>Colombia:</strong> solo las notas que tratan de Colombia. Las notas internacionales de los medios colombianos van a Internacional y mercados.</li>
     <li><strong>Ciberseguridad OT:</strong> entra cualquier nota, de cualquier fuente, que trate de sistemas de control o físicos (ICS, SCADA, PLC, avisos de CISA y de fabricantes industriales, protocolos industriales).</li>
     <li>Se descartan las entradas que no son noticias: páginas de sección, de paginación y portadas.</li>
@@ -49,7 +52,7 @@
     {% for r in filas %}
       <tr>
         <td><a href="{{ r.f.sitio }}" target="_blank" rel="noopener">{{ r.f.nombre }}</a>
-          {% if r.marcas %}<br>{% for m in r.marcas %}<span class="marca marca-chica">{{ m }}</span>{% endfor %}{% endif %}
+          {% if r.marcas or r.solo_titular %}<br>{% for m in r.marcas %}<span class="marca marca-chica">{{ m }}</span>{% endfor %}{% if r.solo_titular %}<span class="marca marca-chica" title="El medio prohíbe reproducir su contenido: se muestran solo el titular, la fuente y el enlace">Solo titular</span>{% endif %}{% endif %}
           {% if r.f.nota %}<br><small>{{ r.f.nota }}</small>{% endif %}</td>
         <td>{{ r.temas | join(', ') }}{% if r.temas_filtro %}{% if r.temas %}<br>{% endif %}<small>Por palabras clave: {{ r.temas_filtro | join(', ') }}</small>{% endif %}</td>
         <td>{{ r.tipo }}</td>

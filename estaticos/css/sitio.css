@@ -93,6 +93,10 @@ a { color: var(--acento); }
 /* Encabezados */
 .titulo-pagina { font-family: var(--fuente-titular); font-size: 1.9rem; line-height: 1.2; margin: 28px 0 6px; }
 .entradilla { color: var(--texto-suave); margin: 0 0 20px; }
+.aviso-automatico { margin-top: 14px; margin-bottom: 0; font-size: .84rem; color: var(--texto-suave); }
+.aviso-automatico strong { color: var(--texto); }
+.titulo-seccion .zona { text-transform: none; letter-spacing: 0; font-weight: 400; }
+.sello-vieja { font-size: .7rem; padding: 1px 6px; border-radius: 4px; background: var(--acento-suave); color: var(--acento); font-weight: 600; }
 .titulo-seccion { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--texto-suave); margin: 28px 0 12px; }
 
 /* Notas */

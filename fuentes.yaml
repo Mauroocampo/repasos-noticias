@@ -28,6 +28,12 @@
 #   red                 agrupa sitios hermanos en la portada (techday, la-republica)
 #   solo_titulares_con  (opcional) solo entran notas cuyo titular contenga este texto
 #   respaldo_google_news (opcional) {consulta, idioma}: se usa si el RSS falla por completo
+#   mostrar_bajada      (opcional) false: se muestra solo titular, fuente y enlace (y la
+#                       bajada no se guarda). Para medios cuyo pie de página prohíbe la
+#                       reproducción. Si se omite, se muestra la bajada.
+#   ventana_dias        (opcional) días que se guardan de una fuente que publica poco.
+#                       Lo más viejo que la ventana del sitio solo sale en «Fuentes fijas: lo último»
+#   tematica_por_defecto (opcional) temática de la nota si el contenido no indica ninguna
 #   nota                nota de marcado del documento de fuentes
 #   verificado          fecha de la última verificación del método
 # ─────────────────────────────────────────────────────────────────────────────
@@ -64,6 +70,7 @@ tipos:
   oficial:           "Oficial"
   proveedor:         "Proveedor"
   analistas:         "Firma de analistas"
+  analistas-industriales: "Firma de analistas industriales"
   activista:         "Activista"
   banco:             "Banco"
   consultora:        "Consultora o investigación"
@@ -96,6 +103,8 @@ fuentes:
     pais: CO
     tematicas: [colombia]
     tematicas_por_filtro: [internacional, tecnologia, manufactura, sostenibilidad]
+    # Pie de página: «Prohibida su reproducción total o parcial… sin autorización escrita» (revisado 11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds:
       - https://www.portafolio.co/rss/economia.xml
@@ -169,6 +178,8 @@ fuentes:
     tipo: prensa
     tematicas: [tecnologia]
     tematicas_por_filtro: [ciber-it]
+    # Pie de página: «may not be reproduced, distributed… except with the prior written permission of Condé Nast» (revisado 11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds: [https://www.wired.com/feed/rss]
     marcas: [muro-de-pago]
@@ -286,14 +297,19 @@ fuentes:
     nombre: LNS Research
     sitio: https://www.lnsresearch.com/
     grupo: fija
-    tipo: analistas
-    tematicas: [manufactura]
-    tematicas_por_filtro: [sostenibilidad, ciber-ot]
+    tipo: analistas-industriales
+    # Temática según contenido; si no indica ninguna, Manufactura
+    tematicas: []
+    tematicas_por_filtro: [manufactura, sostenibilidad, ciber-ot]
+    tematica_por_defecto: manufactura
     metodo: rss
     feeds: [https://blog.lnsresearch.com/rss.xml]
+    # Publica cada 2 a 4 semanas y no tiene sala de prensa: se guarda lo de 60 días y su
+    # última publicación sale en «Fuentes fijas: lo último» aunque sea anterior a 7 días
+    ventana_dias: 60
     marcas: [analistas]
-    nota: "Transformación industrial: MES, IIoT, convergencia IT/OT y sostenibilidad. Si el estudio es patrocinado, por quién; tamaño de muestra y regiones. Publica poco (última entrada vista: 30 sep 2026)."
-    verificado: 2026-11-06
+    nota: "Transformación industrial: MES, IIoT, convergencia IT/OT y sostenibilidad. Si el estudio es patrocinado, por quién; tamaño de muestra y regiones. Revisado el 11 nov 2026: el blog y su RSS tienen lo mismo (última entrada: 30 sep 2026); no hay página de noticias ni de comunicados con notas propias."
+    verificado: 2026-11-11
 
   # ═══ ESPECIALIZADAS ════════════════════════════════════════════════════════
 
@@ -659,6 +675,8 @@ fuentes:
     pais: CO
     tematicas_por_filtro: [colombia, internacional, manufactura, sostenibilidad]
     secciones_exterior: ["/mundo/"]
+    # Pie de página: «Prohibida la reproducción y utilización, total o parcial, de los contenidos…» (revisado 11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds: ["https://www.elheraldo.co/arc/outboundfeeds/rss/?outputType=xml"]
     nota: "Prensa regional. Cifras de industria del Dane."
@@ -717,6 +735,8 @@ fuentes:
     grupo: general
     tipo: prensa
     tematicas_por_filtro: [internacional, tecnologia]
+    # El sitio bloquea la revisión automática del pie de página; por precaución, solo titular (11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds: [https://www.forbes.com/business/feed/]
     marcas: [muro-de-pago]
@@ -739,6 +759,8 @@ fuentes:
     grupo: general
     tipo: prensa
     tematicas_por_filtro: [internacional, tecnologia]
+    # El sitio bloquea la revisión automática del pie de página; por precaución, solo titular (11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds:
       - https://feeds.content.dowjones.io/public/rss/RSSWorldNews
@@ -754,6 +776,8 @@ fuentes:
     grupo: general
     tipo: prensa
     tematicas_por_filtro: [internacional]
+    # El sitio bloquea la revisión automática del pie de página; por precaución, solo titular (11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds: [https://www.investing.com/rss/news.rss]
     marcas: [agencia]
@@ -854,6 +878,8 @@ fuentes:
     grupo: general
     tipo: prensa
     tematicas_por_filtro: [sostenibilidad, internacional]
+    # El sitio bloquea la revisión automática del pie de página; por precaución, solo titular (11 nov 2026)
+    mostrar_bajada: false
     metodo: rss
     feeds: [https://www.bloomberg.com/professional/feed/]
     marcas: [muro-de-pago]

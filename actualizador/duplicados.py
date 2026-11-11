@@ -56,7 +56,9 @@ def _unir(base: dict, otra: dict) -> None:
     for t in otra.get("tematicas", []):
         if t not in base["tematicas"]:
             base["tematicas"].append(t)
-    if not base.get("bajada") and otra.get("bajada"):
+    # Si la principal no tiene bajada se usa la de la copia, salvo que la principal sea
+    # "solo titular": ahí la bajada de otro medio quedaría atribuida al medio equivocado
+    if not base.get("bajada") and otra.get("bajada") and not base.get("solo_titular"):
         base["bajada"] = otra["bajada"]
 
 

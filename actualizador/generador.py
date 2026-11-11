@@ -116,7 +116,9 @@ class Generador:
         shutil.copytree(ESTATICOS, SALIDA / "estaticos")
         (SALIDA / ".nojekyll").write_text("", encoding="utf-8")
 
-        vistas = [self._vista(n) for n in notas]
+        todas = [self._vista(n) for n in notas]
+        # Notas de fuentes que publican poco y son más viejas que la ventana: solo en destacadas
+        vistas = [n for n in todas if not n.get("fuera_de_ventana")]
         est_fuentes = (estado or {}).get("fuentes", {})
         con_error = [fid for fid, e in est_fuentes.items() if not e.get("ok") and e.get("metodo") != "sin_acceso"]
         actualizado = estado.get("actualizado") if estado else None
@@ -135,23 +137,24 @@ class Generador:
         self._pagina(
             "flujo.html", SALIDA / "index.html", "",
             pagina="portada", titulo="Lo más reciente", tema_fijo=None,
-            destacadas=self._destacadas(vistas), dias=self._por_dia(vistas),
+            destacadas=self._destacadas(todas), dias=self._por_dia(vistas),
             total=sum(1 for n in vistas if not n.get("oculta")), ocultas=sum(1 for n in vistas if n.get("oculta")),
             fuentes_op=fuentes_op, tipos_op=tipos_op,
         )
         for t in self.cfg.tematicas:
             del_tema = [n for n in vistas if t["id"] in n["tematicas"]]
+            del_tema_todas = [n for n in todas if t["id"] in n["tematicas"]]
             fo, to = self._opciones(del_tema)
             self._pagina(
                 "flujo.html", SALIDA / "tematica" / t["id"] / "index.html", "../../",
                 pagina=t["id"], titulo=t["nombre"], tema_fijo=t["id"],
-                destacadas=self._destacadas(del_tema, por_familia=1), dias=self._por_dia(del_tema),
+                destacadas=self._destacadas(del_tema_todas, por_familia=1), dias=self._por_dia(del_tema),
                 total=sum(1 for n in del_tema if not n.get("oculta")),
                 ocultas=sum(1 for n in del_tema if n.get("oculta")), fuentes_op=fo, tipos_op=to,
             )
 
         self._pagina("fuentes.html", SALIDA / "fuentes" / "index.html", "../",
-                     pagina="fuentes", titulo="Fuentes y método", **self._ctx_fuentes(vistas, est_fuentes))
+                     pagina="fuentes", titulo="Fuentes y método", **self._ctx_fuentes(todas, est_fuentes))
         self._pagina("datos.html", SALIDA / "datos" / "index.html", "../",
                      pagina="datos", titulo="Datos de referencia", **self._ctx_datos())
 
@@ -199,6 +202,7 @@ class Generador:
                     "errores": e.get("errores", []),
                     "en_sitio": por_fuente.get(f["id"], 0),
                     "marcas": [self.cfg.marcas[m]["texto"] for m in f.get("marcas", []) if m in self.cfg.marcas],
+                    "solo_titular": f.get("mostrar_bajada") is False,
                 })
             grupos.append((g, self.cfg.grupos.get(g, g), filas))
         excluidas = [f for f in self.cfg.fuentes if f["grupo"] == "excluida"]

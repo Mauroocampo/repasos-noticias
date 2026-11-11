@@ -20,7 +20,7 @@ def recolectar(cfg: Config, ahora: datetime) -> tuple[list[dict], dict]:
     notas: list[dict] = []
     estado: dict = {}
     with ThreadPoolExecutor(max_workers=12) as pool:
-        futuros = {f["id"]: pool.submit(lector.leer_fuente, f, ahora, cfg.ventana_dias) for f in fuentes}
+        futuros = {f["id"]: pool.submit(lector.leer_fuente, f, ahora, ventana_de(f, cfg)) for f in fuentes}
         for fid, fut in futuros.items():
             nuevas, est = fut.result()
             estado[fid] = est
@@ -38,7 +38,14 @@ def recolectar(cfg: Config, ahora: datetime) -> tuple[list[dict], dict]:
     return notas, estado
 
 
-def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int) -> list[dict]:
+def ventana_de(fuente: dict | None, cfg: Config) -> int:
+    """Días que se guardan de una fuente: los del sitio, o más si la fuente publica poco
+    (`ventana_dias` en fuentes.yaml). Esas notas viejas solo salen en «Fuentes fijas: lo último»."""
+    return max(cfg.ventana_dias, int((fuente or {}).get("ventana_dias") or 0))
+
+
+def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int,
+             ventanas: dict | None = None) -> list[dict]:
     """Une lo ya guardado con lo nuevo (por id) y recorta a la ventana de días."""
     por_id = {n["id"]: n for n in previas}
     for n in nuevas:
@@ -53,16 +60,23 @@ def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int
         if not n.get("fecha"):
             n["fecha"] = n["primera_vista"]
         por_id[n["id"]] = n
-    limite = ahora - timedelta(days=dias)
+    ventanas = ventanas or {}
+
+    def dentro(n: dict) -> bool:
+        limite = ahora - timedelta(days=ventanas.get(n["fuente_id"], dias))
+        return datetime.fromisoformat(n["fecha"]) >= limite
+
     return sorted(
-        (n for n in por_id.values() if datetime.fromisoformat(n["fecha"]) >= limite),
+        (n for n in por_id.values() if dentro(n)),
         key=lambda n: n["fecha"],
         reverse=True,
     )
 
 
-def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
+def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None) -> list[dict]:
     """Aplica la configuración actual: fuente, tipo, temáticas y marcas."""
+    ahora = ahora or datetime.now(timezone.utc)
+    limite_sitio = ahora - timedelta(days=cfg.ventana_dias)
     filtro = Filtro(cfg.palabras_clave)
     descartes = Descartes(cfg.palabras_clave.get("no_noticias"))
     relevancia = Relevancia(cfg.palabras_clave.get("relevancia"))
@@ -76,6 +90,8 @@ def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
         exigido = (f.get("solo_titulares_con") or "").lower()
         if exigido and exigido not in n["titular"].lower():
             continue
+        if not lector.muestra_bajada(f) and n.get("bajada"):
+            n = {**n, "bajada": ""}  # el medio prohíbe reproducir su texto: solo titular y enlace
         if descartes.motivo(n, f):
             descartadas += 1  # página de sección, paginación o portada: no es una noticia
             continue
@@ -91,6 +107,10 @@ def enriquecer(crudas: list[dict], cfg: Config) -> list[dict]:
             "tematicas": temas,
             "marcas": marcas.marcar(n, f),
             "clasificado_por": como,
+            "solo_titular": not lector.muestra_bajada(f),
+            # Notas de fuentes que publican poco, más viejas que la ventana del sitio:
+            # no van al flujo, solo a «Fuentes fijas: lo último»
+            "fuera_de_ventana": datetime.fromisoformat(n["fecha"]) < limite_sitio,
             # Categoría de relevancia por la que se oculta (None: se muestra)
             "oculta": relevancia.categoria(n),
             "tambien_en": [],
@@ -126,9 +146,11 @@ def agrupar(notas: list[dict], cfg: Config) -> list[dict]:
     principal de una historia visible.
     """
     agrupador = Agrupador(cfg.palabras_clave.get("historias"))
+    viejas = [n for n in notas if n.get("fuera_de_ventana")]
+    notas = [n for n in notas if not n.get("fuera_de_ventana")]
     visibles = duplicados.eliminar([n for n in notas if not n.get("oculta")])
     ocultas = duplicados.eliminar([n for n in notas if n.get("oculta")])
-    return agrupador.agrupar(visibles, prioridad) + ocultas
+    return agrupador.agrupar(visibles, prioridad) + ocultas + viejas
 
 
 def actualizar(cfg: Config, con_red: bool = True) -> dict:
@@ -136,22 +158,32 @@ def actualizar(cfg: Config, con_red: bool = True) -> dict:
     previas = almacen.cargar_noticias()
     estado_previo = almacen.cargar_estado()
 
+    ventanas = {f["id"]: ventana_de(f, cfg) for f in cfg.fuentes}
     if con_red:
         nuevas, estado_fuentes = recolectar(cfg, ahora)
-        crudas = combinar(previas, nuevas, ahora, cfg.ventana_dias)
+        crudas = combinar(previas, nuevas, ahora, cfg.ventana_dias, ventanas)
+        crudas = sin_bajadas_restringidas(crudas, cfg)
         almacen.guardar_noticias(crudas, ahora)
-        almacen.archivar(nuevas_con_fecha(crudas, nuevas), cfg.zona_horaria)
+        sin_bajada = {f["id"] for f in cfg.fuentes if not lector.muestra_bajada(f)}
+        almacen.archivar(nuevas_con_fecha(crudas, nuevas), cfg.zona_horaria, sin_bajada)
         almacen.registrar_errores(estado_fuentes, ahora)
         estado = {"actualizado": ahora.isoformat(), "fuentes": estado_fuentes}
         almacen.guardar_estado(estado)
     else:
-        crudas = combinar(previas, [], ahora, cfg.ventana_dias)
+        crudas = combinar(previas, [], ahora, cfg.ventana_dias, ventanas)
         estado = estado_previo or {"actualizado": None, "fuentes": {}}
 
-    notas = agrupar(enriquecer(crudas, cfg), cfg)
+    notas = agrupar(enriquecer(crudas, cfg, ahora), cfg)
     notas.sort(key=lambda n: n["fecha"], reverse=True)
     notas = ia.procesar(notas, cfg.ia)
     return {"ahora": ahora, "notas": notas, "estado": estado}
+
+
+def sin_bajadas_restringidas(notas: list[dict], cfg: Config) -> list[dict]:
+    """Quita la bajada de las fuentes con `mostrar_bajada: false` antes de guardar en datos/."""
+    fuentes = cfg.fuentes_por_id
+    return [{**n, "bajada": ""} if n.get("bajada") and not lector.muestra_bajada(fuentes.get(n["fuente_id"], {})) else n
+            for n in notas]
 
 
 def nuevas_con_fecha(crudas: list[dict], nuevas: list[dict]) -> list[dict]:

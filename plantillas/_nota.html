@@ -8,8 +8,9 @@
     <span class="punto" aria-hidden="true">·</span>
     <span>{{ n.tipo_txt }}</span>
     <span class="punto" aria-hidden="true">·</span>
-    <time datetime="{{ n.fecha }}">{% if compacta %}{{ n.local.day }}/{{ n.local.month }}, {% endif %}{{ n.hora }}</time>
+    <time datetime="{{ n.fecha }}" title="Hora de Colombia (UTC−5)">{% if compacta %}{{ n.local.day }}/{{ n.local.month }}, {% endif %}{{ n.hora }}</time>
     {% if n.grupo == 'fija' %}<span class="sello-fija">Fija</span>{% endif %}
+    {% if n.fuera_de_ventana %}<span class="sello-vieja" title="Esta fuente publica poco: se muestra su última publicación aunque tenga más de {{ cfg.ventana_dias }} días">Última publicación</span>{% endif %}
   </p>
   <h3 class="nota-titular"><a href="{{ n.enlace }}" target="_blank" rel="noopener">{{ n.titular }}</a></h3>
   {% if n.bajada and not compacta %}<p class="nota-bajada">{{ n.bajada }}</p>{% endif %}

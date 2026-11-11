@@ -7,7 +7,9 @@ from .filtro import normalizar
 
 PATROCINIO = re.compile(
     r"sponsored by|sponsored content|paid post|commissioned by|in partnership with|"
-    r"patrocinad[oa]s? por|contenido patrocinado|publirreportaje|en alianza con|encargado por"
+    r"patrocinad[oa]s? por|contenido patrocinado|publirreportaje|en alianza con|encargado por|"
+    r"underwritten by|funded by|financiad[oa]s? por|made possible by|sponsored research|sponsored study|"
+    r"commissioned (?:research|study|survey)|estudio patrocinado|investigaci[oó]n patrocinada"
 )
 
 
