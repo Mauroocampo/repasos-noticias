@@ -5,6 +5,8 @@ Las reglas están en `relevancia` de palabras-clave.yaml. Cada categoría tiene:
   incluir      palabras que la detectan (en el titular y la bajada)
   al_inicio    el titular empieza así (p. ej. "review:")
   al_final     el titular termina así (p. ej. "review")
+  patrones     expresiones regulares sobre el titular normalizado (sin tildes, minúsculas),
+               para casos que las palabras no alcanzan (p. ej. "^the best .* to buy")
   excepto      si aparece alguna, la nota NO se oculta (p. ej. negocios del deporte)
   solo_titular true para buscar `incluir` solo en el titular
 """
@@ -37,6 +39,7 @@ class Relevancia:
                 "al_inicio": _extremo(r.get("al_inicio"), al_final=False),
                 "al_final": _extremo(r.get("al_final"), al_final=True),
                 "excepto": compilar(r.get("excepto")),
+                "patrones": re.compile("|".join(f"(?:{p})" for p in r["patrones"])) if r.get("patrones") else None,
                 "solo_titular": bool(r.get("solo_titular")),
             })
 
@@ -55,6 +58,7 @@ class Relevancia:
                 (c["incluir"] and c["incluir"].search(donde))
                 or (c["al_inicio"] and c["al_inicio"].search(titular))
                 or (c["al_final"] and c["al_final"].search(recortado))
+                or (c["patrones"] and c["patrones"].search(titular))
             )
             if hallada and not (c["excepto"] and c["excepto"].search(completo)):
                 return c["id"]

@@ -65,6 +65,8 @@ no_noticias:
 #   solo_titular  true: `incluir` se busca solo en el titular
 #   al_inicio     el titular empieza así
 #   al_final      el titular termina así
+#   patrones      expresiones regulares sobre el titular sin tildes y en minúsculas,
+#                 para casos que las palabras no alcanzan (avanzado)
 #   excepto       si aparece alguna, la nota NO se oculta
 # Se revisan en este orden; la primera categoría que coincide es la que se muestra.
 # ─────────────────────────────────────────────────────────────────────────────
@@ -112,6 +114,24 @@ relevancia:
       - discount
       - discounts
       - discounted
+      - "discount code*"
+      - "promo code*"
+      - "coupon code*"
+      - "black friday deals"
+      - "black friday sale"
+      - "early black friday"
+      - "cyber monday deals"
+      - "prime day deals"
+      - "deals under"
+      - "is on sale"
+      - "are on sale"
+      - "now on sale"
+      - "already on sale"
+      - "on sale for"
+      - "sitewide savings"
+      - "savings on"
+      - "record low"
+      - "referral deals"
       - "best deals"
       - "best deal"
       - "deals on"
@@ -120,16 +140,11 @@ relevancia:
       - "% off"
       - "price drop"
       - "sale:"
-      - "on sale"
       - "save up to"
       - "flash sale"
       - "lowest price"
       - "all-time low"
-      - "black friday"
-      - "cyber monday"
-      - "prime day"
       - coupon*
-      - "promo code"
       - descuento*
       - "en oferta"
       - "ofertas del dia"
@@ -137,12 +152,13 @@ relevancia:
       - "ofertas imperdibles"
       - "black days"
       - cupon*
+    patrones: ['\bsave (up to )?\$\d', '\bdeal: save\b', '\d+% off\b']
     solo_titular: true
     excepto: ["discount rate", "discount window", "discount retailer*", "discount store*", "tasa de descuento", tributari*, "descuento tributario", dian, sancion*, intereses]
 
   resenas:
     texto: "reseña de producto"
-    al_inicio: ["review:", "resena:", "hands-on:", "first look:", "probamos"]
+    al_inicio: ["review:", "resena:", "hands-on:", "hands-on with", "first look:", "probamos"]
     al_final: ["review roundup", "hands-on", "first look", "resena"]
     incluir:
       - "hands-on review"
@@ -158,10 +174,16 @@ relevancia:
       - "best tvs"
       - "buying guide"
       - "gift guide"
+      - "gifts for"
+      - "best gifts"
+      - "tested picks"
+      - "been testing"
       - "guia de regalos"
       - "guia de compras"
     solo_titular: true
-    excepto: ["imf review", imf, fmi, "peer review", "code review", "under review", "judicial review", "policy review", "strategic review", "year in review", "week in review", "board review"]
+    # Guías de compra: "The Best iPad to Buy", "Best Air Purifiers (2026)", "10 Best Subscription Boxes"
+    patrones: ['^(the )?(\d+ )?best .*(\(20\d\d\)|\bto buy\b|\btested\b|\bfor every\b)', '^(the )?(\d+ )?best .* for (kids|him|her|men|women|dads?|moms?|hikers|gamers|travel+ers)\b']
+    excepto: [stock*, acciones, "imf review", imf, fmi, "peer review", "code review", "under review", "judicial review", "policy review", "strategic review", "year in review", "week in review", "board review"]
 
   entretenimiento:
     texto: "entretenimiento"
@@ -206,9 +228,6 @@ relevancia:
       - celebrity
       - celebrities
       - celebridad*
-      - famoso
-      - famosa
-      - famosos
       - horoscopo
       - horoscope
       - "signo zodiacal"
@@ -271,6 +290,10 @@ relevancia:
       - "copa libertadores"
       - "copa america"
       - "copa mundial"
+      - camiseta
+      - "seleccion nacional"
+      - "seleccion de portugal"
+      - "seleccion argentina"
       - "mundial de futbol"
       - "mundial 2026"
       - "champions league"
@@ -389,7 +412,7 @@ historias:
   # Equivalencias entre idiomas: cada lista cuenta como una sola palabra
   equivalencias:
     - [espia, espias, spy, spies, espionaje, espionage]
-    - [infidelidad, affair, amante, mistress, extramarital]
+    - [infidelidad, affair, amante, mistress, extramarital, infidelity, amorio]
     - [escandalo, scandal]
     - [divorcio, divorce]
     - [despido, despidos, layoff, layoffs, recortes, recorta, recortara, cuts]
@@ -405,7 +428,7 @@ historias:
     - [inflacion, inflation]
     - [petroleo, oil, crudo]
     - [resultados, results, earnings, ganancias]
-    - [investigacion, investigation, probe]
+    - [investigacion, investigation, probe, investiga, investigates, investigate]
 
 colombia:
   # Señales de que la nota trata de Colombia

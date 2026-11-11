@@ -5,6 +5,8 @@ Dos notas son la misma historia si se publicaron con poca diferencia de tiempo
   - comparten al menos `min_entidades` entidades distintivas (nombres propios,
     empresas, siglas, cifras) y al menos una palabra clave del hecho, o
   - comparten `min_entidades_solas` entidades distintivas, o
+  - la historia ya tiene 3 o más notas y la nota comparte `min_entidades` entidades
+    de su núcleo (p. ej. Nvidia y Huang), aunque no comparta palabras clave, o
   - la historia ya tiene 3 o más notas y la nota comparte una entidad y
     `min_claves_con_una_entidad` palabras clave de su núcleo, o
   - comparten una entidad distintiva y sus titulares son muy parecidos.
@@ -268,6 +270,8 @@ class Agrupador:
         if len(comp_ent) >= self.min_entidades and comp_cla:
             return 5 + len(comp_ent) + len(comp_cla)
         # Solo para historias ya formadas (3 o más notas): recoge las notas rezagadas
+        if tam >= 3 and len(comp_ent) >= self.min_entidades:
+            return 4 + len(comp_ent) + len(comp_cla)
         if tam >= 3 and len(comp_ent) >= 1 and len(comp_cla) >= self.min_claves_una:
             return 4 + len(comp_ent) + len(comp_cla)
         if len(comp_ent) >= 1:

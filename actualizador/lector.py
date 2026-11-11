@@ -108,6 +108,8 @@ def id_de(enlace: str) -> str:
 def interpretar(contenido: bytes, fuente: dict, ahora: datetime, dias: int) -> list[dict]:
     """Convierte un feed en notas crudas, dentro de la ventana de días."""
     feed = feedparser.parse(contenido)
+    if not feed.entries and not feed.bozo and feed.get("feed", {}).get("title") is not None:
+        return []  # feed válido sin notas (p. ej. una búsqueda de Google News sin resultados esta semana)
     if not feed.entries:
         motivo = getattr(feed, "bozo_exception", None)
         raise ValueError(f"el feed no trae notas{f' ({motivo})' if motivo else ''}")

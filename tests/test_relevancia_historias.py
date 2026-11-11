@@ -30,6 +30,13 @@ def categoria(titular: str, bajada: str = "") -> str | None:
      "bufetes"),
     ("Cristiano Ronaldo anuncia su retiro de la selección de Portugal tras el Mundial de Fútbol", "deportes"),
     ("Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350", "ofertas"),
+    ("Home Depot Promo Codes: 30% Off in November 2026", "ofertas"),
+    ("Ecoflow Rapid Pro Power Bank Deal: Save $80", "ofertas"),
+    ("These WIRED-Tested Standing Desks Are Already on Sale for Black Friday", "ofertas"),
+    ("Best Air Purifiers (2026): Tested Picks for Every Room", "resenas"),
+    ("The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini", "resenas"),
+    ("Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)", "resenas"),
+    ("Hands-On With Apple's New OLED Touchscreen MacBook Pro", "resenas"),
 ])
 def test_oculta_lo_que_no_corresponde(titular, esperada):
     assert categoria(titular) == esperada
@@ -47,6 +54,11 @@ def test_oculta_lo_que_no_corresponde(titular, esperada):
     "Apple faces class action over Siri privacy",
     "El partido de gobierno pierde la mayoría en el Senado",
     "Fed cuts rates as inflation cools: what to watch next for stocks",
+    "Ruta 66: la historia poco conocida de la carretera más famosa de EE.UU.",
+    "The Original iPod Went on Sale 25 Years Ago Today",
+    "Chargeflow data flags Black Friday non-delivery surge",
+    "5 Best Dow Stocks to Buy for 2027",
+    "Dropbox to buy Tigris Data in USD $350 million deal",
 ])
 def test_no_oculta_noticias_relevantes(titular):
     assert categoria(titular) is None

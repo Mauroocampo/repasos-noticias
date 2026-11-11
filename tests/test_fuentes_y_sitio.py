@@ -98,3 +98,11 @@ def test_google_news_no_trae_bajada():
 <pubDate>Wed, 11 Nov 2026 10:00:00 GMT</pubDate></item></channel></rss>"""
     notas = lector.interpretar(gn, {"id": "u", "metodo": "google_news"}, AHORA, 7)
     assert notas[0]["bajada"] == ""
+
+
+def test_feed_valido_sin_notas_no_es_error():
+    vacio = b"""<?xml version="1.0"?><rss version="2.0"><channel><title>Sin resultados - Google News</title></channel></rss>"""
+    assert lector.interpretar(vacio, {"id": "x", "metodo": "google_news"}, AHORA, 7) == []
+    import pytest
+    with pytest.raises(ValueError):
+        lector.interpretar(b"<html>error</html>", {"id": "x", "metodo": "rss"}, AHORA, 7)
