@@ -117,11 +117,15 @@ def interpretar(contenido: bytes, fuente: dict, ahora: datetime, dias: int) -> l
     via = fuente.get("metodo", "rss")
     limite = ahora - timedelta(days=dias)
     exigido = (fuente.get("solo_titulares_con") or "").lower()
+    resumen = fuente.get("dividir_resumen") or {}
     notas = []
     for e in feed.entries:
         enlace = (e.get("link") or "").strip()
         titular = limpiar(e.get("title"))
         if not enlace or not titular:
+            continue
+        if resumen and resumen.get("titulo_contiene", "").lower() in titular.lower():
+            notas.extend(_avisos_del_resumen(e, enlace, titular, fuente, resumen, ahora, limite))
             continue
         if via == "google_news":
             titular = _titular_google_news(titular, e)
@@ -152,16 +156,64 @@ def interpretar(contenido: bytes, fuente: dict, ahora: datetime, dias: int) -> l
     return notas
 
 
-def leer_fuente(fuente: dict, ahora: datetime, dias: int) -> tuple[list[dict], dict]:
-    """Lee todos los feeds de una fuente. Nunca lanza: devuelve notas y estado."""
+def _avisos_del_resumen(e, enlace: str, titular: str, fuente: dict, resumen: dict,
+                        ahora: datetime, limite: datetime) -> list[dict]:
+    """Una nota por cada aviso numerado de un resumen (p. ej. "Daily OT Security News")."""
+    from .resumenes import dividir  # import local: evita un ciclo de imports
+
+    fecha = _fecha(e) or ahora
+    if fecha > ahora + timedelta(hours=2):
+        fecha = ahora
+    if fecha < limite:
+        return []
+    contenido = ((e.get("content") or [{}])[0].get("value") or e.get("summary") or "")
+    salida = []
+    for a in dividir(contenido, enlace, resumen.get("dominios_primarios", [])):
+        salida.append({
+            # El id sale de la edición y el número: dos avisos pueden citar el mismo enlace primario
+            "id": id_de(f"{enlace.split('#')[0]}#aviso-{a['numero']}"),
+            "fuente_id": fuente["id"],
+            "titular": a["titular"],
+            "bajada": recortar(a["bajada"]) if muestra_bajada(fuente) else "",
+            "enlace": a["enlace"],
+            "fecha": fecha.isoformat(),
+            "via": "resumen",
+            "resumen": {"edicion": titular, "enlace": enlace, "numero": a["numero"]},
+        })
+    return salida
+
+
+def leer_fuente(fuente: dict, ahora: datetime, dias: int,
+                conocidas: set[str] | None = None) -> tuple[list[dict], dict]:
+    """Lee una fuente (feeds, páginas de sección o página de avisos). Nunca lanza.
+
+    `conocidas`: URLs canónicas ya guardadas, para no volver a leer notas de las páginas.
+    """
     notas: list[dict] = []
     errores: list[str] = []
-    urls = urls_de(fuente, dias)
-    for url in urls:
+    if fuente.get("metodo") == "avisos_html":
+        from . import paginas
+        urls = [fuente["pagina_avisos"]]
+        try:
+            notas.extend(paginas.leer_avisos(fuente, ahora, dias))
+        except Exception as e:  # noqa: BLE001
+            errores.append(f"{urls[0]}: {type(e).__name__}: {str(e)[:200]}")
+    else:
+        urls = urls_de(fuente, dias)
+    for url in (urls if fuente.get("metodo") != "avisos_html" else []):
         try:
             notas.extend(interpretar(descargar(url), fuente, ahora, dias))
         except Exception as e:  # noqa: BLE001 — una fuente rota no detiene a las demás
             errores.append(f"{url}: {type(e).__name__}: {str(e)[:200]}")
+    if fuente.get("paginas"):
+        # Secciones cuyo RSS es corto o no existe: se leen sus páginas (errores aparte)
+        from . import paginas
+        conocidas = set(conocidas or set()) | {url_canonica(n["enlace"]) for n in notas}
+        de_paginas, errores_paginas = paginas.leer_listados(fuente, ahora, dias, conocidas)
+        notas.extend(de_paginas)
+        extra = [f"página: {x}" for x in errores_paginas]
+    else:
+        extra = []
     respaldo = fuente.get("respaldo_google_news")
     usado_respaldo = False
     if len(errores) == len(urls) and respaldo and fuente.get("metodo") == "rss":
@@ -178,7 +230,10 @@ def leer_fuente(fuente: dict, ahora: datetime, dias: int) -> tuple[list[dict], d
         if n["id"] not in vistos:
             vistos.add(n["id"])
             unicas.append(n)
+    # Si responden los feeds (o la página de avisos), la fuente respondió; los errores de
+    # notas sueltas de las páginas de sección solo la marcan como "en parte"
     ok = len(errores) < len(urls) or usado_respaldo
+    errores = errores + extra
     estado = {
         "ok": ok,
         "parcial": bool(errores) and ok,

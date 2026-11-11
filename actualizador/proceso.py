@@ -4,8 +4,9 @@ from __future__ import annotations
 import logging
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit
 
-from . import almacen, duplicados, ia, lector, marcas
+from . import almacen, duplicados, ia, lector, marcas, portadas
 from .config import Config
 from .descartes import Descartes
 from .filtro import Filtro
@@ -15,12 +16,13 @@ from .relevancia import Relevancia
 log = logging.getLogger("actualizador")
 
 
-def recolectar(cfg: Config, ahora: datetime) -> tuple[list[dict], dict]:
+def recolectar(cfg: Config, ahora: datetime, conocidas: set[str] | None = None) -> tuple[list[dict], dict]:
     fuentes = cfg.fuentes_activas()
     notas: list[dict] = []
     estado: dict = {}
     with ThreadPoolExecutor(max_workers=12) as pool:
-        futuros = {f["id"]: pool.submit(lector.leer_fuente, f, ahora, ventana_de(f, cfg)) for f in fuentes}
+        futuros = {f["id"]: pool.submit(lector.leer_fuente, f, ahora, ventana_de(f, cfg), conocidas)
+                   for f in fuentes}
         for fid, fut in futuros.items():
             nuevas, est = fut.result()
             estado[fid] = est
@@ -45,8 +47,12 @@ def ventana_de(fuente: dict | None, cfg: Config) -> int:
 
 
 def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int,
-             ventanas: dict | None = None) -> list[dict]:
-    """Une lo ya guardado con lo nuevo (por id) y recorta a la ventana de días."""
+             ventanas: dict | None = None, conservar: set[str] | None = None) -> list[dict]:
+    """Une lo ya guardado con lo nuevo (por id) y recorta a la ventana de días.
+
+    `conservar`: URLs canónicas que se guardan aunque sean viejas (las que están en portada).
+    """
+    conservar = conservar or set()
     por_id = {n["id"]: n for n in previas}
     for n in nuevas:
         if n["id"] in por_id:
@@ -63,6 +69,8 @@ def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int
     ventanas = ventanas or {}
 
     def dentro(n: dict) -> bool:
+        if conservar and duplicados.url_canonica(n["enlace"]) in conservar:
+            return True
         limite = ahora - timedelta(days=ventanas.get(n["fuente_id"], dias))
         return datetime.fromisoformat(n["fecha"]) >= limite
 
@@ -73,9 +81,23 @@ def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int
     )
 
 
-def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None) -> list[dict]:
-    """Aplica la configuración actual: fuente, tipo, temáticas y marcas."""
+def tipo_de(n: dict, f: dict) -> str | None:
+    """Tipo de fuente de la nota: el de la fuente, o el de su sección (`tipo_por_ruta`)."""
+    ruta = urlsplit(n.get("enlace", "")).path.lower()
+    for parte, tipo in (f.get("tipo_por_ruta") or {}).items():
+        if parte.lower() in ruta:
+            return tipo
+    return f.get("tipo")
+
+
+def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None,
+               portada: set[str] | None = None) -> list[dict]:
+    """Aplica la configuración actual: fuente, tipo, temáticas y marcas.
+
+    `portada`: URLs canónicas que están hoy en la portada de su medio.
+    """
     ahora = ahora or datetime.now(timezone.utc)
+    portada = portada or set()
     limite_sitio = ahora - timedelta(days=cfg.ventana_dias)
     filtro = Filtro(cfg.palabras_clave)
     descartes = Descartes(cfg.palabras_clave.get("no_noticias"))
@@ -102,7 +124,8 @@ def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None) -
             **n,
             "fuente": f["nombre"],
             "red": f.get("red"),
-            "tipo": f.get("tipo"),
+            "tipo": tipo_de(n, f),
+            "en_portada": duplicados.url_canonica(n["enlace"]) in portada,
             "grupo": f["grupo"],
             "tematicas": temas,
             "marcas": marcas.marcar(n, f),
@@ -160,8 +183,21 @@ def actualizar(cfg: Config, con_red: bool = True) -> dict:
 
     ventanas = {f["id"]: ventana_de(f, cfg) for f in cfg.fuentes}
     if con_red:
-        nuevas, estado_fuentes = recolectar(cfg, ahora)
-        crudas = combinar(previas, nuevas, ahora, cfg.ventana_dias, ventanas)
+        conocidas = {duplicados.url_canonica(n["enlace"]) for n in previas}
+        nuevas, estado_fuentes = recolectar(cfg, ahora, conocidas)
+        # Portadas del día: marcan lo que ya está y traen lo que falta (aunque sea de días antes)
+        conocidas |= {duplicados.url_canonica(n["enlace"]) for n in nuevas}
+        mapa, de_portada, errores_portada = portadas.leer(cfg.fuentes_activas(), ahora, conocidas)
+        nuevas += de_portada
+        for fid, urls in mapa.items():
+            estado_fuentes.setdefault(fid, {})["portada"] = {"notas": len(urls), "error": errores_portada.get(fid)}
+        for fid, error in errores_portada.items():
+            if fid not in mapa:
+                estado_fuentes.setdefault(fid, {})["portada"] = {"notas": 0, "error": error}
+        foto = {"actualizado": ahora.isoformat(), "fuentes": mapa}
+        almacen.guardar_portadas(foto)
+        en_portada = {u for urls in mapa.values() for u in urls}
+        crudas = combinar(previas, nuevas, ahora, cfg.ventana_dias, ventanas, en_portada)
         crudas = sin_bajadas_restringidas(crudas, cfg)
         almacen.guardar_noticias(crudas, ahora)
         sin_bajada = {f["id"] for f in cfg.fuentes if not lector.muestra_bajada(f)}
@@ -170,10 +206,23 @@ def actualizar(cfg: Config, con_red: bool = True) -> dict:
         estado = {"actualizado": ahora.isoformat(), "fuentes": estado_fuentes}
         almacen.guardar_estado(estado)
     else:
-        crudas = combinar(previas, [], ahora, cfg.ventana_dias, ventanas)
+        foto = almacen.cargar_portadas()
+        en_portada = {u for urls in (foto.get("fuentes") or {}).values() for u in urls}
+        crudas = combinar(previas, [], ahora, cfg.ventana_dias, ventanas, en_portada)
         estado = estado_previo or {"actualizado": None, "fuentes": {}}
 
-    notas = agrupar(enriquecer(crudas, cfg, ahora), cfg)
+    notas = agrupar(enriquecer(crudas, cfg, ahora, en_portada), cfg)
+    # Si una copia o una nota de la misma historia está en portada, la principal también
+    # aparece en «Portadas de hoy»; `en_portada_de` dice de qué medio es esa portada
+    for n in notas:
+        de = [n["fuente_id"]] if n.get("en_portada") else []
+        de += [t["fuente_id"] for t in n.get("tambien_en", [])
+               if duplicados.url_canonica(t["enlace"]) in en_portada]
+        de = list(dict.fromkeys(de))  # sin repetir
+        n["en_portada"] = bool(de)
+        n["en_portada_de"] = de
+    estado = {**estado, "portadas": {"actualizado": foto.get("actualizado"),
+                                     "fuentes": {k: len(v) for k, v in (foto.get("fuentes") or {}).items()}}}
     notas.sort(key=lambda n: n["fecha"], reverse=True)
     notas = ia.procesar(notas, cfg.ia)
     return {"ahora": ahora, "notas": notas, "estado": estado}

@@ -34,6 +34,15 @@
 #   ventana_dias        (opcional) días que se guardan de una fuente que publica poco.
 #                       Lo más viejo que la ventana del sitio solo sale en «Fuentes fijas: lo último»
 #   tematica_por_defecto (opcional) temática de la nota si el contenido no indica ninguna
+#   paginas             (opcional) páginas de sección que se leen además del RSS:
+#                       [{url, patron, max}]; patron = expresión regular de los enlaces de notas
+#   portada             (opcional) {url, patron, excluir}: se lee la portada del día y sus notas
+#                       quedan marcadas «En portada hoy»
+#   tipo_por_ruta       (opcional) {"/opinion/": opinion}: tipo de fuente según la sección
+#   dividir_resumen     (opcional) {titulo_contiene, dominios_primarios}: divide un resumen
+#                       con avisos numerados en una nota por aviso
+#   metodo: avisos_html  página de avisos de un fabricante: `pagina_avisos` y `extractor`
+#                       (certvde, schneider o jci)
 #   nota                nota de marcado del documento de fuentes
 #   verificado          fecha de la última verificación del método
 # ─────────────────────────────────────────────────────────────────────────────
@@ -71,6 +80,7 @@ tipos:
   proveedor:         "Proveedor"
   analistas:         "Firma de analistas"
   analistas-industriales: "Firma de analistas industriales"
+  opinion:           "Opinión"
   activista:         "Activista"
   banco:             "Banco"
   consultora:        "Consultora o investigación"
@@ -84,6 +94,7 @@ marcas:
   comunicado:     { texto: "Comunicado de empresa", explicacion: "No es prensa: lo escribe la empresa." }
   la-empresa:     { texto: "La empresa",            explicacion: "Fuente primaria, pero la empresa habla de sí misma." }
   oficial:        { texto: "Oficial",               explicacion: "Fuente primaria oficial." }
+  proveedor-viakoo: { texto: "Proveedor (Viakoo)", explicacion: "Resumen diario escrito por Viakoo, que vende seguridad para IoT/OT; revisar el aviso primario enlazado." }
   proveedor:      { texto: "Proveedor",             explicacion: "Vende la solución al problema que describe; contrastar el dato." }
   activista:      { texto: "Activista",             explicacion: "Tiene interés en el tema; contrastar el dato." }
   banco:          { texto: "Banco",                 explicacion: "Tiene interés en el tema (p. ej., financiación climática)." }
@@ -109,6 +120,20 @@ fuentes:
     feeds:
       - https://www.portafolio.co/rss/economia.xml
       - https://www.portafolio.co/rss/negocios.xml
+      - https://www.portafolio.co/rss/energia.xml
+      - https://www.portafolio.co/rss/tecnologia.xml
+      - https://www.portafolio.co/rss/opinion.xml
+      - https://www.portafolio.co/rss/opinion/editorial.xml
+    # Sus RSS traen solo las últimas 10 notas: se leen también las páginas de sección
+    paginas:
+      - { url: "https://www.portafolio.co/energia/", patron: "portafolio\\.co/energia/.+-\\d{6}$" }
+      - { url: "https://www.portafolio.co/tecnologia/", patron: "portafolio\\.co/tecnologia/.+-\\d{6}$" }
+      - { url: "https://www.portafolio.co/opinion/", patron: "portafolio\\.co/opinion/.+-\\d{6}$" }
+    portada:
+      url: "https://www.portafolio.co/"
+      patron: "portafolio\\.co/[a-z\\-]+/.+-\\d{6}$"
+      excluir: ["/autor/", "/contenido-patrocinado/", "/mas-contenido/", "/videos/", "/podcast/"]
+    tipo_por_ruta: { "/opinion/": opinion }
     nota: "Empresas, manufactura y sostenibilidad en Colombia. Si solo se leyó titular y bajada, se dice."
     verificado: 2026-11-06
 
@@ -128,6 +153,15 @@ fuentes:
       - https://www.larepublica.co/rss/empresas
       - https://www.larepublica.co/rss/finanzas
       - https://www.larepublica.co/rss/globoeconomia
+      - https://www.larepublica.co/rss/editorial
+    # El RSS de Análisis (columnas) está vacío: se lee la página de columnas
+    paginas:
+      - { url: "https://www.larepublica.co/analisis", patron: "larepublica\\.co/analisis/[a-z0-9\\-]+-\\d+/[a-z0-9\\-]+-\\d{6,8}$" }
+    portada:
+      url: "https://www.larepublica.co/"
+      patron: "larepublica\\.co/[a-z\\-]+/.+-\\d{6,8}$"
+      excluir: ["/ocio/", "/podcast/", "/especiales/", "/foros/", "/inside/", "/videos/", "/contenido-patrocinado/"]
+    tipo_por_ruta: { "/analisis/": opinion, "/opinion/": opinion }
     nota: "Empresas, manufactura y sostenibilidad en Colombia. Si solo se leyó titular y bajada, se dice."
     verificado: 2026-11-06
 
@@ -439,7 +473,7 @@ fuentes:
     feeds: [https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml]
     respaldo_google_news: { consulta: "site:cisa.gov/news-events/ics-advisories", idioma: en }
     marcas: [oficial]
-    nota: "Fuente primaria del frente OT. CISA bloquea los servidores de GitHub; si el RSS falla, se usa Google News."
+    nota: "Fuente primaria del frente OT. CISA bloquea los servidores de GitHub; si el RSS falla, se usa Google News. Por aquí llegan también los avisos de Mitsubishi Electric, Hitachi Energy y Honeywell, que no publican una lista legible."
     verificado: 2026-11-06
 
   - id: siemens-productcert
@@ -453,6 +487,68 @@ fuentes:
     marcas: [la-empresa]
     nota: "El fabricante; avisos de seguridad de sus productos."
     verificado: 2026-11-06
+
+  - id: rockwell-psirt
+    nombre: Rockwell Automation (avisos de seguridad)
+    sitio: https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [ciber-ot]
+    metodo: rss
+    feeds: [https://www.rockwellautomation.com/bin/rss/security-advisories.xml]
+    marcas: [la-empresa]
+    verificado: 2026-11-11
+
+  - id: abb-psirt
+    nombre: ABB (avisos de ciberseguridad)
+    sitio: https://global.abb/group/en/technology/cyber-security/alerts-and-notifications
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [ciber-ot]
+    metodo: rss
+    feeds: [https://psirt.abb.com/rss/abbrssfeed.xml]
+    marcas: [la-empresa]
+    verificado: 2026-11-11
+
+  - id: certvde
+    nombre: CERT@VDE (Phoenix Contact, Helmholz, WAGO, Weidmüller y otros)
+    sitio: https://certvde.com/en/advisories/
+    grupo: especializada
+    tipo: oficial
+    tematicas: [ciber-ot]
+    metodo: avisos_html
+    pagina_avisos: https://certvde.com/en/advisories/
+    extractor: certvde
+    marcas: [oficial]
+    nota: "CERT de la industria alemana; publica los avisos de Phoenix Contact PSIRT y de otros fabricantes. Sin RSS: se lee su página de avisos."
+    verificado: 2026-11-11
+
+  - id: schneider-psirt
+    nombre: Schneider Electric (notificaciones de seguridad)
+    sitio: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [ciber-ot]
+    metodo: avisos_html
+    pagina_avisos: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+    extractor: schneider
+    marcas: [la-empresa]
+    nota: "Sin RSS: se lee la tabla de su página de notificaciones."
+    verificado: 2026-11-11
+
+  - id: jci-psirt
+    nombre: Johnson Controls (avisos de seguridad)
+    sitio: https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories
+    grupo: especializada
+    tipo: la-empresa
+    tematicas: [ciber-ot]
+    metodo: avisos_html
+    pagina_avisos: https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories
+    extractor: jci
+    marcas: [la-empresa]
+    nota: "Sin RSS: se lee la tabla de su página de avisos."
+    verificado: 2026-11-11
+
 
   - id: industrial-cyber
     nombre: Industrial Cyber
@@ -479,7 +575,8 @@ fuentes:
   - id: security-boulevard-ot
     nombre: Security Boulevard, Daily OT Security News
     sitio: https://securityboulevard.com/
-    grupo: especializada
+    grupo: excluida
+    motivo: "Republica el mismo «Daily OT Security News» de Viakoo, que ahora se lee directamente y se divide aviso por aviso (11 nov 2026)."
     tipo: proveedor
     tematicas: [ciber-ot]
     metodo: google_news
@@ -497,7 +594,15 @@ fuentes:
     tematicas: [ciber-ot]
     metodo: rss
     feeds: [https://www.viakoo.com/feed/]
-    marcas: [proveedor]
+    marcas: [proveedor-viakoo]
+    # Cada edición de "Daily OT Security News" se divide en una nota por aviso numerado
+    dividir_resumen:
+      titulo_contiene: "Daily OT Security News"
+      dominios_primarios: [cisa.gov, cert-portal.siemens.com, certvde.com, csaf-tp.certvde.com, se.com,
+        schneider-electric.com, rockwellautomation.com, abb.com, psirt.abb.com, honeywell.com,
+        mitsubishielectric.com, johnsoncontrols.com, tyco.widen.net, hitachienergy.com, phoenixcontact.com,
+        axis.com, prosysopc.com, helmholz.de, weidmueller.com, wago.com, moxa.com, cert.cyber.gouv.fr,
+        ncsc.gov.uk, bsi.bund.de, cveawg.mitre.org, nvd.nist.gov]
     verificado: 2026-11-06
 
   # — Tecnología e IT —

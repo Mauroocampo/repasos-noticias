@@ -1140,6 +1140,16 @@
   "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
+  "id": "ccba022ab0f68f",
+  "fuente_id": "portafolio",
+  "titular": "Ley de rescate económico desata críticas de concesionarios por mayor IVA a vehículos eléctricos",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-economico-desata-criticas-de-concesionarios-por-mayor-iva-a-vehiculos-electricos-505615",
+  "fecha": "2026-11-03T15:28:00+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "ffd0d5d4c1859b",
   "fuente_id": "security-boulevard-ot",
   "titular": "Yossi Barishev on CNBC: Why Enterprises Still Fall Short on Identity Security",
@@ -1158,6 +1168,16 @@
   "fecha": "2026-11-03T15:16:32+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "74d240cf43fde7",
+  "fuente_id": "la-republica",
+  "titular": "Metro de Panamá contratará gerencia por US$16,2 millones para la Línea 3 hasta 2029",
+  "bajada": "El proyecto registra un avance global cercano a 82% tras finalizar la excavación del túnel bajo el Canal. Las obras principales concluirían entre 2027 y 20...",
+  "enlace": "https://www.larepublica.co/globoeconomia/metro-de-panama-contratara-gerencia-por-us-16-2-millones-para-la-linea-3-hasta-2029-4516636",
+  "fecha": "2026-11-03T15:13:02+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "eac9d7561da366",
@@ -1208,6 +1228,16 @@
   "fecha": "2026-11-03T14:42:42+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "834e7eca8c039d",
+  "fuente_id": "la-republica",
+  "titular": "El pulso de Ecuador para que el banano siga siendo una fruta cotidiana en el mundo",
+  "bajada": "En los últimos quince años el valor del banano en los supermercados ha caído 20%, mientras que el de otras frutas ha aumentado",
+  "enlace": "https://www.larepublica.co/globoeconomia/el-pulso-de-ecuador-para-que-el-banano-siga-siendo-una-fruta-cotidiana-en-el-mundo-4516611",
+  "fecha": "2026-11-03T14:42:19+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "185965407a0a75",
@@ -1558,6 +1588,16 @@
   "fecha": "2026-11-03T12:13:17+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "8d053794536981",
+  "fuente_id": "portafolio",
+  "titular": "Ley de rescate económico recibe espaldarazo del FMI y el Banco de la República destaca sus posibles efectos",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/ley-de-rescate-fiscal-recibe-espaldarazo-del-fmi-y-el-banco-de-la-republica-destaca-sus-posibles-efectos-505597",
+  "fecha": "2026-11-03T12:09:56+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "1a653d0ae5ab3b",

@@ -97,6 +97,8 @@ a { color: var(--acento); }
 .aviso-automatico strong { color: var(--texto); }
 .titulo-seccion .zona { text-transform: none; letter-spacing: 0; font-weight: 400; }
 .sello-vieja { font-size: .7rem; padding: 1px 6px; border-radius: 4px; background: var(--acento-suave); color: var(--acento); font-weight: 600; }
+.sello-portada { font-size: .7rem; padding: 1px 6px; border-radius: 4px; background: var(--ok-fondo); color: var(--ok); font-weight: 600; }
+.sello-anterior { font-size: .7rem; padding: 1px 6px; border-radius: 4px; border: 1px solid var(--borde); color: var(--texto-suave); }
 .titulo-seccion { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--texto-suave); margin: 28px 0 12px; }
 
 /* Notas */

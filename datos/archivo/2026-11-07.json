@@ -730,6 +730,16 @@
   "primera_vista": "2026-11-08T12:17:31+00:00"
  },
  {
+  "id": "b3eb8da7c14b3b",
+  "fuente_id": "the-manufacturer",
+  "titular": "Collaboration - Page 274 of 278 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRlhQc0NyajJ6VWh2WmlLOEp0eWctaXp4SlEzMU1vWmhLUTNsdXVNTmM5aFkzdm0tYzNTOHVEanMzMlM5STBxVXpEa0oyeVlISzhxMUJOd2Q3b2FIbm9KUFlCUjJmMmdmR2sw?oc=5",
+  "fecha": "2026-11-07T22:10:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "d44fec61ccb764",
   "fuente_id": "techcrunch",
   "titular": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -1178,6 +1188,16 @@
   "fecha": "2026-11-07T20:26:34+00:00",
   "via": "rss",
   "primera_vista": "2026-11-08T12:17:31+00:00"
+ },
+ {
+  "id": "cecb5bff6f01e9",
+  "fuente_id": "el-universal",
+  "titular": "Conversatorio ‘La cultura del tabaco y su impacto en la academia’",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGZiNFJZdGR6MHBWQzh0b1AwQlcwNy16Z0ZtMnBWQUM2Z0x0bE9KT2N4cUJ5MU9JX2laR1NjR0RRYk4ydWNZczQ1ekNCTnRMZnlvZVdYclZoc1hkSUFxY1dOM2Z5YUpxRURFQ2xDbXdUYWZHUV9ic0lOSmlzVmxsNXRHSHNic2szMjU2dHJmUEcwcWJvYy1PZjRXR3M1NFdqdURmckVZZnNhM0JQT1E4TTJqR2I1dw?oc=5",
+  "fecha": "2026-11-07T20:26:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "ac1f7048935c67",
@@ -2338,6 +2358,81 @@
   "fecha": "2026-11-07T14:33:28+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T16:43:48+00:00"
+ },
+ {
+  "id": "1ed80a9342c0eb",
+  "fuente_id": "viakoo",
+  "titular": "CISA flags an exploited SonicWall SSL VPN authentication flaw",
+  "bajada": "CISA added CVE-2026-19868 to its Known Exploited Vulnerabilities catalog based on evidence of active exploitation. SonicWall says that when SAML is enabled for SSL VPN logins, a user with valid credentials for an alternative authentication method may bypass SAML and…",
+  "enlace": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "fecha": "2026-11-07T14:33:28+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 07, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/",
+   "numero": 1
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "8bf65776a949b2",
+  "fuente_id": "viakoo",
+  "titular": "Unit 42 measures exposure after European refrigeration attacks",
+  "bajada": "Unit 42 reported finding more than 5,000 internet-exposed devices worldwide from manufacturers named in a French government alert about attacks on refrigeration controllers. The measurement does not establish that every counted device is a refrigeration controller, runs…",
+  "enlace": "https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-012/",
+  "fecha": "2026-11-07T14:33:28+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 07, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/",
+   "numero": 2
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "48cc4ca9dafa6e",
+  "fuente_id": "viakoo",
+  "titular": "Censys highlights blind spots in industrial internet exposure",
+  "bajada": "A new Censys analysis uses the earlier refrigeration attacks to illustrate broader industrial-control-system exposure, rather than reporting a new attack. Its 2026 State of the Internet Report estimated an early-2026 average of roughly 134,000 internet-exposed hosts running…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/#aviso-3",
+  "fecha": "2026-11-07T14:33:28+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 07, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/",
+   "numero": 3
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "a697e687505b81",
+  "fuente_id": "viakoo",
+  "titular": "ZeroFox reports October extortion activity in manufacturing",
+  "bajada": "ZeroFox reported at least 855 ransomware and digital-extortion incidents worldwide during October, including at least 151 involving manufacturing. Its counts draw on open and other intelligence sources; ZeroFox cautions that some information cannot be independently verified, and…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/#aviso-4",
+  "fecha": "2026-11-07T14:33:28+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 07, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/",
+   "numero": 4
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "3119693d338da4",
+  "fuente_id": "viakoo",
+  "titular": "WAGO revises affected-device list for CODESYS flaws",
+  "bajada": "WAGO revised its advisory for three CODESYS vulnerabilities, adding PFC300 and removing WP400 from the affected-device list. Two flaws can cause denial of service under the conditions described by the advisories; a separate manipulated-project-file flaw can execute code in the…",
+  "enlace": "https://certvde.com/en/advisories/VDE-2025-081/",
+  "fecha": "2026-11-07T14:33:28+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 07, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-07-2026/",
+   "numero": 5
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "28cbbff2354250",
@@ -4168,6 +4263,26 @@
   "fecha": "2026-11-07T05:01:32+00:00",
   "via": "rss",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "a155d1a18811af",
+  "fuente_id": "la-republica",
+  "titular": "El agro necesita más proyectos, menos peleas",
+  "bajada": "No pinta bien la pelea entre Fedegan y el Ministerio de Agricultura, se necesita un cese el fuego de palabrerías y empezar a diseñar más programas en pos de un mejoramiento en la calidad y los costos de la leche y la carne",
+  "enlace": "https://www.larepublica.co/opinion/editorial/el-agro-necesita-mas-proyectos-menos-peleas-4518551",
+  "fecha": "2026-11-07T05:01:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "901379991b4150",
+  "fuente_id": "portafolio",
+  "titular": "Esquivando obstáculos para seguir",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/editorial/esquivando-obstaculos-para-seguir-505903",
+  "fecha": "2026-11-07T05:01:16+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "871c3c9415da32",

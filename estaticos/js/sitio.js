@@ -174,9 +174,13 @@
     var v = valores();
     var q = normalizar(v.q);
     var dia = v.periodo === 'hoy' ? hoy() : '';
+    var soloPortada = v.periodo === 'portada';
     var coinciden = 0, mostradas = 0;
     notas.forEach(function (n) {
-      var ok = (!dia || n.getAttribute('data-dia') === dia) &&
+      // «Portadas de hoy»: solo lo que está en portada (aunque sea de días antes);
+      // en las demás vistas no salen las notas de portada más viejas que la ventana
+      var ok = (soloPortada ? n.hasAttribute('data-portada') : !n.hasAttribute('data-solo-portada')) &&
+               (!dia || n.getAttribute('data-dia') === dia) &&
                (!v.tema || (' ' + n.getAttribute('data-temas') + ' ').indexOf(' ' + v.tema + ' ') >= 0) &&
                (!v.fuente || n.getAttribute('data-fuente') === v.fuente) &&
                (!v.tipo || n.getAttribute('data-tipo') === v.tipo) &&

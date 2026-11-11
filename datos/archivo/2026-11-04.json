@@ -220,6 +220,46 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "016de46341f96c",
+  "fuente_id": "portafolio",
+  "titular": "Virtualidad después del terremoto",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/virtualidad-despues-del-terremoto-505746",
+  "fecha": "2026-11-05T02:21:05+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "37c31ab1aa6b79",
+  "fuente_id": "portafolio",
+  "titular": "Impuesto amargo para el café colombiano",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/impuesto-amargo-para-el-cafe-colombiano-505745",
+  "fecha": "2026-11-05T02:19:54+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "4edba6aff0cf76",
+  "fuente_id": "portafolio",
+  "titular": "Días de máximo riesgo",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/dias-de-maximo-riesgo-505744",
+  "fecha": "2026-11-05T02:17:41+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "dbff8d4ca2a5a9",
+  "fuente_id": "portafolio",
+  "titular": "Llegó la cuenta",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/llego-la-cuenta-505743",
+  "fecha": "2026-11-05T02:16:02+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "708f7e622dc589",
   "fuente_id": "futurefive",
   "titular": "Dreame & Luxury Escapes launch Maldives prize campaign",
@@ -228,6 +268,16 @@
   "fecha": "2026-11-05T02:14:42+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "0744a79b214ed8",
+  "fuente_id": "portafolio",
+  "titular": "Diplomacia sin camiseta",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/editorial/diplomacia-sin-camiseta-505742",
+  "fecha": "2026-11-05T02:14:16+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "87823f956d1986",
@@ -488,6 +538,16 @@
   "fecha": "2026-11-05T00:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "e5f1f74a265f9c",
+  "fuente_id": "jci-psirt",
+  "titular": "JCI-PSA-2026-45: Vulnerability impacting C•CURE 9000 / victor",
+  "bajada": "Producto: C•CURE 9000 / victor. CVE-2026-106019",
+  "enlace": "https://tyco.widen.net/s/jmcjbkpf65/jci-psa-2026-45",
+  "fecha": "2026-11-05T00:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "06587d4d0f291a",
@@ -2298,6 +2358,16 @@
   "fecha": "2026-11-04T15:14:13+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-07T11:52:57+00:00"
+ },
+ {
+  "id": "67518e2f5e3970",
+  "fuente_id": "portafolio",
+  "titular": "El efecto tijera en el que se encuentra el sector exportador de café",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/agro/el-efecto-tijera-en-el-que-se-encuentra-el-sector-exportador-de-cafe-505687",
+  "fecha": "2026-11-04T15:12:05+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "42231831ec14af",

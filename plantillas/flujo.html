@@ -22,6 +22,7 @@
     <fieldset class="periodo">
       <legend>Fecha</legend>
       <label><input type="radio" name="periodo" value="hoy"> Solo hoy</label>
+      {% if en_portada %}<label title="Notas que están hoy en la portada de Portafolio y La República, aunque se hayan publicado antes"><input type="radio" name="periodo" value="portada"> Portadas de hoy ({{ en_portada }})</label>{% endif %}
       <label><input type="radio" name="periodo" value="" checked> Últimos {{ cfg.ventana_dias }} días</label>
     </fieldset>
     {% if not tema_fijo %}

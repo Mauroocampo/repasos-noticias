@@ -80,6 +80,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "91e7fcbff36d20",
+  "fuente_id": "yahoo-finance",
+  "titular": "NFLX Stock Slips Overnight: Co-CEO Gregory Peters Sells $1.74M Worth Of Company Shares",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnhNdmpIN0xleDdhQUJKekZBVWZfdWF0dzNsWXZHaEttcWZiWXQ2bml6M3VjTFVWbE9vaThlSU9nOFJzOUZtVVZ3c05WX21fb3VDWmVTSXc2UWxfRXdNV1J2NmNDWmJrNUc5N05wREMtZXY1ak8tblh3YVIyd0xfd0YtODhkelRjekdxc0dxcXNHS1JNQXU1eUlR?oc=5",
+  "fecha": "2026-11-11T04:52:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "a204a2c8ec38c2",
   "fuente_id": "yahoo-finance",
   "titular": "Western Union Announces Termination of Agreement to Acquire Intermex",
@@ -660,6 +670,26 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "254d446775dc71",
+  "fuente_id": "portafolio",
+  "titular": "Estaciones se reúnen en Cartagena",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/estaciones-se-reunen-en-cartagena-506110",
+  "fecha": "2026-11-11T02:36:25+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "ea351a86210a91",
+  "fuente_id": "yahoo-finance",
+  "titular": "Michael Burry Sees Nvidia Becoming ‘A Heck Of A Trade’ — Reveals His 2 Biggest Bets And Where He’s Buying More",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5",
+  "fecha": "2026-11-11T02:35:05+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "ad64aba42b4fc8",
   "fuente_id": "ecommercenews",
   "titular": "Australia leads use of AI agents, but managers feel strain",
@@ -668,6 +698,46 @@
   "fecha": "2026-11-11T02:35:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "cdef14de065801",
+  "fuente_id": "portafolio",
+  "titular": "Creer y sentir las marcas, no solo comprarlas",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/creer-y-sentir-las-marcas-no-solo-comprarlas-506109",
+  "fecha": "2026-11-11T02:34:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "49a5128aa4bde3",
+  "fuente_id": "portafolio",
+  "titular": "Mejor IVA, menos privilegios y mejor protección",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/mejor-iva-menos-privilegios-y-mejor-proteccion-506108",
+  "fecha": "2026-11-11T02:31:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "be3e59780d1a17",
+  "fuente_id": "portafolio",
+  "titular": "¡Cayetana, políticamente imprescindible!",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/cayetana-politicamente-imprescindible-506107",
+  "fecha": "2026-11-11T02:29:33+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "0dfdeb29fbf999",
+  "fuente_id": "portafolio",
+  "titular": "Alivio prestado",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/editorial/alivio-prestado-506106",
+  "fecha": "2026-11-11T02:26:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "5c02cef0f46257",
@@ -688,6 +758,16 @@
   "fecha": "2026-11-11T02:16:14+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "6435687b3ba0f0",
+  "fuente_id": "portafolio",
+  "titular": "Competencia aérea: más que abrir espacio a nuevas aerolíneas",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/competencia-aerea-mas-que-abrir-espacio-a-nuevas-aerolineas-506103",
+  "fecha": "2026-11-11T02:15:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "9b37705e7e7acc",
@@ -1088,6 +1168,16 @@
   "fecha": "2026-11-11T00:11:36+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "54f8f80db1a285",
+  "fuente_id": "portafolio",
+  "titular": "‘Un disparate’: exministro de Energía advierte que fallo de tutela podría retrasar Sirius más allá de 2030",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/energia/un-disparate-exministro-de-energia-advierte-que-fallo-de-tutela-podria-retrasar-sirius-mas-alla-de-506098",
+  "fecha": "2026-11-11T00:11:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "49bc3e054a2449",
@@ -1840,6 +1930,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "ec491271d628ec",
+  "fuente_id": "portafolio",
+  "titular": "Millicom eleva su deuda a US$8.000 millones tras expansión regional y compra de operaciones de Telefónica",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/millicom-eleva-su-deuda-a-us-8-000-millones-tras-expansion-regional-y-compra-de-operaciones-de-telefonica-506092",
+  "fecha": "2026-11-10T21:41:41+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "a5f43ebb105b5a",
   "fuente_id": "la-republica",
   "titular": "Aseguradoras realizaron desembolso de $1,43 billones para siniestros por el sismo",
@@ -2000,6 +2100,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "482902bd9fc869",
+  "fuente_id": "portafolio",
+  "titular": "Vía Buga-Buenaventura: arrancan obras en los 21 frentes y ya hay fecha para terminar el corredor",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/infraestructura/via-buga-buenaventura-arrancan-obras-en-los-21-frentes-y-ya-hay-fecha-para-terminar-el-corredor-506089",
+  "fecha": "2026-11-10T21:20:46+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "b9844d83cd8aff",
   "fuente_id": "wsj",
   "titular": "Yields Jump as Inflation Comes in Hotter Than Expected",
@@ -2048,6 +2158,16 @@
   "fecha": "2026-11-10T21:13:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "570d06d29f9d55",
+  "fuente_id": "portafolio",
+  "titular": "Anthropic busca recaudar hasta US$64.000 millones en su debut en Wall Street",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/anthropic-busca-recaudar-hasta-us-64-000-millones-en-su-debut-en-wall-street-506090",
+  "fecha": "2026-11-10T21:12:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "145a4be2bd18bd",
@@ -2160,6 +2280,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "3e31307c98e7a6",
+  "fuente_id": "portafolio",
+  "titular": "Helicol podría entrar en liquidación: la decisión de la Supersociedades que pone en riesgo su reorganización",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/helicol-podria-entrar-en-liquidacion-la-decision-de-la-supersociedades-que-pone-en-riesgo-su-reorganizacion-506086",
+  "fecha": "2026-11-10T20:54:01+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "c012fc7ecd62b3",
   "fuente_id": "techcrunch",
   "titular": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -2200,6 +2330,26 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "21ecd8862602cc",
+  "fuente_id": "portafolio",
+  "titular": "'No está planteado que entren nuevos accionistas': Faranda busca cerrar 2027 con 60 hoteles y apunta a 100 en 2030",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/no-esta-planteado-que-entren-nuevos-accionistas-faranda-busca-cerrar-2027-con-60-hoteles-y-apunta-a-100-en-506075",
+  "fecha": "2026-11-10T20:45:00+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "a2446d325ad0af",
+  "fuente_id": "the-manufacturer",
+  "titular": "SupplyChain - Page 65 of 78 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhcU8zck4ySnJxNmNCZTdfczVkSjZoRklHd2UtSDlIMThUNVFoeGU3MFJxRWZscjJHOEl6Zk92ZHRHa3puSnRXeU9IcjdDNU5HR1NpVXByamhwOEtoX0NZVFNlM1UtN1hK?oc=5",
+  "fecha": "2026-11-10T20:44:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "b989144445c55b",
   "fuente_id": "techcrunch",
   "titular": "X-energy gets green light to build its first small modular nuclear reactors",
@@ -2208,6 +2358,16 @@
   "fecha": "2026-11-10T20:43:55+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "3b5d8dcfe985e4",
+  "fuente_id": "portafolio",
+  "titular": "CNE asignó $38.036 millones a partidos políticos para 2026: cinco organizaciones concentran el 60,1%",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/cne-asigno-38-036-millones-a-partidos-politicos-para-2026-cinco-organizaciones-concentran-el-60-506085",
+  "fecha": "2026-11-10T20:38:45+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "f9755c61299f16",
@@ -2408,6 +2568,16 @@
   "fecha": "2026-11-10T20:06:37+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "ff8cb441ef74a2",
+  "fuente_id": "portafolio",
+  "titular": "Empresas en Colombia podrán enviar y recibir pagos con 155 países tras nueva integración de zulu con Swift",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/empresas-en-colombia-podran-enviar-y-recibir-pagos-con-155-paises-tras-nueva-integracion-de-zulu-con-swift-506084",
+  "fecha": "2026-11-10T20:02:26+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "7d02a94631ac82",
@@ -3840,6 +4010,16 @@
   "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
+  "id": "14af431071f814",
+  "fuente_id": "portafolio",
+  "titular": "Nueva etapa en Colpensiones: cambios que anuncia la entidad para garantizar pagos a casi 2 millones de pensionados",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/mis-finanzas/jubilacion/nueva-etapa-en-colpensiones-cambios-que-anuncia-la-entidad-para-garantizar-pagos-a-casi-2-millones-de-pensionados-506073",
+  "fecha": "2026-11-10T17:25:31+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "30f6d1d32977a2",
   "fuente_id": "wsj",
   "titular": "Tech, Media & Telecom Roundup: Market Talk",
@@ -4650,6 +4830,16 @@
   "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
+  "id": "c333a3779d9c7f",
+  "fuente_id": "yahoo-finance",
+  "titular": "Microsoft Corporation (MSFT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02aDBpUWN4ZVp0ajliNXhvdWpuVWc1Z1B4eEVyUUFmN2RoazgzbUlUaU9kR1JTU2Q0bVR6ck45M2szN28wUWVmcmRoZlRnQQ?oc=5",
+  "fecha": "2026-11-10T16:26:35+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
+ },
+ {
   "id": "df420713433b1d",
   "fuente_id": "macrumors",
   "titular": "Apple Arcade Adding These Four Games in December",
@@ -5380,6 +5570,16 @@
   "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
+  "id": "ed2f11209aedf8",
+  "fuente_id": "portafolio",
+  "titular": "Más demanda que Bogotá, pérdidas de energía y deudas billonarias: así está el negocio eléctrico en la región Caribe",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/energia/mas-demanda-que-bogota-perdidas-de-energia-y-deudas-billonarias-asi-esta-el-negocio-electrico-en-la-region-caribe-506062",
+  "fecha": "2026-11-10T15:28:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "44391e8f62a540",
   "fuente_id": "the-register",
   "titular": "Fireworks AI gets burned twice as customer data exposure widens",
@@ -5970,6 +6170,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "bc100db4f70607",
+  "fuente_id": "portafolio",
+  "titular": "Inflación en EE. UU.: precios se incrementaron en octubre un 0,4 % con respecto a septiembre de 2026",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/internacional/inflacion-en-ee-uu-precios-se-incrementaron-en-octubre-un-0-4-con-respecto-a-septiembre-de-506057",
+  "fecha": "2026-11-10T14:36:52+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "fc2b45544dcc0e",
   "fuente_id": "business-wire",
   "titular": "AmFirst Expands Indirect Auto Lending Capacity With Saris, Funding 50 Loans in Four Hours",
@@ -6160,6 +6370,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "8ce588a0384cbe",
+  "fuente_id": "portafolio",
+  "titular": "El euro subió en Colombia y le gana terreno al peso: así cotiza la moneda europea este 10 de noviembre",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/finanzas/el-euro-subio-en-colombia-y-le-gana-terreno-al-peso-asi-cotiza-la-moneda-europea-este-10-de-noviembre-506056",
+  "fecha": "2026-11-10T14:19:44+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "c51b8464941b5b",
   "fuente_id": "viakoo",
   "titular": "Daily OT Security News: November 10, 2026",
@@ -6168,6 +6388,81 @@
   "fecha": "2026-11-10T14:18:35+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "0087d3072c50fb",
+  "fuente_id": "viakoo",
+  "titular": "France attributes October refrigeration attacks to Iran-linked cyber unit",
+  "bajada": "France attributes the October attacks on refrigeration controllers at more than 700 French retail sites to Shahid Kaveh, a cyberoffensive unit affiliated with Iran’s Islamic Revolutionary Guard Corps. French authorities say the attacks caused physical damage, fires and…",
+  "enlace": "https://cert.cyber.gouv.fr/uploads/CERTFR-2026-CTI-009.pdf",
+  "fecha": "2026-11-10T14:18:35+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 10, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-10-2026/",
+   "numero": 1
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "29b79706d97c64",
+  "fuente_id": "viakoo",
+  "titular": "Axis discloses critical Camera Station vulnerability; fix details need clarification",
+  "bajada": "Axis disclosed CVE-2026-13312, an input-validation flaw that could lead to system compromise in AXIS Camera Station Pro and AXIS Camera Station surveillance-management software. Axis rates it 9.9 critical; the CVE vector specifies network access, low privileges and no user…",
+  "enlace": "https://www.axis.com/dam/public/e4/2d/85/cve-2026-13312pdf-en-US-561251.pdf",
+  "fecha": "2026-11-10T14:18:35+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 10, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-10-2026/",
+   "numero": 2
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "e4bfaac7715b6a",
+  "fuente_id": "viakoo",
+  "titular": "Siemens flags command injection in meta-iot2050 firmware-update tooling",
+  "bajada": "Siemens says CVE-2026-109830 affects meta-iot2050 versions V01.03.01 and later. An attacker able to manipulate a configuration file could cause arbitrary commands to execute as root when a user runs the affected firmware-update tool. Siemens’ scoring vectors describe local…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-724261.html",
+  "fecha": "2026-11-10T14:18:35+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 10, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-10-2026/",
+   "numero": 3
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "16716b99020df7",
+  "fuente_id": "viakoo",
+  "titular": "Helmholz discloses flaws in myREX24V2 industrial remote-access software",
+  "bajada": "Helmholz disclosed 12 vulnerabilities, CVE-2026-60035 through CVE-2026-60046, in myREX24V2 and myREX24V2.virtual. Five command-injection flaws can allow remote code execution to an attacker with high privileges. Separate issues include unauthenticated disruption of backup…",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-141/",
+  "fecha": "2026-11-10T14:18:35+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 10, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-10-2026/",
+   "numero": 4
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "4a198485516539",
+  "fuente_id": "viakoo",
+  "titular": "Weidmüller fixes PHP-related web-interface denial of service in industrial routers",
+  "bajada": "Weidmüller says CVE-2026-109618 in bundled PHP can let an unauthenticated attacker with network access temporarily make the web interface of affected IE-SR-4TX and IE-SR-4GT security-router variants unavailable. Its product list covers firmware from 1.0.0 to before 2.3.4; the…",
+  "enlace": "https://certvde.com/en/advisories/vde-2026-152/",
+  "fecha": "2026-11-10T14:18:35+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 10, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-10-2026/",
+   "numero": 5
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "9454ed60acafcf",
@@ -6298,6 +6593,16 @@
   "fecha": "2026-11-10T14:04:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "21d358d6659960",
+  "fuente_id": "yahoo-finance",
+  "titular": "Alphabet Inc. (GOOGL) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5",
+  "fecha": "2026-11-10T14:03:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "0c39cd34b8ff38",
@@ -6840,6 +7145,26 @@
   "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
+  "id": "c8ef2bccb901a1",
+  "fuente_id": "portafolio",
+  "titular": "Petróleo y gas pierden producción en varias regiones: Meta, Casanare y Córdoba registran caídas",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/energia/petroleo-y-gas-pierden-produccion-en-varias-regiones-meta-casanare-y-cordoba-registran-caidas-506048",
+  "fecha": "2026-11-10T13:37:50+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "a9827967b2f597",
+  "fuente_id": "portafolio",
+  "titular": "Inflación de 6,30% pone presión en la antesala del inicio de negociación del salario mínimo de 2027",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/finanzas/inflacion-de-6-30-pone-presion-en-la-antesala-del-inicio-de-negociacion-del-salario-minimo-de-506049",
+  "fecha": "2026-11-10T13:37:01+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "10a251fc0ff2a9",
   "fuente_id": "yahoo-finance",
   "titular": "October inflation data comes in hotter than expected, even as energy inflation fades",
@@ -7008,6 +7333,16 @@
   "fecha": "2026-11-10T13:19:13+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "d796134c7b00d1",
+  "fuente_id": "portafolio",
+  "titular": "Brent cae a US$91 tras declaración de Trump sobre el fin militar de la guerra con Irán",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/energia/brent-cae-a-us-91-tras-declaracion-de-trump-sobre-el-fin-militar-de-la-guerra-con-iran-506044",
+  "fecha": "2026-11-10T13:18:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "b9e56295ca693d",
@@ -7298,6 +7633,16 @@
   "fecha": "2026-11-10T13:03:12+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "2a4d0f4b1d8e8a",
+  "fuente_id": "portafolio",
+  "titular": "Ley de Competitividad: los cambios que busca impulsar para reducir trámites y digitalizar el Estado",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/ley-de-competitividad-los-cambios-que-busca-impulsar-para-reducir-tramites-y-digitalizar-el-estado-506043",
+  "fecha": "2026-11-10T13:03:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "fea83b34884c02",
@@ -8940,6 +9285,66 @@
   "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
+  "id": "f8f68e2ff358ed",
+  "fuente_id": "certvde",
+  "titular": "MB connect line: php2shell in mbCONNECT24/mymbCONNECT24",
+  "bajada": "MB connect line mbCONNECT24/mymbCONNECT24 ships with a bundled PHP version that is affected by two vulnerabilities known as \"php2shell\".",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-128/",
+  "fecha": "2026-11-10T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "3c29fb20b95cbf",
+  "fuente_id": "certvde",
+  "titular": "Helmholz: Multiple Vulnerabilities in myREX24V2/myREX24V2.virtual",
+  "bajada": "Multiple vulnerabilities have been discovered in Helmholz myREX24V2/myREX24V2.virtual that could allow RCE, DoS or information leakage.",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-141/",
+  "fecha": "2026-11-10T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "e8d2f333a2e506",
+  "fuente_id": "certvde",
+  "titular": "Helmholz: php2shell in myREX24V2/myREX24V2.virtual",
+  "bajada": "Helmholz myREX24V2/myREX24V2.virtual ships with a bundled PHP version that is affected by two vulnerabilities known as \"php2shell\".",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-160/",
+  "fecha": "2026-11-10T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "c72ee262cdb7af",
+  "fuente_id": "certvde",
+  "titular": "Weidmueller: Security routers IE-SR-4TX and IE-SR-4GT affected by PHP vulnerability",
+  "bajada": "The Weidmueller security routers IE-SR-4TX and IE-SR-4GT in firmware releases prior to 2.3.4 bundle a PHP version that is affected by CVE-2026-109618. In the configuration used by the products, the …",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-152/",
+  "fecha": "2026-11-10T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "d2c6ba4d4179cf",
+  "fuente_id": "certvde",
+  "titular": "ads-tec Industrial IT: PHP Vulnerability in ADS-TEC IRF Products and Web Terminals",
+  "bajada": "The ADS-TEC IRF1000 and IRF3000 products in firmware releases prior to 2.3.3, the IRF2000 products in firmware releases prior to 5.0.12 and the ADS-TEC web terminals DVG-SHW9019, DVG-SHW9024, DVG-MEW9016, DVG-MEW9019, …",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-131/",
+  "fecha": "2026-11-10T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "b6146b88c19a73",
+  "fuente_id": "certvde",
+  "titular": "Bender EDGE500IP Vulnerabilities - Linux Kernel (TLS and AF_ALG)",
+  "bajada": "Bender is publishing this advisory to inform customers about two vulnerabilities in the Linux kernel used by the EDGE500IP. CISA has added both vulnerabilities (CVE-2025-39682 and CVE-2025-39964) to its Known …",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-143/",
+  "fecha": "2026-11-10T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "189dcdf5c29bf7",
   "fuente_id": "wsj",
   "titular": "How Target Planned for Brian Cornell’s Successor",
@@ -10460,6 +10865,16 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "2e91417e2a41b7",
+  "fuente_id": "la-republica",
+  "titular": "Impuestos: el cliente",
+  "bajada": "erá que los colombianos somos más delincuentes o simplemente será que los ciudadanos no confían en el estado que recauda. ¿Porque no confía el ciudadano en...",
+  "enlace": "https://www.larepublica.co/analisis/carlos-ronderos-533356/impuestos-el-cliente-4520963",
+  "fecha": "2026-11-10T05:02:19+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "a6ce1c9b724104",
   "fuente_id": "la-republica",
   "titular": "“Como próximo proyecto traeremos a Hackett London al Centro Comercial Andino”",
@@ -10478,6 +10893,16 @@
   "fecha": "2026-11-10T05:01:52+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "0c7959e9b3f49e",
+  "fuente_id": "la-republica",
+  "titular": "La paz también se construye con Estado",
+  "bajada": "Cualquier nuevo esfuerzo de paz debe responder una pregunta concreta: ¿qué presencia del Estado encontrará una comunidad cuando disminuya la violencia?",
+  "enlace": "https://www.larepublica.co/analisis/simon-gaviria-munoz-401830/la-paz-tambien-se-construye-con-estado-4520990",
+  "fecha": "2026-11-10T05:01:52+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "feaf35aee72b91",
@@ -10520,6 +10945,16 @@
   "primera_vista": "2026-11-10T13:27:10+00:00"
  },
  {
+  "id": "80744f6ea62493",
+  "fuente_id": "la-republica",
+  "titular": "Las elecciones estadounidenses",
+  "bajada": "La relación con Trump sigue siendo estrecha, pero dirigentes del Partido Demócrata que han sido blanco de esos ataques tendrán influencia directa en la sup...",
+  "enlace": "https://www.larepublica.co/analisis/luis-fernando-vargas-alzate-536071/las-elecciones-estadounidenses-4520968",
+  "fecha": "2026-11-10T05:01:36+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "ef642d5ee8900e",
   "fuente_id": "la-republica",
   "titular": "Aerolíneas Argentinas tendrá cinco frecuencias semanales hacia Cartagena desde enero",
@@ -10528,6 +10963,26 @@
   "fecha": "2026-11-10T05:01:26+00:00",
   "via": "rss",
   "primera_vista": "2026-11-10T13:27:10+00:00"
+ },
+ {
+  "id": "25376377e9a62d",
+  "fuente_id": "la-republica",
+  "titular": "Cinco caminos que debe seguir la tributaria",
+  "bajada": "El proyecto de ley de ajuste fiscal está para discusión debe salir fortalecido en el Congreso y lograr consensos en la importancia del ahorro y el recorte del Estado",
+  "enlace": "https://www.larepublica.co/opinion/editorial/cinco-caminos-que-debe-seguir-la-tributaria-4520710",
+  "fecha": "2026-11-10T05:01:18+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "57da1eef5180b0",
+  "fuente_id": "la-republica",
+  "titular": "El muro de Berlín cayó hace 37 años",
+  "bajada": "Alemania conmemoró ayer los 37 años de la caída del Muro de Berlín, símbolo de la división del país durante la Guerra Fría. En la capital alemana, se rind...",
+  "enlace": "https://www.larepublica.co/caja-fuerte/el-muro-de-berlin-cayo-hace-37-anos-4520874",
+  "fecha": "2026-11-10T05:01:12+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "1032abf6a3a5d7",

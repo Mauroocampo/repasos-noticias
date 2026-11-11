@@ -4,12 +4,16 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from pathlib import Path
 
+import re
+
 import yaml
 
 RAIZ = Path(__file__).resolve().parent.parent
 GRUPOS = {"fija", "especializada", "general", "referencia", "excluida"}
 GRUPOS_FLUJO = {"fija", "especializada", "general"}
-METODOS = {"rss", "google_news", "sin_acceso"}
+METODOS = {"rss", "google_news", "avisos_html", "sin_acceso"}
+METODOS_LECTURA = ("rss", "google_news", "avisos_html")
+EXTRACTORES = {"certvde", "schneider", "jci"}
 
 
 class ErrorConfig(ValueError):
@@ -41,7 +45,7 @@ class Config:
         """Fuentes que alimentan el flujo de noticias y tienen método de lectura."""
         return [
             f for f in self.fuentes
-            if f["grupo"] in GRUPOS_FLUJO and f.get("metodo") in ("rss", "google_news")
+            if f["grupo"] in GRUPOS_FLUJO and f.get("metodo") in METODOS_LECTURA
         ]
 
     def fuentes_del_flujo(self) -> list[dict]:
@@ -117,6 +121,19 @@ def validar(cfg: Config) -> None:
             problemas.append(f"{fid}: método rss sin `feeds`.")
         elif metodo == "google_news" and not (f.get("google_news") or {}).get("consulta"):
             problemas.append(f"{fid}: método google_news sin `google_news.consulta`.")
+        elif metodo == "avisos_html" and (not f.get("pagina_avisos") or f.get("extractor") not in EXTRACTORES):
+            problemas.append(f"{fid}: avisos_html necesita `pagina_avisos` y `extractor` ({', '.join(sorted(EXTRACTORES))}).")
+        for pag in f.get("paginas", []) + ([f["portada"]] if f.get("portada") else []):
+            try:
+                re.compile(pag["patron"])
+            except (KeyError, re.error) as e:
+                problemas.append(f"{fid}: patrón de página no válido ({e}).")
+        if f.get("tipo_por_ruta"):
+            for ruta, tipo in f["tipo_por_ruta"].items():
+                if tipo not in cfg.tipos:
+                    problemas.append(f"{fid}: tipo_por_ruta usa el tipo `{tipo}`, que no está en `tipos`.")
+        for m in [x for x in f.get("marcas", []) if x not in cfg.marcas]:
+            problemas.append(f"{fid}: marca `{m}` no existe.")
         if f.get("tematica_por_defecto") and f["tematica_por_defecto"] not in temas:
             problemas.append(f"{fid}: tematica_por_defecto `{f['tematica_por_defecto']}` no existe.")
         if "mostrar_bajada" in f and not isinstance(f["mostrar_bajada"], bool):

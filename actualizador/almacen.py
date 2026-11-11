@@ -46,6 +46,18 @@ def guardar_estado(estado: dict) -> None:
     _escribir(ESTADO, estado)
 
 
+PORTADAS = REGISTRO / "portadas.json"
+
+
+def cargar_portadas() -> dict:
+    """Última lectura de portadas: {"actualizado": …, "fuentes": {fuente_id: [urls canónicas]}}."""
+    return _leer(PORTADAS, {"actualizado": None, "fuentes": {}})
+
+
+def guardar_portadas(portadas: dict) -> None:
+    _escribir(PORTADAS, portadas)
+
+
 def registrar_errores(estado_fuentes: dict, ahora: datetime) -> None:
     lineas = []
     for fid, est in sorted(estado_fuentes.items()):

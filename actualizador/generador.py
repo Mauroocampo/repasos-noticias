@@ -44,6 +44,7 @@ class Generador:
         self.cfg = cfg
         self.tz = ZoneInfo(cfg.zona_horaria)
         self.textos_ocultas = {k: (v or {}).get("texto", k) for k, v in (cfg.palabras_clave.get("relevancia") or {}).items()}
+        self.nombres = {f["id"]: f["nombre"] for f in cfg.fuentes}
         self.env = Environment(
             loader=FileSystemLoader(PLANTILLAS),
             autoescape=select_autoescape(["html"]),
@@ -55,10 +56,19 @@ class Generador:
     def _vista(self, n: dict) -> dict:
         local = datetime.fromisoformat(n["fecha"]).astimezone(self.tz)
         temas = self.cfg.nombres_tematicas
+        hoy = getattr(self, "hoy_local", None)
+        anterior = bool(n.get("en_portada") and hoy and local.date() < hoy)
         return {
             **n,
             "local": local,
             "hora": hora(local),
+            # Nota de portada publicada antes del día de la actualización
+            "publicada_el": f"{local.day} {MESES_CORTOS[local.month - 1]}" if anterior else "",
+            # Si la nota no está en portada pero otra de su grupo sí: de qué medio es esa portada
+            "portada_otras": [self.nombres.get(f, f) for f in n.get("en_portada_de", [])]
+                             if n.get("en_portada") and n["fuente_id"] not in n.get("en_portada_de", []) else [],
+            # Más vieja que la ventana del sitio pero en portada hoy: solo en «Portadas de hoy»
+            "solo_portada": bool(n.get("fuera_de_ventana") and n.get("en_portada")),
             "tipo_txt": self.cfg.tipos.get(n.get("tipo"), n.get("tipo") or ""),
             "temas_txt": [(t, temas.get(t, t)) for t in n["tematicas"]],
             "tambien_por_titular": self._por_titular(n),
@@ -116,12 +126,14 @@ class Generador:
         shutil.copytree(ESTATICOS, SALIDA / "estaticos")
         (SALIDA / ".nojekyll").write_text("", encoding="utf-8")
 
-        todas = [self._vista(n) for n in notas]
-        # Notas de fuentes que publican poco y son más viejas que la ventana: solo en destacadas
-        vistas = [n for n in todas if not n.get("fuera_de_ventana")]
-        est_fuentes = (estado or {}).get("fuentes", {})
-        con_error = [fid for fid, e in est_fuentes.items() if not e.get("ok") and e.get("metodo") != "sin_acceso"]
         actualizado = estado.get("actualizado") if estado else None
+        self.hoy_local = (datetime.fromisoformat(actualizado) if actualizado else ahora).astimezone(self.tz).date()
+        todas = [self._vista(n) for n in notas]
+        # Notas más viejas que la ventana: las de fuentes que publican poco solo van a destacadas;
+        # las que siguen en portada van al flujo, ocultas salvo en «Portadas de hoy»
+        vistas = [n for n in todas if not n.get("fuera_de_ventana") or n["solo_portada"]]
+        est_fuentes = {k: v for k, v in (estado or {}).get("fuentes", {}).items() if "ok" in v}
+        con_error = [fid for fid, e in est_fuentes.items() if not e.get("ok") and e.get("metodo") != "sin_acceso"]
         self.comun = {
             "version": int(ahora.timestamp()),
             "actualizado": actualizado,
@@ -137,20 +149,18 @@ class Generador:
         self._pagina(
             "flujo.html", SALIDA / "index.html", "",
             pagina="portada", titulo="Lo más reciente", tema_fijo=None,
-            destacadas=self._destacadas(todas), dias=self._por_dia(vistas),
-            total=sum(1 for n in vistas if not n.get("oculta")), ocultas=sum(1 for n in vistas if n.get("oculta")),
-            fuentes_op=fuentes_op, tipos_op=tipos_op,
+            destacadas=self._destacadas([n for n in todas if not n["solo_portada"]]), dias=self._por_dia(vistas),
+            fuentes_op=fuentes_op, tipos_op=tipos_op, **self._conteos(vistas),
         )
         for t in self.cfg.tematicas:
             del_tema = [n for n in vistas if t["id"] in n["tematicas"]]
-            del_tema_todas = [n for n in todas if t["id"] in n["tematicas"]]
+            del_tema_todas = [n for n in todas if t["id"] in n["tematicas"] and not n["solo_portada"]]
             fo, to = self._opciones(del_tema)
             self._pagina(
                 "flujo.html", SALIDA / "tematica" / t["id"] / "index.html", "../../",
                 pagina=t["id"], titulo=t["nombre"], tema_fijo=t["id"],
                 destacadas=self._destacadas(del_tema_todas, por_familia=1), dias=self._por_dia(del_tema),
-                total=sum(1 for n in del_tema if not n.get("oculta")),
-                ocultas=sum(1 for n in del_tema if n.get("oculta")), fuentes_op=fo, tipos_op=to,
+                fuentes_op=fo, tipos_op=to, **self._conteos(del_tema),
             )
 
         self._pagina("fuentes.html", SALIDA / "fuentes" / "index.html", "../",
@@ -164,7 +174,59 @@ class Generador:
         # Archivo pequeño que la página consulta para saber si ya hay una actualización nueva
         (SALIDA / "estado.json").write_text(
             json.dumps({"actualizado": actualizado, "notas": len(notas)}), encoding="utf-8")
+        self._exportar(todas, actualizado)
         return SALIDA
+
+    @staticmethod
+    def _conteos(vistas: list[dict]) -> dict:
+        """Conteos de la barra de filtros: visibles por defecto, ocultas y en portada."""
+        return {
+            "total": sum(1 for n in vistas if not n.get("oculta") and not n["solo_portada"]),
+            "ocultas": sum(1 for n in vistas if n.get("oculta") and not n["solo_portada"]),
+            "en_portada": sum(1 for n in vistas if n.get("en_portada") and not n.get("oculta")),
+        }
+
+    # ── Datos legibles para otras herramientas ─────────────────────────────
+    def _exportar(self, todas: list[dict], actualizado: str | None) -> None:
+        """/datos/hoy.json (publicado hoy o en portada hoy) y /datos/semana.json (ventana completa)."""
+        temas = self.cfg.nombres_tematicas
+        nombres = {f["id"]: f["nombre"] for f in self.cfg.fuentes}
+
+        def registro(n: dict) -> dict:
+            return {
+                "titular": n["titular"],
+                "enlace": n["enlace"],
+                "fuente": n["fuente"],
+                "fuente_id": n["fuente_id"],
+                "tipo_fuente": n["tipo_txt"],
+                "tipo_fuente_id": n.get("tipo"),
+                "tematicas": [{"id": t, "nombre": temas.get(t, t)} for t in n["tematicas"]],
+                "fecha_colombia": n["local"].isoformat(),
+                "fecha": n["local"].date().isoformat(),
+                "hora": n["hora"],
+                "fija": n.get("grupo") == "fija",
+                "en_portada_hoy": bool(n.get("en_portada")),
+                "en_portada_de": [nombres.get(f, f) for f in n.get("en_portada_de", [])],
+                "oculta": ({"regla": n["oculta"], "texto": n["oculta_txt"]} if n.get("oculta") else None),
+                "marcas": [texto for _, texto, _ in n["marcas_txt"]],
+                "bajada": n.get("bajada") or "",
+                "tambien_en": [{"fuente": nombres.get(t["fuente_id"], t["fuente_id"]), "fuente_id": t["fuente_id"],
+                                "titular": t.get("titular") or n["titular"], "enlace": t["enlace"]}
+                               for t in n.get("tambien_en", [])],
+            }
+
+        semana = [n for n in todas if not n.get("fuera_de_ventana") or n["solo_portada"]]
+        hoy = [n for n in semana if n["local"].date() == self.hoy_local or n.get("en_portada")]
+        carpeta = SALIDA / "datos"
+        carpeta.mkdir(parents=True, exist_ok=True)
+        for nombre, lista, descripcion in (
+            ("hoy.json", hoy, f"Notas publicadas el {self.hoy_local.isoformat()} (hora de Colombia) o en la portada de hoy"),
+            ("semana.json", semana, f"Notas de los últimos {self.cfg.ventana_dias} días y las que siguen en portada"),
+        ):
+            (carpeta / nombre).write_text(json.dumps({
+                "actualizado": actualizado, "zona_horaria": self.cfg.zona_horaria, "descripcion": descripcion,
+                "total": len(lista), "notas": [registro(n) for n in lista],
+            }, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def _ctx_fuentes(self, vistas: list[dict], est_fuentes: dict) -> dict:
         por_fuente: dict[str, int] = {}

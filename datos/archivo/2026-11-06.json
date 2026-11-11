@@ -5180,6 +5180,16 @@
   "primera_vista": "2026-11-07T12:59:03+00:00"
  },
  {
+  "id": "5c71a5282aab21",
+  "fuente_id": "abb-psirt",
+  "titular": "Cyber Security Notification - IPEC Standalone iSM PHP2Shell and NTFS-3G Vulnerabilities",
+  "bajada": "ABB is aware of vulnerabilities in third party component affecting multiple versions of the IPEC iSM Local Server product. An attacker who successfully exploited these vulnerabilities may insert and run arbitrary code on affected products. Comprehensive details about the…",
+  "enlace": "https://search.abb.com/library/Download.aspx?DocumentID=4TLB000837&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "fecha": "2026-11-06T16:40:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "06b50c831c97af",
   "fuente_id": "macrumors",
   "titular": "The MacRumors Show: iOS 27.3 Looks Like a Huge Update",
@@ -5580,6 +5590,16 @@
   "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
+  "id": "371c0afb4706be",
+  "fuente_id": "portafolio",
+  "titular": "Google, Meta y TikTok demandan a California por ley que restringe funciones de redes sociales para menores",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/google-meta-y-tiktok-demandan-a-california-por-ley-que-restringe-funciones-de-redes-sociales-para-menores-505855",
+  "fecha": "2026-11-06T16:04:47+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "1a1f863c8e523f",
   "fuente_id": "wsj",
   "titular": "Opinion | Methane Regulations and the Climate Debate",
@@ -5678,6 +5698,16 @@
   "fecha": "2026-11-06T15:57:17+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T21:14:46+00:00"
+ },
+ {
+  "id": "28d8e0fcaa3c48",
+  "fuente_id": "portafolio",
+  "titular": "Amazon lleva a Alexa a los mensajes de texto para impulsar las compras con inteligencia artificial",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/amazon-lleva-a-alexa-a-los-mensajes-de-texto-para-impulsar-las-compras-con-inteligencia-artificial-505854",
+  "fecha": "2026-11-06T15:56:48+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "61015bde2d0008",
@@ -7060,6 +7090,81 @@
   "primera_vista": "2026-11-06T14:29:07+00:00"
  },
  {
+  "id": "d7cfd83bd1b8a6",
+  "fuente_id": "viakoo",
+  "titular": "Johnson Controls warns installer logs may expose security-system credentials",
+  "bajada": "Johnson Controls says affected installers for C•CURE 9000 3.20 and victor 8.0 can write administrative credentials or other sensitive authentication information in cleartext to local logs during installation, upgrade or repair. CVE-2026-106019 affects installer builds 3.20.597…",
+  "enlace": "https://tyco.widen.net/s/jmcjbkpf65/jci-psa-2026-45",
+  "fecha": "2026-11-06T14:11:47+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 06, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-06-2026/",
+   "numero": 1
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "5cffb1b7176405",
+  "fuente_id": "viakoo",
+  "titular": "Mitsubishi expands CC-Link IE TSN advisory to two additional products",
+  "bajada": "Mitsubishi Electric and CISA updated their advisory for CVE-2026-13584, adding the NZ2CT-GN CC-Link IE TSN coupler and FR-D800-E inverter to the affected product list. All versions of the two newly listed models are affected; the inverter is sold in limited regions. An attacker…",
+  "enlace": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
+  "fecha": "2026-11-06T14:11:47+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 06, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-06-2026/",
+   "numero": 2
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "585632f1cb5b5c",
+  "fuente_id": "viakoo",
+  "titular": "Festo updates FactoryViews fix guidance for PHP2Shell flaws",
+  "bajada": "Festo Didactic revised its guidance for PHP2Shell vulnerabilities CVE-2026-109618 and CVE-2026-109619 in Apache/PHP components used by FactoryViews and MES4 with XAMPP. The advisory lists FactoryViews 1.0.0 through 1.12.1 and all MES4 versions as affected, and says the flaws can…",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-139/",
+  "fecha": "2026-11-06T14:11:47+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 06, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-06-2026/",
+   "numero": 3
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "9dbf90b075392f",
+  "fuente_id": "viakoo",
+  "titular": "WAGO discloses a previously fixed cloud account-recovery flaw",
+  "bajada": "WAGO’s Building Cloud Services advisory describes CVE-2026-18963, a flaw in the credential-recovery flow that could allow an unauthenticated attacker to reset an arbitrary account’s password without completing the email-verification step. A successful attacker could access…",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-102/",
+  "fecha": "2026-11-06T14:11:47+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 06, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-06-2026/",
+   "numero": 4
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "3709bc22b1d5bd",
+  "fuente_id": "viakoo",
+  "titular": "Phoenix Contact flags CodeMeter risks in PLCnext and Virtual Controls",
+  "bajada": "Phoenix Contact identifies CodeMeter Runtime vulnerabilities in listed PLCnext and Virtual Controls products running affected firmware from 2025.0 to versions before 2026.0.6. The vendor says the runtime could crash, leaving licenses inaccessible; the component vendor also…",
+  "enlace": "https://certvde.com/en/advisories/VDE-2026-084/",
+  "fecha": "2026-11-06T14:11:47+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 06, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-06-2026/",
+   "numero": 5
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "1c3f0fa5885bf0",
   "fuente_id": "agronegocios",
   "titular": "Conozca los resultados de las loterías de Bogotá y Quindío del jueves 5 de noviembre",
@@ -7688,6 +7793,16 @@
   "fecha": "2026-11-06T13:34:48+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "b109e7185b8b15",
+  "fuente_id": "portafolio",
+  "titular": "Acciones de gigantes tecnológicos se desploman ante temores de mayor regulación a la IA en EE. UU.",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/acciones-de-gigantes-tecnologicos-se-desploman-ante-temores-de-mayor-regulacion-a-la-ia-en-ee-uu-505837",
+  "fecha": "2026-11-06T13:31:37+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "c94a0f23bf4760",
@@ -9750,6 +9865,16 @@
   "primera_vista": "2026-11-06T21:14:46+00:00"
  },
  {
+  "id": "578b06f12c7380",
+  "fuente_id": "certvde",
+  "titular": "WAGO: Multiple PLCs and Communication Components are Affected by multiple Vulnerabilities leading to RCE",
+  "bajada": "Multiple WAGO devices are affected by CODESYS Control vulnerabilities. The affected WAGO firmware versions are <4.10.0 (FW32) and <4.10.0 (70).",
+  "enlace": "https://certvde.com/en/advisories/VDE-2025-081/",
+  "fecha": "2026-11-06T11:00:00+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "c4c9f5ed032536",
   "fuente_id": "wsj",
   "titular": "Israel’s Most Important Alliance Is Confronting Its Biggest Test in Decades",
@@ -11580,6 +11705,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "d5489a6cad6b84",
+  "fuente_id": "la-republica",
+  "titular": "Una tributaria coja",
+  "bajada": "El gobierno perdió tres meses. De manera terca negó que hubiera necesidad de una nueva reforma tributaria. Los dos argumentos equivocados fueron, por un la...",
+  "enlace": "https://www.larepublica.co/analisis/jorge-ivan-gonzalez-506394/una-tributaria-coja-4518621",
+  "fecha": "2026-11-06T05:01:39+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "38d70ae54183d1",
   "fuente_id": "la-republica",
   "titular": "Emisor actualizó al alza su proyección de inflación y prevé que cerrará el año en 7,1%",
@@ -11608,6 +11743,16 @@
   "fecha": "2026-11-06T05:01:35+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "1fe466681cea53",
+  "fuente_id": "la-republica",
+  "titular": "No sobra la alerta financiera por Ueno",
+  "bajada": "Lo que acaba de suceder en Paraguay en donde la quiebra de un neobanco, no solo dejó sin su dinero a los cuentahabientes, sino que tumbó al Presidente del país, son lecciones que valen",
+  "enlace": "https://www.larepublica.co/opinion/editorial/no-sobra-la-alerta-financiera-por-ueno-4518293",
+  "fecha": "2026-11-06T05:01:33+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "756bcd7538a91a",
@@ -11718,6 +11863,16 @@
   "fecha": "2026-11-06T05:00:58+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-08T12:17:31+00:00"
+ },
+ {
+  "id": "87ac8625f8e3e7",
+  "fuente_id": "la-republica",
+  "titular": "Ordóñese de la risa",
+  "bajada": "Ordóñez va a necesitar que todo el gabinete ayude a empujar si quieren llegar a la meta",
+  "enlace": "https://www.larepublica.co/analisis/jorge-hernan-pelaez-500047/ordonese-de-la-risa-4518570",
+  "fecha": "2026-11-06T05:00:50+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "cac2458107f5a3",

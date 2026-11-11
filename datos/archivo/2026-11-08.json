@@ -1110,6 +1110,16 @@
   "primera_vista": "2026-11-09T21:16:06+00:00"
  },
  {
+  "id": "b6825687602990",
+  "fuente_id": "portafolio",
+  "titular": "Lo que pasó en Paraguay",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/editorial/lo-que-paso-en-paraguay-505944",
+  "fecha": "2026-11-08T23:19:37+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "629764282c5618",
   "fuente_id": "el-heraldo",
   "titular": "La corozalera Victoria de Dios Barrios fue elegida como Mujer Cafam Sucre 2027",
@@ -1118,6 +1128,16 @@
   "fecha": "2026-11-08T23:17:06+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T13:10:03+00:00"
+ },
+ {
+  "id": "8624d4fc50bd73",
+  "fuente_id": "portafolio",
+  "titular": "#TPN: Cripto robo histórico, fraude con IA y Neuralink",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/tpn-cripto-robo-historico-fraude-con-ia-y-neuralink-505957",
+  "fecha": "2026-11-08T23:12:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "1925bcf5be6d3d",
@@ -1940,6 +1960,16 @@
   "primera_vista": "2026-11-09T13:10:03+00:00"
  },
  {
+  "id": "94e79c97bd5098",
+  "fuente_id": "portafolio",
+  "titular": "El Súper Niño y las emociones colectivas",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/el-super-nino-y-las-emociones-colectivas-505949",
+  "fecha": "2026-11-08T19:16:09+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "f730a81b32b71c",
   "fuente_id": "el-heraldo",
   "titular": "Norris vence en Sao Paulo y Mercedes gana el Mundial de constructores",
@@ -1968,6 +1998,16 @@
   "fecha": "2026-11-08T19:09:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T13:10:03+00:00"
+ },
+ {
+  "id": "a54ef5919905d0",
+  "fuente_id": "portafolio",
+  "titular": "Vietnam, de la guerra a la bonanza",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/vietnam-de-la-guerra-a-la-bonanza-505948",
+  "fecha": "2026-11-08T19:06:55+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "6830cf094eee5e",
@@ -2020,6 +2060,16 @@
   "primera_vista": "2026-11-09T13:10:03+00:00"
  },
  {
+  "id": "22ca188e06b0a3",
+  "fuente_id": "portafolio",
+  "titular": "Una reforma tributaria social demócrata",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/una-reforma-tributaria-social-democrata-505946",
+  "fecha": "2026-11-08T18:59:08+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "f5f54b18b439ea",
   "fuente_id": "cnbc",
   "titular": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
@@ -2048,6 +2098,16 @@
   "fecha": "2026-11-08T18:56:41+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T13:10:03+00:00"
+ },
+ {
+  "id": "c88e03fcf73f97",
+  "fuente_id": "portafolio",
+  "titular": "Jugando con fuego",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/jugando-con-fuego-505945",
+  "fecha": "2026-11-08T18:52:01+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "e5e581655dd0a6",
@@ -2258,6 +2318,16 @@
   "fecha": "2026-11-08T17:48:55+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T13:10:03+00:00"
+ },
+ {
+  "id": "224803c7ee4e94",
+  "fuente_id": "portafolio",
+  "titular": "'Colombia está perdiendo terreno frente a Chile y Perú en Open Finance': Sensedia",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/colombia-esta-perdiendo-terreno-frente-a-chile-y-peru-en-open-finance-sensedia-505901",
+  "fecha": "2026-11-08T17:48:11+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "e053c267dd38fa",
@@ -3128,6 +3198,81 @@
   "fecha": "2026-11-08T14:34:09+00:00",
   "via": "rss",
   "primera_vista": "2026-11-08T16:53:53+00:00"
+ },
+ {
+  "id": "632bc2221afadb",
+  "fuente_id": "viakoo",
+  "titular": "Synology releases Plex2Shell package guidance; QNAP reports suspected compromises",
+  "bajada": "Synology issued a new advisory for four previously disclosed Plex2Shell vulnerabilities in its Plex Media Server package, not in DSM itself. For DSM 7.4 and 7.3 it lists package 1.43.5.11079-720011079 or later as fixed; for DSM 7.2.2 and 7.2.1 it lists 1.43.5.11079-700011079 or…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/#aviso-1",
+  "fecha": "2026-11-08T14:34:09+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 08, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/",
+   "numero": 1
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "d621cf4fc4b66c",
+  "fuente_id": "viakoo",
+  "titular": "Follow-up coverage examines Poly meeting-room camera vulnerabilities",
+  "bajada": "A November 7 report examines two previously disclosed flaws in the HP Poly EagleEye Cube USB meeting-room camera tested with firmware 1.3.1-001267. The researcher says CVE-2026-39430 allows a client to bypass administrative login and export configuration containing device and…",
+  "enlace": "https://cveawg.mitre.org/api/cve/CVE-2026-39430",
+  "fecha": "2026-11-08T14:34:09+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 08, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/",
+   "numero": 2
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "8e890d4f26dd35",
+  "fuente_id": "viakoo",
+  "titular": "D-Link switch follow-up highlights unpatched discovery-protocol risks",
+  "bajada": "A November 7 report revisits D-Link's advisory on weaknesses tested in the DGS-3130-30TS managed switch, hardware revision B1. D-Link says an attacker with network access could potentially obtain information, make unauthorized administrative changes or disrupt service; no…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/#aviso-3",
+  "fecha": "2026-11-08T14:34:09+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 08, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/",
+   "numero": 3
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "fc741e6227ba3a",
+  "fuente_id": "viakoo",
+  "titular": "Updated Node-RED reporting clarifies affected Siemens gateway models",
+  "bajada": "An updated Node-RED report highlights Siemens' earlier expansion of its advisory for CVE-2026-58115 to SIMATIC IoT2050 Basic, M.2 and SM devices as well as Advanced, when the specified Industrial OS versions and Node-RED are installed. Siemens recommends updating to Industrial…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-834709.html",
+  "fecha": "2026-11-08T14:34:09+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 08, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/",
+   "numero": 4
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "a7a970ca399b90",
+  "fuente_id": "viakoo",
+  "titular": "Refrigeration-attack recap revisits probing of simulated controllers",
+  "bajada": "A November 7 recap of the European refrigeration incidents discusses earlier Lupovis research on internet-exposed decoys that imitated refrigeration controls. Lupovis told reporters that its simulated systems saw probing and attempts to use default credentials in October…",
+  "enlace": "https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-012/",
+  "fecha": "2026-11-08T14:34:09+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 08, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-08-2026/",
+   "numero": 5
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "7e53ffc027942e",
@@ -4318,6 +4463,16 @@
   "fecha": "2026-11-08T05:00:53+00:00",
   "via": "rss",
   "primera_vista": "2026-11-08T12:17:31+00:00"
+ },
+ {
+  "id": "3222f372c8455b",
+  "fuente_id": "la-republica",
+  "titular": "Influencers y políticos, las profesiones en las que menos confían las personas",
+  "bajada": "En la cima del ranking se encuentran los médicos, científicos y profesores, todos con una confianza por encima de 37 puntos porcentuales",
+  "enlace": "https://www.larepublica.co/alta-gerencia/influencers-y-politicos-las-profesiones-en-las-que-menos-confia-la-gente-4519978",
+  "fecha": "2026-11-08T05:00:22+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "7901ab41035d34",

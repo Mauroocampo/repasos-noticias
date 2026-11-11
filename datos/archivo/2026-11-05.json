@@ -190,6 +190,26 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "fde90735ab7a64",
+  "fuente_id": "portafolio",
+  "titular": "Saber perder o fracasar",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/saber-perder-o-fracasar-505829",
+  "fecha": "2026-11-06T03:38:21+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "5999c4433dd435",
+  "fuente_id": "portafolio",
+  "titular": "Estados Unidos votó contra Trump",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/estados-unidos-voto-contra-trump-505828",
+  "fecha": "2026-11-06T03:35:40+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "ee42199941a70e",
   "fuente_id": "infobae-tecno",
   "titular": "Un hombre demandó a OpenAI: dice que ChatGPT ayudó a su esposa a planear envenenarlo",
@@ -290,6 +310,26 @@
   "primera_vista": "2026-11-06T22:17:09+00:00"
  },
  {
+  "id": "2f41da317f21e3",
+  "fuente_id": "portafolio",
+  "titular": "No hay palabras",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/no-hay-palabras-505827",
+  "fecha": "2026-11-06T03:15:52+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "464a7c67e13dda",
+  "fuente_id": "portafolio",
+  "titular": "La experiencia de comprar",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/la-experiencia-de-comprar-505826",
+  "fecha": "2026-11-06T03:12:45+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "ba06728ddb186f",
   "fuente_id": "securitybrief",
   "titular": "Nuix launches AI agent for forensic investigations",
@@ -298,6 +338,16 @@
   "fecha": "2026-11-06T03:10:12+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "d7191cd8271219",
+  "fuente_id": "portafolio",
+  "titular": "Pico con menos barriles",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/editorial/pico-con-menos-barriles-505825",
+  "fecha": "2026-11-06T03:09:54+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "0c474ff3cbb4cf",
@@ -2750,6 +2800,16 @@
   "primera_vista": "2026-11-06T14:29:07+00:00"
  },
  {
+  "id": "fc2b92b06eda5a",
+  "fuente_id": "portafolio",
+  "titular": "Del potencial a los resultados: los desafíos de las empresas para aprovechar la inteligencia artificial",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/del-potencial-a-los-resultados-los-desafios-de-las-empresas-para-aprovechar-la-inteligencia-artificial-505809",
+  "fecha": "2026-11-05T21:58:10+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "0ea9fe1074975b",
   "fuente_id": "yahoo-finance",
   "titular": "Airbnb beats third-quarter estimates as travel demand accelerates; share surge",
@@ -2820,6 +2880,16 @@
   "primera_vista": "2026-11-06T14:29:07+00:00"
  },
  {
+  "id": "ea50f34f3a9582",
+  "fuente_id": "portafolio",
+  "titular": "Inflación en Venezuela cayó a su nivel más bajo de 2026: así subieron los precios en octubre",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/internacional/inflacion-en-venezuela-cayo-a-su-nivel-mas-bajo-de-2026-asi-subieron-los-precios-en-octubre-505807",
+  "fecha": "2026-11-05T21:51:28+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "980ca0e6e0aa91",
   "fuente_id": "security-boulevard-ot",
   "titular": "Sean Bodmer – In Passing",
@@ -2878,6 +2948,16 @@
   "fecha": "2026-11-05T21:48:45+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:29:07+00:00"
+ },
+ {
+  "id": "9feefba79e73f6",
+  "fuente_id": "portafolio",
+  "titular": "La trampa de la microproductividad: el freno de la IA en las empresas",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/la-trampa-de-la-microproductividad-el-freno-de-la-ia-en-las-empresas-505805",
+  "fecha": "2026-11-05T21:48:34+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "2692eeace637e6",
@@ -2978,6 +3058,16 @@
   "fecha": "2026-11-05T21:41:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "0bbac3b6be0925",
+  "fuente_id": "portafolio",
+  "titular": "Portafolio AI Day 2026: los desafíos de las empresas para sacarle el jugo a la inteligencia artificial",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/portafolio-ai-day-505806",
+  "fecha": "2026-11-05T21:40:43+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "fc5ede3aaa5932",
@@ -3148,6 +3238,16 @@
   "fecha": "2026-11-05T21:29:53+00:00",
   "via": "rss",
   "primera_vista": "2026-11-06T14:26:31+00:00"
+ },
+ {
+  "id": "cd23641d846738",
+  "fuente_id": "portafolio",
+  "titular": "'La inteligencia artificial no necesita siempre las GPU más caras': Marcelo Bertolami, de Intel",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/marcelo-bertolami-de-intel-la-inteligencia-artificial-no-necesita-siempre-las-gpu-mas-caras-505804",
+  "fecha": "2026-11-05T21:29:07+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "533c0f666bb5c2",
@@ -6350,6 +6450,81 @@
   "primera_vista": "2026-11-06T14:29:07+00:00"
  },
  {
+  "id": "d9299465ab90ac",
+  "fuente_id": "viakoo",
+  "titular": "Johnson Controls fixes flaws in EasyIO Neo commissioning software",
+  "bajada": "Johnson Controls disclosed three vulnerabilities in EasyIO Neo IO Manager, a commissioning tool for configuring and managing building-automation controllers. The advisory lists IOManager 1.1.0.0 and Tools-Installer-1.1.0.0 as affected. CVE-2026-106020 concerns an uncontrolled…",
+  "enlace": "https://tyco.widen.net/s/d6ghcw9blc/jci-psa-2026-15-int",
+  "fecha": "2026-11-05T14:21:40+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 05, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/",
+   "numero": 1
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "beddbadd01d525",
+  "fuente_id": "viakoo",
+  "titular": "Researchers identify a separate exploited flaw in Zyxel GS1900 switches",
+  "bajada": "Binarly identified CVE-2026-107441, a separate out-of-bounds write in the web-management software of Zyxel GS1900 switches. Zyxel says a LAN-based unauthenticated attacker can use a crafted HTTP request to execute operating-system commands on affected devices. Binarly says…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/#aviso-2",
+  "fecha": "2026-11-05T14:21:40+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 05, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/",
+   "numero": 2
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "339d726a2373ec",
+  "fuente_id": "viakoo",
+  "titular": "Google disrupts XCPE firmware botnet affecting more than 1.3 million devices",
+  "bajada": "Google says a firmware-preinstalled backdoor enrolled more than 1.3 million Android set-top boxes in the XCPE botnet; it also observed infected Android-based telehealth, digital-signage and karaoke devices. Google attributes the operation with high confidence to device…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/#aviso-3",
+  "fecha": "2026-11-05T14:21:40+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 05, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/",
+   "numero": 3
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "c368203d855dc1",
+  "fuente_id": "viakoo",
+  "titular": "ASUS issues AiCloud router update for adjacent-network vulnerability",
+  "bajada": "ASUS disclosed CVE-2026-84730 in certain ASUSWRT 3.0.0.4_386, 3.0.0.4_388 and 3.0.0.6_102 firmware series. The vendor’s CVE record describes a stack-based buffer overflow triggered by a crafted device name that could allow an unauthenticated nearby attacker to execute commands…",
+  "enlace": "https://cveawg.mitre.org/api/cve/CVE-2026-84730",
+  "fecha": "2026-11-05T14:21:40+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 05, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/",
+   "numero": 4
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "584efbc88686cc",
+  "fuente_id": "viakoo",
+  "titular": "Arista revises Linux kernel vulnerability assessment for NDR appliances",
+  "bajada": "Arista identifies Network Detection and Response Security Platform versions through 5.4.11 as affected by CVE-2026-98432, a Linux IPv4 TCP use-after-free. Arista says the only known exploitation method at publication required Multipath TCP, or MPTCP, to be enabled. Anthropic…",
+  "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/#aviso-5",
+  "fecha": "2026-11-05T14:21:40+00:00",
+  "via": "resumen",
+  "resumen": {
+   "edicion": "Daily OT Security News: November 05, 2026",
+   "enlace": "https://www.viakoo.com/blog/daily-ot-security-news-november-05-2026/",
+   "numero": 5
+  },
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "7249fe412ce8a2",
   "fuente_id": "infobae-tecno",
   "titular": "Nuevo GTA 6 hace que Xbox cree una consola en forma de cocodrilo: se llama Xbox Series X-BITE y se va a sortear",
@@ -8980,6 +9155,46 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "8967dde4018660",
+  "fuente_id": "la-republica",
+  "titular": "El costo de un ajuste fiscal insuficiente",
+  "bajada": "Los resultados muestran que, más que la fuente de los recursos, lo determinante es el tamaño del ajuste, y que los recortes de gasto propuestos, por sí sol...",
+  "enlace": "https://www.larepublica.co/analisis/anif-3478852/el-costo-de-un-ajuste-fiscal-insuficiente-4517792",
+  "fecha": "2026-11-05T05:01:46+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "e67b2799b6afc9",
+  "fuente_id": "la-republica",
+  "titular": "Sin Caribe no hay Colombia",
+  "bajada": "Invertir en el Caribe colombiano no es una nueva visión centralista ni una transferencia asistencialista, sino la decisión macroeconómica más rentable para...",
+  "enlace": "https://www.larepublica.co/analisis/eduardo-verano-de-la-rosa-500119/sin-caribe-no-hay-colombia-4517791",
+  "fecha": "2026-11-05T05:01:36+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "d9b741da75ecd6",
+  "fuente_id": "la-republica",
+  "titular": "Nobel de ficción",
+  "bajada": "Como si se estuviera mirando al espejo, el presidente de Estados Unidos, Donald Trump, dijo que Noruega “francamente apesta”. El insulto obedece al berrinc...",
+  "enlace": "https://www.larepublica.co/analisis/eric-tremolada-506119/nobel-de-ficcion-4517798",
+  "fecha": "2026-11-05T05:01:25+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
+  "id": "8736351f8c84db",
+  "fuente_id": "la-republica",
+  "titular": "El negocio de no decidir",
+  "bajada": "No cuestiono la importancia de estudiar los riesgos ni de escuchar diferentes perspectivas, pero existe una diferencia enorme entre analizar para decidir y...",
+  "enlace": "https://www.larepublica.co/analisis/guillermo-caez-gomez-500127/el-negocio-de-no-decidir-4517796",
+  "fecha": "2026-11-05T05:01:19+00:00",
+  "via": "pagina",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
+ },
+ {
   "id": "016707f6262e65",
   "fuente_id": "la-republica",
   "titular": "Gtd pone la mira en la costa colombiana para ampliar su negocio de centros de datos",
@@ -9028,6 +9243,16 @@
   "fecha": "2026-11-05T05:01:03+00:00",
   "via": "rss",
   "primera_vista": "2026-11-09T13:10:03+00:00"
+ },
+ {
+  "id": "217de26c6ea07c",
+  "fuente_id": "la-republica",
+  "titular": "El gas venezolano es crucial",
+  "bajada": "El Gobierno priorizará el restablecimiento del gasoducto Antonio Ricaurte, que retomaría las importaciones de gas desde Venezuela en medio de la crisis por el abastecimiento del energético",
+  "enlace": "https://www.larepublica.co/opinion/editorial/el-gas-venezolano-es-crucial-4517685",
+  "fecha": "2026-11-05T05:01:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-11T15:05:23+00:00"
  },
  {
   "id": "20d3deff786e84",

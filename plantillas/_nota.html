@@ -1,5 +1,5 @@
 {% macro nota(n, raiz, compacta=false) %}
-<article class="nota{% if n.grupo == 'fija' %} nota-fija{% endif %}{% if n.oculta %} nota-oculta{% endif %}"{% if n.oculta %} data-oculta="{{ n.oculta }}" hidden{% endif %}
+<article class="nota{% if n.grupo == 'fija' %} nota-fija{% endif %}{% if n.oculta %} nota-oculta{% endif %}"{% if n.oculta %} data-oculta="{{ n.oculta }}"{% endif %}{% if n.en_portada %} data-portada="1"{% endif %}{% if n.solo_portada %} data-solo-portada="1"{% endif %}{% if n.oculta or n.solo_portada %} hidden{% endif %}
   data-temas="{{ n.tematicas | join(' ') }}" data-fuente="{{ n.fuente_id }}"
   data-tipo="{{ n.tipo }}" data-grupo="{{ n.grupo }}" data-dia="{{ n.local.strftime('%Y-%m-%d') }}"
   data-texto="{{ (n.titular ~ ' ' ~ (n.bajada or '')) | lower }}">
@@ -10,7 +10,12 @@
     <span class="punto" aria-hidden="true">·</span>
     <time datetime="{{ n.fecha }}" title="Hora de Colombia (UTC−5)">{% if compacta %}{{ n.local.day }}/{{ n.local.month }}, {% endif %}{{ n.hora }}</time>
     {% if n.grupo == 'fija' %}<span class="sello-fija">Fija</span>{% endif %}
-    {% if n.fuera_de_ventana %}<span class="sello-vieja" title="Esta fuente publica poco: se muestra su última publicación aunque tenga más de {{ cfg.ventana_dias }} días">Última publicación</span>{% endif %}
+    {% if n.en_portada and not compacta %}
+      {% if not n.portada_otras %}<span class="sello-portada" title="La nota está hoy en la portada de {{ n.fuente }}">En portada hoy</span>
+      {% else %}<span class="sello-portada" title="Una nota de esta historia está hoy en la portada de {{ n.portada_otras | join(' y ') }}">En portada de {{ n.portada_otras | join(' y ') }}</span>{% endif %}
+    {% endif %}
+    {% if n.publicada_el and not compacta %}<span class="sello-anterior">Publicada el {{ n.publicada_el }}</span>{% endif %}
+    {% if n.fuera_de_ventana and not n.en_portada %}<span class="sello-vieja" title="Esta fuente publica poco: se muestra su última publicación aunque tenga más de {{ cfg.ventana_dias }} días">Última publicación</span>{% endif %}
   </p>
   <h3 class="nota-titular"><a href="{{ n.enlace }}" target="_blank" rel="noopener">{{ n.titular }}</a></h3>
   {% if n.bajada and not compacta %}<p class="nota-bajada">{{ n.bajada }}</p>{% endif %}
