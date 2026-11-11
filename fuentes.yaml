@@ -354,6 +354,8 @@ fuentes:
     tematicas: [ciber-it]
     metodo: rss
     feeds: [https://cyberpress.org/feed/]
+    # Desde los servidores de GitHub el RSS a veces devuelve una página que no es un feed (11 nov 2026)
+    respaldo_google_news: { consulta: "site:cyberpress.org", idioma: en }
     verificado: 2026-11-06
 
   - id: cybersecurity-news
@@ -364,6 +366,8 @@ fuentes:
     tematicas: [ciber-it]
     metodo: rss
     feeds: [https://cybersecuritynews.com/feed/]
+    # Desde los servidores de GitHub el RSS a veces devuelve una página que no es un feed (11 nov 2026)
+    respaldo_google_news: { consulta: "site:cybersecuritynews.com", idioma: en }
     verificado: 2026-11-06
 
   - id: thehackerwire
