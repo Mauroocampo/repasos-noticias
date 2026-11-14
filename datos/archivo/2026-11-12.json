@@ -50,6 +50,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "930f1fb2e73cc2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Michael Burry Sees A ‘Mechanical Bid’ Under NVDA Stock – Even As He Questions Nvidia’s Succession Plan And Asia Sales",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnhfVE1scE5nTUJyNWhaYXZPMTA3bGlVVy1LY3RWZ0ltczdZNklGUHZicENiTU9PdkdMT0prcldrdUxpZXZCX3ZCbFo2ay1RWmxmNVNIeDBSQUtRczhFYVZzTVRaSDhkV2hiS1FYcGUxd05FWFd4dGNzWWRnNFVPd2VuRmxZaEhKOUppN0REa3l5V2NwZl9CRGFHSVA2bmc?oc=5",
+  "fecha": "2026-11-13T04:13:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "b06d551e1a498c",
   "fuente_id": "cnbc",
   "titular": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
@@ -440,6 +450,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "d821485ce5fa5a",
+  "fuente_id": "portafolio",
+  "titular": "Salud: medicamentos, Fomag y deudas, los tres frentes que ponen a prueba al Gobierno de De la Espriella en 100 días",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/salud-medicamentos-fomag-y-deudas-los-tres-frentes-que-ponen-a-prueba-al-gobierno-de-de-la-espriella-en-100-dias-506258",
+  "fecha": "2026-11-13T01:35:21+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "e9dea8f2769834",
   "fuente_id": "ecommercenews",
   "titular": "Plan for the day the automation fails in the warehouse",
@@ -468,6 +488,16 @@
   "fecha": "2026-11-13T01:27:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
+  "id": "1cd93d495d7e9f",
+  "fuente_id": "the-manufacturer",
+  "titular": "Food and Beverage - Page 95 of 95 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNOUF6X0hzVnRRQmdoYXBNM3JVTG5mSTJ6Rzc4TF9VVHZuQmFwVG9BV0tFYlUwWER4amlnbnJwVFVGQWR4V0IxQVpfbVYyWUVWaUhQSUdzWUJBOVlnU29YVWJKMDd2ZGtZc0QwM01yRkpNT2NhMmlsU0wzVG84bnFRZmk5TmtqZFR5MGxmRWN2Wk5URzdGb2lVLWIzOWpkR1duTFg1YnQySXhGTE1LSDhjT2hveE56X3hybE5VUl9hQ09TLXlCekVzdTV0aFZqdld6OThQamhzWFEzOHdkZE00aTRXaHhhQVo2QjljNUV4YkVPWkxhdVlKT3NKOGRvTU1aT3JZNVhOemZYcXVpR2dkOTM4NW8tbVNIeHJsdTZNNktzRlduWEtweUFDSDlPVk1aY1R3?oc=5",
+  "fecha": "2026-11-13T01:26:34+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "04770e7c192a0a",
@@ -600,6 +630,26 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "1e6fe23536b417",
+  "fuente_id": "the-manufacturer",
+  "titular": "Goodfellow launches international ‘research’ competition to showcase the next generation of talent",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaE4yYUJRSk9QTmg5RGVhRFFrdVNHMHpoazJ6NEo1MERxV2ZQVmc1V2NKMEZBY2lUcjZPNGZ3ZWt2ODdKcFRqUUpwa01WcWdnYVdkcDFxWmFLcEpNREs3NEVOaHhzSmktaXB2Y3dLWGJJa2Fobkp0Qjg2WE5xN2k1aHp6X1p0S2NTc3d1eTJ6SGcxNTdqU3VDUGY5Y2x2M0t4ZFd6UGItRWxuQVlXUDNsWTRKODRDTGl5eGRmQmFWaDg0RXp1T0pNNkFaRjNQcHprNGxjNA?oc=5",
+  "fecha": "2026-11-13T00:57:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
+  "id": "7a0ef012ce0843",
+  "fuente_id": "the-manufacturer",
+  "titular": "Thurston Group invests millions in new East Yorkshire manufacturing facility",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nU1dXWWMwcGk3SFRxX0FnRERycUEwT2ZMYjNfQ05aZWxzb0I1bC1CbFcwdGllc3BWcUZQd3ZkYVkwRUdDM1o2ajZ1Y2gyMGNrQVNWenpmMWctTVEyaHlRNW1BckdkQmc?oc=5",
+  "fecha": "2026-11-13T00:57:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "36d5c0f2188ed6",
   "fuente_id": "yahoo-finance",
   "titular": "‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO",
@@ -668,6 +718,16 @@
   "fecha": "2026-11-13T00:38:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
+  "id": "5968eac4caa03c",
+  "fuente_id": "yahoo-finance",
+  "titular": "Aussie couple face negative equity after buying first home at 55: 'We've worked so hard'",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3JpQTQ5Y1RVTTdQeG9PaFNlRFlJLS1hMkdaN3UtajlyV3MyX29YS0d0OEw1bmdNVWc0bmtXMG1QN2o2SGFSc3M5cFYzS19FamZpS1V0UkVDNFJ5LThHTW5kSkJFV1ctNmxRNEtaTlVCblo5UWxybzlBQkxzcW85cWdfd3F5bV8yYTMtZkhadDF0UEZyZjc2NktMOGJFZXpfMUlkNExsMWpEa1BTNW5jZUtfS3lsM2hVLUgtQmljVVM3bUk5WDEwemF1U1dTdw?oc=5",
+  "fecha": "2026-11-13T00:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "b5baf33854f516",
@@ -870,6 +930,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "397eb9db9bdc03",
+  "fuente_id": "the-manufacturer",
+  "titular": "Tadweld warns steel tariffs could undermine British manufacturing",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFEbE4wQzUxZmEwVFNpWWl3ZTlISjRub1dhcHg1YXlkWGFJdkFiLTdWbkZyTVpFamtOTXZwd2VCajhHcGZWMTI2MDFtam1ndXlrNXpXMk5ZQzVLd3gwb2RzZGFReTVhby1hdXRzT29IN0pDQXp5ek5LOUtHMmhFQm5wUDB2MTBJR0hXOTBudnpMakQxNFQwbGFNVWpILUg5M3RJQTk2MUdKZG8?oc=5",
+  "fecha": "2026-11-12T23:21:05+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "50f94f2fa2ea87",
   "fuente_id": "yahoo-finance",
   "titular": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south",
@@ -898,6 +968,16 @@
   "fecha": "2026-11-12T23:14:06+00:00",
   "via": "rss",
   "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
+  "id": "0361fc56e71700",
+  "fuente_id": "the-manufacturer",
+  "titular": "Regent Engineering highlights value of workforce diversity in British manufacturing",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3hhbjJ5Y0h6LWEyaG90bklLNmZNV0NadEIxcXdubHcxd0xvTE1OcC04amZPM1NjVDdJQzBHdEpRcHo1T1VOaTRDLXN5bklEOUJzSG5Lbi00eEVWMUxvbzFvRElDV2dnVE5FRjVJSHh2MDZVY0l0VjlFMFR4UUJ3WWNIcTAyWkc0ZzRBMDg1N3RsQkNrejJBVDBHdjdKUi00NURsbF9idFRHWlZtTmNUWEFpMWpfM2dYTTZkSEROU0Fxak0?oc=5",
+  "fecha": "2026-11-12T23:12:44+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "2cbaf845c56eff",
@@ -1380,6 +1460,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "b14a2bb77c88df",
+  "fuente_id": "business-wire",
+  "titular": "Presidio Production Company Announces Third Quarter 2026 Results",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXhXR0NzUi00YWN5RjBBUmJJVU5ZXzJQYjFBQkRxWUY0TzExSlppNnRCQVItLWdVNVFPUHU5RUxFeE5ISEFVRWVfeVUxOVpCOUFydnF6RldTd2tYWDdFRlpmMEVzNFdxVkNKeGQ5UlpWbnZQeVh3YjRGRUxlMDk1V0lRTEZROW9uUkx4Wmk2MkpvZjRqSTNFdXl2emlVbHJQMERfVlFSUVZ3TkRKSmMwR3NaUkd0UEszVHZMMjBB?oc=5",
+  "fecha": "2026-11-12T21:28:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "735e9d81a539aa",
   "fuente_id": "yahoo-finance",
   "titular": "United Airlines CEO: Starlink is our biggest competitive advantage in 100 years",
@@ -1488,6 +1578,16 @@
   "fecha": "2026-11-12T21:15:44+00:00",
   "via": "rss",
   "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
+  "id": "e4922d5633f6d8",
+  "fuente_id": "business-wire",
+  "titular": "Nakamoto Reports Third Quarter 2026 Financial and Operating Results",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS3psWWh2SGlGbXJHVGZybk9iTjQ0elJhckhjM3hxTUdEZ2FsS2FBcFU2OGlOcUxrZm5iXzlWV2FsTU1KX3R3X0FUVjRZT1o0N1RtZ1Zud1ZxVTltNGZmZzlzN0pha09ZVlhxM1UySVVMVHpfUkpCTXR2VWloMHIydW95T3RHV0VlYld5dVM2aHJOZS16SFNkLTZlQzJDbXBzMWluZG0tQnBQdHFBX3VaZ3g3YkhuQmNETm1JRW5JcDNLZw?oc=5",
+  "fecha": "2026-11-12T21:15:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "2e3af4323860cf",
@@ -2008,6 +2108,16 @@
   "fecha": "2026-11-12T19:21:09+00:00",
   "via": "portada",
   "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
+  "id": "9c8ebeea3e26b3",
+  "fuente_id": "yahoo-finance",
+  "titular": "Duolingo CEO on owl's guilt-trip reminders: 'Passive-aggressive works'",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFlSU1ZWcjhKcS1vampMZjRSaG9OZHRGcUpFcy1xWk1yRWx5aVVFRFdUTHRSU0FXWGVMSWpMdFNIb0RhWmdpQlRqYkJISlNoZW9nNDFCT281aGo1X2lZZUtlUERpRXNkcktwaENHSDZFZ09JLU9TR1RLXzRPcnBvc1RlV0huMTFBVjRqM0FzaW5TUFByQlI0STVjdnpQSHhsYVllU3YwbVcwbmFsMzJHZ2p5bU5yeFRWaFlldUFhVUtQM0dvTjB5cHVR?oc=5",
+  "fecha": "2026-11-12T19:16:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "548271c65b9420",
@@ -2728,6 +2838,16 @@
   "fecha": "2026-11-12T18:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-14T01:19:52+00:00"
+ },
+ {
+  "id": "62d1e1b3897f36",
+  "fuente_id": "business-wire",
+  "titular": "Rockwell Automation, Feeding America Eastern Wisconsin and Fork Farms Launch Clock Tower Farms",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQnpzZmdkUEFQa1lMdVpTMUV1Ml9qU3RZZGZpdnNMdXVNR201c2lRVmdFbWtnOGxsUEhOV0UzVlU1aEhKR3FQWU5mWS1ocThiVnZvaFctUG5mY0h0X3lPV3RTTndmTldzUkxIR0M1RXpZOG5pV3BxaHYyRnZWLTlkZkhYRFZmSVdXOWM1Q2Q4NUhZYWMwRENpS2VxaTJPdi0tNkdsZnVsSmJfcnM1ZXJQZWNvUTAzd280ejBHTEZoOU1Mb1FYdGZEV0ZQbU9RdHZOSzFXZC1zY0RiYm1fMHItdFVWYzk?oc=5",
+  "fecha": "2026-11-12T18:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "eda62a1b224426",
@@ -4928,6 +5048,16 @@
   "fecha": "2026-11-12T15:46:08+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "a784b158e8f23c",
+  "fuente_id": "el-universal",
+  "titular": "La razón por la que Estados Unidos no estará en el Mundial sub 17",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHJJR1lCanBmWlYxQ3NPU05uR2dmVW9YWmQ3Wm9wZ1REdndFQXlYWUZET1BfaVVkUVI1WWRQRGVia0ZiZkViWnBBdkY2MTNobHFSUGdLS2d5cUNOT1hqWEtXRzJNVnZPbFJGSXhqMjlJSGhrbUphMFdraTR1UHlQNzE2RUtJdFZESUdyVXNEOTJWS19QMWxEdmx1WjRFdnA1YlpJcVFubkhVZWk1c0dLVVZKZlRWWGhB?oc=5",
+  "fecha": "2026-11-12T15:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "f9112858471a06",
@@ -7565,6 +7695,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "d66a1172c86b76",
+  "fuente_id": "business-wire",
+  "titular": "MultiBank Group and Universal Sign Agreement to Develop USDU Settlement Capabilities for Institutional Clients",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVlBNYnl3MExUcHQtb2V2cEVqYWZfN0RHeVRielltbTRkTWpZeVl3Q3pxUDhDNG5WM0FaeVhiZnhYelNmUU5vTHJHb25TR1lSX29QRGlYSDgyOEVzZ2JpenI3Wnp6MGZyQkplWVB2VTBQdWVYQ2pYSjBOeUFQT2xXckNuQV9XVXEwV01FaGNtVXg0SVBGbF9aMXl3d205N2pSWmpsNVZKSGMzMkYzWlM0Q0tmSzZGNWw5ZjNHYjdKX2NqcG84ZlpTVWFnS1RjY05CZ0F6UnRfaDgteWtBNFo5SG1CaEgtVEh6R2MxT2dNVFh0NjhkTDhvX3ZKUQ?oc=5",
+  "fecha": "2026-11-12T12:03:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "d622077f9e1146",
   "fuente_id": "unicef",
   "titular": "Día Mundial de la Infancia",
@@ -9095,6 +9235,26 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "84b570225c9042",
+  "fuente_id": "unicef",
+  "titular": "América Latina y el Caribe adoptan la Declaración de la Ciudad de México y acuerdan aumentar, mejorar y proteger la inversión en primera infancia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0JTcmN1Qjk3V3ZuMzg0YVpid3ZwWi1qcVRFdWNXdmtmRl91Q3dHZUw4M1NGSWlJeHR1VktGeFdnUDRpWFJHTzRiWE51dUVFZHVROVlQTEFIaWVSTDMxUkdFb0lqRkFQTmRIRVIzLTdGdkoyVVZnU3Q2S0N3QXV6RXY3ZnBzTl9OVFpkSTgtcUlpT25hYXlzQS02V29MVzJnVjdSMHU4RFRKa1Fuc1h3aW9SSGFwWF9xTXFrUFdKVUdHWU45LWdLazBsNXQ3U0Z6dXVCQQ?oc=5",
+  "fecha": "2026-11-12T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
+  "id": "a99748a3b0fa3e",
+  "fuente_id": "oms",
+  "titular": "Municipio de Limpio",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9relVReFhrbHdZN3VXWVNBWXkzWkRuRE10UC0tdU5KSXpvSXB6N1EzbU1HYW43TTdNVlBNV2hNMW9PRzJnNFp3Vy1mN2N2a0szSFhrVXRqazlZTWpmekp4NlFmVFJ5bDhqUDZnVVAxUQ?oc=5",
+  "fecha": "2026-11-12T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
   "id": "bf999934a0cee5",
   "fuente_id": "cfotech",
   "titular": "Vialto launches AI platform for global workforce management",
@@ -9153,6 +9313,16 @@
   "fecha": "2026-11-12T07:21:41+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "f27103ad3e70a2",
+  "fuente_id": "bbva",
+  "titular": "BBVA Provincial transforma la experiencia de banca móvil con la evolución de su app, ahora más sencilla, intuitiva y segura",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0Z4RGM0QzAwR0liTk1hTWtvRTJPQXdGVzZBUDRNTkNrSUZ5Z2Y2ZzI1LUFSRThzTV9WWTRmem5NUUYxaS1Cek9MTHlZRGZyT2UzRWlUbXJXYXBXa2JFcTBMZ1pDM0YzWnhocDhzUWR5aGp6Z1czZERicW1vZUJIZWthelpKQVY5NW4wWHBTZWZfeXZiTDAwNG84Znk3eTZMVDRLaVdmYWtuNlJvckUyTC0wblRMNl9SdTZ4c2ZyaXpwb1FaMnFINkpLc0dpT21TWDBsYmhWcHJqVERRQXlad2Y4WUJHNlJYbEFxRFJwTzBiZw?oc=5",
+  "fecha": "2026-11-12T07:21:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
   "id": "39bbee246ec223",
