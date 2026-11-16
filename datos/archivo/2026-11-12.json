@@ -560,6 +560,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "c9c1bff6fff4bc",
+  "fuente_id": "el-universal",
+  "titular": "¡Orgullo cubano en MLB! Yordan Álvarez es elegido Jugador Más Valioso de la Liga Americana",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWnVvaFhXd3Rjdk1KQUM0ajJ1aEpCUkJuMGN1czZEMDFYcnpna2dQbnVaSlZaRnhyVkt0X3I3bjFKbnpKSGRhajJWbHVJVWhES3RUdlZTQms5YXk0TWZ2WmtYZVBQbjJzak51RzMxMXdkNGVqTWJndEE0YWZPZmd4aERqN3lOVU1vQWFXN1BTUlFSeGhhZkVLWERBazkxeWUzcnpzb1gxRGMyRU5XTEtRVzRiQjNtNUwyS2xHUk9CQXp3QVhCOXdxZlI4LXJFaEt0VF9PdlRCVQ?oc=5",
+  "fecha": "2026-11-13T01:13:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
   "id": "9f8df3547a1ca9",
   "fuente_id": "abc-economia",
   "titular": "Hacienda dinamita los pactos internos en las empresas para prejubilar a empleados",
@@ -3078,6 +3088,16 @@
   "fecha": "2026-11-12T17:53:31+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "1e9442cb10227b",
+  "fuente_id": "uicn",
+  "titular": "AFRIPAC report - Sierra Leone Plastic Trade",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMElhN211Rl9ia01zcWg1ZTF4U1pSSEVPMUlESUxLX3dmZjJRREtRZFQ3dVBDc0Q2bTFmMW9RS0R2c0ZjMm9FZVlGVUtaY3lrMVhSUVRla1BsUnZvRFVQcDhOczJhZ0NQTjkzSzRjUDRYSUFpR3dHNXkxSnVFZkVvR2oyajdzWlQ2MElBckt4Zw?oc=5",
+  "fecha": "2026-11-12T17:52:59+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
   "id": "3174b731764b61",
@@ -5670,6 +5690,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "1ace0222b181eb",
+  "fuente_id": "uicn",
+  "titular": "Programme of IUCN events at UNFCCC COP31",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UazJsSW9acjdsWG42TVFPTHZSUmZzVE5hWUJfNkUxdTJobXJkNng2d0k5dllHZldKaTdwOVdtQmxiZlpYdE5vTWZ3YVFjRHdMdW92MGFYUEJPRUtRaHNtdWxZQ1BCSnhv?oc=5",
+  "fecha": "2026-11-12T15:04:59+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
   "id": "c0f9a2eec76989",
   "fuente_id": "yahoo-finance",
   "titular": "'A tough market': Home sales fall to lowest level since 2010 as high mortgage rates paralyze activity",
@@ -7815,6 +7845,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "8b14fed4f7dbb0",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] Stellantis MEA launches Fiat Grizzly and Fastback in Morocco",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mTUd6QmNGT3NfNWpUbjJ2ckNyWFJxY2pTb3hpNmk0dERLMjhKVGdLcE8wM2FUbGstZnFrSzQ1Z1ZGQ2FHSFcyY1pKNkVYcFVsX0E?oc=5",
+  "fecha": "2026-11-12T12:13:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
   "id": "90c005a1c758f7",
   "fuente_id": "portafolio",
   "titular": "Contraloría alerta retrasos del Metro de Bogotá antes de pruebas: faltan 1.500 trabajadores",
@@ -8185,6 +8225,26 @@
   "primera_vista": "2026-11-15T17:31:30+00:00"
  },
  {
+  "id": "28f12bb386f76a",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Building Automation and Energy Products",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12eTZPT0dSU3MyLTNNemcwaGZBcGl0UjVSZURaM0xCR1FUT0xsUlJvMHpGWUJnUy13eW1qb185aUxCUWVqMm9VWU8yclBLOW4ySnQ1dlk4RzZScENoa0lKNW12Z0Y3TGNrazVCTXk2cw?oc=5",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
+  "id": "5d2522aeb47cf5",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Desigo, Gridscale",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EaUFpVFFkby1Ga0FGWGRaOVloWjY4UVJ0dXpMUVJCUEhYZkc5dUF3cHVOeXZNLVR6cm9GX3VjazFlVmFuUS1tc19ad2Y5a1BGY2xnUEJlNmNqb3lNUEFTUExtS0VRWV80SDJiT0hhcw?oc=5",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
   "id": "d9e77ea5f93932",
   "fuente_id": "oms",
   "titular": "Infographics | OMS | Escritório Regional para a África",
@@ -8523,6 +8583,16 @@
   "fecha": "2026-11-12T11:23:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "05a547bfb404c0",
+  "fuente_id": "marklines",
+  "titular": "STMicroelectronics and WITTENSTEIN, UK, developing flexible software architectures for SDVs",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z2Y2QnBrdGpveFYtaDNzbm9rckV2amZyVm5KSzA0NktnNHZvbDV0dEVKUlJfNXRfbjQ3LXd2T3Fwd29SbXhnY3JBd19WTTNqdUE?oc=5",
+  "fecha": "2026-11-12T11:22:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
   "id": "7156a1968a1dfd",
@@ -9095,6 +9165,26 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "1cd896a2325d35",
+  "fuente_id": "marklines",
+  "titular": "China’s DPCA and Volcano Engine enter into comprehensive strategic partnership to jointly develop intelligent cockpit systems",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sUUozLXFJcDJsRUJVejdJSFl4N245X2lGdElTdy1qZDY3Z2NNR1lQMncyRG9xZXJvc21FbTVnVWh3b19Bd3Y5RjZfdVktZmdpR3c?oc=5",
+  "fecha": "2026-11-12T09:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
+  "id": "489ea5bcfb24c8",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] First batch of 45 Dongfeng buses to be exported to Armenia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdGtXWDZiTWhPbklvUFpMTjZ5cmg5UWYzZXFnX09meHctcFJub28zMWZ1N1JKYmlWb2s0WFNVbThzR0NBdkQzazFRSWZQLXE5UFE?oc=5",
+  "fecha": "2026-11-12T09:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
   "id": "d1aab3a0ec8392",
   "fuente_id": "wsj",
   "titular": "Hapag-Lloyd Vows to Keep Managing Costs Despite Boost From Freight Rates",
@@ -9545,6 +9635,16 @@
   "primera_vista": "2026-11-15T17:31:30+00:00"
  },
  {
+  "id": "99cfa69176142a",
+  "fuente_id": "oms",
+  "titular": "Pese a las dificultades, los países incrementan la inversión interna para proteger los progresos contra la tuberculosis",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGtGMUNqaFhRU3o2VHZqN3M5TGRIdllTd3FRQW9qT0lFd3I1anFrY1BlQjloeGF1azVaNExXdURnV0hOWTIySms4R2pFSGxaTTVHT1VrN0txOFJNc2pZTVpIeHFyT2ItLXhrSWZXb1BoNC1zUzBvOGwyLVZ6bW9aUWZFeTlGUWZIV3doemNOZ0JfZDR4S3AtVFdyQTJZNnRjbjhhYmxVaEg0cEZoaVBVcmZLVTVWNS1XeG5wdVhQci1WcElMN1VKYTBmVzVmcElDWGF4aW9n?oc=5",
+  "fecha": "2026-11-12T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
   "id": "bf999934a0cee5",
   "fuente_id": "cfotech",
   "titular": "Vialto launches AI platform for global workforce management",
@@ -9553,6 +9653,16 @@
   "fecha": "2026-11-12T07:59:49+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "280ecde1f5c477",
+  "fuente_id": "the-manufacturer",
+  "titular": "The Manufacturer, Author at The Manufacturer - Page 1383 of 1383",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jSVI1UVFKS3duTXZBcVMwS0tac1oxVmg3UzNUOTN0T0hBMnFHSU12TWtFUzBBalhNdHp3Q3pYNlYwQms2c3c1dkgtV3BNeXlBYTVFNkk0NzVvOTFYQUdHU1V1dk1oZw?oc=5",
+  "fecha": "2026-11-12T07:47:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
   "id": "ab68a17c1e6852",
@@ -9673,6 +9783,16 @@
   "fecha": "2026-11-12T07:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "31f07336705260",
+  "fuente_id": "marklines",
+  "titular": "GWM, BOI bring together 76 Thai companies and five Tier 1 suppliers for local parts sourcing",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtbGJiRE9VYkw1TXhQVHY2MzZxRGloUjJaQVhlajBNUWNFdG5RSDJEVmZZQUQtdnhKRXg5SzlNcktUdkQ2MmhfN1k2YmMteVcyWEE?oc=5",
+  "fecha": "2026-11-12T06:59:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
   "id": "fb350cf0710253",
