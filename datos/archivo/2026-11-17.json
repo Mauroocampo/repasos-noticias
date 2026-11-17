@@ -1,5 +1,135 @@
 [
  {
+  "id": "727da07988461e",
+  "fuente_id": "agronegocios",
+  "titular": "CAF respaldará un programa para renovar más de 150.000 hectáreas de palma de aceite",
+  "bajada": "El programa se desarrollaría a través de la Línea de Crédito de Integración Industrial Bursátil, un mecanismo diseñado por el Ministerio de Agricultura",
+  "enlace": "https://www.agronegocios.co/agricultura/caf-respaldara-un-programa-para-renovar-mas-de-150-000-hectareas-de-palma-de-aceite-4526530",
+  "fecha": "2026-11-17T19:31:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "4fa3156bf3c5d9",
+  "fuente_id": "macrumors",
+  "titular": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
+  "bajada": "Apple has largely resolved outages affecting iCloud accounts, retail stores, and more, the company said in a statement to Bloomberg . Apple said the outages were due to an unspecified \"internal update\" and were not caused by a cyberattack. The company is working to get remaining…",
+  "enlace": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
+  "fecha": "2026-11-17T19:31:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "b08356007d3f14",
+  "fuente_id": "it-brief",
+  "titular": "Draftable warns law firms over New Outlook risk controls",
+  "bajada": "Firms could miss confidential leaks if attachment cleaning in New Outlook cannot be verified before emails leave the organisation.",
+  "enlace": "https://itbrief.com.au/story/draftable-warns-law-firms-over-new-outlook-risk-controls",
+  "fecha": "2026-11-17T19:30:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "522e95d01e9c04",
+  "fuente_id": "securitybrief",
+  "titular": "Draftable warns law firms over New Outlook risk controls",
+  "bajada": "Firms could miss confidential leaks if attachment cleaning in New Outlook cannot be verified before emails leave the organisation.",
+  "enlace": "https://securitybrief.com.au/story/draftable-warns-law-firms-over-new-outlook-risk-controls",
+  "fecha": "2026-11-17T19:30:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "5837d5e279fad8",
+  "fuente_id": "unite-ai",
+  "titular": "Cerebras Puts Disaggregated Inference Into Production With GPUs",
+  "bajada": "Cerebras Systems reported on November 17, 2026, that its production disaggregated inference deployment, which assigns prompt processing to AMD Instinct GPUs and response generation to CS-3 systems, delivered five times the throughput per megawatt of a CS-3-only configuration…",
+  "enlace": "https://www.unite.ai/cerebras-puts-disaggregated-inference-into-production-with-gpus/",
+  "fecha": "2026-11-17T19:23:13+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "f2819c2826a046",
+  "fuente_id": "unite-ai",
+  "titular": "Vertiv Expands 800 VDC Portfolio for AI Compute Pods and Data Halls",
+  "bajada": "Vertiv on November 17, 2026 introduced the PowerDirect 9000 and PowerNexus MV SST, extending 800-volt direct-current (800 VDC) power beyond individual racks to AI compute pods and data halls. The PowerNexus is a 5 MW solid-state transformer that converts medium-voltage…",
+  "enlace": "https://www.unite.ai/vertiv-expands-800-vdc-portfolio-for-ai-compute-pods-and-data-halls/",
+  "fecha": "2026-11-17T19:23:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "ce4513d4bb6c6e",
+  "fuente_id": "agronegocios",
+  "titular": "Brócoli y melón lideraron las alzas en Corabastos; tomate de árbol y mango bajaron",
+  "bajada": "Entre el 10 y el 17 de noviembre, el precio del brócoli aumentó 72,7%, mientras que el tomate de árbol y el mango Tommy registraron las mayores caídas",
+  "enlace": "https://www.agronegocios.co/mercados/brocoli-y-melon-lideraron-las-alzas-en-corabastos-tomate-de-arbol-y-mango-bajaron-4526511",
+  "fecha": "2026-11-17T19:20:12+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "2ddc3da916aa6f",
+  "fuente_id": "el-heraldo",
+  "titular": "María La Baja reunirá a más de 80 grupos en el Festival Infantil de Bullerengue ‘Tambores de Paz’",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/17/maria-la-baja-reunira-a-mas-de-80-grupos-en-el-festival-infantil-de-bullerengue-tambores-de-paz/",
+  "fecha": "2026-11-17T19:19:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "59f3dd87b51a36",
+  "fuente_id": "petri",
+  "titular": "Ignite 2026: Microsoft Makes Copilot the Center of the Office Experience",
+  "bajada": "Microsoft has just announced a major vision for the future of Office at Ignite 2026, which positions the platform as a “human-led, agentic system of work” rather than a collection of standalone productivity applications. This announcement addresses a growing challenge for…",
+  "enlace": "https://petri.com/microsoft-copilot-center-of-office/",
+  "fecha": "2026-11-17T19:17:59+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "74167bce1fbba7",
+  "fuente_id": "cnbc",
+  "titular": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
+  "bajada": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+  "enlace": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+  "fecha": "2026-11-17T19:15:27+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "e13ef14d093123",
+  "fuente_id": "agronegocios",
+  "titular": "Oleoflores invertirá US$200 millones para sustituir cultivos de coca por palma en el Catatumbo",
+  "bajada": "El monto de inversión de la compañía agroindustrial podría aumentar hasta US$800 millones si se concreta el desarrollo de combustibles sostenibles de aviación",
+  "enlace": "https://www.agronegocios.co/agricultura/oleoflores-invertira-us-200-millones-para-sustituir-cultivos-de-coca-por-palma-en-el-catatumbo-4526517",
+  "fecha": "2026-11-17T19:14:48+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "f2f5dcd64ca770",
+  "fuente_id": "investing-com",
+  "titular": "ManpowerGroup at J.P. Morgan conference: recovery, margins in focus",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/manpowergroup-at-jp-morgan-conference-recovery-margins-in-focus-93CH-5033820",
+  "fecha": "2026-11-17T19:13:16+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "b6fbd3a74c7fe5",
+  "fuente_id": "investing-com",
+  "titular": "Earnings call transcript: BTQ advances commercialization in Q3 2026 as stock falls",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-btq-advances-commercialization-in-q3-2026-as-stock-falls-93CH-5033816",
+  "fecha": "2026-11-17T19:10:07+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "4e0f8a02ba0a63",
   "fuente_id": "bloomberg-professional",
   "titular": "How automation is reshaping the fixed income trader’s role",
@@ -8,6 +138,66 @@
   "fecha": "2026-11-17T19:09:24+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T19:13:44+00:00"
+ },
+ {
+  "id": "eb0093b8faccf4",
+  "fuente_id": "unite-ai",
+  "titular": "Kyndryl’s Boulder Site Welcomes Argentum AI as Flagship Anchor Tenant",
+  "bajada": "Argentum AI and Kyndryl announced a 20-year, $630 million data center collaboration on November 17, 2026, covering an initial 10 megawatts of capacity at Kyndryl’s Boulder, Colorado, facility. Argentum is deploying NVIDIA B300 systems there for AI inference. Deployment is…",
+  "enlace": "https://www.unite.ai/kyndryls-boulder-site-welcomes-argentum-ai-as-flagship-anchor-tenant/",
+  "fecha": "2026-11-17T19:09:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "a3da31760b22b0",
+  "fuente_id": "investing-com",
+  "titular": "Regional Management at Stephens conference: bank tie-up boosts runway",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/regional-management-at-stephens-conference-bank-tieup-boosts-runway-93CH-5033815",
+  "fecha": "2026-11-17T19:08:42+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "1244d7bc11cdb4",
+  "fuente_id": "investing-com",
+  "titular": "AnaptysBio at UBS Global Biopharma Conference 2026: Royalty growth, legal risk",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/anaptysbio-at-ubs-global-biopharma-conference-2026-royalty-growth-legal-risk-93CH-5033814",
+  "fecha": "2026-11-17T19:08:39+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "e6d0c5a26829e5",
+  "fuente_id": "investing-com",
+  "titular": "Addus HomeCare at Stephens conference: growth plan gains traction",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/addus-homecare-at-stephens-conference-growth-plan-gains-traction-93CH-5033813",
+  "fecha": "2026-11-17T19:08:32+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "138580d764d190",
+  "fuente_id": "investing-com",
+  "titular": "Novavax at Jefferies Global Healthcare Conference: partnerships drive reset",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/novavax-at-jefferies-global-healthcare-conference-partnerships-drive-reset-93CH-5033812",
+  "fecha": "2026-11-17T19:08:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "f0405ca17e9d9f",
+  "fuente_id": "investing-com",
+  "titular": "IBM, Microsoft among market cap stock movers on Tuesday",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/ibm-microsoft-among-market-cap-stock-movers-on-tuesday-93CH-5033811",
+  "fecha": "2026-11-17T19:07:15+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "c4fdb353728cdd",
@@ -20,6 +210,16 @@
   "primera_vista": "2026-11-17T19:13:44+00:00"
  },
  {
+  "id": "67ef81533bd8dc",
+  "fuente_id": "investing-com",
+  "titular": "Analysis-Deutsche Bank leaks test CEO Sewing’s pledge to reform",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/analysisdeutsche-bank-leaks-test-ceo-sewings-pledge-to-reform-5033810",
+  "fecha": "2026-11-17T19:06:25+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "15cdd42bcc66b6",
   "fuente_id": "unite-ai",
   "titular": "HeyGen Launches Avatar 6 with Script-Aware Gestures and 2K Video",
@@ -28,6 +228,16 @@
   "fecha": "2026-11-17T19:06:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T19:13:44+00:00"
+ },
+ {
+  "id": "a18ca018cc1cdf",
+  "fuente_id": "investing-com",
+  "titular": "Alstom H1 FY2026/27 slides show margin collapse, €2bn deleveraging push",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/alstom-h1-fy202627-slides-show-margin-collapse-2bn-deleveraging-push-93CH-5033808",
+  "fecha": "2026-11-17T19:04:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "3aa0c6065ac07d",
@@ -100,6 +310,16 @@
   "primera_vista": "2026-11-17T19:13:44+00:00"
  },
  {
+  "id": "7e6ded3bb6d92b",
+  "fuente_id": "uicn",
+  "titular": "Updates from the IUCN Forest and Grasslands Team: Reflections from our recent engagements at the UNCCD, CBD, and UNFCCC COPs",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNby1xdGxudWNPUTJWQ1o0eHdRdFdaMkRPeHVlbE9oc1lCM1Y5cGJxMVlSdDlRc0hGQVBmX1lhSktvS3RvQlVZUmdPRG9QaEwtcEJ4MFFTa2JZc3RzU1QteTRmOURvNHg5ejBtZUxIR3BDUTNlSHU5VGxzX1NuMEhfMWlKUjI1Qm8xZF9sNHBkQUNuQUE4TzdPTHFSUEpwV3ZldEozdkpSME5UendvWHRUNkVwdWsyRnZXUVE?oc=5",
+  "fecha": "2026-11-17T18:53:53+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "6a596c17c636c2",
   "fuente_id": "el-heraldo",
   "titular": "Celia Cruz ingresa al Salón de la Fama del Rock & Roll y hace historia para la música en español",
@@ -120,6 +340,16 @@
   "primera_vista": "2026-11-17T19:13:44+00:00"
  },
  {
+  "id": "e5ccfb81e1e75f",
+  "fuente_id": "forbes",
+  "titular": "Timothée Chalamet Action Figure Lineup Expands With ‘Dune: Part Three’ Paul Atreides",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/timlammers/2026/11/17/timothe-chalamet-action-figure-lineup-expands-with-dune-part-three-paul-atreides/",
+  "fecha": "2026-11-17T18:53:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "af520ae65134c0",
   "fuente_id": "portafolio",
   "titular": "Después de 75 años de historia, Comestibles La Rosa suspenderá definitivamente su producción en Dosquebradas",
@@ -138,6 +368,16 @@
   "fecha": "2026-11-17T18:52:01+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T19:13:44+00:00"
+ },
+ {
+  "id": "c97235977775f0",
+  "fuente_id": "forbes",
+  "titular": "The Patient Doesn’t Need A Hospital Bed Anymore. So Why Is She Still In One?",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/forbesbooksauthors/2026/11/17/the-patient-doesnt-need-a-hospital-bed-anymore-so-why-is-she-still-in-one/",
+  "fecha": "2026-11-17T18:51:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "d9fb0594f9e0ab",
@@ -178,6 +418,16 @@
   "fecha": "2026-11-17T18:48:19+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T19:13:44+00:00"
+ },
+ {
+  "id": "0fdc1095e70139",
+  "fuente_id": "forbes",
+  "titular": "Pacers Miss Tyrese Haliburton More Than Just On Court. LeBron James Knows Why.",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/tonyeast/2026/11/17/pacers-miss-tyrese-haliburton-more-than-just-on-court-lebron-james-knows-why/",
+  "fecha": "2026-11-17T18:48:08+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "ac8e708a1051a5",
@@ -471,6 +721,16 @@
   "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
+  "id": "2ed1e9576d3033",
+  "fuente_id": "forbes",
+  "titular": "Jensen Huang Ousted: Timeline Of The Nvidia Scandal—As He Makes First Public Statement",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/alisondurkee/2026/11/17/jensen-huang-ousted-timeline-of-the-nvidia-scandal-as-he-makes-first-public-statement/",
+  "fecha": "2026-11-17T18:24:13+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "c3606c950f100b",
   "fuente_id": "investing-com",
   "titular": "Microsoft launches AI transparency initiative with 40+ partners",
@@ -539,6 +799,16 @@
   "fecha": "2026-11-17T18:13:29+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T18:15:51+00:00"
+ },
+ {
+  "id": "4d0dd039cd03d5",
+  "fuente_id": "forbes",
+  "titular": "Dean Norris On Compiling Ultimate Oral History Of ‘Breaking Bad,’ The Late RJ Mitte, And Who He’d Nominate To Write A ‘Better Call Saul’ Book",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/joshweiss/2026/11/17/dean-norris-on-compiling-ultimate-oral-history-of-breaking-bad-the-late-rj-mitte-and-who-hed-nominate-to-write-a-better-call-saul-book/",
+  "fecha": "2026-11-17T18:13:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "a01713186fa296",
@@ -1172,6 +1442,16 @@
   "fecha": "2026-11-17T17:20:15+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T18:15:51+00:00"
+ },
+ {
+  "id": "608d96f5a74ff4",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nvidia Earnings: Wolfe Research Says Stock Already Prices In Guidance Cut, Shareholder Flags Succession Risk",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGx0bGQ5WjgxYUZibjFaZTgyV1VwZWdxQ3RDSVN5cm15Sl9oZEtuV1dnUDlYRHZ5U25rTmxHMlhPaE95YWcxWmhRWTRoZG5NWVdLRGl2NnZVUVZuVnNSLXJQSWs1YnpoV0pub1FVbG9oNGswMVhNVEx1OHFCMHRfb1RqQ0JrblExU1VneS13NTd6ZE85VnlXb3JUSmQtNU5LNUE?oc=5",
+  "fecha": "2026-11-17T17:20:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "ba04d93fbfcad1",
@@ -1915,6 +2195,16 @@
   "fecha": "2026-11-17T16:47:09+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "19cffb427cf71d",
+  "fuente_id": "yahoo-finance",
+  "titular": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
+  "fecha": "2026-11-17T16:46:58+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
   "id": "0ba72d7a3cc707",
@@ -2682,6 +2972,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "d14f52ac3c1b40",
+  "fuente_id": "business-wire",
+  "titular": "Davis Polk Welcomes ECVC Partner Emma Mann-Meginniss in Northern California",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hnbGd2cV9Mcm1OOTZVRGRxTHJkVUVBNThwVXRQS2lCcllzcWIyVUlKN0xhRmp1Vjc2d0gwZV9GWk81MHVlWV9lM1k4S2FTSXc0cW9ldnVva2Y2TXdpVjV6UUlEeUUtaWdCa2hUc2xEbE1rQURwbVRldE9hcmM5dS1ZN01pbWx0clJGRWp1Zmp6QzJlWEpiRlgxVVNJZk84WkhUUzFkQWxGd3dLdElfdjRUb1BkaUUxek1EZGV0MGwzSUFESjZ1ZEdGQWk?oc=5",
+  "fecha": "2026-11-17T16:04:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "56618f200e7233",
   "fuente_id": "cnbc",
   "titular": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
@@ -3352,6 +3652,26 @@
   "fecha": "2026-11-17T15:18:46+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "7a7b2eaa4aa991",
+  "fuente_id": "the-hacker-news",
+  "titular": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+  "bajada": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK…",
+  "enlace": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+  "fecha": "2026-11-17T15:17:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
+  "id": "033b7c10af0dad",
+  "fuente_id": "the-hacker-news",
+  "titular": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+  "bajada": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors…",
+  "enlace": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+  "fecha": "2026-11-17T15:17:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "005a72978f878e",
@@ -5211,6 +5531,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "75ae0d9fd679a8",
+  "fuente_id": "the-manufacturer",
+  "titular": "Jobs - Page 214 of 263 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOU2VZRjA4NzNVOVFSajJ0T1hBVnBiSlJPNkFweUlwdTdOU3RVak5DUjFoS0hHeG1ITjZJQVdSTVRDTnlXbTJXQk9ESUltSy1pcDZIYWU4RmgwcFEtTFBiamlibnVYVEtyMWI0bExwQ3otZ2xhWHdLb0ZibzBnZ2RXNTZNbjBsMVR1dEtRS3BqazhpcUlFYlFvd2hIYXYtRW5KTlFLOW1uYllBQWpKSFphOFVlS2ZPQmZ0eXU0cHltRVJNQVEtR3ZLVnh0Q05wdUpWN3QzYzhERDQ5WmduRGRfTlBXU2lnLTlwV2NXeFFGMGltOUZORkptTkdjdFFyWm9PeHF1U2gxN0tXamlvR28zbm1YWU9BV2ZTRWhmZU8zR18?oc=5",
+  "fecha": "2026-11-17T13:28:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "ab754413a7b8b1",
   "fuente_id": "agronegocios",
   "titular": "Conozca todos los resultados de las Loterías de Boyacá, Cauca y Extra del sábado",
@@ -5512,6 +5842,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEhQc0toTVI1NUlHNTlxdE5JdVVSTXpBRUFBNW40ZEVIRHVCNG9JZkE3WUtGdlZmcnFyVTFRRk5DSDVKRXhMdU43ZmtJSU01YTZNVEk4V0ZyTkdrZWg3VklxZFB5anBKWXBXR3V2NlBoX3UxWTZvWm9EU0NhVGJ5T3VUU1VTUW1fQjhqb1lqbGhXQUxvanczM1ZzVUEteVUtTkxvS2VkNUF0Wk1VWVg4TmRWLTBkZEFPcWFMQ2wxQ0Fpb2s?oc=5"
  },
  {
+  "id": "1dec64f53b5bf9",
+  "fuente_id": "business-wire",
+  "titular": "Net Asset Value(s)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3k0Z3hLcWhYUms3MzcxbGYxRjJNSlVXcGg5WXRxVWxHbXpMWE5GdW9QQUJuc0pWVGlzbmdfRFA2QlFpVXhYMGw2MUlfTEliZFJWdVgteVZGZVd5ckFfTXQwM1pTeHRUb3ZnSWtlU2xqbHpST0NXT19qNncxdm5xeDhFU3JvRHo2eHBpY052YUs0WDI3WXl1OGNXQW1GT0RyQ3FVZzRHMmdKUEZ4RW5jcmhQNVQxZWkzTUpwXzUzV3dybjJyMjNwTg?oc=5",
+  "fecha": "2026-11-17T13:16:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
+ },
+ {
   "id": "eeb2914173538b",
   "fuente_id": "cnbc",
   "titular": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
@@ -5570,6 +5910,16 @@
   "fecha": "2026-11-17T13:14:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "1be2e7fae3be77",
+  "fuente_id": "business-wire",
+  "titular": "Net Asset Value(s)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2hDcnVlNHp3Q0luQVVjcFZDSUZ5cjBNSmoya1VPbXZJbE5SejBWTks0MVBmQXFfVElYLWtLbUdyd2pLeUZ1dXlLV1p6M01DZklGN2xoRlhjR2lQQ0UyQzdVYmlCYzF1b2lhUzZBZmtDMktncFJoYklRMFp1SE04V1BZNTYtMVY5dDUyLXYweE5PUl83QWtPcDU3bktyekxyX1NqdUNxdV9LTFdDbG9tYnpBSGVmYVJXM3YxQ2ROdWlGbzMxZE5JNw?oc=5",
+  "fecha": "2026-11-17T13:14:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "607ac3d3342109",
@@ -6954,6 +7304,16 @@
   "fecha": "2026-11-17T12:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-17T19:13:44+00:00"
+ },
+ {
+  "id": "15bc3d024a65ff",
+  "fuente_id": "business-wire",
+  "titular": "Best Buy’s Black Friday sale begins Nov. 19",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXl3Z1NJUEZ4ZXFfamhxVFAwcElORUdDS0k1VHhsWXEwLXR4N1A3YzhiRmdDME1DY3RZNXJPaDdoejNtdmZCbDlPNUlSX0owVC00Y2FtVFpkMWdSUG5CdkZGRHR2MDJPdTJYbnlEMnZKaFJGZ2xKRVNXX25uTW8yMVdwcy1MaEtBdnAza0ZGOHZUZmh4M1FfeWlfYWlmWDJa?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "f3ca6bdd0a88bb",
@@ -8507,6 +8867,16 @@
   "fecha": "2026-11-17T09:24:16+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "c737c1321f406b",
+  "fuente_id": "the-manufacturer",
+  "titular": "Sustainability - Page 85 of 86 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vMFpHZm92X3ozcU5QTk8xbEdHbS1nSHhjUW5QcE9Td3V4eVZVS3M3ZWNpWWM1eDQzclp4b3pqd0dib3F3Vk0tMzZ4RzZwRUtwY3NEYnVNT3FfN2VRcjcwXy1tZVRGb1B5UEFSYlRITmM?oc=5",
+  "fecha": "2026-11-17T09:24:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T19:32:02+00:00"
  },
  {
   "id": "128dd7b6f741b5",

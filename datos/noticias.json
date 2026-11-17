@@ -1,6 +1,176 @@
 {
- "actualizado": "2026-11-17T19:13:44+00:00",
+ "actualizado": "2026-11-17T19:32:02+00:00",
  "notas": [
+  {
+   "id": "727da07988461e",
+   "fuente_id": "agronegocios",
+   "titular": "CAF respaldará un programa para renovar más de 150.000 hectáreas de palma de aceite",
+   "bajada": "El programa se desarrollaría a través de la Línea de Crédito de Integración Industrial Bursátil, un mecanismo diseñado por el Ministerio de Agricultura",
+   "enlace": "https://www.agronegocios.co/agricultura/caf-respaldara-un-programa-para-renovar-mas-de-150-000-hectareas-de-palma-de-aceite-4526530",
+   "fecha": "2026-11-17T19:31:57+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "4fa3156bf3c5d9",
+   "fuente_id": "macrumors",
+   "titular": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
+   "bajada": "Apple has largely resolved outages affecting iCloud accounts, retail stores, and more, the company said in a statement to Bloomberg . Apple said the outages were due to an unspecified \"internal update\" and were not caused by a cyberattack. The company is working to get remaining…",
+   "enlace": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
+   "fecha": "2026-11-17T19:31:40+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "b08356007d3f14",
+   "fuente_id": "it-brief",
+   "titular": "Draftable warns law firms over New Outlook risk controls",
+   "bajada": "Firms could miss confidential leaks if attachment cleaning in New Outlook cannot be verified before emails leave the organisation.",
+   "enlace": "https://itbrief.com.au/story/draftable-warns-law-firms-over-new-outlook-risk-controls",
+   "fecha": "2026-11-17T19:30:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "522e95d01e9c04",
+   "fuente_id": "securitybrief",
+   "titular": "Draftable warns law firms over New Outlook risk controls",
+   "bajada": "Firms could miss confidential leaks if attachment cleaning in New Outlook cannot be verified before emails leave the organisation.",
+   "enlace": "https://securitybrief.com.au/story/draftable-warns-law-firms-over-new-outlook-risk-controls",
+   "fecha": "2026-11-17T19:30:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "8b047a81fbe519",
+   "fuente_id": "cnbc",
+   "titular": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+   "bajada": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
+   "enlace": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+   "fecha": "2026-11-17T19:29:27+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "4dabb35372ea39",
+   "fuente_id": "wsj",
+   "titular": "Stocks Dip Ahead of Nvidia Earnings",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
+   "fecha": "2026-11-17T19:27:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "deed5c323f12f0",
+   "fuente_id": "cnbc",
+   "titular": "7 smart reasons to sell a stock—and my ‘golden rule’ for offloading shares, says hedge fund CEO",
+   "bajada": "\"You need a clear, disciplined plan for when to sell,\" says Karen Finerman. Here are seven smart reasons to sell — and when not to sell.",
+   "enlace": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html",
+   "fecha": "2026-11-17T19:24:46+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "5837d5e279fad8",
+   "fuente_id": "unite-ai",
+   "titular": "Cerebras Puts Disaggregated Inference Into Production With GPUs",
+   "bajada": "Cerebras Systems reported on November 17, 2026, that its production disaggregated inference deployment, which assigns prompt processing to AMD Instinct GPUs and response generation to CS-3 systems, delivered five times the throughput per megawatt of a CS-3-only configuration…",
+   "enlace": "https://www.unite.ai/cerebras-puts-disaggregated-inference-into-production-with-gpus/",
+   "fecha": "2026-11-17T19:23:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "f2819c2826a046",
+   "fuente_id": "unite-ai",
+   "titular": "Vertiv Expands 800 VDC Portfolio for AI Compute Pods and Data Halls",
+   "bajada": "Vertiv on November 17, 2026 introduced the PowerDirect 9000 and PowerNexus MV SST, extending 800-volt direct-current (800 VDC) power beyond individual racks to AI compute pods and data halls. The PowerNexus is a 5 MW solid-state transformer that converts medium-voltage…",
+   "enlace": "https://www.unite.ai/vertiv-expands-800-vdc-portfolio-for-ai-compute-pods-and-data-halls/",
+   "fecha": "2026-11-17T19:23:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "ce4513d4bb6c6e",
+   "fuente_id": "agronegocios",
+   "titular": "Brócoli y melón lideraron las alzas en Corabastos; tomate de árbol y mango bajaron",
+   "bajada": "Entre el 10 y el 17 de noviembre, el precio del brócoli aumentó 72,7%, mientras que el tomate de árbol y el mango Tommy registraron las mayores caídas",
+   "enlace": "https://www.agronegocios.co/mercados/brocoli-y-melon-lideraron-las-alzas-en-corabastos-tomate-de-arbol-y-mango-bajaron-4526511",
+   "fecha": "2026-11-17T19:20:12+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "2ddc3da916aa6f",
+   "fuente_id": "el-heraldo",
+   "titular": "María La Baja reunirá a más de 80 grupos en el Festival Infantil de Bullerengue ‘Tambores de Paz’",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/sociedad/2026/11/17/maria-la-baja-reunira-a-mas-de-80-grupos-en-el-festival-infantil-de-bullerengue-tambores-de-paz/",
+   "fecha": "2026-11-17T19:19:41+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "59f3dd87b51a36",
+   "fuente_id": "petri",
+   "titular": "Ignite 2026: Microsoft Makes Copilot the Center of the Office Experience",
+   "bajada": "Microsoft has just announced a major vision for the future of Office at Ignite 2026, which positions the platform as a “human-led, agentic system of work” rather than a collection of standalone productivity applications. This announcement addresses a growing challenge for…",
+   "enlace": "https://petri.com/microsoft-copilot-center-of-office/",
+   "fecha": "2026-11-17T19:17:59+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "9f1b030414a2e2",
+   "fuente_id": "cnbc",
+   "titular": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+   "bajada": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
+   "enlace": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+   "fecha": "2026-11-17T19:16:20+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "74167bce1fbba7",
+   "fuente_id": "cnbc",
+   "titular": "We’re watching Cramer’s favorite market indicator for a signal to buy stocks",
+   "bajada": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "enlace": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+   "fecha": "2026-11-17T19:15:27+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "e13ef14d093123",
+   "fuente_id": "agronegocios",
+   "titular": "Oleoflores invertirá US$200 millones para sustituir cultivos de coca por palma en el Catatumbo",
+   "bajada": "El monto de inversión de la compañía agroindustrial podría aumentar hasta US$800 millones si se concreta el desarrollo de combustibles sostenibles de aviación",
+   "enlace": "https://www.agronegocios.co/agricultura/oleoflores-invertira-us-200-millones-para-sustituir-cultivos-de-coca-por-palma-en-el-catatumbo-4526517",
+   "fecha": "2026-11-17T19:14:48+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "f2f5dcd64ca770",
+   "fuente_id": "investing-com",
+   "titular": "ManpowerGroup at J.P. Morgan conference: recovery, margins in focus",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/manpowergroup-at-jp-morgan-conference-recovery-margins-in-focus-93CH-5033820",
+   "fecha": "2026-11-17T19:13:16+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "b6fbd3a74c7fe5",
+   "fuente_id": "investing-com",
+   "titular": "Earnings call transcript: BTQ advances commercialization in Q3 2026 as stock falls",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/earnings-call-transcript-btq-advances-commercialization-in-q3-2026-as-stock-falls-93CH-5033816",
+   "fecha": "2026-11-17T19:10:07+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
   {
    "id": "4e0f8a02ba0a63",
    "fuente_id": "bloomberg-professional",
@@ -10,6 +180,76 @@
    "fecha": "2026-11-17T19:09:24+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T19:13:44+00:00"
+  },
+  {
+   "id": "eb0093b8faccf4",
+   "fuente_id": "unite-ai",
+   "titular": "Kyndryl’s Boulder Site Welcomes Argentum AI as Flagship Anchor Tenant",
+   "bajada": "Argentum AI and Kyndryl announced a 20-year, $630 million data center collaboration on November 17, 2026, covering an initial 10 megawatts of capacity at Kyndryl’s Boulder, Colorado, facility. Argentum is deploying NVIDIA B300 systems there for AI inference. Deployment is…",
+   "enlace": "https://www.unite.ai/kyndryls-boulder-site-welcomes-argentum-ai-as-flagship-anchor-tenant/",
+   "fecha": "2026-11-17T19:09:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "a3da31760b22b0",
+   "fuente_id": "investing-com",
+   "titular": "Regional Management at Stephens conference: bank tie-up boosts runway",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/regional-management-at-stephens-conference-bank-tieup-boosts-runway-93CH-5033815",
+   "fecha": "2026-11-17T19:08:42+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "1244d7bc11cdb4",
+   "fuente_id": "investing-com",
+   "titular": "AnaptysBio at UBS Global Biopharma Conference 2026: Royalty growth, legal risk",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/anaptysbio-at-ubs-global-biopharma-conference-2026-royalty-growth-legal-risk-93CH-5033814",
+   "fecha": "2026-11-17T19:08:39+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "e6d0c5a26829e5",
+   "fuente_id": "investing-com",
+   "titular": "Addus HomeCare at Stephens conference: growth plan gains traction",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/addus-homecare-at-stephens-conference-growth-plan-gains-traction-93CH-5033813",
+   "fecha": "2026-11-17T19:08:32+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "138580d764d190",
+   "fuente_id": "investing-com",
+   "titular": "Novavax at Jefferies Global Healthcare Conference: partnerships drive reset",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/novavax-at-jefferies-global-healthcare-conference-partnerships-drive-reset-93CH-5033812",
+   "fecha": "2026-11-17T19:08:28+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "112c4e2711f440",
+   "fuente_id": "portafolio",
+   "titular": "El Niño pone en alerta al sector eléctrico: autoridades refuerzan medidas ante bajos niveles de aportes hídricos",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/economia/gobierno/el-nino-pone-en-alerta-al-sector-electrico-autoridades-refuerzan-medidas-ante-minimos-historicos-de-embalses-506505",
+   "fecha": "2026-11-17T19:07:34+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "f0405ca17e9d9f",
+   "fuente_id": "investing-com",
+   "titular": "IBM, Microsoft among market cap stock movers on Tuesday",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/ibm-microsoft-among-market-cap-stock-movers-on-tuesday-93CH-5033811",
+   "fecha": "2026-11-17T19:07:15+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "921c0505b29f6b",
@@ -32,6 +272,26 @@
    "primera_vista": "2026-11-17T19:13:44+00:00"
   },
   {
+   "id": "b8050a2661ddeb",
+   "fuente_id": "investing-com",
+   "titular": "Rising vet bills drive more Americans to pet insurance",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/rising-vet-bills-drive-more-americans-to-pet-insurance-5033800",
+   "fecha": "2026-11-17T19:06:41+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:13:44+00:00"
+  },
+  {
+   "id": "67ef81533bd8dc",
+   "fuente_id": "investing-com",
+   "titular": "Analysis-Deutsche Bank leaks test CEO Sewing’s pledge to reform",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/analysisdeutsche-bank-leaks-test-ceo-sewings-pledge-to-reform-5033810",
+   "fecha": "2026-11-17T19:06:25+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
    "id": "15cdd42bcc66b6",
    "fuente_id": "unite-ai",
    "titular": "HeyGen Launches Avatar 6 with Script-Aware Gestures and 2K Video",
@@ -40,6 +300,16 @@
    "fecha": "2026-11-17T19:06:02+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T19:13:44+00:00"
+  },
+  {
+   "id": "a18ca018cc1cdf",
+   "fuente_id": "investing-com",
+   "titular": "Alstom H1 FY2026/27 slides show margin collapse, €2bn deleveraging push",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/alstom-h1-fy202627-slides-show-margin-collapse-2bn-deleveraging-push-93CH-5033808",
+   "fecha": "2026-11-17T19:04:41+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "3aa0c6065ac07d",
@@ -102,14 +372,14 @@
    "primera_vista": "2026-11-17T19:13:44+00:00"
   },
   {
-   "id": "b8050a2661ddeb",
-   "fuente_id": "investing-com",
-   "titular": "Rising vet bills drive more Americans to pet insurance",
+   "id": "7e6ded3bb6d92b",
+   "fuente_id": "uicn",
+   "titular": "Updates from the IUCN Forest and Grasslands Team: Reflections from our recent engagements at the UNCCD, CBD, and UNFCCC COPs",
    "bajada": "",
-   "enlace": "https://www.investing.com/news/stock-market-news/rising-vet-bills-drive-more-americans-to-pet-insurance-5033800",
-   "fecha": "2026-11-17T18:54:33+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T19:13:44+00:00"
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNby1xdGxudWNPUTJWQ1o0eHdRdFdaMkRPeHVlbE9oc1lCM1Y5cGJxMVlSdDlRc0hGQVBmX1lhSktvS3RvQlVZUmdPRG9QaEwtcEJ4MFFTa2JZc3RzU1QteTRmOURvNHg5ejBtZUxIR3BDUTNlSHU5VGxzX1NuMEhfMWlKUjI1Qm8xZF9sNHBkQUNuQUE4TzdPTHFSUEpwV3ZldEozdkpSME5UendvWHRUNkVwdWsyRnZXUVE?oc=5",
+   "fecha": "2026-11-17T18:53:53+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "6a596c17c636c2",
@@ -132,6 +402,16 @@
    "primera_vista": "2026-11-17T19:13:44+00:00"
   },
   {
+   "id": "e5ccfb81e1e75f",
+   "fuente_id": "forbes",
+   "titular": "Timothée Chalamet Action Figure Lineup Expands With ‘Dune: Part Three’ Paul Atreides",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/timlammers/2026/11/17/timothe-chalamet-action-figure-lineup-expands-with-dune-part-three-paul-atreides/",
+   "fecha": "2026-11-17T18:53:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
    "id": "af520ae65134c0",
    "fuente_id": "portafolio",
    "titular": "Después de 75 años de historia, Comestibles La Rosa suspenderá definitivamente su producción en Dosquebradas",
@@ -150,6 +430,16 @@
    "fecha": "2026-11-17T18:52:01+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T19:13:44+00:00"
+  },
+  {
+   "id": "c97235977775f0",
+   "fuente_id": "forbes",
+   "titular": "The Patient Doesn’t Need A Hospital Bed Anymore. So Why Is She Still In One?",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/forbesbooksauthors/2026/11/17/the-patient-doesnt-need-a-hospital-bed-anymore-so-why-is-she-still-in-one/",
+   "fecha": "2026-11-17T18:51:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "d9fb0594f9e0ab",
@@ -220,6 +510,16 @@
    "fecha": "2026-11-17T18:48:19+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T19:13:44+00:00"
+  },
+  {
+   "id": "0fdc1095e70139",
+   "fuente_id": "forbes",
+   "titular": "Pacers Miss Tyrese Haliburton More Than Just On Court. LeBron James Knows Why.",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/tonyeast/2026/11/17/pacers-miss-tyrese-haliburton-more-than-just-on-court-lebron-james-knows-why/",
+   "fecha": "2026-11-17T18:48:08+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "ac8e708a1051a5",
@@ -483,16 +783,6 @@
    "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
-   "id": "8b047a81fbe519",
-   "fuente_id": "cnbc",
-   "titular": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-   "bajada": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
-   "enlace": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
-   "fecha": "2026-11-17T18:27:03+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
    "id": "7181c95680ca4a",
    "fuente_id": "investing-com",
    "titular": "Pennant Group at Stephens conference: growth, integration and margin push",
@@ -531,6 +821,16 @@
    "fecha": "2026-11-17T18:24:27+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "2ed1e9576d3033",
+   "fuente_id": "forbes",
+   "titular": "Jensen Huang Ousted: Timeline Of The Nvidia Scandal—As He Makes First Public Statement",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/alisondurkee/2026/11/17/jensen-huang-ousted-timeline-of-the-nvidia-scandal-as-he-makes-first-public-statement/",
+   "fecha": "2026-11-17T18:24:13+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "558b39f2463f8d",
@@ -621,6 +921,16 @@
    "fecha": "2026-11-17T18:13:29+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T18:15:51+00:00"
+  },
+  {
+   "id": "4d0dd039cd03d5",
+   "fuente_id": "forbes",
+   "titular": "Dean Norris On Compiling Ultimate Oral History Of ‘Breaking Bad,’ The Late RJ Mitte, And Who He’d Nominate To Write A ‘Better Call Saul’ Book",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/joshweiss/2026/11/17/dean-norris-on-compiling-ultimate-oral-history-of-breaking-bad-the-late-rj-mitte-and-who-hed-nominate-to-write-a-better-call-saul-book/",
+   "fecha": "2026-11-17T18:13:29+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "a01713186fa296",
@@ -1013,16 +1323,6 @@
    "primera_vista": "2026-11-17T18:15:51+00:00"
   },
   {
-   "id": "4dabb35372ea39",
-   "fuente_id": "wsj",
-   "titular": "Dow Slides Ahead of Nvidia Earnings",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
-   "fecha": "2026-11-17T17:49:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
-  },
-  {
    "id": "1e69a688296e2b",
    "fuente_id": "macrumors",
    "titular": "Apple Accounts, App Store and Apple Music Experiencing Issues",
@@ -1130,16 +1430,6 @@
    "bajada": "As reported by 9to5Mac , Apple is now selling parts for the iPhone Duo on its self-service repair store in the U.S., Canada, and Europe. After ordering parts and tools, customers with the know-how can follow the steps in Apple's iPhone Duo repair manual to complete their own…",
    "enlace": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
    "fecha": "2026-11-17T17:38:37+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
-   "id": "deed5c323f12f0",
-   "fuente_id": "cnbc",
-   "titular": "7 smart reasons to sell a stock—and my ‘golden rule’ for offloading shares, says hedge fund CEO",
-   "bajada": "\"You need a clear, disciplined plan for when to sell,\" says Karen Finerman. Here are seven smart reasons to sell — and when not to sell.",
-   "enlace": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html",
-   "fecha": "2026-11-17T17:33:05+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
@@ -1374,6 +1664,16 @@
    "fecha": "2026-11-17T17:20:15+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T18:15:51+00:00"
+  },
+  {
+   "id": "608d96f5a74ff4",
+   "fuente_id": "yahoo-finance",
+   "titular": "Nvidia Earnings: Wolfe Research Says Stock Already Prices In Guidance Cut, Shareholder Flags Succession Risk",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGx0bGQ5WjgxYUZibjFaZTgyV1VwZWdxQ3RDSVN5cm15Sl9oZEtuV1dnUDlYRHZ5U25rTmxHMlhPaE95YWcxWmhRWTRoZG5NWVdLRGl2NnZVUVZuVnNSLXJQSWs1YnpoV0pub1FVbG9oNGswMVhNVEx1OHFCMHRfb1RqQ0JrblExU1VneS13NTd6ZE85VnlXb3JUSmQtNU5LNUE?oc=5",
+   "fecha": "2026-11-17T17:20:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "ba04d93fbfcad1",
@@ -2099,6 +2399,16 @@
    "primera_vista": "2026-11-17T16:58:51+00:00"
   },
   {
+   "id": "19cffb427cf71d",
+   "fuente_id": "yahoo-finance",
+   "titular": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
+   "fecha": "2026-11-17T16:46:58+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-06T14:26:31+00:00"
+  },
+  {
    "id": "0ba72d7a3cc707",
    "fuente_id": "investing-com",
    "titular": "Bill Holdings shares surge on reports of looming TPG take-private deal",
@@ -2227,16 +2537,6 @@
    "fecha": "2026-11-17T16:40:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-17T18:43:14+00:00"
-  },
-  {
-   "id": "9f1b030414a2e2",
-   "fuente_id": "cnbc",
-   "titular": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-   "bajada": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
-   "enlace": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
-   "fecha": "2026-11-17T16:39:43+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
    "id": "2edb6b86da8f26",
@@ -2865,6 +3165,16 @@
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
+   "id": "d14f52ac3c1b40",
+   "fuente_id": "business-wire",
+   "titular": "Davis Polk Welcomes ECVC Partner Emma Mann-Meginniss in Northern California",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3hnbGd2cV9Mcm1OOTZVRGRxTHJkVUVBNThwVXRQS2lCcllzcWIyVUlKN0xhRmp1Vjc2d0gwZV9GWk81MHVlWV9lM1k4S2FTSXc0cW9ldnVva2Y2TXdpVjV6UUlEeUUtaWdCa2hUc2xEbE1rQURwbVRldE9hcmM5dS1ZN01pbWx0clJGRWp1Zmp6QzJlWEpiRlgxVVNJZk84WkhUUzFkQWxGd3dLdElfdjRUb1BkaUUxek1EZGV0MGwzSUFESjZ1ZEdGQWk?oc=5",
+   "fecha": "2026-11-17T16:04:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
    "id": "56618f200e7233",
    "fuente_id": "cnbc",
    "titular": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
@@ -2917,7 +3227,7 @@
   {
    "id": "0114c262cfcfff",
    "fuente_id": "bbc-mundo",
-   "titular": "Un ataque de Ucrania \"sin precedentes\" destruye parcialmente el emblemático puente de Putin en Crimea",
+   "titular": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\"",
    "bajada": "El puente que une a Crimea y Rusia ha sufrido graves daños, mientras que dos rutas que atraviesan Kyiv permanecen cerradas.",
    "enlace": "https://www.bbc.com/mundo/articles/cje39lr0v1w7o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-17T16:00:58+00:00",
@@ -3135,16 +3445,6 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
-   "id": "112c4e2711f440",
-   "fuente_id": "portafolio",
-   "titular": "El Niño pone en alerta al sector eléctrico: autoridades refuerzan medidas ante mínimos históricos de embalses",
-   "bajada": "",
-   "enlace": "https://www.portafolio.co/economia/gobierno/el-nino-pone-en-alerta-al-sector-electrico-autoridades-refuerzan-medidas-ante-minimos-historicos-de-embalses-506505",
-   "fecha": "2026-11-17T15:51:07+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
    "id": "ec14a9c0d0f8fd",
    "fuente_id": "el-heraldo",
    "titular": "Taylor Swift, sobre su canción para ‘Toy Story’ y su admiración por Rosalía",
@@ -3173,6 +3473,16 @@
    "fecha": "2026-11-17T15:46:02+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-17T18:15:51+00:00"
+  },
+  {
+   "id": "1052fde7820207",
+   "fuente_id": "yahoo-finance",
+   "titular": "GraniteShares 2x Long NVDA Daily ETF (NVDL) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tcVktR0pMZDlHWFd3ZE50ZTFBTEZMaDRleC1tNk5LNXZ2MkU0T25mTWF4dm5QSE1zQUdrZG4zQ21rNEtNSEs1Qll5dXhyZw?oc=5",
+   "fecha": "2026-11-17T15:45:48+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
    "id": "7e349a101e44dd",
@@ -3545,6 +3855,26 @@
    "fecha": "2026-11-17T15:18:46+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "7a7b2eaa4aa991",
+   "fuente_id": "the-hacker-news",
+   "titular": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "bajada": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK…",
+   "enlace": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "fecha": "2026-11-17T15:17:36+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
+   "id": "033b7c10af0dad",
+   "fuente_id": "the-hacker-news",
+   "titular": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "bajada": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors…",
+   "enlace": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+   "fecha": "2026-11-17T15:17:28+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "005a72978f878e",
@@ -3926,16 +4256,6 @@
    "enlace": "https://www.larepublica.co/globoeconomia/keiko-fujimori-inicia-la-agenda-en-china-con-reunion-bilateral-con-xi-jinping-4526295",
    "fecha": "2026-11-17T14:55:52+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
-   "id": "1052fde7820207",
-   "fuente_id": "yahoo-finance",
-   "titular": "GraniteShares 2x Long NVDA Daily ETF (NVDL) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tcVktR0pMZDlHWFd3ZE50ZTFBTEZMaDRleC1tNk5LNXZ2MkU0T25mTWF4dm5QSE1zQUdrZG4zQ21rNEtNSEs1Qll5dXhyZw?oc=5",
-   "fecha": "2026-11-17T14:55:36+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
@@ -5395,6 +5715,16 @@
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
+   "id": "75ae0d9fd679a8",
+   "fuente_id": "the-manufacturer",
+   "titular": "Jobs - Page 214 of 263 - The Manufacturer",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOU2VZRjA4NzNVOVFSajJ0T1hBVnBiSlJPNkFweUlwdTdOU3RVak5DUjFoS0hHeG1ITjZJQVdSTVRDTnlXbTJXQk9ESUltSy1pcDZIYWU4RmgwcFEtTFBiamlibnVYVEtyMWI0bExwQ3otZ2xhWHdLb0ZibzBnZ2RXNTZNbjBsMVR1dEtRS3BqazhpcUlFYlFvd2hIYXYtRW5KTlFLOW1uYllBQWpKSFphOFVlS2ZPQmZ0eXU0cHltRVJNQVEtR3ZLVnh0Q05wdUpWN3QzYzhERDQ5WmduRGRfTlBXU2lnLTlwV2NXeFFGMGltOUZORkptTkdjdFFyWm9PeHF1U2gxN0tXamlvR28zbm1YWU9BV2ZTRWhmZU8zR18?oc=5",
+   "fecha": "2026-11-17T13:28:31+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
    "id": "ab754413a7b8b1",
    "fuente_id": "agronegocios",
    "titular": "Conozca todos los resultados de las Loterías de Boyacá, Cauca y Extra del sábado",
@@ -5676,6 +6006,16 @@
    "enlace_google_news": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEhQc0toTVI1NUlHNTlxdE5JdVVSTXpBRUFBNW40ZEVIRHVCNG9JZkE3WUtGdlZmcnFyVTFRRk5DSDVKRXhMdU43ZmtJSU01YTZNVEk4V0ZyTkdrZWg3VklxZFB5anBKWXBXR3V2NlBoX3UxWTZvWm9EU0NhVGJ5T3VUU1VTUW1fQjhqb1lqbGhXQUxvanczM1ZzVUEteVUtTkxvS2VkNUF0Wk1VWVg4TmRWLTBkZEFPcWFMQ2wxQ0Fpb2s?oc=5"
   },
   {
+   "id": "1dec64f53b5bf9",
+   "fuente_id": "business-wire",
+   "titular": "Net Asset Value(s)",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3k0Z3hLcWhYUms3MzcxbGYxRjJNSlVXcGg5WXRxVWxHbXpMWE5GdW9QQUJuc0pWVGlzbmdfRFA2QlFpVXhYMGw2MUlfTEliZFJWdVgteVZGZVd5ckFfTXQwM1pTeHRUb3ZnSWtlU2xqbHpST0NXT19qNncxdm5xeDhFU3JvRHo2eHBpY052YUs0WDI3WXl1OGNXQW1GT0RyQ3FVZzRHMmdKUEZ4RW5jcmhQNVQxZWkzTUpwXzUzV3dybjJyMjNwTg?oc=5",
+   "fecha": "2026-11-17T13:16:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
    "id": "46cccc69e16adf",
    "fuente_id": "cnbc",
    "titular": "Roth 401(k) matches are 'surging,' report finds. What workers should know",
@@ -5714,6 +6054,16 @@
    "fecha": "2026-11-17T13:14:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "1be2e7fae3be77",
+   "fuente_id": "business-wire",
+   "titular": "Net Asset Value(s)",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2hDcnVlNHp3Q0luQVVjcFZDSUZ5cjBNSmoya1VPbXZJbE5SejBWTks0MVBmQXFfVElYLWtLbUdyd2pLeUZ1dXlLV1p6M01DZklGN2xoRlhjR2lQQ0UyQzdVYmlCYzF1b2lhUzZBZmtDMktncFJoYklRMFp1SE04V1BZNTYtMVY5dDUyLXYweE5PUl83QWtPcDU3bktyekxyX1NqdUNxdV9LTFdDbG9tYnpBSGVmYVJXM3YxQ2ROdWlGbzMxZE5JNw?oc=5",
+   "fecha": "2026-11-17T13:14:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "607ac3d3342109",
@@ -7039,6 +7389,16 @@
    "fecha": "2026-11-17T12:00:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-17T19:13:44+00:00"
+  },
+  {
+   "id": "15bc3d024a65ff",
+   "fuente_id": "business-wire",
+   "titular": "Best Buy’s Black Friday sale begins Nov. 19",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXl3Z1NJUEZ4ZXFfamhxVFAwcElORUdDS0k1VHhsWXEwLXR4N1A3YzhiRmdDME1DY3RZNXJPaDdoejNtdmZCbDlPNUlSX0owVC00Y2FtVFpkMWdSUG5CdkZGRHR2MDJPdTJYbnlEMnZKaFJGZ2xKRVNXX25uTW8yMVdwcy1MaEtBdnAza0ZGOHZUZmh4M1FfeWlfYWlmWDJa?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "f3ca6bdd0a88bb",
@@ -8539,6 +8899,16 @@
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
+   "id": "c737c1321f406b",
+   "fuente_id": "the-manufacturer",
+   "titular": "Sustainability - Page 85 of 86 - The Manufacturer",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vMFpHZm92X3ozcU5QTk8xbEdHbS1nSHhjUW5QcE9Td3V4eVZVS3M3ZWNpWWM1eDQzclp4b3pqd0dib3F3Vk0tMzZ4RzZwRUtwY3NEYnVNT3FfN2VRcjcwXy1tZVRGb1B5UEFSYlRITmM?oc=5",
+   "fecha": "2026-11-17T09:24:15+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
+  },
+  {
    "id": "0a40324d859fd8",
    "fuente_id": "cybersecurity-news",
    "titular": "Hackers Actively Exploiting Atlassian Confluence RCE Vulnerability, 1.2M Instances Exposed to the Internet",
@@ -9513,6 +9883,16 @@
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
+   "id": "78268c890593f1",
+   "fuente_id": "yahoo-finance",
+   "titular": "China megacap tech stocks fall as U.S. tightens curbs on AI chip access",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUERxUG4xbTNyNVZpUTltMGtsUnlPOUtsSGNJVVIzSFVKZUZRRHpCRTdMMFJoVk1JTzFGeHZSRHF6LWMyN054emdURU5kZG1VdkV1enV5dVRpVG9KeS1aNTVDbjFoTVY1eGo4a21RM19hZURzYXo0ZUZpUzNobUhVa2NyTm1rbmxDLVBTUE9xNzh4N2JYRktyYXZB?oc=5",
+   "fecha": "2026-11-17T05:33:28+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
    "id": "64328672fadeb4",
    "fuente_id": "yahoo-finance",
    "titular": "Situational Awareness Revives AI Portfolio After Summer Collapse — Here Are Its New Stock Bets",
@@ -9550,16 +9930,6 @@
    "enlace": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
    "fecha": "2026-11-17T05:27:04+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
-  },
-  {
-   "id": "78268c890593f1",
-   "fuente_id": "yahoo-finance",
-   "titular": "China megacap tech stocks fall as U.S. tightens curbs on AI chip access",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUERxUG4xbTNyNVZpUTltMGtsUnlPOUtsSGNJVVIzSFVKZUZRRHpCRTdMMFJoVk1JTzFGeHZSRHF6LWMyN054emdURU5kZG1VdkV1enV5dVRpVG9KeS1aNTVDbjFoTVY1eGo4a21RM19hZURzYXo0ZUZpUzNobUhVa2NyTm1rbmxDLVBTUE9xNzh4N2JYRktyYXZB?oc=5",
-   "fecha": "2026-11-17T05:25:00+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
@@ -12055,7 +12425,7 @@
   {
    "id": "466c7e45204736",
    "fuente_id": "el-universal",
-   "titular": "Fuerte choque entre 2 carros Frente a Los Ejecutivos: así quedaron tras el impacto",
+   "titular": "Fuerte choque entre dos carros frente a Los Ejecutivos: así quedaron tras el impacto",
    "bajada": "",
    "enlace": "https://www.eluniversal.com.co/sucesos/2026/11/16/fuerte-choque-entre-2-carros-frente-a-los-ejecutivos-asi-quedaron-tras-el-impacto/",
    "fecha": "2026-11-16T21:44:00+00:00",
@@ -15417,16 +15787,6 @@
    "fecha": "2026-11-16T16:18:22+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-17T16:58:51+00:00"
-  },
-  {
-   "id": "19cffb427cf71d",
-   "fuente_id": "yahoo-finance",
-   "titular": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdWtxQ1gwenoyVXR0bkhlRldhZzhJZ09aR1JwMnR1ckxodEY3aDlHRjk1TTN2bTE5TzJfdTZZaW5lY25xLUVEM2pySm5oUQ?oc=5",
-   "fecha": "2026-11-16T16:18:12+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-06T14:26:31+00:00"
   },
   {
    "id": "acaaf2a45a536a",
@@ -33959,6 +34319,16 @@
    "fecha": "2026-11-13T13:42:25+00:00",
    "via": "portada",
    "primera_vista": "2026-11-13T18:21:28+00:00"
+  },
+  {
+   "id": "fb607c1ed291b5",
+   "fuente_id": "oms",
+   "titular": "Infographics | OMS | Escritório Regional para a África",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NV29wTFEwZXpDel92TE5vWTc2Ul9tOUZHZFZPanZMR00wUkZXSmtBSkJsLUE0QTAtLXEyOWhfYjRqcFlGVHVIZ3dYUmI1RXk3b19vcm9HbEx2Y1NjVG1KdDlINmk?oc=5",
+   "fecha": "2026-11-13T13:40:09+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "e3261d39596350",
@@ -61225,46 +61595,6 @@
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
-   "id": "48d437bd698966",
-   "fuente_id": "the-manufacturer",
-   "titular": "R&D - Page 259 of 267 - The Manufacturer",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMingJBVV95cUxObjl0NkxtckhmYTJyX2ozV1djNUpCUXgzQ1FTZ21uakpHakRwZGM2WEs4QUpIRVpHVW5ib2dZWkpkbldzZkNQYjVPNG9ha1dlMnY3Zlo3MWkwU1lGZlFEUU9QOGg1YVpBZWgwRVhHQXRGWV9hTnp6M3lFUzNfN25TMDB5WjhvQ2xJRHhJRG9Zd3VEWnAtWnB1TjZFRTVINXM5WTdEdXpOc2NyTVVjTElWSXM4VEpDMFRrUlZhSHlmbG92QmFhMGJlbVlkRmNFUmtwbjJjTlZoSGk0SDRiXzFodjRXYzRJeS1fbWF0eWVGZF9tb295aklseHlHOG9EWWk5ajI3VEg1aDlYWGRMSjQ0a2V4bjE5d3QxcFlRcWlB?oc=5",
-   "fecha": "2026-11-10T19:29:49+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00"
-  },
-  {
-   "id": "5e40eb135b0b97",
-   "fuente_id": "redmond",
-   "titular": "Commvault Makes a Case for AI Enabled Recovery",
-   "bajada": "In a press briefing this week ahead of its annual Shift conference, Commvault CEO Sanjay Mirchandani \"AI-enabled recoveries are the way of the future.\"",
-   "enlace": "https://redmondmag.com/articles/2026/11/10/commvault-makes-a-case-for-ai-enabled-recovery.aspx",
-   "fecha": "2026-11-10T19:29:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "7ebd5dd05d10ba",
-   "fuente_id": "wsj",
-   "titular": "U.K.’s Worst-Kept Secret: Who Was the Celebrity Accused of Preying on Teens",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/world/uk/it-was-the-u-k-s-worst-kept-secret-the-identity-of-a-celebrity-accused-of-preying-on-teens-8d1beccb?mod=rss_worldnews",
-   "fecha": "2026-11-10T19:27:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "eb4dc109b3da2d",
-   "fuente_id": "wsj",
-   "titular": "U.K.’s Worst-Kept Secret: Who Was the Celebrity Accused of Preying on Teens",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/world/uk/it-was-the-u-k-s-worst-kept-secret-the-identity-of-a-celebrity-accused-of-preying-on-teens-8d1beccb?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-10T19:27:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
    "id": "2d15eb6bcd39a9",
    "fuente_id": "la-republica",
    "titular": "Nicolás Maduro reporta pérdida de peso y cambio de hábitos en prisión de Estados Unidos",
@@ -61272,106 +61602,6 @@
    "enlace": "https://www.larepublica.co/globoeconomia/nicolas-maduro-reporta-perdida-de-peso-y-cambio-de-habitos-en-prision-de-estados-unidos-4521600",
    "fecha": "2026-11-10T19:26:28+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "416f7c0ca36f91",
-   "fuente_id": "el-heraldo",
-   "titular": "JEP imputa crímenes de guerra a once exmilitares por 32 masacres ocurridas en los Montes de María",
-   "bajada": "",
-   "enlace": "https://www.elheraldo.co/colombia/2026/11/10/jep-imputa-crimenes-de-guerra-a-once-exmilitares-por-32-masacres-ocurridas-en-los-montes-de-maria/",
-   "fecha": "2026-11-10T19:26:27+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "91e47321352214",
-   "fuente_id": "yahoo-finance",
-   "titular": "Rising medical costs are piling on for seniors already squeezed by inflation",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnpIb19BRFE5aXdhcFdSaE1mLWgwNktNLXVob2RGb196YnppZC1pR1RjSWVhY0ZpWnJYcXJPdjF0eTNpY1hsYW1KbGYzcnlIN2ViRHM2SGpzclI1dWwwMFlwTGhNVzc0MlRzaWJoNlp5YWUtR1k4d1pXWWNpRzVYaW1vbUNneU5Qb001eU9hb3d2TU54RGprdnE0V0FTNjlITzlIUGdHVGM5LVY0NVBha1ZtM2YzSXE0WnZjZGFVODg1RTQ0UmphcGd4ZDJiT1M5UlE?oc=5",
-   "fecha": "2026-11-10T19:24:01+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "7739f93bab443e",
-   "fuente_id": "techcrunch",
-   "titular": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-   "bajada": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-   "enlace": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-   "fecha": "2026-11-10T19:23:34+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "b86930e18372a4",
-   "fuente_id": "the-hacker-news",
-   "titular": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-   "bajada": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1…",
-   "enlace": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-   "fecha": "2026-11-10T19:23:10+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "3c92e6c528621b",
-   "fuente_id": "la-republica",
-   "titular": "DaviBank reportó que sigue restableciendo su banca virtual tras fallas en la aplicación",
-   "bajada": "El banco informó que aún no tienen una hora exacta para la normalización, y están trabajando para reestablecer la aplicación",
-   "enlace": "https://www.larepublica.co/finanzas/multiples-usuarios-reportan-caida-en-los-servicios-de-davibank-4521568",
-   "fecha": "2026-11-10T19:22:14+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "226d70cb104e51",
-   "fuente_id": "el-heraldo",
-   "titular": "Continúa la búsqueda de la pequeña Zoé Soto en el tramo final del arroyo El Salao",
-   "bajada": "",
-   "enlace": "https://www.elheraldo.co/atlantico/2026/11/10/continua-la-busqueda-de-la-pequena-zoe-soto-en-el-tramo-final-del-arroyo/",
-   "fecha": "2026-11-10T19:21:17+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "44e55023f8aa79",
-   "fuente_id": "securityweek",
-   "titular": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
-   "bajada": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .",
-   "enlace": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-   "fecha": "2026-11-10T19:19:46+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "b958c227209529",
-   "fuente_id": "the-hacker-news",
-   "titular": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-   "bajada": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in…",
-   "enlace": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-   "fecha": "2026-11-10T19:19:39+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "9de575dfa82601",
-   "fuente_id": "la-republica",
-   "titular": "Colpensiones recaudó $2,02 billones y garantiza pago a 1,9 millones de pensionados",
-   "bajada": "En el periodo reportado se registraron 17.874 nuevas afiliaciones y 8.027 traslados procedentes de fondos privados de pensión",
-   "enlace": "https://www.larepublica.co/finanzas/colpensiones-recaudo-2-02-billones-y-garantiza-pago-a-cerca-de-1-952-368-pensionados-4521526",
-   "fecha": "2026-11-10T19:17:45+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "5bf4343439a4f5",
-   "fuente_id": "el-universal",
-   "titular": "Los futbolistas que van por el récord goleador de Cristiano Ronaldo en selecciones",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3cxTDFGMzRxTHIxaXdwd2paWjdzOE55ekxoZ1dsWThnaVhoXzA5TFNOblBmd2FEN1JjcjQwV1c3cVdudUswMWFjdVpTUVR1TkdjcmhtQUFHdnhKQzE5MUx5NUNZbzk0bFdscE9mMFZUZk5ZZXlMTnhTaXh2ZFhIV3N4TzZycnpmNFREZlJlazlNMXFjelNCVC1meVk5aWs0UnNaQUQ0SWtPVDNVQWVlYkpWTEltYUxKaHFEUGJWVWxTR0tTLUxsTHc3Wkg2M1k?oc=5",
-   "fecha": "2026-11-10T19:15:00+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-11T13:22:39+00:00"
   },
   {
@@ -61443,6 +61673,16 @@
    "fecha": "2026-10-27T17:30:20+00:00",
    "via": "portada",
    "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "da6182b4652f16",
+   "fuente_id": "portafolio",
+   "titular": "BYD le planta cara a Tesla: concesionarios ofrecen el Yuan Plus con financiación al 0% de interés a 36 meses",
+   "bajada": "",
+   "enlace": "https://www.portafolio.co/negocios/vehiculo/byd-contraataca-concesionarios-ofrecen-el-yuan-plus-tambien-con-financiacion-al-0-de-interes-a-36-meses-505182",
+   "fecha": "2026-10-27T11:00:00+00:00",
+   "via": "portada",
+   "primera_vista": "2026-11-17T19:32:02+00:00"
   },
   {
    "id": "75877c60f7565d",
