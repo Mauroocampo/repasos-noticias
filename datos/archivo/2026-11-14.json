@@ -870,6 +870,16 @@
   "primera_vista": "2026-11-15T17:31:30+00:00"
  },
  {
+  "id": "12d88b14b2bd2c",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmR0cFJ0Qm9NSjRfcjJRMWc2eExha05WZ3VlSk01MDMtZS1jTUlZakl5MV9QTk5TTkpmcEtWdUNNSmZ5YlJqa0U1Z0M2aGx3ajIyeUZLTGNDUGpLZUpfaUlyVUZVblJJcnowcG85TUJBQ3l3UTVfRFdRNjFWVUtycVZB0gGHAUFVX3lxTE00NTlJVW1oX3dKQ3RRaTBGT0ZrSTBIRmM4aV9PVzd5WkRzbkVBSTJxQ01vaUMxOENIN1RKZ0w5akFqUVlRb0NoTVZoX0Vqc2haMUV5ejJscXVmbUlJZjI1ZEZHYWVIYUlsbU40bmJBUldrTXoxXzgxZFR0SnZMYlpfWGowNWxlOA?oc=5",
+  "fecha": "2026-11-14T21:13:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "2bf5594afdecf8",
   "fuente_id": "portafolio",
   "titular": "JMEV trae al Salón del Automóvil su SUV eléctrica GSX: tiene 610 km de autonomía y busca competir con precio",
@@ -3025,6 +3035,16 @@
   "primera_vista": "2026-11-14T16:49:44+00:00"
  },
  {
+  "id": "1c894a26ccb75a",
+  "fuente_id": "cybersecurity-news",
+  "titular": "FBI Reveals How Hackers Use ARTEX AI Agents to Gain Privileged Access in Under Three Hours",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90RkRaY0NrNENzdE4zdlptWW56Vy1vbmpqY0lwVHlNYlhWVmpWamE4T0lybXptOVJfM1VYTW1nUzNFOUtTTWhuYjNSNG1lSUI2TjY1UGNBQ3FHd2ZNcGNxVVJJZnNDOWVhUXRWU0VRYjlyWk3SAXhBVV95cUxPMElfcFhsQ1J5Ym13R2hsbzRxSzJmdXlzY3lpQlN1MVFtdmQxNjF1YW1CSnZ0Zlh0SDZXWVRFRE1ObXdlS21pWVZ5Wk9PWDdBUmtWOVRvalhrNGttWDdCaWNjVS1lc3VtUm5iWDc5VVhkdzM4U2RlMDA?oc=5",
+  "fecha": "2026-11-14T11:21:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "da3ce97f6895d1",
   "fuente_id": "unite-ai",
   "titular": "Anakapalli MoU Maps 400 MW And 1,400 MW AirTrunk Campus Proposals",
@@ -3323,6 +3343,16 @@
   "fecha": "2026-11-14T09:09:31+00:00",
   "via": "rss",
   "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
+  "id": "f98f933cb9c7c0",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sWEMzcDR1S25FUzdxS0hITFVIbUh5a1hvU3BSZE1kX1phc3BLb3pudHVnd2VVMklZbFhhOGotS2h6QUlDUHZqY0tSMGZha2lHQWNJdTR2eGtWUk9oenfSAWNBVV95cUxOYktFcENlNDdpY0MwZ1VVbTRmeFAzVU00RWp5OXZGYi1NcWR3a1ZKeVRzRk9rZ1E3bTJzbnVvSzhXQXk1TU9kOHR5ckZXZTBZSUlzdzBPWlhZYVM4SDE1WTRCbWM?oc=5",
+  "fecha": "2026-11-14T09:09:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "431b43f1dd9338",
@@ -3663,6 +3693,16 @@
   "fecha": "2026-11-14T05:35:16+00:00",
   "via": "rss",
   "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
+  "id": "5ec34d33d3dd7d",
+  "fuente_id": "cyberpress",
+  "titular": "FBI Warns Hackers Are Using ARTEX AI Agents to Breach Networks in Under 3 Hours",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hdVplQ3J1LXhWZU90TVU4bmxodXNodFFOT0lrLVUtNS1KbUxEVlR6MkpjbGNZXzdOb24tN21UNFQ4aU43VHpWZktSejdXd3JTUFhuWUtTaXVtMEdTNHpFeGE3V2czbV9DZFZzcDRGLUJ4bEHSAXNBVV95cUxNYXVaZUNydS14VmVPdE1VOG5saHVzaHRRTk9Jay1VLTUtSm1MRFZUejJKY2xjWV83Tm9uLTdtVDRUOGlON1R6VmZLUno3V3dyU1BYbllLU2l1bTBHUzR6RXhhN1dnM21fQ2RWc3A0Ri1CeGxB?oc=5",
+  "fecha": "2026-11-14T05:35:16+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "58b823501821d0",

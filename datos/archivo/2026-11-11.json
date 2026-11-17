@@ -50,6 +50,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "76d37372dba7c4",
+  "fuente_id": "cyberpress",
+  "titular": "New Windows SignDrop Zero-Day Flaw Lets Attackers Gain SYSTEM Privileges and Disable Antivirus",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JUG5BM2oyTmFLWXdCeTVxbmlOenFYMC1qaDZMbVNpRHdyN3oyOGRjYmlMVHlxbW9oT1JEdnVjUlAxa25fWmpaZ00yWjNkR3FYcE1OVjNSaEswdC0yd3JkM0lGZ1lDZXFuZEpOV0h2ZFFtZ9IBckFVX3lxTE5JUG5BM2oyTmFLWXdCeTVxbmlOenFYMC1qaDZMbVNpRHdyN3oyOGRjYmlMVHlxbW9oT1JEdnVjUlAxa25fWmpaZ00yWjNkR3FYcE1OVjNSaEswdC0yd3JkM0lGZ1lDZXFuZEpOV0h2ZFFtZw?oc=5",
+  "fecha": "2026-11-12T04:44:44+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "f1a5b4bff7b509",
   "fuente_id": "the-hacker-news",
   "titular": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
@@ -188,6 +198,16 @@
   "fecha": "2026-11-12T03:44:28+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-15T17:31:30+00:00"
+ },
+ {
+  "id": "291e711e835275",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Node.js Fixes 16 Security Flaws That Could Expose TLS Private Keys and Crash Servers Remotely",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rT0l1ekF2alZSQ2M4bWZEdXlEV29ZMkxYUWFQQ29Yd0JzS2FzYVp2eFQteTZkbTFDTDZYXzN0MWJFc2RyR1hvTUhyTUltYUk4YkRPbFpLSFl0bVRvbzZFWVdWSWozb0h2VnBHZTRSak9FbkxSa0R6Q3drVDbSAYIBQVVfeXFMTmwyVWpzYXNiRk1vU0FfZUZFT3hDUHJfMXFjYU5femc1VFN1RTk0cWR0SFpmbUc3UGMtanlGSDRsOEZfNjNUQ1lwdERCdW5aRlREdWx2M1FYVEIwZHNMcFhRU2ZENHBrWk9fSmpUWFM0amI3QnB0NXZ5UWFqUnVWZjUwUQ?oc=5",
+  "fecha": "2026-11-12T03:42:53+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "bfa173d27ccd7b",
@@ -2460,6 +2480,16 @@
   "primera_vista": "2026-11-11T18:18:55+00:00"
  },
  {
+  "id": "488d1b579e8e57",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Ubuntu 26.10 Adds New Security Protection to curl, Blocking Revoked SSL Certificates",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TSk5FWE9VLS1WOVNXbGlBMnl6UTZrdjNvejlRbmNKcElpUVYzcGh1enMzSmtkMFZhN0JrRkprNmZoR18tN0oybm9xNDlTMWswT1RkbVAwMV9xNW5EOV8wVEFJbFpNZ1poT0lKaTJ5TEZWUDdXUFHSAXtBVV95cUxOdGVYaFZiV0Frenh0RVRTclpZQXFsRkZsNVlYaXdxZGd4b2Rob3N4ODlYelNweHo0RGJOY3VuNU9vV0VjTVo0b0thd0dqSDNGcTFMS3dZZlMzUWpUUVcxbXpCaFF6X3phNHRTZ1ZHeGlobXhKSTd1ZThDQVE?oc=5",
+  "fecha": "2026-11-11T17:18:40+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "2f60fb923ef2b7",
   "fuente_id": "forbes",
   "titular": "Russia's Ambassador To The US Dead At 66, Reports Say",
@@ -2488,6 +2518,16 @@
   "fecha": "2026-11-11T17:17:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T18:18:55+00:00"
+ },
+ {
+  "id": "d7cb78c23ef4b8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Could Abuse Microsoft Entra AI Agents to Hijack Enterprise Accounts Without Stealing Passwords",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2VNTmhTYkRObHlwQzBVUUZGYTk4MUpzbTNPV04zQWlOSmptVklMZ08tZjFGUEwwTGhzY0lDMmJwNEM5d2pPNVJ0Z3c1UVFvSXF0M1FYWkJoNURUSVZzd2ZySnFGb21GVTZ4TVR4SkJ4TE0tTGRaOVZDZm95MVMyUjJB0gGHAUFVX3lxTE9wTDFQY0ZFOTA2OG55QjEwWV9OeElrbERGSkd3ZkpUSjNGTWdhM2J0M1VBSXhFSXVZblJrR0FmczFvdDkydzlQRm1fdzktOThidGlqRW82QTVuNldmZVM2MVZaTlpwWmdHOUR4QUljckljc2pBN3VEZklaMWFTRVVDaTA4TVBEUQ?oc=5",
+  "fecha": "2026-11-11T17:17:04+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "8590ca0a545152",
@@ -3390,6 +3430,16 @@
   "primera_vista": "2026-11-11T18:18:55+00:00"
  },
  {
+  "id": "55857ef10fdaa7",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Could Exploit MCP Server Supply Chain Weaknesses to Steal API Keys and Administrator Credentials",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZS1FPeFZGSHdSV0IxMUg0cF94cklDRVVHR2pPU3ZDM1dlN2J4UzJMZWRRRDFWT2NoMTRydnhDV3l4VlE3MlNISzByWkFfa0lBUlZGZXRYNUZzY25FZlltdWN4OE9Bc2oxVHlhUlFzSDXSAXZBVV95cUxOSUtQNUdDOWIxTkNLYTVNdEMybXRyTXdnQUV6LWJBMnNEZUMzMEFHY1JfMklQZnlQalhUUWdfc0xRLVZrUmNlSS1aamloWlUwS002eUVjaHNFdlFuRDFuWGtCZlhwdGprdGJrWlYyUVlId1VTYnln?oc=5",
+  "fecha": "2026-11-11T16:07:18+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "7fc46226e2d386",
   "fuente_id": "forbes",
   "titular": "Today’s Wordle #1972 Hints, Clues And Answer For Thursday November 12",
@@ -4158,6 +4208,16 @@
   "fecha": "2026-11-11T15:10:01+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "1e58a03fb8003a",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQjZiLTgzcks3NzBQa0pTRWtKSFNpYWN0Qld0dndhbkhGR1pKdElZWG9MdFhueVgtWnRtVTFKdjlDTHl2bWhXMklaUWxRWnRqUW12WWRSemNiNnZsWl9YcjYzaTRHZXFWS0RuSNIBckFVX3lxTE5qZVNkS3U4TW5ndnZmbk5IRVdJTnZXSzZrR1dzckV3VTdUWmtPNkhUUW1LbE9VUTg3by03M2wtdU9pY0hiVHNuUi10bkZIc1lhRGlHLXlfX1VSMWNQSDRFQ2NORncyUjlUcFFZeU9wcWNiZw?oc=5",
+  "fecha": "2026-11-11T15:09:48+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "016274175d5c8b",
@@ -5305,6 +5365,16 @@
   "primera_vista": "2026-11-11T14:03:43+00:00"
  },
  {
+  "id": "0ae01e7fa91bcd",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Windows SignDrop 0-Day Exploit Lets Attackers Gain SYSTEM Privileges Through CLFS Protection",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdWltU2ZULWgtUW5ZVWhfS21kOEkzM0VhRUlLQ0xOVGZZWXBLbmJqak5WWC1VS2RkZTg4R0hJUHdsZUc1R25LekZhakU3NTJhTEk4MlYyeWY1TEdBZlBGZzVBcjBQc2pkRmpxVWNtTjk3UdIBd0FVX3lxTE83ZFZDOURPY1p5VFg1RmxsWlNuTkpSUjFYVXV3UkxvSzhsaExOLWVQTGd5WGNwVnFTczhwU3ZMWERySU9LSGVhVGU2em9tZjF6N3A5T2pxLVNUQUotcHJDNFpJQWZsYXZXN3hocHNWSW9GUmMtODFZ?oc=5",
+  "fecha": "2026-11-11T13:57:20+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "a4e2ff4203def3",
   "fuente_id": "investing-com",
   "titular": "Earnings call transcript: ITG posts strong Q3 2026 growth, stock barely moves",
@@ -5513,6 +5583,16 @@
   "fecha": "2026-11-11T13:46:31+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T14:03:43+00:00"
+ },
+ {
+  "id": "51001e6886d6a9",
+  "fuente_id": "cybersecurity-news",
+  "titular": "eMudhra Revokes 8 More Certificate Authorities Following Major SSL Private Key Security Failure",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VbTZLVHl3Q3k5b0J3M1IxLUlkSUdpWFpWYktIYnZQajUwS2F3VmtZVndxMFlkTTBqVjdoZDlvc1R0X0xqNmh2SWN2TThDOE1SSDlCeFRRMjJyalV0N21QU0JIYW9XN1pMTVY3T05jVktXSUNhN0NtOTlGb9IBgAFBVV95cUxQUG5VX3pXVHBoY203QVM0UDFVNUFkdnB2WHNMVTBWNmhyZWRqb2lBTUh0SHFIX3V2RWhENGZZLTBmS3R5VVBHOGF3MTdYWnkyR0d2QThaQ0xzQ3JKdmNmVkg5N3VnWkJCZkh0T1ZzS0h5al8wQXVyUEpySllmbWRYUg?oc=5",
+  "fecha": "2026-11-11T13:46:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "7b187cc86bb771",
@@ -5945,6 +6025,16 @@
   "primera_vista": "2026-11-11T18:18:55+00:00"
  },
  {
+  "id": "7b43a9aef20163",
+  "fuente_id": "cybersecurity-news",
+  "titular": "N-able Releases Emergency N-central Hotfix After 33 Vulnerabilities Trigger Worldwide Shutdown",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00aEtSYzJPODZaY3prZG1jbXRvZFVOTE9HeHBydkYwY0FzX1dSZktRUHZNcWZtQktGcHVsMk12ZE1FV0c0clJyY0Q0RGJnaVlaVzRqUGVocE94MUh1Q1U2TjlUMVc3Zy1MZkRFQzlRc2hxeVYtUGlnY0xNaTPSAYIBQVVfeXFMUF9ZRzc2WUI4NDVMYkVxcHBuYUtHazkyMHI1ZHMtbjVVOXJrMVRPNk5VWDk5UVNuSVNLdmpXbmI1STN4WnppYnFQNGpwVC1wY1gzUWtGaHRReWFVd0p2ckZjLTBFa2xUczViV2JQYkZEdTdlOHV1cnVkUHhyN3VOaHFkZw?oc=5",
+  "fecha": "2026-11-11T13:02:49+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "248ea0144c129f",
   "fuente_id": "forbes",
   "titular": "Whole-House Efficiency: Why Energy Upgrades Need A Coordinated Plan",
@@ -6343,6 +6433,16 @@
   "fecha": "2026-11-11T12:39:40+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "a0d083ff76da49",
+  "fuente_id": "cyberpress",
+  "titular": "N-able Restores N-central Cloud Services After Emergency Fix for Able2Shell Vulnerabilities",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGX0Y5MTlLOEN1eDNKSVVoMEltbm5FM2poNFJTUWtuSFlsWmdEWWhWRi1vbTl2emRkeGZJSTdjckNnbXJyenhOQ25QVmtZa09zZ19CYUxXNGpLdDUyXzZRbWI4RFFlUUhMTk40MHl0SlBEQdIBckFVX3lxTFBGX0Y5MTlLOEN1eDNKSVVoMEltbm5FM2poNFJTUWtuSFlsWmdEWWhWRi1vbTl2emRkeGZJSTdjckNnbXJyenhOQ25QVmtZa09zZ19CYUxXNGpLdDUyXzZRbWI4RFFlUUhMTk40MHl0SlBEQQ?oc=5",
+  "fecha": "2026-11-11T12:39:40+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "d353db05aa322d",
@@ -7145,6 +7245,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "96951dd0c1b6cf",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Git Fixes 6 Security Vulnerabilities Allowing Hackers to Execute Malicious Code Through Cloned Repositories",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxaHFqQi1MaFpvTXYteG85WE15a3FSdF91YU1uLTVqZUhqdFpWZHROVTJQcXVrZTE0TTQ5MmlUYWNmcFI0anRTR1FUcWROc00zUmtXYi1nUnJ0ZGdFT1QwT29aQmlmUlBVMGV1dlNDZnktTTDSAXhBVV95cUxNOU9DMGN0d09iZVdjVHZxclYxTkw0TmtFVjQwV1VPcFdxWDNsTjlaRHQyRWZacmxxekZiWkJnS3dvbGJMRGwxNnVYZGpBQmVnSXQwRXA5ekFSZVlZeDNSQXVkQXROZW53eEtmMTJVbmowQVZQVTJrVEU?oc=5",
+  "fecha": "2026-11-11T11:33:03+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "02d57ee847de4e",
   "fuente_id": "la-republica",
   "titular": "El petróleo sube tras dos días de caída, con la atención puesta en las perspectivas de una guerra",
@@ -7163,6 +7273,16 @@
   "fecha": "2026-11-11T11:31:29+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "4cc417de5ad2ab",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Windows BitLocker Vulnerabilities Allow Attackers to Bypass Security Feature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GckYwNWU1NEh6ay1fVGZnRHhaaWtRQlZGaHNqcnBEMk1feXBSa1M3Qm1jMlNwYXowVW1PVUh5b0VzTTJoOEtYOHVhVVhZZFBra0FNZnJRc3dRYmQ5ckY1TU5QWTNPby1XeHhnYjNRYktLZ9IBd0FVX3lxTE1ZYzhha3NTc29zLWdGcmFrQmlGOUlDeXpoX1Y5QU9lSEotbnpVLUZKMjM2cGxycHdzWkxCelRqYVBMWmxUcHo2eFptNkd4V1I2Wk1IS0t6WG5CazFIeHRVLWR4eU50X0N3YVdncjlpU3Y0R1ZUWGJZ?oc=5",
+  "fecha": "2026-11-11T11:31:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "130cb74e18fed1",
@@ -7315,6 +7435,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "03d4cd84b25f5d",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Multiple Windows Remote Desktop Flaws Allow Attackers to Execute Code Over Network",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmY2bVAtVGpuVGJrN19YZE5MaGdtWE5wN080d2pqbVotUXpRMWowdEdCel81cENnYmlQVnRlZ29xMGlLaGRBaTR4SnM5dTJlWXEzVmViMU1aRllTUzZ3aGFxXzV3WFFDeUNfZ1dmbm9wa0h3a2pqY0FrYVljN2FoOVBESEXSAYoBQVVfeXFMTmNEbHFHMWNVa0daWE5jV3NJMkhRXzRRU1Zkc1NlWFRoS3ktYmRiYjF1a2ZaQ3dmTjFtaEJpSlRYU2EwZklyR1ZGNlRkc1VWTzZLdU1QSEVSQzBlWVdCc1hVZENBcWgxNnVvMTN5UHVCMjF4QzdnUFdha2R1NElpTE44b1I2d3pRUUVn?oc=5",
+  "fecha": "2026-11-11T11:22:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "cb6eb7c5e61c00",
   "fuente_id": "portafolio",
   "titular": "Precio del dólar en Colombia continúa subiendo y ya roza los $3.300: así cotiza este 11 de noviembre",
@@ -7403,6 +7533,16 @@
   "fecha": "2026-11-11T11:09:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "e1763a48102e4d",
+  "fuente_id": "cyberpress",
+  "titular": "Over 1,400 ARTEX AI Hacking Services Found Exposed on the Internet, Researchers Warn",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJbFVHUkgwRS01YU9COURRek1qS0NQRlUwMGZaV3o3Ykh3M1Z0RUt2ZER5dGxXQVFQN1duYThRQmZmS3J1N01NTGJ2aWE0SXJnQm5CWTh5VzFVV0VS0gFcQVVfeXFMUElsVUdSSDBFLTVhT0I5RFF6TWpLQ1BGVTAwZlpXejdiSHczVnRFS3ZkRHl0bFdBUVA3V25hOFFCZmZLcnU3TU1MYnZpYTRJcmdCbkJZOHlXMVVXRVI?oc=5",
+  "fecha": "2026-11-11T11:09:04+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "df83e5009f4b50",
@@ -7725,6 +7865,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "b28a2f3985506f",
+  "fuente_id": "cybersecurity-news",
+  "titular": "ClickFix Attacks Evolve to Hide Malware in PNG Images and Hijack Windows Domain Controllers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IT0J4aDRPOGlXQnRtRVFkeDB1b3BUakFrV3drRkNvYmMyOGpOb1pTNkRBZFBBendUT0FYa052SV9qWmExeFRqUjViOEthbmxhQWc5TVVFdTdJQll2WVVNVW1wcUTSAWpBVV95cUxNSThuN3hXNlQ0RW9Hc1R1b19zTWJpd0pndHdnSUpEdFlHTVdhU3ZRWFR5WWFYejB0T2dueURaTUI2WDd1cWJWRWVCVnVDak5MODZLdGRNZjNLWEtQX2Y0clhRem1DN2h6aDFn?oc=5",
+  "fecha": "2026-11-11T10:47:56+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "2f940600d1a0a5",
   "fuente_id": "bbc-mundo",
   "titular": "Por fin hay un tratamiento para la demencia de mi hijo de 5 años, pero tiene un costo de US$4 millones",
@@ -7753,6 +7903,16 @@
   "fecha": "2026-11-11T10:44:43+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "5c3f4dea66d623",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Exploit AhsayCBS Vulnerabilities to Hide Malware in PNG Images and Deploy Stealthy Backdoors",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIQjI0VXlORGJYM2c2QUhkNVRZdWtIOHdOb0NEWGZ6VXpyQ3M0VURUc3B0V3k1Rk1PMXYta1JRRGpKY0JMWG5EVHdLYnI1T01ReE5meGdpcUcwNWp0Y2RWQmloUVJvbGg2MlVMWFVsSkxJZGdRdXhBMkxud9IBgAFBVV95cUxNbmYtUlJnbTVid3loekNxdHY5LU1zV21vM1hJNEpya2JKSGdvTjhsdzN3b3FYQlVROEVYcEtiVzlVNDdtX2h6azAxTEJhaEVPT0JPQ2taQnA1Q2FGZU8wbk5UR1I2RlBsU0tNTU1SellaUnNlVFktR0dkQUVTT290Ug?oc=5",
+  "fecha": "2026-11-11T10:44:43+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "5d1b7e056778e1",
@@ -8035,6 +8195,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "dfed8089a203e4",
+  "fuente_id": "cyberpress",
+  "titular": "Critical FortiClient Flaw Lets Hackers Execute Code When Users Visit Malicious Websites",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5Y21UaXdmSHBRQ3NyaGo3LUZTM0I5WUEwSzd6UkZ3SktRNGwwZngwM3hCeHNoYnMwQVhfV0luR21oMm5CMnVBcWlQaXNTdUl0RWVxNHRZSDJZR3Q1LWfSAV5BVV95cUxQeWNtVGl3ZkhwUUNzcmhqNy1GUzNCOVlBMEs3elJGd0pLUTRsMGZ4MDN4QnhzaGJzMEFYX1dJbkdtaDJuQjJ1QXFpUGlzU3VJdEVlcTR0WUgyWUd0NS1n?oc=5",
+  "fecha": "2026-11-11T10:05:04+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "a8997319d9aedf",
   "fuente_id": "uicn",
   "titular": "IUCN CEM Coastal and Marine Ecosystems Specialist Group",
@@ -8153,6 +8323,16 @@
   "fecha": "2026-11-11T09:35:33+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "bd6d0c584a1cd1",
+  "fuente_id": "cyberpress",
+  "titular": "New GhostFrame Malware Lets Hackers Hijack VMware ESXi Virtual Machines and Steal Windows Credentials",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PVWtHMFgwUGN2RjVhUmNaQUZKRWg1YkZoNjhndjhkeXBLVTE5Z0pSN1NQMUZFUkpzTGFUS2pGR2Y2UF96SkVfYVNLZFk4OUJCTDRnLVVBVXlHd2w1ZGFIRVRuY9IBY0FVX3lxTE9PVWtHMFgwUGN2RjVhUmNaQUZKRWg1YkZoNjhndjhkeXBLVTE5Z0pSN1NQMUZFUkpzTGFUS2pGR2Y2UF96SkVfYVNLZFk4OUJCTDRnLVVBVXlHd2w1ZGFIRVRuYw?oc=5",
+  "fecha": "2026-11-11T09:35:33+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "afb9a1b4ca5227",
@@ -8363,6 +8543,16 @@
   "fecha": "2026-11-11T08:49:22+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "c9aac42efe3abe",
+  "fuente_id": "cyberpress",
+  "titular": "Microsoft Patches Over 1,093 Security Flaws, Including Outlook Zero-Day Exploited in Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LdV9hak5QOWc5SUNiN3IzNmF2Wl9iUEQtaVZlRE1SU044b1pEaDhENjUzd19BVjNuMmJLOER5UVVkVUxXbk5BdklkWjhMRVlFSjQ0ZTkzMEdiVkg4dUIyVDVmdmxRZEo5RWxWbENma3A2YWla0gF0QVVfeXFMT0t1X2FqTlA5ZzlJQ2I3cjM2YXZaX2JQRC1pVmVETVJTTjhvWkRoOEQ2NTN3X0FWM24yYks4RHlRVWRVTFduTkF2SWRaOExFWUVKNDRlOTMwR2JWSDh1QjJUNWZ2bFFkSjlFbFZsQ2ZrcDZhaVo?oc=5",
+  "fecha": "2026-11-11T08:49:22+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "26b5cada339a54",
@@ -8585,6 +8775,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "1f75e81437cb5f",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Exploit Microsoft Outlook Zero-Day to Steal NTLM Credentials in Active Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qLTNhY0trSDZXZm4tWnhydTk2djZZOE90WjhVZlNSc1NsNlpQNHVkOXhXMHAwTm1KbjZSM25vcW9ZU0R5UlRHRHNQNFg2dVROc0xPVG5oMGJTWWZkbkRKcWtpMkcwYzFKNGpnbXpFVldXS2xSbm9LVWxBM0XSAXxBVV95cUxOai0zYWNLa0g2V2ZuLVp4cnU5NnY2WThPdFo4VWZTUnNTbDZaUDR1ZDl4VzBwME5tSm42UjNub3FvWVNEeVJUR0RzUDRYNnVUTnNMT1RuaDBiU1lmZG5ESnFraTJHMGMxSjRqZ216RVZXV0tsUm5vS1VsQTNF?oc=5",
+  "fecha": "2026-11-11T08:25:22+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "5184bf9194640b",
   "fuente_id": "wsj",
   "titular": "Stock Market Today: Tech Stocks Poised to Jump After CoreWeave Earnings",
@@ -8745,6 +8945,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "c19e28e6417971",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Critical Red Hat Quay Vulnerability Allows Unauthenticated Attackers to Hijack Container Registries",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02N005d0RKQmFiMHRuYXVtTmVxb2lYYURQSldkRUxFYk9ISVprWnFJY2ZTMjVqSjk2MWJVMW1MaWh1UDZQeFBOZnJWa0VtcTg2ZE1WZ1QtajVURHNheVc5ck1ZR3FyREZI0gFuQVVfeXFMTU1jTjYwZkQwMjNHWVNoZl95M3ZFUzVpYUlqU2dnMTd3dzNDUi1WS1h4M1BpVjM4OGNSRGZMN3RUQWVMaFlQUkJGYnZLZGhFcmxtcFNuN1JLckJ1a3FFX0RCM2pUNUxWRXRud0dQTVE?oc=5",
+  "fecha": "2026-11-11T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "e82cffe36592f6",
   "fuente_id": "securityweek",
   "titular": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
@@ -8815,6 +9025,16 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "1a29bea0112b6c",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Top 10 Best Security Policy Management Tools in 2026 [Ranked & Scored]",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UN2pvSENjbFZyUWtfWjExTFM5WjJheEQ4ZXNpRUZQaVYxa01PQkZkXzJFNVZLQ0htblljbnYySFlzZnd5Qk1PUFV6MnJ2dFhLT3NTTF9HYV9QLWhOel9pQ1hKbGhxbXZvT1BPcWxNXzVWTXp00gF0QVVfeXFMTlQ3am9IQ2NsVnJRa19aMTFMUzlaMmF4RDhlc2lFRlBpVjFrTU9CRmRfMkU1VktDSG1uWWNudjJIWXNmd3lCTU9QVXoycnZ0WEtPc1NMX0dhX1AtaE56X2lDWEpsaHFtdm9PUE9xbE1fNVZNenQ?oc=5",
+  "fecha": "2026-11-11T07:36:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "0b4b294418b61b",
   "fuente_id": "wsj",
   "titular": "Dangote Cement Shelves Secondary London Listing",
@@ -8823,6 +9043,16 @@
   "fecha": "2026-11-11T07:35:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "661f58ff9aecab",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Top 10 Best Security Ratings Services in 2026 [Ranked & Scored]",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HM3RmemZIZ0NJdUFzS29KZXNzcWtJdlFHX20yXzlTbVlXRmdWclhka2NjeE1ZQzlMTGpuZUNMU2hKUnd1Y0ppZVJYWnF6QXJKNlVsQ2l0cUxjbDlkdk44VDJSVFl0LURHZXVfcGN0Um9ISXfSAXNBVV95cUxPRzN0ZnpmSGdDSXVBc0tvSmVzc3FrSXZRR19tMl85U21ZV0ZnVnJYZGtjY3hNWUM5TExqbmVDTFNoSlJ3dWNKaWVSWFpxekFySjZVbENpdHFMY2w5ZHZOOFQyUlRZdC1ER2V1X3BjdFJvSEl3?oc=5",
+  "fecha": "2026-11-11T07:33:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "e28ff692f1183b",
@@ -8855,6 +9085,26 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "1f03dfdd3adf36",
+  "fuente_id": "cyberpress",
+  "titular": "MCP Servers Silently Change Dependencies Without User Approval, Exposing AI Agents to Supply Chain Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWDlIaEtpQTBaUVNDZTBDVlJBXzBuX2NXRTNjdG00QWQzclZVWlFMdVYtcjhLdUJHLUVTQ19JUmRTa3hMY1ZOWEZ6WUdubnpESHJkU1Q5MXMxQkE5dFhV0gFfQVVfeXFMT29YOUhoS2lBMFpRU0NlMENWUkFfMG5fY1dFM2N0bTRBZDNyVlVaUUx1Vi1yOEt1QkctRVNDX0lSZFNreExjVk5YRnpZR25uekRIcmRTVDkxczFCQTl0WFU?oc=5",
+  "fecha": "2026-11-11T07:26:25+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "7f87816c911aac",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Windows Active Directory RCE Vulnerability Allows Attacker to Execute Code Over a Network",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tUXpLTms5cFp0VlM4RnBvMGZjWDlrMGphdm9ZbHNxSmJmeVRwemU3SlRrZ3k1b2JMbk5ycW5nYmFnV3dsNEZLYWY0V2RGWXRLLXJtRENCWUMyTFJXcGRmSmhsdzg1a0I4Y0VzT0RTQm9jVnhMUzlvdWJPa2Fhd9IBgwFBVV95cUxOOFFnZFhyTGhUSEthOFpBM2J1RWY0aVE0OFhTeUxBaXVuZVBjMUxXdk9xbENNMGdQOHpyaEQ0OS1TXzlSR2ZNbUI1bklGeldfN2QxTGNiNEhWMWo3emdlbExOZEFQYlZmdVlMRzVKekNZblBzQklZRlhWR2NNVXdROFNPTQ?oc=5",
+  "fecha": "2026-11-11T07:21:28+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "e23f07d99f9281",
   "fuente_id": "the-hacker-news",
   "titular": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
@@ -8873,6 +9123,16 @@
   "fecha": "2026-11-11T07:18:26+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "05cd75d3b7f9ae",
+  "fuente_id": "cyberpress",
+  "titular": "Microsoft Reveals How Hackers Could Backdoor AI Models by Modifying Just 7 Neurons to Execute Malicious Commands",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lTThTWkw3Y3RIZGRScEVibGtiR01JZkIxVGkzYWp0TmpYdzhMOTZoeF82TU1qdE0ybGlEaE1fQkY0N1hGNi0wV1E3YzFacWZiMXhuX3dGVW5aRmxRUGhXWVhlaEVYZ9IBZkFVX3lxTE1lTThTWkw3Y3RIZGRScEVibGtiR01JZkIxVGkzYWp0TmpYdzhMOTZoeF82TU1qdE0ybGlEaE1fQkY0N1hGNi0wV1E3YzFacWZiMXhuX3dGVW5aRmxRUGhXWVhlaEVYZw?oc=5",
+  "fecha": "2026-11-11T07:18:26+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "8844eadfc0c252",
@@ -8913,6 +9173,36 @@
   "fecha": "2026-11-11T07:12:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "abd461eee550a8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51eUgxODE0OEhGQ3g5YnJUZWd3aDZvQVdPWGlaX3NtcmxaVmVxd05aNFIyY3V6Nk1uQmJtZGtzcWhmMkRSdnFlOHNjNUNFd0F2ZDRFNXNzMXFvZ0hxNkNFMGhxeWZUdVdyc2hBQlo3WdIBdEFVX3lxTE5vdFVkeXE4ZEJBaXU1R0x6bWwyNTgzNHhrcGYxZHJHWTM4RUxtWXJJSUZBM0wyRmpqUXBTbWJCNU1qVFNJZzVuY2xjN01sUDBOaUIwNmVpUkRJRXpFYkE5STIwNlhfdmVXZGgtLUI2aE5ZRVlu?oc=5",
+  "fecha": "2026-11-11T07:09:04+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "9ad653baa4f6e1",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Critical Fortinet2Shell Vulnerability Enables RCE Attacks in FortiClient with FortiPAM Enabled",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CdXl5VkM3SEVBRkVkMnJUT2VvNG9rTzFReU0wVzM3UHlMaW5QOGRiMWNBNjBFa1I4YUFXMXdmTy1INVFkWGdVY3kwdWx2RFFqaHFEMnZxQW1pMU9MMlNMc3ViV0dpcGJGWUdN0gFwQVVfeXFMTVdYUGNxb1pESnBDWXVIQ0VrbVBKelEwZ0dkT1lYNXhXbVhjNGk3WjJlTkNLU0ZVTl9DV3QzVEpTZVo0UXNLb3dYRjlwX2RtUlJQMmRRNTFveFQtNVh4VzE0SERZMEpVNEVmMFh4WVhnOQ?oc=5",
+  "fecha": "2026-11-11T07:05:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "8fc52918953868",
+  "fuente_id": "cyberpress",
+  "titular": "Critical Fortinet Flaws Allow Hackers to Execute Code on FortiManager and FortiAnalyzer Without Login",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCXzFKX2dpbl8yQ0R5NkZhMzBQWUlYa290aXUtd3VhRG1CbUpnUVFDekUxTW4wa0tzSWpRbEwtUnRpQ2ozLVBhQjdEY3RWUjk2RlQxN0dNR2dHaUnSAVtBVV95cUxQQl8xSl9naW5fMkNEeTZGYTMwUFlJWGtvdGl1LXd1YURtQm1KZ1FRQ3pFMU1uMGtLc0lqUWxMLVJ0aUNqMy1QYUI3RGN0VlI5NkZUMTdHTUdnR2lJ?oc=5",
+  "fecha": "2026-11-11T07:05:20+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "e7aedb5ed7b97d",
@@ -9015,6 +9305,26 @@
   "primera_vista": "2026-11-11T13:22:39+00:00"
  },
  {
+  "id": "d2da6f0ac972d3",
+  "fuente_id": "cyberpress",
+  "titular": "AhsayCBS Attacks Deploy Five Hidden Webshells and Python Backdoor to Maintain Access to Backup Servers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibFVzY3hCVUN0TkRZYndPTG54bldjSG82X0xlNzJ6YUVBZjJUTWZ3Z2V0WndxZlVHQ3IyV1lSTU8tUDRhVmhiZFd6bW8wTWtpRlRmRUcwNzkzNzRLbEZ4d1dFUzA0ZmI50gFoQVVfeXFMUGJsVXNjeEJVQ3RORFlid09MbnhuV2NIbzZfTGU3MnphRUFmMlRNZndnZXRad3FmVUdDcjJXWVJNTy1QNGFWaGJkV3ptbzBNa2lGVGZFRzA3OTM3NEtsRnh3V0VTMDRmYjk?oc=5",
+  "fecha": "2026-11-11T06:59:10+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "61ac239e1d6182",
+  "fuente_id": "cyberpress",
+  "titular": "Critical SAP ICM2Shell Flaws Allow Hackers to Take Full Control of Servers Without Authentication",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nOUlHNEhVbXJkVEg5SElDMWY1Z3lNc2hwQ090U1F3eUpPOUxtZFBJNm0xdmVRMlNDV0h0X3ROX3hoMUFvN0N4QzEzbnVwMTMxT1ZzVEdFUXhxejNMLTJZQ3hn0gFiQVVfeXFMTmc5SUc0SFVtcmRUSDlISUMxZjVneU1zaHBDT3RTUXd5Sk85TG1kUEk2bTF2ZVEyU0NXSHRfdE5feGgxQW83Q3hDMTNudXAxMzFPVnNUR0VReHF6M0wtMllDeGc?oc=5",
+  "fecha": "2026-11-11T06:53:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "79bd245b1de40b",
   "fuente_id": "tech-funding-news",
   "titular": "Mercor doubles valuation to $20B with $750M Series D to train and test AI agents for enterprises",
@@ -9063,6 +9373,16 @@
   "fecha": "2026-11-11T06:42:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "1169472247d6fd",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Breach Railway Cloud Platform, Exposing Customer API Keys and Database Credentials",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jWmlfN0RRcEhTT0N2eHpicmhNUzFDbDFlQ05lUkxkckdDY0hfUzQtS0k2NDUxdUVGV3BlcktubHRPQl9VbXFrbjA2QWItSEFMTWpGMG9rNDljNEhQQ21KMVBQakxGc042a2lDVGhR0gFuQVVfeXFMTmNaaV83RFFwSFNPQ3Z4emJyaE1TMUNsMWVDTmVSTGRyR0NjSF9TNC1LSTY0NTF1RUZXcGVyS25sdE9CX1VtcWtuMDZBYi1IQUxNakYwb2s0OWM0SFBDbUoxUFBqTEZzTjZraUNUaFE?oc=5",
+  "fecha": "2026-11-11T06:39:58+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "c4745100d7671c",
@@ -9125,6 +9445,16 @@
   "primera_vista": "2026-11-06T14:26:31+00:00"
  },
  {
+  "id": "00761b0c6cbdaf",
+  "fuente_id": "cyberpress",
+  "titular": "ClickFix Malware Campaigns Move Beyond Password Theft to Compromise Entire Corporate Networks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZY2dwRWRQR3dtc2NjbW5STF9LSExPRFY3TjBpMlp1NF85ejRtMjg0bS1JNkJVZnBzaHRFUFZiQmtqdmhuTF9JSF9HZEdVZGh3QWd6dW1tQ0pXQXl5dEV3ZHY1bFFpMjF1dngtT3k1TdIBb0FVX3lxTE5ZY2dwRWRQR3dtc2NjbW5STF9LSExPRFY3TjBpMlp1NF85ejRtMjg0bS1JNkJVZnBzaHRFUFZiQmtqdmhuTF9JSF9HZEdVZGh3QWd6dW1tQ0pXQXl5dEV3ZHY1bFFpMjF1dngtT3k1TQ?oc=5",
+  "fecha": "2026-11-11T06:25:22+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "080011304ebbf1",
   "fuente_id": "yahoo-finance",
   "titular": "Stock Market: Will S&P 500 Open Up or Down Today?",
@@ -9143,6 +9473,16 @@
   "fecha": "2026-11-11T06:18:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-11T13:22:39+00:00"
+ },
+ {
+  "id": "deeabbbf4062ce",
+  "fuente_id": "cyberpress",
+  "titular": "Notion Confirms AI Chat Transcripts Exposed in Fireworks AI Cyberattack, Affecting Customer Workspaces",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmlwNndhQTlZMHp0R2pLTk1zR2VEN3lJNVZIdDB4VHRNRkI3cVhXUzIzNzdRRjFQbDhnd1NWN3lxQWRUMTdPVVRhUlFhd1FRMTZmeUxLWjVFUklGb2NRcmp2NGYtdHh2bzY5NjZqZENsdjIwUmdqSlR3UDBBb0xld9IBgAFBVV95cUxPTmlwNndhQTlZMHp0R2pLTk1zR2VEN3lJNVZIdDB4VHRNRkI3cVhXUzIzNzdRRjFQbDhnd1NWN3lxQWRUMTdPVVRhUlFhd1FRMTZmeUxLWjVFUklGb2NRcmp2NGYtdHh2bzY5NjZqZENsdjIwUmdqSlR3UDBBb0xldw?oc=5",
+  "fecha": "2026-11-11T06:17:32+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "3f333e64ff19d2",
@@ -9393,6 +9733,16 @@
   "fecha": "2026-11-11T06:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "0ee0c51b15ed9c",
+  "fuente_id": "cyberpress",
+  "titular": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTmVRZnFBM0s3MGRaLVluN0FvSHpZdE5HYlotMWN3ZzBzcXRnR3NxazhRUUZfRWtTWUwwSjluVllPOEotblM2b1NhYnNvd1N1S2dTR1F4enZvZXVkMTMyUdIBYEFVX3lxTE5oTmVRZnFBM0s3MGRaLVluN0FvSHpZdE5HYlotMWN3ZzBzcXRnR3NxazhRUUZfRWtTWUwwSjluVllPOEotblM2b1NhYnNvd1N1S2dTR1F4enZvZXVkMTMyUQ?oc=5",
+  "fecha": "2026-11-11T05:53:21+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "42a9c543c71451",

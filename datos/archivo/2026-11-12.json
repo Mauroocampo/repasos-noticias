@@ -130,6 +130,16 @@
   "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
+  "id": "4e7e65c3e90c08",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Breach Global Shipping Giant Maersk and Claim Theft of 100GB of Logistics Data",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nUkZnTmpsUVFmRTlRY3FMMjFDc1BoZFhaOUhxUDVoLTFQejljYXI0Qm8wMTFnSWxaRlZicldQZ1NHNUJ1NmhfUlBpUUJodTVDU2k1R2hCMjF6YWNXbmJGSENR0gFnQVVfeXFMUFdPczF4ZVNQYWdwNDZEZVNIQm9Nc1RPQTFUSzBCV3VyRVIxdWFFWVdfM3BnX19ZX2NZRlhIa2M4a1VXTXF2dk9Hbm1EeTljc3NRdUlaTzlmZjBpTTRDNVhJZ1BHb1RUbw?oc=5",
+  "fecha": "2026-11-13T03:38:42+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "ac61fca65b4f3f",
   "fuente_id": "el-heraldo",
   "titular": "De la Espriella confirmó la muerte del militar Henry Camargo, repatriado desde Nueva York por grave enfermedad pulmonar",
@@ -3820,6 +3830,26 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "fb02a6f3dc96fb",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Microsoft Teams Outage Hits Users in North America",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EbTA5WHJrSzRoTHFXN2R5d1JjZ1hVaDdKbUdIMk84Z1NfYUFibUFNQ3U5Y1UzN0RWdnNvbnpyQXFqTkNDeEhtS2VraG4wRVpnb0FwdlhUTGx6dVV4SE1nVHh2OHkwZWloamdHRlNmM2ppQ1NH0gF6QVVfeXFMUENCSlJ2bnZDRTdwYjRBS3pzTnpoV1BucTF4bGhxMmZTZzF3OFk0WE92TERTaHMzQ2dMaFFsUFRyWlRLUW9ibVh6bGFORi1NX0JodlFfYUFZUmRCMjVqWHVJYkoyd3ZvMkk0ZTludHA0ckV6djE4Vlg0ZkE?oc=5",
+  "fecha": "2026-11-12T17:10:47+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "a2400447b44814",
+  "fuente_id": "cybersecurity-news",
+  "titular": "New N-able N-central Zero-Day Exploits Target Patched Servers, Claiming Unauthenticated Root Access",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jVjhfYnpIMS11NXh3a2lTVklkVVhpa2RjTTNBMXAtWF9xUkpMamVUbm1sbkVQRHlUXzFyUEJEdjh0elVhQUxLN05FalZLTnZaSFZ2SHlPdERXajB2bW1kTUlYVnEtdEZ4cFZIemtCZjdyYk3SAXhBVV95cUxQVkxRbnRVRjNqVmZwanlLcWpyQTFSeEpvb0FaUXZmaWRVbUJtckJDeEFQTkRsVFU4YmpmcXVvQnVZVEpfODltdUNuZkJmX21ZaTdBRnlUMElOZ2RsM2VtVG42MTdQcDA5Z3NaVGU2STFYSDlrS25YTTk?oc=5",
+  "fecha": "2026-11-12T17:10:47+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "ab385869d27afd",
   "fuente_id": "unite-ai",
   "titular": "The Hardest Part of Enterprise AI is Prioritization, Not Innovation",
@@ -4128,6 +4158,16 @@
   "fecha": "2026-11-12T16:58:22+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "faeecacf3ab9fc",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Europol Takes Down 235 Servers and 257 Domains Linked to Gootloader, CastleRAT, and StealC Malware",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWllOYm1hYXdaeThEQUMyc3ZJWndwai1KWFYwTjhVS2NubzZRbTVsRW5lV2ZZYk1IX2N4cmp0YjFDdmFtRUVjbFJXLTB2azNYV2FnRUJuVTZqdHl1OW1UTlluZExyb2RNY3BFRUVkNXHSAXZBVV95cUxPM3RKWFB5Rk41eEtGYVVicTBDYVVVWlpjZWxnekpqSHpBOWNNSG5wc0p2TE1SUXNxUGp0MW9URG5HRHFjQnBLNW1ReG9GVFBGbXZidTVhZC1CaTJHRDNMVEFfTnhRWHVhZ0xzdEJLUS1ibVZDTEhB?oc=5",
+  "fecha": "2026-11-12T16:58:22+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "92e3a62a4bbef8",
@@ -5870,6 +5910,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "92a5eb9f26caa6",
+  "fuente_id": "cyberpress",
+  "titular": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmlEOFpydlFiZWxINllLbG9OalNmcWRjQkZ0ZklQSVBQWjZReUVDdlBSNzBydlBIZ3VHalpoQnljWFZZaTE1M0x1R1J3R1lSMjhIam1mSlhBYnBxUFpDc0VpY05GcHN0bGZoS3B2UUVqOW1rUWhSNjlLUGNDd2s0Q9IBgAFBVV95cUxPcmlEOFpydlFiZWxINllLbG9OalNmcWRjQkZ0ZklQSVBQWjZReUVDdlBSNzBydlBIZ3VHalpoQnljWFZZaTE1M0x1R1J3R1lSMjhIam1mSlhBYnBxUFpDc0VpY05GcHN0bGZoS3B2UUVqOW1rUWhSNjlLUGNDd2s0Qw?oc=5",
+  "fecha": "2026-11-12T14:55:07+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "53ba72464ba391",
   "fuente_id": "portafolio",
   "titular": "Utilidad neta ajustada de Cementos Argos cayó 29,2 % en el tercer trimestre por energía y revaluación del peso",
@@ -6485,6 +6535,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "3e05407d61932e",
+  "fuente_id": "cybersecurity-news",
+  "titular": "CISA Confirms Active Exploitation of Outlook User Interaction 0-Day Vulnerability",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObG5kUjdRdkNlamNvWTRfWVNDREJqTDJNSVdtaDZPcmI3N1BGY21TTmVaNkZSTmc2VF9ZMjhjNVJBdkRoclBQSWtVN3dPVTVmWkI1N25obEFCZXdOS2pqTHNaSS10MDNfWXB4Y3o5S2toMmxhTC05Zk80c25FR3BrVWdfV3BTcWxS0gGOAUFVX3lxTE41WDItbkJNTHhPSmhyZmJRbFI1b042XzZobC1WMEdGRks1bHpXNk9TVkZEcHRHYkJyWnJwdk5LZU1pd0ZITE0zczd4cmZWV0N1NG9GeU1EcmJfbURBRDBLVmo4Z1A0SnZWNTZNcUh0dXRhdjRaRjVfbzdrVjVKMHF5SFJhclRySVdDUGxHZWc?oc=5",
+  "fecha": "2026-11-12T14:11:54+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "84085cefcb5d85",
   "fuente_id": "agronegocios",
   "titular": "Conozca los resultados de las loterías del Valle, Manizales, y del Meta del 11 de noviembre",
@@ -6875,6 +6935,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "7d4b3c1eba36da",
+  "fuente_id": "cybersecurity-news",
+  "titular": "AWS MCP Gateway Security Flaw Allowing Access to Internal Networks and Cloud Credentials",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTjZfcXNVUzFmcjJsY2hqbDNqdUwzWHlEay1wWXlkdUdqMU9iQl9HZkJncGVhTHJjNHdpMkRzamg0VlY0NFdscFMzYjRnNzBNUUJtN0NsN2IxYUt1VlNheVE4ZWs2OTVONHZCZtIBckFVX3lxTFBPbHZvYWNVOF9jX3QtQmZPWEEyLXFkQkZiRVVQUDZpeG5WVUM5YnVidjVwZUdsTkVhUUpZMGZjSFpsTkdLM3hlSFByN05TYUhyYmpBejdtU19Ta2NFRENoU3FFZThxaHRXUWJYN3ZycW94dw?oc=5",
+  "fecha": "2026-11-12T13:55:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "09e73cd93b3d08",
   "fuente_id": "el-heraldo",
   "titular": "Putin quiere una “paz eterna” con Ucrania, con una frontera clara y “sin zonas grises”",
@@ -7153,6 +7223,16 @@
   "fecha": "2026-11-12T13:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-15T17:31:30+00:00"
+ },
+ {
+  "id": "6312270101337b",
+  "fuente_id": "cybersecurity-news",
+  "titular": "CISA Warns of Google Chromium 0-Day Vulnerability Actively Exploited in Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmFlbVlrcmQ0anFkWGZ3R2ZFMzkteThwTnBsUm5hOGFkWjJla1NMbWFXNVJYblF4RXVxZXZOdFpQblN4cUYtUGVSeFlGMlVzUkVyY21OakZ2RGFzRElDNGs3TTZ6cGZ1YU9CX0tQZFM4Mlc4Y0twVWFqMmlvbTZpSGpn0gGHAUFVX3lxTE1DbFRONFdHNHN3VWZkZUFqRnpHWGFBT05ISFdHclBMSDl0cUhiemI0ZUtIaU04SmdhODQ3bGhFa2JCUmZBWGItOXBTRkhmV01aUmJmZUZRZVBFSWhKanZYeEJtSk5oTm9PRkVDMXNCSFlwLWFBTjRRNGt0bUFLNy1sVnZ1TFV4WQ?oc=5",
+  "fecha": "2026-11-12T13:28:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "24d7fb83f2c298",
@@ -7555,6 +7635,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "fa72a158a8d001",
+  "fuente_id": "cybersecurity-news",
+  "titular": "FATF Traces Over $100 Million in Stolen Funds Through Crypto Wallets Linked to Global Scam Networks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mRk5BOHV3TkJNMFQyYVFsd0dEU0wzbm5ES3czTGpZTE1MLVdDVnZLOTNwekp2d2dZLXl1STVNZDIyWmgzSFpMcDdqUm56b2ZMR2F4TFJDSkN2QzlzNGRmTlh3TEg4WXRmOUl6Mkt4LTBiTUpu0gF6QVVfeXFMT2pNT1I3cXNNUXN4dmNqdEpTRTBpME5aX0Q1Vm5TbGZ5bHJIeHZaYVNYRXE4U1Z1RW1iQ2FIUm9TcmZEeWxoSndBQjB6ZTlwTkJNNURpWDdpcFBOMkRzVlkxdFNTUU1RelpCV2JzVlJwUDhfaTE0UktCU3c?oc=5",
+  "fecha": "2026-11-12T12:57:16+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "c28616bd679ae2",
   "fuente_id": "wsj",
   "titular": "Brookfield Earnings Buoyed by Fund Raising, Wealth Solutions Growth",
@@ -7803,6 +7893,36 @@
   "fecha": "2026-11-12T12:28:20+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "b2f5d659423c00",
+  "fuente_id": "cyberpress",
+  "titular": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01YkxXT3NDcmJhRUlfcWNHS3FxeTVCUjNmSjM2RW1HR3dNVDNlNUY5WFlFcDZGV2xLWFo5VGlxdlh3cU1SbXVYYkxqaXFtdkc4SEJoUlFBWEFXLUNvOWFqetIBYEFVX3lxTE01YkxXT3NDcmJhRUlfcWNHS3FxeTVCUjNmSjM2RW1HR3dNVDNlNUY5WFlFcDZGV2xLWFo5VGlxdlh3cU1SbXVYYkxqaXFtdkc4SEJoUlFBWEFXLUNvOWFqeg?oc=5",
+  "fecha": "2026-11-12T12:28:20+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "28e79105936c61",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Critical MongoDB Flaw Lets Attackers Crash Database Servers With Just Two Ping Requests",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jZHZaU2RtWmpSRjM3eWNpSTRvRjhsVXB6b1VaSEM1a19YbGJmeWVXRFhfZ2dKZE9ZUG1RZ3djLXRrVUxfTWs2RXNqLUlpcmw0bk5kbFZVZlVVM0doYW9LY2U1TWk0QWcxNzR1eERUa0xoRERXc0HSAXtBVV95cUxPMDd1cV96TnQxNXROWC15OXZGYzJUb3FZN3Y2Njl2YkJQenktc2VzQzM5eVZEVEtxaG9YVkltdHR3ZWtQV1FjZkxLNnpTSTJHbVpMaGdEOFc0T0VRTFdQdGtaQmRVOVpSeDZXZ0pZTjJHTjVaWkFZOENKaDA?oc=5",
+  "fecha": "2026-11-12T12:27:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "14002e7800b1b8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Target AI Coding Tools to Steal Credentials as Researchers Uncover 103 AI-Linked Cyber Incidents",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nd2JPMzhvS0NnSHZjbjVzcE9DdjBhS3NZaF95RmU0bmZmNmY5T1VSR1U5N3lEaFY4TmZXV2s1cmxQUHRHT0hVSDA5RER2T1dTODdmd0FuODFvTkJ1UUY3eXdBQ05BS3Q4OTJ4LWVB0gFzQVVfeXFMTzhyVlZKWEswZVNsUjlVTWRHUm5Kb0gzbmFoN0YxSGtjUkRGZDdOSG10NkZpVU44RFJ5UnhVZHo3cWxQUzg0UmpIaXpYLWxIWUdCeXJNY3ozY18xNm14LXlteGVmelZodlFPNHhwbmF1N0tDcw?oc=5",
+  "fecha": "2026-11-12T12:27:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "06c48d030d0ea3",
@@ -8915,6 +9035,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "635443bf158cb4",
+  "fuente_id": "cyberpress",
+  "titular": "ESET Warns Cruciferra Malware-as-a-Service Uses Over 90 Encryption Routines to Hide Malicious Payloads",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKUzRVcDNqZHBxV3FPTmU1LXgwUmhtZlBxYzhCT3hpMEozMF9uUUZ5cVJLTDZWT1JWbFZVWjloSFZXbW93MzZ6YWlNenV3UTFfZ1gwdWg3ellpLW83Y0lsOWN0NU5QVXI3cm1MbG9JUUZEOExzb2hj0gF3QVVfeXFMUEpTNFVwM2pkcHFXcU9OZTUteDBSaG1mUHFjOEJPeGkwSjMwX25RRnlxUktMNlZPUlZsVlVaOWhIVldtb3czNnphaU16dXdRMV9nWDB1aDd6WWktbzdjSWw5Y3Q1TlBVcjdybUxsb0lRRkQ4THNvaGM?oc=5",
+  "fecha": "2026-11-12T10:51:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "c00a11901c4146",
   "fuente_id": "bbc-mundo",
   "titular": "Qué es el ejercicio incidental, la manera de mantenernos en forma y saludables sin intentarlo",
@@ -8953,6 +9083,16 @@
   "fecha": "2026-11-12T10:43:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "b976a90eb67ce9",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Google Chrome Fixes 83 Security Flaws, Including 5 Critical Ones that Could Enable RCE Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lVDBVQmZJamxHVGxoQnF5MTF5S0hOZVNrM0JRMWR3Z1BvOG5PSEpRbXZkMDdPeWpFTGM4cE84b1JGZWoteU9yZmlVQVVHd1dPSkJJSjdMWV9FdU9XMGxoRzUwQjlPWUR5cjBKZ2JsWjVuejltMVNB0gF8QVVfeXFMTUh0YWEtQ2hUVi00QTF6VUNwMUdxOE5ueVdSMWVrZEpLUE9xUFQ3eW5IX05YM3JEUklPVnlVSEpXNndVWWtVU0x2Y2FRc0N0dGVqRE5wMU9yNG5QYVR0TnVWbVpyQUdnd0t1QjlEV2g2ZmdQdUZ2ZllOaDV3QQ?oc=5",
+  "fecha": "2026-11-12T10:42:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "ba83e495c4620b",
@@ -9003,6 +9143,16 @@
   "fecha": "2026-11-12T10:32:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "b79d570bb49a51",
+  "fuente_id": "cyberpress",
+  "titular": "What is Endpoint Security? – A Detailed Guide 2024",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5mZFBCNmVLclZ3WVRIUmlldTNCOTN1NC1VNFNFSTV5dk9rS211bzVtSFdsaDJwUDBuNWR1OEowYzROUVRoVG5Z?oc=5",
+  "fecha": "2026-11-12T10:30:25+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "79c137e4c9685e",
@@ -9073,6 +9223,16 @@
   "fecha": "2026-11-12T10:15:59+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "b398bb76ae9b80",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Use AntiFox AI Hacking Tool to Compromise AWS Cloud Environments and Steal Sensitive Data",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1neVlsVTZQUWVFYlVTUlFROHBUR0NtXzc5ZzltOTc4RnVHcWowSHkxMjBaYWtzRWdXd3pET2pseWRVREM4bEI3VkZuWkpsSjFveG00cWF1QndVVzdRNVF2Y29B0gFiQVVfeXFMTWd5WWxVNlBRZUViVVNSUVE4cFRHQ21fNzlnOW05NzhGdUdxajBIeTEyMFpha3NFZ1d3ekRPamx5ZFVEQzhsQjdWRm5aSmxKMW94bTRxYXVCd1VXN1E1UXZjb0E?oc=5",
+  "fecha": "2026-11-12T10:15:59+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "8fb4c69dc18c34",
@@ -9545,6 +9705,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "8a38e94d4a508e",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Hijack 4,837 GitHub Accounts to Target 61,764 Repositories With CI Secret-Stealing Malware",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SaHVUQnJwUWZUZnR0UWdmYVVfVU9RenE3djFVWTJkc2NERjFzd1FkekZta0VMcmJfZld2YlIyWWhzVkhvY1pkYVM5ZzU2UzJWZVVKa3R1Sm80UdIBX0FVX3lxTE05Nmw4NVRoaGpJaG1LVDhicHE3TnN1aEpjV0d5Z0ZEeFFZM3N3VnpjMlk0Wm40R0VMcl95b3MwTlJzWUFrdUE1ZnJmU1dxQmRNYW9OMzczb090R0pXQlNj?oc=5",
+  "fecha": "2026-11-12T08:17:53+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "697841c75c2e8d",
   "fuente_id": "cfotech",
   "titular": "SoftwareOne raises full-year margin guidance above 24%",
@@ -9553,6 +9723,16 @@
   "fecha": "2026-11-12T08:15:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "23fc60afeeca82",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Palo Alto PAN-OS RCE Flaw Allows Attackers to Execute Arbitrary Code With Root Privileges",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91ZUhBb3ZJTHVoT0FYd0lodWgyQTRONW90ekI2TVdXb3NvZmtCYm5vbm1Vb1F1MzJvOW5Eamp4Y1dFaVZIZHd5OXVJVU9haFRRUjlJVER6b1pQWW1HcjVaX1IydnFoaU1CcEFZRTJ2cURHeVVfYlNrNE92cGFUZXPSAYQBQVVfeXFMTXdGek5RYXFYcFAzaDM4YU1jaXdURmdtbmZpaFZXOWEyZTBQenF6N0w3NDd4eXB5QUxEMDVnOFVPWVVOSE9mVHR1Zk45TDdzNGRQaE5TbkVTQ0FJQWRPVzA1VEE5NkVRakVCa0FnOFVzVlNrV0dydnQ3ZmFGVWdIRnkwWU90?oc=5",
+  "fecha": "2026-11-12T08:12:53+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "16bd05c4532c4f",
@@ -9735,6 +9915,26 @@
   "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
+  "id": "64679dab18c662",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Use 2,700 Passwords to Break Into Microsoft SQL Servers and Deploy Remote Access Malware",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wZmdxZG13T0YxWGNwNkxLZGtINnZKeWttcEdYeVhoeGlubHJUVXZjbXBEQUVfaHNObmtCclZTV243ektVWkRMOUJ6aHJNM2pxZWNmMzBrYk4xRVZ0dE9MMVB5Q0ROWDRQa292TzFsQjbSAXZBVV95cUxQMGdmR2hPLUY1c3BBN2dUMzRnN01jVGd2SU9nNjRzNFZfRGlDN3hOcUh5YkN5a1JoaFBCSGJTSDF0NVhnLXNBSGRWWW9zVHBkV1JRdWhEd2NTQUhyNXVfaFRJVXRZNGtOYkY4MEV1Tk9JTmY3OE5R?oc=5",
+  "fecha": "2026-11-12T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "4384466ab6f4b8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Use SANSAR Linux Malware to Hide Crypto Mining by Faking 0% GPU Usage",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82SFJ4dEJBZkxtLTg0M3J6NTJvTEE0RkpONERQNldGREJRVTRkTDdEREVWNTQtSlZnbDVDVXdDc2czZGdCdm91UjhFaGx0cHJtRjFIYVF6d3FQZ3VnMUJoa1djSlNQcEMxTG8ybVVueU3SAXZBVV95cUxPem54NFdsb3dzbjNRUzJadkJaa3FCbU8yLVUzRmRNNDdVSUlSbkd4V3kwRmtHNmRhMWtVdnJiX0NzUWdpYjg0dV9VTFhpdjlROWFrbnloRi1LSVozRjFpQjJsclVnMU1tUzNIalJBNmg5bXVGTDdB?oc=5",
+  "fecha": "2026-11-12T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "bf999934a0cee5",
   "fuente_id": "cfotech",
   "titular": "Vialto launches AI platform for global workforce management",
@@ -9785,6 +9985,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "ccd7ee121e7c6e",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Abuse Claude Code and Other AI Developer Tools to Spread Malware and Establish Backdoors",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wZlh6QkF3Q1BRX3hqeHBzWE10NVlsbGh2VnNOa2lHX0lEcThQY0RKaVNJbUFCREFQVnBLbU9FVWE1MzBIeHNxVmxEWFVsWkFodnNld05OSURIWlFGQnVN0gFfQVVfeXFMTXBmWHpCQXdDUFFfeGp4cHNYTXQ1WWxsaHZWc05raUdfSURxOFBjREppU0ltQUJEQVBWcEttT0VVYTUzMEh4c3FWbERYVWxaQWh2c2V3Tk5JREhaUUZCdU0?oc=5",
+  "fecha": "2026-11-12T07:31:13+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "d1c05119f885fa",
   "fuente_id": "business-wire",
   "titular": "Shahrukhz Residences by Danube: Exclusive Gauri Khan-Designed Penthouses Worth USD 5.35 Million Each Sell Out on Launch Day",
@@ -9813,6 +10023,16 @@
   "fecha": "2026-11-12T07:21:41+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-14T16:49:44+00:00"
+ },
+ {
+  "id": "bdc5b39354f82d",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Abuse GSocket to Maintain Hidden Access to Linux Servers Even After Security Flaws Are Fixed",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5RnRmck5TaUJjUUI3cEdnSzMwWE1nay10VHIwMUE2WFJSRjg0TWNTbjRBV3NMVkRYSkVQYW42SUtnemFOc2JyZW52aU9Xd3dQT1ZOaVJLNjlHUHgtUkxGcC0zTVAtT3MtX0HSAWpBVV95cUxQOUZ0ZnJOU2lCY1FCN3BHZ0szMFhNZ2stdFRyMDFBNlhSUkY4NE1jU240QVdzTFZEWEpFUGFuNklLZ3phTnNicmVudmlPV3d3UE9WTmlSSzY5R1B4LVJMRnAtM01QLU9zLV9B?oc=5",
+  "fecha": "2026-11-12T07:20:33+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "39bbee246ec223",
@@ -9855,6 +10075,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "14cb250e9cf90b",
+  "fuente_id": "cyberpress",
+  "titular": "GitHub Supply Chain Attack Exposes Developer Secrets as Malicious Workflows Execute Across 1,806 Repositories",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FTnNMWnVZbF8tRnpMQ29vbDM1c1ZNNVhXVXRxSE9DZWRmaktiWHN3WG9zZVFpN1RBRHJGemdsNjJiZjkzbHZSc2ZyMXMwWXFlbnY2WFNpQkhuUlBORDFsazQ4NNIBY0FVX3lxTE9FTnNMWnVZbF8tRnpMQ29vbDM1c1ZNNVhXVXRxSE9DZWRmaktiWHN3WG9zZVFpN1RBRHJGemdsNjJiZjkzbHZSc2ZyMXMwWXFlbnY2WFNpQkhuUlBORDFsazQ4NA?oc=5",
+  "fecha": "2026-11-12T07:08:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "66c65b586ef9c0",
   "fuente_id": "business-wire",
   "titular": "Adenia Completes Partial Exit From Quickmart Through Oversubscribed KES 15 Billion Nairobi Listing",
@@ -9863,6 +10093,16 @@
   "fecha": "2026-11-12T07:03:23+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-15T17:31:30+00:00"
+ },
+ {
+  "id": "798c1c27dfbb5d",
+  "fuente_id": "cyberpress",
+  "titular": "Shipping Giant Maersk Confirms Cyberattack and Data Theft as Ransomware Gang Demands $5 Million",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uQjBTZ3d4Ui1rVF9NN3B1TEFmLXlrYkFKc0lGX3Q2bHhRYXFCWEdiQ1VMTEp3NFlzUUFQbGpGMkFfek9wcXBUMENISE83azNjd0tDVVdSYm02MFJJOHZSSktwSHk0V2cwQWVQM0RFX2NiWmlE0gF0QVVfeXFMTm5CMFNnd3hSLWtUX003cHVMQWYteWtiQUpzSUZfdDZseFFhcUJYR2JDVUxMSnc0WXNRQVBsakYyQV96T3BxcFQwQ0hITzdrM2N3S0NVV1JibTYwUkk4dlJKS3BIeTRXZzBBZVAzREVfY2JaaUQ?oc=5",
+  "fecha": "2026-11-12T07:00:40+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "d943c376869b3e",
@@ -9883,6 +10123,16 @@
   "fecha": "2026-11-12T06:59:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
+  "id": "c0174e91f04e23",
+  "fuente_id": "cyberpress",
+  "titular": "Microsoft AI Uncovers Linux Kernel Flaw That Lets Attackers Gain Root Access on Linux and Android",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VcHVhS1VqYVY0M0F3YWVUZ0ZGdjZmTXFEMU9MVDlYYm1NbGNNdDFoZ1l3bjVQcGt5cXMyU2JJRC1nNWphNW5Kd1FUbTBISENqSGJiMVBwOHp4cGZleWpDdlNNOGQxUdIBZkFVX3lxTE5VcHVhS1VqYVY0M0F3YWVUZ0ZGdjZmTXFEMU9MVDlYYm1NbGNNdDFoZ1l3bjVQcGt5cXMyU2JJRC1nNWphNW5Kd1FUbTBISENqSGJiMVBwOHp4cGZleWpDdlNNOGQxUQ?oc=5",
+  "fecha": "2026-11-12T06:57:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "fb350cf0710253",
@@ -9963,6 +10213,16 @@
   "fecha": "2026-11-12T06:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "575b5ce699177f",
+  "fuente_id": "cyberpress",
+  "titular": "Apache HTTP Server 2.4.71 Fixes Critical HTTP/2 Remote Code Execution Vulnerability",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UYk9SaER3SVFmOEFvcGVmbmtSbTltS1FXX1RHdWstS3V6dmR4TjBBaHJpTTRDdVpXM0RRbGhKcFBnMmN0bDFIVEN0TDllNlVkLUZGa0pqSkF1blk3LVHSAV5BVV95cUxNVGJPUmhEd0lRZjhBb3BlZm5rUm05bUtRV19UR3VrLUt1enZkeE4wQWhyaU00Q3VaVzNEUWxoSnBQZzJjdGwxSFRDdEw5ZTZVZC1GRmtKakpBdW5ZNy1R?oc=5",
+  "fecha": "2026-11-12T06:15:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "a163e649daffff",
@@ -10215,6 +10475,16 @@
   "primera_vista": "2026-11-12T18:40:14+00:00"
  },
  {
+  "id": "c83266289e87f8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Apache Patches Critical HTTP/2 Flaw Allowing Remote Code Execution on Web Servers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtRkdhTXRvWUE1MFIxY1p2Y0YwTDBNcVcxNWVMQ01FSTY5VFpYOUU2M2J2N2VIUDcwU2Z5NExBemhNQU9mZ3dOTTVrQzhiZmEwZ1BMMDZQV3lMaElyU3lMQ3dfcUdXaVVia3Y5bmVZZTV1OEpZ0gF6QVVfeXFMUGVRWElTcmJ1N1VUeW9uNWlqMGRxMXV3SGJKV0lzaEd0OWY2VVdkcmtWLXZLcXNWMUlDRWJZLVlqdG5DdVpBS0w3SDRhOTF4bGoyd3NhUllpNmlSQjBsWHliLU44amliV1hkWS1pdlVjbXRKQWs0M2F2TUE?oc=5",
+  "fecha": "2026-11-12T05:17:09+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "8b748363b7cc62",
   "fuente_id": "the-hacker-news",
   "titular": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
@@ -10373,6 +10643,16 @@
   "fecha": "2026-11-12T05:01:37+00:00",
   "via": "pagina",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "13fc6dc351f75d",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Hijack ConnectWise ScreenConnect to Deploy SCKit Malware Across 288 Devices at 48 Organizations",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95TGE2N2l4WHNfYWVlLUZwTmZQVXdBSlBWUmNBQWF6Q3ptUXVWd2tzT2JENkZEd2RoX092aDR2c0pLOVZRdV81WWtHUW1qU0pkRi1mTmQ2dzNfNmFaMGNHOE9EazdIenpITldvSElONVMtQlHSAXhBVV95cUxPaG1VZ0lucEU3MUZGaDdXbldsWURfY20xTC1zOFFjVzZOOGhDU0gyN0hMSy1xMU1YNjhKTDhHTGh5dldtZFBmS2s1SDVTbmlfUHZmNjRGU3Y3anZaYjdIQnoxc3phZkJUeWo2RTFFLW5OOFNkUy1fY3g?oc=5",
+  "fecha": "2026-11-12T05:01:35+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "04db46aedea2bc",

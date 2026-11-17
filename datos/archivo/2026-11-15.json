@@ -170,6 +170,26 @@
   "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
+  "id": "ba94b75e1f87af",
+  "fuente_id": "cybersecurity-news",
+  "titular": "AWS Restores Services in US-EAST-1 After Hours-Long Outage Disrupts Cloud Operations",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92VlU4MnlUaGRwcmpGTlhneUM1ZmltaG5QSEEybVBkYXVWWWgybWZKNklleWl3MUpMeW5LRmxzaFowbHhsOUgxTWJSMWV0a3YyWXktb0R0MURvR0s1YkdWR1hFU2TSAWRBVV95cUxPdlZVODJ5VGhkcHJqRk5YZ3lDNWZpbWhuUEhBMm1QZGF1VlloMm1mSjZJZXlpdzFKTHluS0Zsc2haMGx4bDlIMU1iUjFldGt2Mll5LW9EdDFEb0dLNWJHVkdYRVNk?oc=5",
+  "fecha": "2026-11-16T03:43:39+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "63b46e43edc060",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Tor Releases Emergency Security Update as Ongoing DDoS Attack Overwhelms Network Relays",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jZG9Id3dOWlFWOW9jSUtJYUxEZXZIVXh1WWRzR3Y2bFRoNVl0ZTJPWWpBZV9wanBmdlk3U3YwdDVCLXQ4QjdSa2lIc3EycHFZZEp2bVhUUnlRZ9IBX0FVX3lxTFBvdDIzWF82U0FwanJWekxWNS0yZkJkYS02d2VWcE11TmtQaWFvaFdqeVBMYkJyTmIzSkxFX04ySWVRTkZZckRlRVpfRDdYZFdFTDBPZXQ2YTlXNlM4Nzkw?oc=5",
+  "fecha": "2026-11-16T03:28:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
   "id": "80c46160695358",
   "fuente_id": "channellife",
   "titular": "Kyndryl launches sovereignty readiness for enterprises",
@@ -368,6 +388,16 @@
   "fecha": "2026-11-16T02:34:56+00:00",
   "via": "rss",
   "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
+  "id": "6512725d6c1130",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Claude Cracks 32-Year-Old Jeep ECU Using a $3 Arduino and Reverse Engineers Its Engine Computer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xUzFzYnlNZGhhdlhXM2VjQjdjbTBUSEhoVVBwcExINXpUNFVVbU1CLXNLTnNkZkJNTkkwVnZiQzE3MU1DdjJ6Ym9XaU5iZVB4cF9pSWxGMHRQOG1CZFRmVDJGSVJENVQ1N1JRUTlkRWFaS0XSAXhBVV95cUxNenhhWFNldWtQbnNyTUFidzFzSmZnRV9famgxVzFEQkRYbW00S3ZUdlRlNTdKVk1kOE4tbU9hQTB0NnUwdFllTkVIYXp6bmdJeU9mYVZHVHJER0dKTDhyVndjMmRPeVZhSG1ncXBiblFEVTNtbUR4MmY?oc=5",
+  "fecha": "2026-11-16T02:33:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "ac8ebe0b79fd39",
