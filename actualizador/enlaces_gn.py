@@ -31,6 +31,7 @@ HIJOS_MAXIMOS = 4          # de un índice de mapas, solo los más recientes
 ENTRADAS_MAXIMAS = 60000   # tope de direcciones leídas por fuente
 SIMILITUD_TITULAR = 92     # 0-100, para mapas con titulares
 DIAS_REINTENTO = 3         # una nota no resuelta se vuelve a buscar durante estos días
+TIEMPO_MAPA = 90           # segundos: algunos mapas son grandes y lentos (Business Wire)
 
 
 def es_google_news(enlace: str) -> bool:
@@ -38,7 +39,7 @@ def es_google_news(enlace: str) -> bool:
 
 
 def _xml(url: str):
-    contenido = lector.descargar(url)
+    contenido = lector.descargar(url, tiempo=TIEMPO_MAPA)
     if contenido[:2] == bytes([31, 139]):  # .gz
         contenido = gzip.decompress(contenido)
     return ET.fromstring(contenido)

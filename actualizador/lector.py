@@ -59,7 +59,7 @@ def urls_de(fuente: dict, dias: int) -> list[str]:
     return list(fuente.get("feeds", []))
 
 
-def descargar(url: str, intentos: int = 2) -> bytes:
+def descargar(url: str, intentos: int = 2, tiempo: int | None = None) -> bytes:
     ultimo: Exception | None = None
     for n in range(intentos):
         try:
@@ -69,7 +69,7 @@ def descargar(url: str, intentos: int = 2) -> bytes:
                     "User-Agent": AGENTE,
                     "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
                 },
-                timeout=TIEMPO_LIMITE,
+                timeout=tiempo or TIEMPO_LIMITE,
             )
             r.raise_for_status()
             return r.content
