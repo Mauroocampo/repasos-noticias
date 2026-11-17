@@ -933,6 +933,11 @@ ciber-ot:
     - "cc-link"
     - "opc ua"
     - dnp3
+    # normas y programas de ciberseguridad industrial (ISA)
+    - "62443"
+    - isasecure
+    - "isa global cybersecurity alliance"
+    - isagca
     # proveedores de seguridad OT
     - nozomi
     - claroty

@@ -83,6 +83,7 @@ tipos:
   proveedor:         "Proveedor"
   analistas:         "Firma de analistas"
   analistas-industriales: "Firma de analistas industriales"
+  asociacion:        "Asociación de estándares"
   opinion:           "Opinión"
   transcripcion:     "Transcripción de resultados"
   activista:         "Activista"
@@ -604,6 +605,28 @@ fuentes:
     google_news: { consulta: "site:automation.com", idioma: en }
     nota: "Prensa de automatización. El RSS bloquea la lectura automática (403); se usa Google News."
     verificado: 2026-11-06
+
+  - id: isa
+    nombre: ISA (International Society of Automation)
+    sitio: https://www.isa.org/
+    grupo: especializada
+    tipo: asociacion
+    # Temática según contenido (62443 e ISASecure van a Ciber OT); si no indica ninguna, Manufactura
+    tematicas: []
+    tematicas_por_filtro: [ciber-ot, manufactura]
+    tematica_por_defecto: manufactura
+    metodo: google_news
+    # Solo comunicados de prensa: el resto del sitio trae empleos y reuniones de capítulos
+    google_news: { consulta: "site:isa.org/news-press-releases", idioma: en }
+    # Sin mapa del sitio: el de isa.org no trae titulares y por el texto del enlace
+    # confundía comunicados con páginas de la tienda. Los enlaces quedan «Vía Google News»
+    # Publica 2 o 3 comunicados al mes
+    ventana_dias: 60
+    # ISA prohíbe pasar su contenido a herramientas de IA: solo titular, y sus notas
+    # no deben entrar en los resúmenes con IA de la fase 2
+    mostrar_bajada: false
+    nota: "Asociación que publica las normas ISA/IEC 62443 y el programa ISASecure. No tiene RSS; se usa Google News sobre su sala de prensa."
+    verificado: 2026-11-17
 
   - id: security-boulevard-ot
     nombre: Security Boulevard, Daily OT Security News
