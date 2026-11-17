@@ -1,5 +1,185 @@
 [
  {
+  "id": "8ba838777de221",
+  "fuente_id": "it-brief",
+  "titular": "GitLab & RapidFort launch hardened image partnership",
+  "bajada": "Regulated and air-gapped users can now get continuously patched GitLab images with audit-ready evidence, without changing code or workflows.",
+  "enlace": "https://itbrief.com.au/story/gitlab-rapidfort-launch-hardened-image-partnership",
+  "fecha": "2026-11-17T17:15:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "5b21a398ffe4a9",
+  "fuente_id": "it-brief",
+  "titular": "Pimloc redesigns Video Editor to speed up redaction",
+  "bajada": "Manual review of sensitive footage should take less time, as the updated editor lets teams redraft redactions without re-uploading files.",
+  "enlace": "https://itbrief.com.au/story/pimloc-redesigns-video-editor-to-speed-up-redaction",
+  "fecha": "2026-11-17T17:15:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "fe278ee2e365f2",
+  "fuente_id": "securitybrief",
+  "titular": "GitLab & RapidFort launch hardened image partnership",
+  "bajada": "Regulated and air-gapped users can now get continuously patched GitLab images with audit-ready evidence, without changing code or workflows.",
+  "enlace": "https://securitybrief.com.au/story/gitlab-rapidfort-launch-hardened-image-partnership",
+  "fecha": "2026-11-17T17:15:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "e7e55c994e6725",
+  "fuente_id": "securitybrief",
+  "titular": "Pimloc redesigns Video Editor to speed up redaction",
+  "bajada": "Manual review of sensitive footage should take less time, as the updated editor lets teams redraft redactions without re-uploading files.",
+  "enlace": "https://securitybrief.com.au/story/pimloc-redesigns-video-editor-to-speed-up-redaction",
+  "fecha": "2026-11-17T17:15:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "aebd79ace956f8",
+  "fuente_id": "unite-ai",
+  "titular": "Islo Raises $15M to Scale Its Enterprise Software Factory",
+  "bajada": "Islo announced a $15 million investment led by Insight Partners and the launch of its Enterprise Software Factory platform on November 17, 2026. Part of Incredibuild’s product family, Islo designed the system to automate recurring engineering work with AI agents while preserving…",
+  "enlace": "https://www.unite.ai/islo-raises-15m-to-scale-its-enterprise-software-factory/",
+  "fecha": "2026-11-17T17:14:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "5242414c79c648",
+  "fuente_id": "wsj",
+  "titular": "Kalshi to Halt Bets That Are Based on Trump’s Remarks",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
+  "fecha": "2026-11-17T17:13:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "54d124b755f1c1",
+  "fuente_id": "investing-com",
+  "titular": "Trump meets key US regional allies in Manila ahead of China visit",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+  "fecha": "2026-11-17T17:12:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "55f958a32b0611",
+  "fuente_id": "investing-com",
+  "titular": "ASSA ABLOY appoints Nicolas Aznar to lead key management unit",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/assa-abloy-appoints-nicolas-aznar-to-lead-key-management-unit-93CH-5033662",
+  "fecha": "2026-11-17T17:12:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "c0ac5b3191d97d",
+  "fuente_id": "portafolio",
+  "titular": "Tener empleo formal no garantiza estabilidad financiera: estas son las dificultades de los trabajadores",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/tener-empleo-formal-no-garantiza-estabilidad-financiera-estas-son-las-dificultades-de-los-trabajadores-506513",
+  "fecha": "2026-11-17T17:12:16+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "d9b9616a22c29b",
+  "fuente_id": "unite-ai",
+  "titular": "You.com Launches Extract API for Document Retrieval and PDF Parsing",
+  "bajada": "You.com launched the Extract API on November 17, 2026, giving developers one endpoint to fetch a web page or PDF and return its contents as Markdown or HTML. The company reported that its default PDF mode scored at least 80% higher than Exa Contents and Parallel Extract in a…",
+  "enlace": "https://www.unite.ai/you-com-launches-extract-api-for-document-retrieval-and-pdf-parsing/",
+  "fecha": "2026-11-17T17:11:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "81033278a7d536",
+  "fuente_id": "investing-com",
+  "titular": "Ingredion at Stephens conference: Tate & Lyle deal anchors shift",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/ingredion-at-stephens-conference-tate--lyle-deal-anchors-shift-93CH-5033661",
+  "fecha": "2026-11-17T17:10:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "f8e23cdf148363",
+  "fuente_id": "el-heraldo",
+  "titular": "Santa Verónica reporta aumento 34% en sus visitantes y ventas luego de su recuperación",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/17/santa-veronica-reporta-aumento-34-en-sus-visitantes-y-ventas-luego-de-su-recuperacion/",
+  "fecha": "2026-11-17T17:10:14+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "8c2790c15095f0",
+  "fuente_id": "investing-com",
+  "titular": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.83%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-183-5033659",
+  "fecha": "2026-11-17T17:08:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "6a19ff0a94259a",
+  "fuente_id": "el-heraldo",
+  "titular": "El porta llaves de pared quedó en el pasado esta es la nueva tendencia para organizar la entrada de casa",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/17/el-porta-llaves-de-pared-quedo-en-el-pasado-esta-es-la-nueva-tendencia-para-organizar-la-entrada-de-casa/",
+  "fecha": "2026-11-17T17:08:42+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "9927f0891500e0",
+  "fuente_id": "investing-com",
+  "titular": "Spain stocks lower at close of trade; IBEX 35 down 1.61%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-161-5033658",
+  "fecha": "2026-11-17T17:08:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "fcbc6e942cf6c8",
+  "fuente_id": "investing-com",
+  "titular": "Portugal stocks lower at close of trade; PSI down 1.20%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-120-5033657",
+  "fecha": "2026-11-17T17:08:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "c88a3bafe1abfd",
+  "fuente_id": "investing-com",
+  "titular": "Netherlands stocks lower at close of trade; AEX down 2.14%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-214-5033656",
+  "fecha": "2026-11-17T17:07:37+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "24cb158614e8f5",
+  "fuente_id": "investing-com",
+  "titular": "Italy stocks lower at close of trade; Investing.com Italy 40 down 1.47%",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-147-5033655",
+  "fecha": "2026-11-17T17:07:12+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
   "id": "2e82db2b32bf81",
   "fuente_id": "cybersecurity-news",
   "titular": "How a Five-Analyst MSSP Increased SOC Capacity by 25% with Threat Intelligence",
@@ -8,6 +188,36 @@
   "fecha": "2026-11-17T17:07:01+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
+  "id": "fc26cdc5ab8871",
+  "fuente_id": "investing-com",
+  "titular": "Viavi Solutions shareholders elect directors and approve proposals at annual meeting",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/sec-filings/viavi-solutions-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-5033654",
+  "fecha": "2026-11-17T17:06:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "85e5f58f4ad701",
+  "fuente_id": "investing-com",
+  "titular": "Equifax at J.P. Morgan conference: growth leans on data, AI",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/equifax-at-jp-morgan-conference-growth-leans-on-data-ai-93CH-5033653",
+  "fecha": "2026-11-17T17:06:50+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "f82cf49874cb7d",
+  "fuente_id": "el-heraldo",
+  "titular": "Asesinan al exfutbolista Luis Miguel Paterson en el barrio La Princesa de Cartagena",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/17/asesinan-al-exfutbolista-luis-miguel-paterson-en-el-barrio-la-princesa-de-cartagena/",
+  "fecha": "2026-11-17T17:04:26+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
  },
  {
   "id": "d9d63b78294ca7",
@@ -38,6 +248,26 @@
   "fecha": "2026-11-17T17:02:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
+  "id": "93c505d6bbb2e7",
+  "fuente_id": "cnbc",
+  "titular": "FAA pauses installation of new routers after ground stop",
+  "bajada": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
+  "enlace": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+  "fecha": "2026-11-17T17:00:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "509f463528c2e3",
+  "fuente_id": "portafolio",
+  "titular": "FMI respalda la Ley de Rescate Económico y pide consensos para aprobar el ajuste fiscal propuesto por el Gobierno",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/fmi-respalda-la-ley-de-rescate-economico-y-pide-consensos-para-aprobar-el-ajuste-fiscal-propuesto-por-el-gobierno-506511",
+  "fecha": "2026-11-17T17:00:50+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
  },
  {
   "id": "8139d267f22592",
@@ -2155,6 +2385,16 @@
   "fecha": "2026-11-17T14:52:50+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "e9cababdc6d0fd",
+  "fuente_id": "house-of-commons-library",
+  "titular": "Unemployment in the UK: Economic indicators",
+  "bajada": "Unemployment data tells us about the strength of the labour market. Find the latest data on UK unemployment levels and rates.",
+  "enlace": "https://commonslibrary.parliament.uk/research-briefings/unemployment-in-the-uk-economic-indicators/",
+  "fecha": "2026-11-17T14:51:45+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
  },
  {
   "id": "ed47f6db491584",
@@ -5233,6 +5473,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "9f1588c38e6454",
+  "fuente_id": "yahoo-finance",
+  "titular": "Disney Q4 earnings beat estimates as parks and streaming keep growing",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOamdIdmVQQXdiNEc3Z2N4aUtUQmRiWGpKQXlhZWozeTg2dkh3c1dGVUwxMDRfUWk0dEV1UGV2ZFVzcUN1THB2S3VnTjRsSWdiNkJtcmFkUVVZUURORFFBRlgtNDdYU21uZl9PX2J3YUlyRTk4cmFpckNTRzFlTzZwdGNGLW9fbEZvYldscnRSSlhhYkQ0NHZJOUwyTG9fTWRwRFFyajlWZkt1eUlIX01abEVBbUZfZllPa0Y0Sm1xZkdPV0pucnVxazNqVkYyQQ?oc=5",
+  "fecha": "2026-11-17T11:38:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
   "id": "9bd9d86f2b69b2",
   "fuente_id": "portafolio",
   "titular": "Más de US$25.000 millones para Colombia: las inversiones anunciadas en la primera jornada de la Milagro Week",
@@ -6123,6 +6373,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "0ba6697ee796d0",
+  "fuente_id": "the-manufacturer",
+  "titular": "Skills - Page 80 of 372 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOR0hyMEo0MFFQaHMwQVRXQmUyN0JrZVY2c00tV1VRVmhtV2JKTnJNM3ZiTXZRdzhqZ2p1dUotdmh0RHdTaWd2QW1XNTVFOW9MbEgzYmxBNTVxRG9SS2VwSmNxOG5rdVFkSHlja29Pb2RfRXgwTlFUdHBOWmtIamktb2hwZ0JaTVQ1OWVKbUdUaVNnVWVrMDg2ZVREemJBWkFXWDlCVExJQ3lybmVNbWgwVUFadmtnN0tzZmFCbWppSHppSE9MTF9qSkJMdkNkQmVpZGgwOWV2V2RJNkFiZ0FWMlhTbUdTVTN5QXpCNzZsQ3MwZDNjbGRnTHJlTkRlc2Z1aGlNRm55OWRoZ01JNkNCTlZNR3hSd2QycWdzZnRubVZqUQ?oc=5",
+  "fecha": "2026-11-17T10:06:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
   "id": "eaf99c757025cc",
   "fuente_id": "cybersecurity-news",
   "titular": "Teenage GTA 6 Hacker Pleads Guilty For Breaking into Rockstar Games Using an Amazon Fire Stick",
@@ -6635,6 +6895,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "bbf5210df26305",
+  "fuente_id": "the-manufacturer",
+  "titular": "Leadership - Page 403 of 404 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZjBfTWsxTjY3Q3g0djdqbFFHZWdGa1UxZzFJdGUyTkpRdlVmdjV2bV9EYWtzNllxcUluMWNNT3oxOXRybXJCYkF6MnZFUWpoWHlQZjMzQlc3emFRa2NKQUwxWDA5UXZVempfNFA1djdmVmRIanhkQlZoTTJBMUp2Y3RVc0RYQkpCR1hXREFsd2tONUhQWm05N01CVWpJNTlIelpFaGdzX2lya3h1VGNJQXI5N0lrTWlrTVFnYnJjSGM2dTY0aDZ4enZJRUdBLTlCb1AzQ2V3QnhydHNZYTY3Q0FoZEpjMjRFcXI3STJaMUZsNHFvajJ1LVd0bzMwT1huT3I2VFVNVU52SXQxVGIzcjB3OXk5U2NPak5OWVNrTEU5X2xYRkpVbkdVUQ?oc=5",
+  "fecha": "2026-11-17T09:11:36+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
   "id": "5efd6df20956a3",
   "fuente_id": "the-manufacturer",
   "titular": "Global aircraft orders surge 88% as backlog hits new record high",
@@ -6653,6 +6923,16 @@
   "fecha": "2026-11-17T09:10:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "abce57da4b37bb",
+  "fuente_id": "the-manufacturer",
+  "titular": "BusinessModels - Page 300 of 310 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMirwJBVV95cUxON3NIdW5hOTY5SGM5bEZuMGxySkdiTzVzZl9BbU52bi01SGNSLXJiNjFUazdSR1F2WUFnelJqWFJqZ1F1eFhET0QzWUdEUkpESTRVbHFRRlVLLXZJNGhNY3NSeU5LV2xsNURBWGZZdV8tWGtIN2FLZXJwZ1l1bURPYU8wdUYzWUZxTmxCY2wtcGxGMFhEbGhlc1p5TmxZODVBbUhBZjExcDZUWmtqamQxX2Y4cWh4ZzVRNG5HTFllaFdoQjUwN054clBuMVUwOHU4NFdYQUdfNVFjRXBqRkR3Uk9DNUh6OS1rRmtpajYwbFhyTTJfX1ZZNXdqTHlnSktBZUFyamRHemtlNERRSFltYW05aU1NYlhzUFBKeTEwdU90TkZlUmE5aDRHWHJ5RGs?oc=5",
+  "fecha": "2026-11-17T09:02:46+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
  },
  {
   "id": "8b26b4d2ef3720",
@@ -7077,6 +7357,16 @@
   "fecha": "2026-11-17T07:52:11+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "1fad826e4e2c16",
+  "fuente_id": "the-manufacturer",
+  "titular": "News - Page 27 of 27 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcjZiYXp2cUYyMnpVWDAzUXM1MDlkc3VUUlRkTFNiZzNqS3ZXT2E2cmFaYWM0S3NfNV9FMEJYTU9QOFA3UG92S1ZUSFNBekpoQUhoZjk3djJGUEE1S3dWbUNOMTktbzV2bUh0UWRCaEJCVVg5aXZwc29VUU43QlUwUzJ4MF9vUQ?oc=5",
+  "fecha": "2026-11-17T07:38:34+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
  },
  {
   "id": "8723eaf19781e9",
