@@ -81,6 +81,9 @@ def combinar(previas: list[dict], nuevas: list[dict], ahora: datetime, dias: int
     )
 
 
+TIPO_OPINION = "opinion"
+
+
 def tipo_de(n: dict, f: dict) -> str | None:
     """Tipo de fuente de la nota: el de la fuente, o el de su sección (`tipo_por_ruta`)."""
     ruta = urlsplit(n.get("enlace", "")).path.lower()
@@ -120,14 +123,18 @@ def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None,
         if descartes.motivo(n, f):
             descartadas += 1  # página de sección, paginación o portada: no es una noticia
             continue
-        temas, como = filtro.asignar(n, f)
-        if not temas:
+        tipo = tipo_de(n, f)
+        # Columnas y editoriales: se clasifican solo por su contenido. Si no encajan en
+        # ninguna temática, siguen en la portada (y con el filtro de tipo «Opinión»)
+        es_opinion = tipo == TIPO_OPINION
+        temas, como = filtro.asignar(n, f, solo_contenido=es_opinion)
+        if not temas and not es_opinion:
             continue
         salida.append({
             **n,
             "fuente": f["nombre"],
             "red": f.get("red"),
-            "tipo": tipo_de(n, f),
+            "tipo": tipo,
             "en_portada": duplicados.url_canonica(n["enlace"]) in portada,
             "grupo": f["grupo"],
             "tematicas": temas,

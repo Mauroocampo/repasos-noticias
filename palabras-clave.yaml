@@ -174,6 +174,8 @@ relevancia:
       - "best tvs"
       - "buying guide"
       - "gift guide"
+      - "our top picks"
+      - "top picks"
       - "gifts for"
       - "best gifts"
       - "tested picks"
@@ -188,6 +190,27 @@ relevancia:
   entretenimiento:
     texto: "entretenimiento"
     incluir:
+      - actor
+      - actriz
+      - actores
+      - "james bond"
+      - grammy*
+      - "latin grammy*"
+      - "premios oscar"
+      - "premio oscar"
+      - "los oscar"
+      - "the oscars"
+      - emmy*
+      - "globo de oro"
+      - "globos de oro"
+      - "golden globe*"
+      - "podcast of the year"
+      - "app of the year"
+      - "album of the year"
+      - "song of the year"
+      - "game of the year"
+      - "podcast del ano"
+      - yearbook
       - "tv shows"
       - "tv series"
       - "to stream"
@@ -218,7 +241,7 @@ relevancia:
       - videojuego*
       - anime
     solo_titular: true
-    excepto: [subscriber*, suscriptor*, earnings, ingresos, stock*, market*, mercado*, fed, inflation, inflacion, rates, tasas, acquisition, adquisicion, merger, fusion, "market share", acciones, shares, stock, layoff*, despido*, "antitrust", regulador*, regulator*]
+    excepto: [subscriber*, suscriptor*, earnings, ingresos, stock*, market*, mercado*, fed, inflation, inflacion, rates, tasas, "threat actor*", "state actor*", "bad actor*", "malicious actor*", "actores armados", "actor armado", "actores del", "actor clave", "actores clave", "actores economicos", amenaza*, hacker*, ciberataque*, cyber*, ransomware, acquisition, adquisicion, merger, fusion, "market share", acciones, shares, stock, layoff*, despido*, "antitrust", regulador*, regulator*]
 
   farandula:
     texto: "farándula"
@@ -275,6 +298,49 @@ relevancia:
       - mascota*
     solo_titular: true
     excepto: ["industria de mascotas", "pet industry", "mercado de mascotas", negocio*, mercado, empresa*, sector]
+
+  empleo:
+    texto: "ofertas de empleo"
+    incluir:
+      - "jobs available"
+      - "now hiring"
+      - "we're hiring"
+      - "job board"
+      - "ofertas de empleo"
+      - "vacantes disponibles"
+      - "convocatoria laboral"
+    solo_titular: true
+    # "job openings" (vacantes de EE. UU.) es un dato económico: no se oculta
+    excepto: ["job openings", jolts]
+
+  publicidad:
+    texto: "webinar o publicidad"
+    incluir:
+      - webinar*
+      - "seminario web"
+      - "seminarios web"
+      - "register now"
+      - "registrese"
+      - "inscribase"
+      - "inscribete"
+    solo_titular: true
+
+  estilo-de-vida:
+    texto: "salud y estilo de vida"
+    incluir:
+      - "como ejercitar"
+      - "ejercicios para"
+      - "rutina de ejercicios"
+      - "bajar de peso"
+      - "perder peso"
+      - "consejos para dormir"
+      - "como dormir"
+      - "aprende a"
+      - "alimentos que"
+      - "workout"
+      - "how to sleep"
+      - "lose weight"
+    solo_titular: true
 
   deportes:
     texto: "deportes"

@@ -179,3 +179,48 @@ def test_la_principal_no_hereda_colombia_de_su_grupo():
     copia = {**pf, "id": "63", "titular": lr["titular"], "enlace": "https://otra.example/1"}
     unida = duplicados.eliminar([lr, copia], {"colombia"})
     assert len(unida) == 1 and "colombia" not in unida[0]["tematicas"]
+
+
+# ── Revisión del 17 de noviembre: más categorías y columnas ─────────────────
+import pytest as _pytest
+
+
+@_pytest.mark.parametrize("titular, esperada", [
+    ('"Es Pattinson, Robert Pattinson": el actor británico será el nuevo James Bond', "entretenimiento"),
+    ("Grammy 2027: estos son los colombianos nominados y las categorías", "entretenimiento"),
+    ("Apple Names 'Baby, This Is Keke Palmer' Podcast of the Year", "entretenimiento"),
+    ("WIRED Yearbook 2026: The People Who Shaped Tech", "entretenimiento"),
+    ("Cybersecurity jobs available right now: November 17, 2026", "empleo"),
+    ("Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap", "publicidad"),
+    ("8 SASE Platforms: Our Top Picks by Use Case (2026)", "resenas"),
+    ("Cómo ejercitar los tobillos, una de las partes del cuerpo que se lesionan con más frecuencia", "estilo-de-vida"),
+    ("Aprende a administrar tu energía: no puedes darlo todo, todo el tiempo", "estilo-de-vida"),
+])
+def test_nuevas_reglas_de_relevancia(titular, esperada):
+    assert categoria(titular) == esperada
+
+
+@_pytest.mark.parametrize("titular", [
+    "Threat actor abuses Microsoft Teams to deliver ransomware",
+    "Ataque de actores armados deja tres muertos en el Cauca",
+    "US job openings fall to 7.1 million in October, JOLTS shows",
+    "FBI Reveals How Hackers Hid Malware in Video Games to Steal Data",
+])
+def test_nuevas_reglas_no_ocultan_noticias(titular):
+    assert categoria(titular) is None
+
+
+def test_columnas_se_clasifican_por_contenido():
+    base = {"bajada": "", "fecha": "2026-11-17T10:00:00+00:00", "via": "pagina"}
+    rusia = {**base, "id": "c1", "fuente_id": "la-republica", "titular": "AI, la derrota histórica de Rusia",
+             "bajada": "La inteligencia artificial cambió la guerra en Ucrania y la economía rusa.",
+             "enlace": "https://www.larepublica.co/analisis/autor-123/ai-la-derrota-historica-de-rusia-4530000"}
+    cripticas = {**base, "id": "c2", "fuente_id": "la-republica", "titular": "Vive y olvida",
+                 "enlace": "https://www.larepublica.co/analisis/autor-123/vive-y-olvida-4530001"}
+    gas = {**base, "id": "c3", "fuente_id": "portafolio", "titular": "Gas y energía: la decisión que Colombia aplaza",
+           "enlace": "https://www.portafolio.co/opinion/editorial/gas-y-energia-506999"}
+    notas = {n["id"]: n for n in proceso.enriquecer([rusia, cripticas, gas], CFG)}
+    assert notas["c1"]["tipo"] == "opinion" and "colombia" not in notas["c1"]["tematicas"]
+    assert "internacional" in notas["c1"]["tematicas"]
+    assert notas["c2"]["tipo"] == "opinion" and notas["c2"]["tematicas"] == []   # sigue en la portada
+    assert notas["c3"]["tematicas"] == ["colombia"]

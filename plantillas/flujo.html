@@ -49,6 +49,7 @@
       <input type="search" name="q" placeholder="Palabra del titular" autocomplete="off">
     </label>
     <label class="casilla"><input type="checkbox" name="fijas" value="1"> Solo fuentes fijas</label>
+    <label class="casilla" title="Oculta columnas y editoriales (tipo «Opinión»)"><input type="checkbox" name="sinopinion" value="1"> Ocultar opinión</label>
     {% if ocultas %}<label class="casilla" title="Entretenimiento, reseñas, ofertas, loterías, manualidades, farándula, deportes y comunicados de bufetes (reglas en palabras-clave.yaml)"><input type="checkbox" name="descartadas" value="1"> Mostrar descartadas ({{ ocultas }})</label>{% endif %}
     <p class="filtros-resumen"><span id="conteo">{{ total }}</span> noticias
       <button type="button" id="limpiar" class="enlace-boton" hidden>Quitar filtros</button>

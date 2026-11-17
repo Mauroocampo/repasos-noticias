@@ -102,13 +102,24 @@ class Filtro:
         return True
 
     # ── clasificación completa ──────────────────────────────────────────────
-    def asignar(self, nota: dict, fuente: dict) -> tuple[list[str], str]:
-        """Devuelve (temáticas, cómo se clasificó: "contenido" o "fuente")."""
+    def asignar(self, nota: dict, fuente: dict, solo_contenido: bool = False) -> tuple[list[str], str]:
+        """Devuelve (temáticas, cómo se clasificó: "contenido" o "fuente").
+
+        `solo_contenido` (columnas y editoriales): la nota no recibe la temática propia
+        del medio; todas sus temáticas, Colombia incluida, salen del titular y la bajada,
+        y las señales de otro país también se toman del texto (no de la sección).
+        """
         t = normalizar(f"{nota.get('titular', '')} {nota.get('bajada', '')}")
         pais = fuente.get("pais")
-        base = list(fuente.get("tematicas", []))
-        candidatas = [x for x in list(fuente.get("tematicas_por_filtro", [])) + self.abiertas if x not in base]
-        de_colombia, exterior = self._geografia(t, nota.get("enlace", ""), fuente)
+        if solo_contenido:
+            propias = list(fuente.get("tematicas", []))
+            base = []
+            candidatas = list(dict.fromkeys(propias + list(fuente.get("tematicas_por_filtro", [])) + self.abiertas))
+            de_colombia, exterior = self._geografia(t)
+        else:
+            base = list(fuente.get("tematicas", []))
+            candidatas = [x for x in list(fuente.get("tematicas_por_filtro", [])) + self.abiertas if x not in base]
+            de_colombia, exterior = self._geografia(t, nota.get("enlace", ""), fuente)
         solo_exterior = exterior and not de_colombia
 
         temas: list[str] = []
@@ -144,6 +155,6 @@ class Filtro:
 
         # Fuentes fijas sin temática propia (p. ej. LNS Research): si el contenido no
         # indica ninguna, va a su `tematica_por_defecto`
-        if not temas and fuente.get("tematica_por_defecto"):
+        if not temas and fuente.get("tematica_por_defecto") and not solo_contenido:
             return [fuente["tematica_por_defecto"]], "fuente"
         return temas, ("contenido" if por_contenido or not base else "fuente")
