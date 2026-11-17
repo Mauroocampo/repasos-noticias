@@ -18,4 +18,7 @@ def marcar(nota: dict, fuente: dict) -> list[str]:
     texto = normalizar(f"{nota.get('titular', '')} {nota.get('bajada', '')}")
     if PATROCINIO.search(texto) and "patrocinado" not in marcas:
         marcas.append("patrocinado")
+    # El enlace sigue siendo de Google News: no se encontró la URL del medio
+    if "news.google.com/" in (nota.get("enlace") or "") and "via-google-news" not in marcas:
+        marcas.append("via-google-news")
     return marcas

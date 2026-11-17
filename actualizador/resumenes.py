@@ -32,6 +32,42 @@ def _es_primario(url: str, dominios: list[str]) -> bool:
     return any(host == d or host.endswith("." + d) for d in dominios)
 
 
+# Palabras y cifras ("1,063", "11.6", "SP 800-82")
+_PALABRA = re.compile(r"\d[\d,\.]*\d|[A-Za-zÀ-ÿ0-9][\wÀ-ÿ\-\.'’]*")
+
+
+def terminos(texto: str, maximo: int = 400) -> str:
+    """Términos del aviso, en orden de aparición, para la búsqueda del sitio.
+
+    No es el texto del aviso (no se muestra y no se puede reconstruir): se quitan las
+    palabras funcionales y las repeticiones. Para que funcionen búsquedas de dos palabras
+    («Microsoft 365», «Check Point»), una palabra ya vista se repite si forma con la
+    anterior una pareja nueva.
+    """
+    from .historias import VACIAS  # palabras funcionales en español e inglés
+
+    vistos, parejas, salida = set(), set(), []
+    anterior = None
+    for m in _PALABRA.finditer(texto or ""):
+        p = m.group(0).strip(".'’-").lower()
+        if (len(p) < 3 and not p[:1].isdigit()) or p in VACIAS:
+            anterior = None
+            continue
+        pareja = (anterior, p)
+        if p not in vistos or (anterior and pareja not in parejas):
+            # La palabra anterior va justo antes, para que la pareja quede junta («microsoft 365»)
+            if anterior and (not salida or salida[-1] != anterior):
+                salida.append(anterior)
+            salida.append(p)
+            vistos.add(p)
+            if anterior:
+                parejas.add(pareja)
+        anterior = p
+        if len(salida) >= maximo:
+            break
+    return " ".join(salida)
+
+
 def dividir(contenido: str, edicion_url: str, dominios_primarios: list[str]) -> list[dict]:
     """Devuelve [{numero, titular, bajada, enlace, enlace_primario}] de un resumen en HTML."""
     encabezados = list(_ENCABEZADO.finditer(contenido or ""))
@@ -57,6 +93,7 @@ def dividir(contenido: str, edicion_url: str, dominios_primarios: list[str]) -> 
             "numero": numero,
             "titular": titular,
             "bajada": bajada,
+            "terminos": terminos(_texto(cuerpo)),
             "enlace": primario or f"{edicion_url.rstrip('#')}#aviso-{numero}",
             "enlace_primario": bool(primario),
             "edicion": edicion_url,

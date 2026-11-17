@@ -179,6 +179,8 @@ def _avisos_del_resumen(e, enlace: str, titular: str, fuente: dict, resumen: dic
             "fecha": fecha.isoformat(),
             "via": "resumen",
             "resumen": {"edicion": titular, "enlace": enlace, "numero": a["numero"]},
+            # Términos del aviso completo, solo para la búsqueda del sitio
+            "terminos": a.get("terminos", ""),
         })
     return salida
 

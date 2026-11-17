@@ -46,6 +46,18 @@ def guardar_estado(estado: dict) -> None:
     _escribir(ESTADO, estado)
 
 
+GOOGLE_NEWS = REGISTRO / "google-news.json"
+
+
+def cargar_google_news() -> dict:
+    """Enlaces de Google News ya buscados: {url: {"url": original o None, "revisado": …}}."""
+    return _leer(GOOGLE_NEWS, {})
+
+
+def guardar_google_news(cache: dict) -> None:
+    _escribir(GOOGLE_NEWS, cache)
+
+
 PORTADAS = REGISTRO / "portadas.json"
 
 

@@ -8255,6 +8255,66 @@
   "primera_vista": "2026-11-16T20:46:34+00:00"
  },
  {
+  "id": "88d53a174370d5",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Building Automation and Energy Products",
+  "bajada": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory…",
+  "enlace": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "d1df7bcb2c9b83",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Desigo, Gridscale",
+  "bajada": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write…",
+  "enlace": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "0ce5cd47e797fc",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens RUGGEDCOM APE1808",
+  "bajada": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the…",
+  "enlace": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "4f8bd99c96aeed",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Industrial Edge Management",
+  "bajada": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is…",
+  "enlace": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "895bf43b7ef37c",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens RUGGEDCOM APE1808",
+  "bajada": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the…",
+  "enlace": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "8f8f080ceb91e8",
+  "fuente_id": "business-wire",
+  "titular": "NMG Provides Q3 2026 Update and Highlights First Full Quarter of Construction Execution at the Matawinie Mine",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYTV4a0NxSzdkOTdXNUJDdnNVYlJOa0g2ay00MXFiNHdfelEwYi0tM2oyTG1VQ0IzTEtzRFJ2cnlJMTdRUkh1QTduUlBsdmxTRTh3NERmd0c5bktNNm14MGFFQVg2b0NMbmVORmRLLV9DNUlHTXNRY25qLTIzNkIxeG9ydnBBbUFYeXpHLWQzUjAtRkJqUm11Vmp3TmFpdmdiUUNSQWlaejlVVmYwU09FeUFvQVJJNTNPUWplMFlxTC04dWUyaHVUZ1JaSkRrTVo5cXhXcUdhR2plOG9XTlVYMF90VGRSUTlRSmpZQ2RZY0FPYWxxeS1VUEx3?oc=5",
+  "fecha": "2026-11-12T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:55:47+00:00"
+ },
+ {
   "id": "d9e77ea5f93932",
   "fuente_id": "oms",
   "titular": "Infographics | OMS | Escritório Regional para a África",
@@ -8793,6 +8853,16 @@
   "fecha": "2026-11-12T11:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-15T17:31:30+00:00"
+ },
+ {
+  "id": "da7befebf93f39",
+  "fuente_id": "business-wire",
+  "titular": "Carbon Measures Opens Singapore Office and Launches First In-Country Pilot to Advance Industrial Decarbonization in Hard-to-Abate Sectors",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcy12WmcyRnNkU0o2T29xNHRrU1RSQlREWGlzNFhxc1dqTnNRTVNoNTVkVGlfZW9LcnJUVkNHNFhJck5sY1VHSjZOOWdwR1JyT0lPVjNGLWtyWlZ6bVNkUmVDVVdXN1phQV9PZWRoYnVrRUNFd050cEU3NUcwaDhHdFNZY1F3V1pHSzFoY20xd0ZVWGs5MVVnWWtKV0QycnFjUVcxa3BPd2FnRXBSUHN3YnhjaXRuRHR0aS1WOFFTXzJzeUhiNk80MGVSYWRybGg3aXFqOHFXMTV4RFhnM3VPZ19KTVF4ZnhONUtibXg4NVJwT2xJQ3lRbVNhSHpnQmVuNDNjZXFTMGd5ejg0WE8xYnR1NUotWTN4TU02bTJDcw?oc=5",
+  "fecha": "2026-11-12T11:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
   "id": "8a15dfe8f68f4c",
@@ -10423,6 +10493,16 @@
   "fecha": "2026-11-12T05:01:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
+  "id": "1c78093d3d09ce",
+  "fuente_id": "business-wire",
+  "titular": "Biomatter Raises $18M Series A to Scale Its AI-Powered Enzyme Design for Global Industry Leaders",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNmJ0OVZBUkFJY3NwWEt0TlNsRFdJMExGdkppbEplLXU1Y0x2aEIxQk9JWTQxd1lLU3VmbmVaRGRjbWVMbzA0RUlmcFYzT2NvSWZLS0F2M3FxY2J0QUN3d2RyOTFuTHBocVEyX2hFdG5wNy1Xc3J2V1M2RFpEWHk2ZWV4bXBkOGgtclA4YWNLNTlHbEZSb0FxcEE2MnlXSmcxWHdMZkVFdUV5R3VwN0IyeTRlTXJZQ0RyS0FZNExLRG9xRDgzZDd1NFB2bUFlMmlKMlVYdnFqcS02X0VMVktDV3dkelpFY01VdmZj?oc=5",
+  "fecha": "2026-11-12T05:00:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
   "id": "543be9855e222a",

@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlsplit
 
-from . import almacen, duplicados, ia, lector, marcas, portadas
+from . import almacen, duplicados, enlaces_gn, ia, lector, marcas, portadas
 from .config import Config
 from .descartes import Descartes
 from .filtro import Filtro
@@ -112,6 +112,9 @@ def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None,
         exigido = (f.get("solo_titulares_con") or "").lower()
         if exigido and exigido not in n["titular"].lower():
             continue
+        resumen = (f.get("dividir_resumen") or {}).get("titulo_contiene", "").lower()
+        if resumen and resumen in n["titular"].lower() and not n.get("resumen"):
+            continue  # edición entera guardada antes de dividirla: ya está aviso por aviso
         if not lector.muestra_bajada(f) and n.get("bajada"):
             n = {**n, "bajada": ""}  # el medio prohíbe reproducir su texto: solo titular y enlace
         if descartes.motivo(n, f):
@@ -198,6 +201,12 @@ def actualizar(cfg: Config, con_red: bool = True) -> dict:
         almacen.guardar_portadas(foto)
         en_portada = {u for urls in mapa.values() for u in urls}
         crudas = combinar(previas, nuevas, ahora, cfg.ventana_dias, ventanas, en_portada)
+        # Enlaces de Google News: se cambian por la URL del medio cuando se encuentra en su mapa del sitio
+        cache_gn = almacen.cargar_google_news()
+        crudas, conteo_gn = enlaces_gn.resolver(crudas, cfg.fuentes_por_id, cache_gn, ahora)
+        almacen.guardar_google_news(enlaces_gn.podar(cache_gn, ahora))
+        for fid, c in conteo_gn.items():
+            estado_fuentes.setdefault(fid, {})["google_news"] = c
         crudas = sin_bajadas_restringidas(crudas, cfg)
         almacen.guardar_noticias(crudas, ahora)
         sin_bajada = {f["id"] for f in cfg.fuentes if not lector.muestra_bajada(f)}

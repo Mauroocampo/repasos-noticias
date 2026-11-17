@@ -38,6 +38,8 @@
 #                       [{url, patron, max}]; patron = expresión regular de los enlaces de notas
 #   portada             (opcional) {url, patron, excluir}: se lee la portada del día y sus notas
 #                       quedan marcadas «En portada hoy»
+#   mapa_del_sitio      (opcional) mapas del sitio del medio, para cambiar los enlaces de
+#                       Google News por la dirección original de la nota (por su titular)
 #   tipo_por_ruta       (opcional) {"/opinion/": opinion}: tipo de fuente según la sección
 #   dividir_resumen     (opcional) {titulo_contiene, dominios_primarios}: divide un resumen
 #                       con avisos numerados en una nota por aviso
@@ -94,6 +96,7 @@ marcas:
   comunicado:     { texto: "Comunicado de empresa", explicacion: "No es prensa: lo escribe la empresa." }
   la-empresa:     { texto: "La empresa",            explicacion: "Fuente primaria, pero la empresa habla de sí misma." }
   oficial:        { texto: "Oficial",               explicacion: "Fuente primaria oficial." }
+  via-google-news: { texto: "Enlace vía Google News", explicacion: "No se encontró la dirección original de la nota en el sitio del medio; el enlace pasa por Google News." }
   proveedor-viakoo: { texto: "Proveedor (Viakoo)", explicacion: "Resumen diario escrito por Viakoo, que vende seguridad para IoT/OT; revisar el aviso primario enlazado." }
   proveedor:      { texto: "Proveedor",             explicacion: "Vende la solución al problema que describe; contrastar el dato." }
   activista:      { texto: "Activista",             explicacion: "Tiene interés en el tema; contrastar el dato." }
@@ -813,6 +816,8 @@ fuentes:
     tipo: prensa
     pais: CO
     tematicas_por_filtro: [colombia]
+    # Mapa de noticias con titulares: resuelve los enlaces de Google News (últimos ~2 días)
+    mapa_del_sitio: ["https://www.eluniversal.com.co/arc/outboundfeeds/sitemap-news-index/"]
     metodo: google_news
     google_news: { consulta: "site:eluniversal.com.co", idioma: es }
     nota: "Prensa regional. Desempleo. Su RSS estaba detenido desde el 31 de octubre; se usa Google News."
@@ -902,6 +907,8 @@ fuentes:
     grupo: general
     tipo: anuncios-empresa
     tematicas_por_filtro: [tecnologia, ciber-it, ciber-ot, manufactura, sostenibilidad]
+    # Mapa de noticias con titulares: resuelve los enlaces de Google News (últimos ~5 días)
+    mapa_del_sitio: ["https://www.businesswire.com/sitemap/google-news/gn-bw-mod.xml"]
     metodo: google_news
     google_news: { consulta: "site:businesswire.com", idioma: en }
     marcas: [comunicado]
@@ -1014,6 +1021,8 @@ fuentes:
     grupo: general
     tipo: banco
     tematicas_por_filtro: [sostenibilidad]
+    # Mapa del sitio sin titulares: se compara el titular con la dirección de la nota
+    mapa_del_sitio: ["https://www.bbva.com/sitemap_index.xml"]
     metodo: google_news
     google_news: { consulta: "site:bbva.com", idioma: es }
     marcas: [banco]
