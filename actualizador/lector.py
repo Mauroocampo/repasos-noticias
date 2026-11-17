@@ -178,7 +178,8 @@ def _avisos_del_resumen(e, enlace: str, titular: str, fuente: dict, resumen: dic
             "enlace": a["enlace"],
             "fecha": fecha.isoformat(),
             "via": "resumen",
-            "resumen": {"edicion": titular, "enlace": enlace, "numero": a["numero"]},
+            # Edición del resumen de la que sale el aviso ("resumen" queda para la fase 2 de IA)
+            "edicion": {"titulo": titular, "enlace": enlace, "numero": a["numero"]},
             # Términos del aviso completo, solo para la búsqueda del sitio
             "terminos": a.get("terminos", ""),
         })

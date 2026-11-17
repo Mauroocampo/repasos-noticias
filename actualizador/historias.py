@@ -148,7 +148,7 @@ class Agrupador:
     def _palabras(self, n: dict) -> list[tuple[str, str, bool]]:
         """(raíz, forma, ¿viene del titular?) de cada palabra útil del titular y la bajada."""
         salida = []
-        for texto, del_titular in ((n.get("titular", ""), True), ((n.get("bajada") or "")[:220], False)):
+        for texto, del_titular in ((n.get("titular", ""), True), ((n.get("bajada") or ""), False)):
             for palabra, forma in _tokens(texto):
                 r = _raiz(palabra)
                 r = self.equivalencias.get(r, r)
@@ -175,12 +175,14 @@ class Agrupador:
             return notas
         palabras = [self._palabras(n) for n in notas]
         # ¿Cuántas veces aparece cada palabra en minúscula? Las que casi nunca: nombres propios
-        minuscula, total = Counter(), Counter()
+        minuscula, total, fuertes = Counter(), Counter(), Counter()
         for ps in palabras:
             for r, forma, _ in ps:
                 total[r] += 1
                 if forma == "minuscula":
                     minuscula[r] += 1
+                elif forma == "fuerte":
+                    fuertes[r] += 1
         rasgos = []
         for n, ps in zip(notas, palabras):
             e, c = self._rasgos(ps, minuscula, total)
@@ -197,8 +199,12 @@ class Agrupador:
         self._frecuencia = frecuencia
         self._limite_poco = limite_rara
         # Nombres raros: con letras y al menos 4 caracteres (una cifra suelta como "13" no cuenta)
+        # Nombres raros: nombres propios de verdad (Optimizely, ScreenConnect). No cuentan las
+        # siglas ("PNG", "MFA") ni lo que lleva cifras ("0-Day"): los identificadores (CVE-…)
+        # tienen su propia regla
         self._raras = {p for p, k in frecuencia.items()
-                       if k <= limite_rara and len(p) >= 4 and sum(ch.isalpha() for ch in p) >= 3}
+                       if k <= limite_rara and len(p) >= 4 and p.replace("-", "").isalpha()
+                       and fuertes[p] <= 0.5 * total[p] and minuscula[p] == 0}
         # Rutina de cada fuente: palabras que repite en muchas de sus notas
         por_fuente: dict[str, Counter] = {}
         notas_fuente = Counter(n["fuente_id"] for n in notas)

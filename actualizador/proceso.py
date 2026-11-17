@@ -121,7 +121,7 @@ def enriquecer(crudas: list[dict], cfg: Config, ahora: datetime | None = None,
         if exigido and exigido not in n["titular"].lower():
             continue
         resumen = (f.get("dividir_resumen") or {}).get("titulo_contiene", "").lower()
-        if resumen and resumen in n["titular"].lower() and not n.get("resumen"):
+        if resumen and resumen in n["titular"].lower() and not (n.get("edicion") or isinstance(n.get("resumen"), dict)):
             continue  # edición entera guardada antes de dividirla: ya está aviso por aviso
         if not lector.muestra_bajada(f) and n.get("bajada"):
             n = {**n, "bajada": ""}  # el medio prohíbe reproducir su texto: solo titular y enlace

@@ -242,7 +242,11 @@ relevancia:
       - "series de television"
       - "peliculas para"
       - "series para"
-      - estreno*
+      - "estreno de la pelicula"
+      - "estreno en cines"
+      - "estrenos de cine"
+      - "estrenos de netflix"
+      - "se estrena en"
       - taquilla
       - telenovela*
       - novela
@@ -251,7 +255,7 @@ relevancia:
       - videojuego*
       - anime
     solo_titular: true
-    excepto: [subscriber*, suscriptor*, earnings, ingresos, stock*, market*, mercado*, fed, inflation, inflacion, rates, tasas, "threat actor*", "state actor*", "bad actor*", "malicious actor*", "actores armados", "actor armado", "actores del", "actor clave", "actores clave", "actores economicos", amenaza*, hacker*, ciberataque*, cyber*, ransomware, acquisition, adquisicion, merger, fusion, "market share", acciones, shares, stock, layoff*, despido*, "antitrust", regulador*, regulator*]
+    excepto: [acquires, acquire, adquiere, ceo, presidencia, presidente, compania, empresa, subscriber*, suscriptor*, earnings, ingresos, stock*, market*, mercado*, fed, inflation, inflacion, rates, tasas, "threat actor*", "state actor*", "bad actor*", "malicious actor*", "actores armados", "actor armado", "actores del", "actor clave", "actores clave", "actores economicos", amenaza*, hacker*, ciberataque*, cyber*, ransomware, acquisition, adquisicion, merger, fusion, "market share", acciones, shares, stock, layoff*, despido*, "antitrust", regulador*, regulator*]
 
   farandula:
     texto: "farándula"
@@ -307,7 +311,7 @@ relevancia:
       - jardineria
       - mascota*
     solo_titular: true
-    excepto: ["industria de mascotas", "pet industry", "mercado de mascotas", negocio*, mercado, empresa*, sector]
+    excepto: ["industria de mascotas", "pet industry", "mercado de mascotas", negocio*, mercado, empresa*, sector, repair, reparacion, "right to repair"]
 
   empleo:
     texto: "ofertas de empleo"
@@ -398,7 +402,9 @@ relevancia:
       - goleador
       - entrenador
       - "atletico nacional"
-      - millonarios
+      - "millonarios fc"
+      - "hinchas de millonarios"
+      - "club millonarios"
       - "america de cali"
       - "deportivo cali"
     solo_titular: true
@@ -427,6 +433,14 @@ relevancia:
       - stadium
       - "apuestas deportivas"
       - "sports betting"
+      - nike
+      - adidas
+      - puma
+      - comercio
+      - hoteles
+      - hotelera
+      - "impacto economico"
+      - "derrama economica"
       # No es deporte: política o negocios con un personaje del deporte
       - "secretario de prensa"
       - "press secretary"
@@ -483,8 +497,8 @@ historias:
   # Una historia necesita notas de al menos este número de fuentes distintas
   min_fuentes: 2
   # Una palabra con mayúscula solo es nombre propio si sale en minúscula en menos de
-  # este porcentaje de sus apariciones ("Critical", "Files" no lo son)
-  max_minuscula: 0.25
+  # este porcentaje de sus apariciones ("Critical", "Files", "Hide" no lo son)
+  max_minuscula: 0.1
   # Palabras que una fuente repite en más de este porcentaje de sus notas se ignoran
   max_por_fuente: 0.2
   # Entidades demasiado generales: nunca cuentan para unir
@@ -506,6 +520,9 @@ historias:
     monday, tuesday, wednesday, thursday, friday, saturday, sunday,
     news, noticias, report, reports, informe, update, live, daily, weekly, ot, it, security, seguridad,
     announces, anuncia, launches, lanza, says, dice, according, segun, how, why, what, que, por, como,
+    # términos de seguridad y terminaciones de empresa que no distinguen una historia
+    zero-day, 0-day, day, flaw, flaws, patch, patches, labs, lab, technologies, systems, networks, software,
+    platform, solutions, ventures, capital, holdings, partners,
     # nombres de dos palabras que, separados, contarían dos veces
     wall, street, york, white, house, casa, blanca, silicon, valley, hong, kong, united, states, kingdom,
     reino, unido, union, europea, latina, sur, south, north, norte, east, west, middle, medio, oriente
@@ -533,6 +550,8 @@ historias:
     - [petroleo, oil, crudo]
     - [resultados, results, earnings, ganancias]
     - [investigacion, investigation, probe, investiga, investigates, investigate]
+    - [regreso, volver, vuelva, return, returning, reinstatement, reinstate, reinstated, reintegro]
+    - [renuncia, renuncio, resigns, resignation, resigned, salida, exit]
 
 colombia:
   # Señales de que la nota trata de Colombia
