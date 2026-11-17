@@ -50,6 +50,8 @@ very just also only more most less least all any some each every other another s
 says said say amid via vs per year years day days week weeks month months today tonight now still
 """.split())
 
+# Identificadores de vulnerabilidades y avisos: unen notas directamente
+_IDENTIFICADOR = re.compile(r"^(cve-\d{4}-\d+|ssa-\d{6}|icsa-\d{2}-\d{3}-\d{2}|vde-\d{4}-\d+)$")
 _PALABRA = re.compile(r"[A-Za-zÀ-ÿ0-9][\wÀ-ÿ$%&\.\-']*")
 _POSESIVO = re.compile(r"['’]s$")
 
@@ -71,7 +73,9 @@ def _tokens(texto: str) -> list[tuple[str, str]]:
             continue
         tiene_cifra = any(c.isdigit() for c in norm)
         sigla = 2 <= len(crudo) <= 6 and crudo.isupper()
-        if tiene_cifra or sigla:
+        if tiene_cifra and not any(c.isalpha() for c in norm):
+            forma = "minuscula"  # una cifra suelta ("27.3", "178") es dato, no nombre propio
+        elif tiene_cifra or sigla:
             forma = "fuerte"
         elif crudo[0].isupper():
             forma = "mayuscula" if i > 0 else "inicio"
@@ -108,6 +112,25 @@ class Agrupador:
         self.max_minuscula = float(a.get("max_minuscula", 0.25))
         # Palabras que se repiten en más de esta proporción de las notas de una fuente: rutina de esa fuente
         self.max_por_fuente = float(a.get("max_por_fuente", 0.2))
+        # Nombres raros (en menos de este porcentaje de las notas): señal fuerte de una historia
+        self.max_rara = float(a.get("max_frecuencia_rara", 0.006))
+        # Palabras clave del hecho que se descartan por frecuentes (más que las entidades)
+        self.max_frecuencia_claves = float(a.get("max_frecuencia_claves", 0.08))
+        # Con un nombre muy frecuente (Nvidia, Apple) hacen falta al menos estas palabras clave en común
+        self.min_claves_frecuente = int(a.get("min_claves_con_nombre_frecuente", 2))
+        # Eventos que, junto a una empresa frecuente, identifican una historia ("Nvidia + resultados")
+        self._eventos_txt = a.get("eventos", ["resultados", "ipo", "adquisicion", "despidos", "demanda", "quiebra", "fusion"])
+        self.eventos: set[str] = set()
+        # Datos oficiales de Colombia: {nombre: [frases]} → "dato+nombre"
+        from .filtro import compilar
+        self.datos = {k: compilar(v) for k, v in (a.get("datos_oficiales") or {}).items() if v}
+        # Comparación nota a nota (además del núcleo del grupo)
+        self.comparar_notas = bool(a.get("comparar_notas", True))
+        self.min_claves_un_nombre = int(a.get("min_claves_con_un_nombre", 4))
+        # Palabras clave en común que pide un nombre raro
+        self.min_claves_rara = int(a.get("min_claves_con_nombre_raro", 2))
+        self._frecuencia: Counter = Counter()
+        self._limite_poco = 0
         self.genericas = {_raiz(normalizar(str(g))) for g in a.get("genericas") or []}
         # Equivalencias entre idiomas: todas las palabras de un grupo cuentan como la primera
         self.equivalencias: dict[str, str] = {}
@@ -115,6 +138,11 @@ class Agrupador:
             palabras = [_raiz(normalizar(str(p))) for p in grupo]
             for p in palabras:
                 self.equivalencias[p] = palabras[0]
+        for e in self._eventos_txt:
+            r = _raiz(normalizar(str(e)))
+            self.eventos.add(self.equivalencias.get(r, r))
+        self._raras: set[str] = set()
+        self._por_nota: dict = {}
 
     # ── rasgos de cada nota ─────────────────────────────────────────────────
     def _palabras(self, n: dict) -> list[tuple[str, str, bool]]:
@@ -157,40 +185,66 @@ class Agrupador:
         for n, ps in zip(notas, palabras):
             e, c = self._rasgos(ps, minuscula, total)
             rasgos.append((e, c, normalizar(n.get("titular", ""))))
-        # Palabras demasiado frecuentes en la ventana actual: no distinguen una historia
+        # Palabras demasiado frecuentes en la ventana actual: no distinguen una historia.
+        # Los nombres frecuentes (Nvidia, Apple) no se descartan del todo: quedan como señal
+        # débil, que solo une junto con varias palabras clave del hecho.
         frecuencia = Counter(p for e, c, _ in rasgos for p in e | c)
         limite = max(10, math.ceil(self.max_frecuencia * len(notas)))  # con pocas notas no hay "comunes"
+        limite_claves = max(10, math.ceil(self.max_frecuencia_claves * len(notas)))
         comunes = {p for p, k in frecuencia.items() if k > limite}
+        claves_comunes = {p for p, k in frecuencia.items() if k > limite_claves}
+        limite_rara = max(5, math.ceil(self.max_rara * len(notas)))  # con pocas notas, 5
+        self._frecuencia = frecuencia
+        self._limite_poco = limite_rara
+        # Nombres raros: con letras y al menos 4 caracteres (una cifra suelta como "13" no cuenta)
+        self._raras = {p for p, k in frecuencia.items()
+                       if k <= limite_rara and len(p) >= 4 and sum(ch.isalpha() for ch in p) >= 3}
         # Rutina de cada fuente: palabras que repite en muchas de sus notas
         por_fuente: dict[str, Counter] = {}
         notas_fuente = Counter(n["fuente_id"] for n in notas)
         for n, (e, c, _) in zip(notas, rasgos):
             por_fuente.setdefault(n["fuente_id"], Counter()).update(e | c)
         rutina = {
-            fid: {p for p, k in cnt.items() if k >= 3 and k > self.max_por_fuente * notas_fuente[fid]}
+            # Solo es rutina si la mayoría de sus apariciones son de esa fuente ("CVE" en TheHackerWire);
+            # una empresa de la que hablan todos (Nvidia) no es rutina de nadie
+            fid: {p for p, k in cnt.items()
+                  if k >= 3 and k > self.max_por_fuente * notas_fuente[fid] and k >= 0.6 * frecuencia[p]}
             for fid, cnt in por_fuente.items()
         }
         fechas = [datetime.fromisoformat(n["fecha"]) for n in notas]
 
         orden = sorted(range(len(notas)), key=lambda i: fechas[i])
         grupos: list[dict] = []   # {miembros, entidades: Counter, claves: Counter, ultima}
+        self._por_nota = {}
         for i in orden:
-            quitar = comunes | rutina.get(notas[i]["fuente_id"], set())
-            ent_i = rasgos[i][0] - quitar
-            cla_i = rasgos[i][1] - quitar
+            rut = rutina.get(notas[i]["fuente_id"], set())
+            ent_i = rasgos[i][0] - comunes - rut
+            deb_i = (rasgos[i][0] & comunes) - rut          # nombres frecuentes: señal débil
+            cla_i = rasgos[i][1] - claves_comunes - rut
+            # Empresa frecuente + evento concreto ("nvidia+resultado"): cuenta como nombre raro
+            compuestos = {f"{d}+{e}" for d in deb_i for e in (rasgos[i][1] & self.eventos)}
+            # Dato oficial de Colombia (PIB, inflación…): todas sus notas son una misma historia
+            if "colombia" in notas[i].get("tematicas", []) and self.datos:
+                texto = normalizar(f"{notas[i].get('titular', '')} {notas[i].get('bajada') or ''}")
+                compuestos |= {f"dato+{d}" for d, patron in self.datos.items() if patron.search(texto)}
+            ent_i = ent_i | compuestos
+            self._raras |= compuestos
+            self._por_nota[i] = (ent_i | deb_i, cla_i)
             mejor, mejor_puntaje = None, 0.0
             for g in grupos:
                 if fechas[i] - g["ultima"] > self.ventana or len(g["miembros"]) >= self.max_grupo:
                     continue
-                puntaje = self._puntaje(i, ent_i, cla_i, g, rasgos, fechas)
+                puntaje = self._puntaje(i, ent_i, cla_i, g, rasgos, fechas, deb_i)
                 if puntaje > mejor_puntaje:
                     mejor, mejor_puntaje = g, puntaje
             if mejor is None:
-                grupos.append({"miembros": [i], "entidades": Counter(ent_i), "claves": Counter(cla_i), "ultima": fechas[i]})
+                grupos.append({"miembros": [i], "entidades": Counter(ent_i), "claves": Counter(cla_i),
+                               "debiles": Counter(deb_i), "ultima": fechas[i]})
             else:
                 mejor["miembros"].append(i)
                 mejor["entidades"].update(ent_i)
                 mejor["claves"].update(cla_i)
+                mejor["debiles"].update(deb_i)
                 mejor["ultima"] = max(mejor["ultima"], fechas[i])
 
         grupos = self._fusionar(grupos, fechas)
@@ -246,10 +300,18 @@ class Agrupador:
                     ini_b = min(fechas[i] for i in gb["miembros"])
                     if ini_b - ga["ultima"] > self.ventana or ini_a - gb["ultima"] > self.ventana:
                         continue
-                    if len(na & self._nucleo(gb)) >= self.min_entidades:
+                    nb = self._nucleo(gb)
+                    # Un grupo de "empresa + evento" no se fusiona con otro que no tenga ese evento
+                    if {p for p in na if "+" in p} != {p for p in nb if "+" in p}:
+                        continue
+                    # Dos entidades del núcleo en común, o un nombre raro / identificador (Optimizely, CVE-…)
+                    nca = {p for p, k in ga["claves"].items() if k >= max(1, math.ceil(len(ga["miembros"]) / 2))}
+                    ncb = {p for p, k in gb["claves"].items() if k >= max(1, math.ceil(len(gb["miembros"]) / 2))}
+                    if len(na & nb) >= self.min_entidades or ((na & nb & self._raras) and (nca & ncb)):
                         ga["miembros"].extend(gb["miembros"])
                         ga["entidades"].update(gb["entidades"])
                         ga["claves"].update(gb["claves"])
+                        ga["debiles"].update(gb.get("debiles", Counter()))
                         ga["ultima"] = max(ga["ultima"], gb["ultima"])
                         del grupos[b]
                         cambiado = True
@@ -258,7 +320,7 @@ class Agrupador:
                     break
         return grupos
 
-    def _puntaje(self, i, ent_i, cla_i, g, rasgos, fechas) -> float:
+    def _puntaje(self, i, ent_i, cla_i, g, rasgos, fechas, deb_i=frozenset()) -> float:
         """0 si la nota no es de la historia; si lo es, cuánto se parece."""
         # Núcleo del grupo: lo que comparte al menos la mitad de sus notas (o todo, si es pequeño).
         # Así el grupo no se va desviando de tema a medida que crece.
@@ -268,8 +330,37 @@ class Agrupador:
         nucleo_cla = {p for p, k in g["claves"].items() if k >= minimo}
         comp_ent = ent_i & nucleo_ent
         comp_cla = cla_i & nucleo_cla
+        # Identificador exacto (CVE, aviso SSA/ICSA/VDE) en común: es la misma historia
+        if any(_IDENTIFICADOR.match(p) for p in ent_i & set(g["entidades"])):
+            return 20
+        # Empresa frecuente + evento ("nvidia+resultado"): la nota va solo con su evento,
+        # aunque haya otra historia más grande de la misma empresa
+        compuestos = {r for r in ent_i if "+" in r}
+        if compuestos:
+            return 15 + len(comp_cla) if compuestos & nucleo_ent else 0.0
         if len(comp_ent) >= self.min_entidades_solas:
             return 10 + len(comp_ent) + len(comp_cla)
+        # Nombre raro en común (Optimizely, ScreenConnect) y al menos una palabra clave del hecho
+        raras = comp_ent & self._raras
+        if raras and len(comp_cla) >= self.min_claves_rara:
+            return 6 + len(raras) + len(comp_cla)
+        # Nombre frecuente (Nvidia, Apple): solo con varias palabras clave del núcleo en común
+        nucleo_deb = {p for p, k in g.get("debiles", {}).items() if k >= minimo}
+        if (deb_i & nucleo_deb) and len(comp_cla) >= self.min_claves_frecuente:
+            return 4.5 + len(comp_cla)
+        # Nota a nota: muy parecida a una nota cercana del grupo (2 nombres y 2 palabras clave),
+        # aunque el núcleo del grupo haya derivado
+        nombres_i = ent_i | deb_i
+        for j in (g["miembros"][-15:] if self.comparar_notas else []):
+            if j in self._por_nota and abs(fechas[i] - fechas[j]) <= self.ventana:
+                nombres_j, claves_j = self._por_nota[j]
+                claves_compartidas = cla_i & claves_j
+                comunes_n, comunes_c = len(nombres_i & nombres_j), len(claves_compartidas)
+                # Con un solo nombre en común, al menos dos de las palabras clave deben ser poco
+                # frecuentes ("granular", "tighten"); "raise" o "million" no distinguen una historia
+                claves_poco_frecuentes = sum(1 for p in claves_compartidas if self._frecuencia.get(p, 0) <= self._limite_poco)
+                if (comunes_n >= 2 and comunes_c >= 2) or (comunes_n >= 3 and comunes_c >= 1) or                         (comunes_n >= 1 and comunes_c >= self.min_claves_un_nombre and claves_poco_frecuentes >= 2):
+                    return 3.5
         if len(comp_ent) >= self.min_entidades and comp_cla:
             return 5 + len(comp_ent) + len(comp_cla)
         # Solo para historias ya formadas (3 o más notas): recoge las notas rezagadas

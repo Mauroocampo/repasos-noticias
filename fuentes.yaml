@@ -40,6 +40,7 @@
 #                       quedan marcadas «En portada hoy»
 #   mapa_del_sitio      (opcional) mapas del sitio del medio, para cambiar los enlaces de
 #                       Google News por la dirección original de la nota (por su titular)
+#   tipo_por_titular    (opcional) {"texto del titular": tipo}: tipo de fuente según el titular
 #   tipo_por_ruta       (opcional) {"/opinion/": opinion}: tipo de fuente según la sección
 #   dividir_resumen     (opcional) {titulo_contiene, dominios_primarios}: divide un resumen
 #                       con avisos numerados en una nota por aviso
@@ -83,6 +84,7 @@ tipos:
   analistas:         "Firma de analistas"
   analistas-industriales: "Firma de analistas industriales"
   opinion:           "Opinión"
+  transcripcion:     "Transcripción de resultados"
   activista:         "Activista"
   banco:             "Banco"
   consultora:        "Consultora o investigación"
@@ -139,6 +141,32 @@ fuentes:
     tipo_por_ruta: { "/opinion/": opinion }
     nota: "Empresas, manufactura y sostenibilidad en Colombia. Si solo se leyó titular y bajada, se dice."
     verificado: 2026-11-06
+
+  - id: dane
+    nombre: Dane
+    sitio: https://www.dane.gov.co/
+    grupo: fija
+    tipo: oficial
+    pais: CO
+    tematicas: [colombia]
+    tematicas_por_filtro: [manufactura]
+    metodo: dane
+    # Calendario de difusión (RSS) y boletines/comunicados en PDF de estas estadísticas
+    calendario_rss: "https://www.dane.gov.co/index.php?option=com_jevents&task=modlatest.rss&format=feed&type=rss&Itemid=1626&modid=0"
+    operaciones:
+      - { nombre: "Producto Interno Bruto (PIB)", calendario: "Producto Interno Bruto", sigla: PIB,
+          pagina: "https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-trimestrales/pib-informacion-tecnica" }
+      - { nombre: "Indicador de Seguimiento a la Economía (ISE)", calendario: "Indicador de Seguimiento a la Economia", sigla: ISE,
+          pagina: "https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/indicador-de-seguimiento-a-la-economia-ise" }
+      - { nombre: "Índice de Precios al Consumidor (IPC), inflación", calendario: "Indice de Precios al Consumidor", sigla: IPC,
+          pagina: "https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc/ipc-informacion-tecnica" }
+      - { nombre: "Mercado laboral (GEIH)", calendario: "Mercado laboral", sigla: GEIH,
+          pagina: "https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-laboral/empleo-y-desempleo" }
+      - { nombre: "Encuesta Mensual Manufacturera con Enfoque Territorial (EMMET)", calendario: "Encuesta Mensual Manufacturera", sigla: EMMET,
+          pagina: "https://www.dane.gov.co/index.php/estadisticas-por-tema/industria/encuesta-mensual-manufacturera-con-enfoque-territorial-emmet" }
+    marcas: [oficial]
+    nota: "Fuente primaria oficial. Sin RSS de comunicados: se lee el calendario de difusión y las páginas técnicas de cada estadística (agregada el 17 nov 2026)."
+    verificado: 2026-11-17
 
   - id: la-republica
     nombre: La República
@@ -896,6 +924,9 @@ fuentes:
     mostrar_bajada: false
     metodo: rss
     feeds: [https://www.investing.com/rss/news.rss]
+    # Las transcripciones de llamadas de resultados tienen su propio tipo (y se ocultan salvo
+    # las empresas de la lista `relevancia.transcripciones.excepto` en palabras-clave.yaml)
+    tipo_por_titular: { "earnings call transcript": transcripcion }
     marcas: [agencia]
     nota: "Republica a Reuters."
     verificado: 2026-11-06
@@ -1042,7 +1073,7 @@ fuentes:
 
   # ═══ DATOS DE REFERENCIA (no van al flujo) ═════════════════════════════════
 
-  - { id: dane, nombre: Dane, sitio: "https://www.dane.gov.co/", grupo: referencia, tipo: oficial, tematicas: [colombia], nota: "Mercado laboral juvenil; cifras oficiales de Colombia." }
+  - { id: dane-datos, nombre: Dane, sitio: "https://www.dane.gov.co/", grupo: referencia, tipo: oficial, tematicas: [colombia], nota: "Mercado laboral juvenil; cifras oficiales de Colombia." }
   - { id: congreso-visible, nombre: Congreso Visible, sitio: "https://congresovisible.uniandes.edu.co/", grupo: referencia, tipo: oficial, tematicas: [colombia], nota: "Registro legislativo de la Universidad de los Andes; estado de proyectos de ley." }
   - { id: nyu-stern, nombre: NYU Stern Center for Sustainable Business, sitio: "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/centers-of-research/center-sustainable-business", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Universidad. Sobreprecio de lo sostenible en EE. UU." }
   - { id: pwc, nombre: PwC, sitio: "https://www.pwc.com/", grupo: referencia, tipo: consultora, tematicas: [sostenibilidad], nota: "Consultora. Lo que pagaría el consumidor." }

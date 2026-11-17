@@ -193,6 +193,12 @@ def leer_fuente(fuente: dict, ahora: datetime, dias: int,
     """
     notas: list[dict] = []
     errores: list[str] = []
+    if fuente.get("metodo") == "dane":
+        from . import dane
+        notas, errores_dane, intentos = dane.leer(fuente, ahora, dias)
+        ok = len(errores_dane) < intentos
+        return notas, {"ok": ok, "parcial": bool(errores_dane) and ok, "respaldo": False, "notas": len(notas),
+                       "errores": errores_dane, "metodo": "dane", "revisado": ahora.isoformat()}
     if fuente.get("metodo") == "avisos_html":
         from . import paginas
         urls = [fuente["pagina_avisos"]]

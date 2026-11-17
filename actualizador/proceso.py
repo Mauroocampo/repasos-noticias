@@ -85,7 +85,12 @@ TIPO_OPINION = "opinion"
 
 
 def tipo_de(n: dict, f: dict) -> str | None:
-    """Tipo de fuente de la nota: el de la fuente, o el de su sección (`tipo_por_ruta`)."""
+    """Tipo de fuente de la nota: el de la fuente, o el que indiquen su titular
+    (`tipo_por_titular`) o su sección (`tipo_por_ruta`)."""
+    titular = (n.get("titular") or "").lower()
+    for texto, tipo in (f.get("tipo_por_titular") or {}).items():
+        if texto.lower() in titular:
+            return tipo
     ruta = urlsplit(n.get("enlace", "")).path.lower()
     for parte, tipo in (f.get("tipo_por_ruta") or {}).items():
         if parte.lower() in ruta:
@@ -161,7 +166,9 @@ TIPOS_PRIMARIOS = {"oficial", "la-empresa"}
 
 def prioridad(n: dict):
     """Orden para elegir la nota principal de una historia (menor = primero)."""
-    if n.get("grupo") == "fija":
+    if n.get("grupo") == "fija" and n.get("tipo") in TIPOS_PRIMARIOS:
+        nivel = -1  # fuente fija y primaria (p. ej. el Dane): primero, por encima de la prensa
+    elif n.get("grupo") == "fija":
         nivel = 0
     elif n.get("tipo") in TIPOS_PRIMARIOS:
         nivel = 1

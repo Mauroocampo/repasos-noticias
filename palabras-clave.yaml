@@ -72,6 +72,16 @@ no_noticias:
 # ─────────────────────────────────────────────────────────────────────────────
 relevancia:
 
+  transcripciones:
+    texto: "transcripción de resultados"
+    incluir: ["earnings call transcript", "earnings call transcripts"]
+    solo_titular: true
+    # Empresas cuyas transcripciones SÍ se muestran (industria, automatización, energía y Colombia).
+    # Agrega o quita nombres aquí.
+    excepto: [siemens, rockwell, schneider, abb, emerson, honeywell, dassault, aveva, ecopetrol,
+      "ge vernova", "general electric", yokogawa, "mitsubishi electric", hitachi, ptc, cognex, fanuc,
+      "johnson controls", eaton, bancolombia, "grupo aval", "grupo sura", "grupo argos", celsia, isa]
+
   bufetes:
     texto: "comunicado de bufete"
     incluir:
@@ -446,6 +456,30 @@ historias:
   # depende del contenido de la propia nota (una nota internacional no pasa a Colombia
   # porque otra nota de su historia sí lo sea)
   no_heredar: [colombia]
+  # Nombres raros (en menos de este porcentaje de las notas, p. ej. Optimizely): bastan con una
+  # palabra clave del hecho en común
+  max_frecuencia_rara: 0.006
+  # Palabras clave del hecho que se descartan por frecuentes
+  max_frecuencia_claves: 0.08
+  # Con un nombre muy frecuente (Nvidia, Apple) hacen falta al menos estas palabras clave en común
+  min_claves_con_nombre_frecuente: 3
+  # Un nombre raro también pide estas palabras clave en común
+  min_claves_con_nombre_raro: 2
+  # Nota a nota: dos notas muy parecidas se unen aunque el grupo haya derivado
+  # (2 nombres y 2 palabras clave, 3 nombres y 1, o 1 nombre y estas palabras clave,
+  # de las que al menos 2 deben ser poco frecuentes)
+  comparar_notas: true
+  min_claves_con_un_nombre: 4
+  # Una empresa frecuente junto a uno de estos eventos ("Nvidia + resultados") es una historia propia
+  eventos: [resultados, ipo, adquisicion, despidos, demanda, quiebra, fusion]
+  # Datos oficiales de Colombia: las notas de Colombia que hablan del mismo dato (y el
+  # boletín del Dane) se agrupan en una sola historia
+  datos_oficiales:
+    pib: [pib, "producto interno bruto", "economia colombiana crecio", "la economia crecio", "crecimiento de la economia", "crecimiento economico del tercer trimestre"]
+    ise: ["indicador de seguimiento a la economia", ise]
+    inflacion: [ipc, "indice de precios al consumidor", "inflacion de octubre", "inflacion de noviembre", "inflacion anual"]
+    empleo: ["tasa de desempleo", "mercado laboral", geih]
+    industria: [emmet, "encuesta mensual manufacturera", "produccion industrial"]
   # Una historia necesita notas de al menos este número de fuentes distintas
   min_fuentes: 2
   # Una palabra con mayúscula solo es nombre propio si sale en minúscula en menos de
@@ -478,7 +512,7 @@ historias:
   ]
   # En una historia de 3 o más notas, también se une una nota que comparte 1 entidad y
   # al menos este número de palabras clave del hecho
-  min_claves_con_una_entidad: 2
+  min_claves_con_una_entidad: 3
   # Equivalencias entre idiomas: cada lista cuenta como una sola palabra
   equivalencias:
     - [espia, espias, spy, spies, espionaje, espionage]
