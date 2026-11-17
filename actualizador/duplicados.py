@@ -58,7 +58,7 @@ def _preferencia(n: dict):
     return (0 if n.get("tipo") in TIPOS_PRIMARIOS else 1, 0 if n.get("via") == "rss" else 1, n["fecha"])
 
 
-def _unir(base: dict, otra: dict) -> None:
+def _unir(base: dict, otra: dict, no_heredar: set[str] = frozenset()) -> None:
     if otra["fuente_id"] != base["fuente_id"]:
         ya = {t["fuente_id"] for t in base["tambien_en"]}
         if otra["fuente_id"] not in ya:
@@ -68,7 +68,8 @@ def _unir(base: dict, otra: dict) -> None:
                 "enlace": otra["enlace"],
             })
     for t in otra.get("tematicas", []):
-        if t not in base["tematicas"]:
+        # Temáticas que dependen del contenido de la propia nota (Colombia) no se heredan
+        if t not in base["tematicas"] and t not in no_heredar:
             base["tematicas"].append(t)
     # Si la principal no tiene bajada se usa la de la copia, salvo que la principal sea
     # "solo titular": ahí la bajada de otro medio quedaría atribuida al medio equivocado
@@ -76,8 +77,11 @@ def _unir(base: dict, otra: dict) -> None:
         base["bajada"] = otra["bajada"]
 
 
-def eliminar(notas: list[dict]) -> list[dict]:
-    """Devuelve una sola versión por nota; las demás quedan en `tambien_en`."""
+def eliminar(notas: list[dict], no_heredar: set[str] = frozenset()) -> list[dict]:
+    """Devuelve una sola versión por nota; las demás quedan en `tambien_en`.
+
+    `no_heredar`: temáticas que la versión principal no toma de sus copias.
+    """
     ordenadas = sorted(notas, key=_preferencia)
     finales: list[dict] = []
     por_url: dict[str, dict] = {}
@@ -101,7 +105,7 @@ def eliminar(notas: list[dict]) -> list[dict]:
                     base = candidata
 
         if base is not None:
-            _unir(base, n)
+            _unir(base, n, no_heredar)
             por_url.setdefault(url, base)
             if aviso:
                 por_aviso.setdefault(aviso, base)

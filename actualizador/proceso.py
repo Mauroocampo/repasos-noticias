@@ -174,8 +174,8 @@ def agrupar(notas: list[dict], cfg: Config) -> list[dict]:
     agrupador = Agrupador(cfg.palabras_clave.get("historias"))
     viejas = [n for n in notas if n.get("fuera_de_ventana")]
     notas = [n for n in notas if not n.get("fuera_de_ventana")]
-    visibles = duplicados.eliminar([n for n in notas if not n.get("oculta")])
-    ocultas = duplicados.eliminar([n for n in notas if n.get("oculta")])
+    visibles = duplicados.eliminar([n for n in notas if not n.get("oculta")], agrupador.no_heredar)
+    ocultas = duplicados.eliminar([n for n in notas if n.get("oculta")], agrupador.no_heredar)
     return agrupador.agrupar(visibles, prioridad) + ocultas + viejas
 
 

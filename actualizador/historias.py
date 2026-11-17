@@ -101,6 +101,8 @@ class Agrupador:
         self.max_frecuencia = float(a.get("max_frecuencia", 0.05))
         self.min_claves_una = int(a.get("min_claves_con_una_entidad", 2))
         self.max_grupo = int(a.get("max_grupo", 60))
+        # La nota principal no toma estas temáticas de las demás notas del grupo
+        self.no_heredar = set(a.get("no_heredar", ["colombia"]))
         self.min_fuentes = int(a.get("min_fuentes", 2))
         # Una palabra que sale en minúscula en más de esta proporción de sus apariciones no es entidad
         self.max_minuscula = float(a.get("max_minuscula", 0.25))
@@ -211,7 +213,8 @@ class Agrupador:
                 for t in otra.get("tambien_en", []):
                     principal["tambien_en"].append({**t, "titular": t.get("titular") or otra["titular"]})
                 for t in otra["tematicas"]:
-                    if t not in principal["tematicas"]:
+                    # Temáticas que dependen del contenido de la propia nota (Colombia) no se heredan
+                    if t not in principal["tematicas"] and t not in self.no_heredar:
                         principal["tematicas"].append(t)
             principal["historia_notas"] = len(miembros)
             salida.append(principal)

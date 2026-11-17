@@ -376,6 +376,10 @@ historias:
   max_frecuencia: 0.05
   # Tamaño máximo de un grupo
   max_grupo: 60
+  # La nota principal de un grupo no toma estas temáticas de las demás notas: Colombia
+  # depende del contenido de la propia nota (una nota internacional no pasa a Colombia
+  # porque otra nota de su historia sí lo sea)
+  no_heredar: [colombia]
   # Una historia necesita notas de al menos este número de fuentes distintas
   min_fuentes: 2
   # Una palabra con mayúscula solo es nombre propio si sale en minúscula en menos de

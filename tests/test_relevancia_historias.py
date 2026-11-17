@@ -157,3 +157,25 @@ def test_prioridad_fija_luego_primaria():
              nota(51, "cisa", "x", "2026-11-08T12:00:00+00:00", grupo="especializada", tipo="oficial"),
              nota(52, "portafolio", "x", "2026-11-08T13:00:00+00:00", grupo="fija")]
     assert [n["id"] for n in sorted(otras, key=proceso.prioridad)] == ["52", "51", "50"]
+
+
+def test_la_principal_no_hereda_colombia_de_su_grupo():
+    # La República, sección internacional (no es de Colombia) + Portafolio (sí quedó en Colombia)
+    lr = nota(60, "la-republica", "Anthropic busca romper récord en bolsa con una oferta pública",
+              "2026-11-16T10:00:00+00:00", grupo="fija")
+    lr["tematicas"] = ["internacional", "tecnologia"]
+    pf = nota(61, "portafolio", "Anthropic sale a bolsa y apunta a una cifra récord en su oferta pública",
+              "2026-11-16T12:00:00+00:00", grupo="fija")
+    pf["tematicas"] = ["colombia", "tecnologia"]
+    otra = nota(62, "cnbc", "Anthropic sets record IPO price range for its public offering",
+                "2026-11-16T14:00:00+00:00")
+    otra["tematicas"] = ["internacional", "tecnologia"]
+    salida = agrupar([lr, pf, otra] + RELLENO)
+    principal = next(n for n in salida if n.get("historia_notas"))
+    assert principal["fuente_id"] == "la-republica"
+    assert "colombia" not in principal["tematicas"]
+    # Las copias exactas tampoco la heredan
+    from actualizador import duplicados
+    copia = {**pf, "id": "63", "titular": lr["titular"], "enlace": "https://otra.example/1"}
+    unida = duplicados.eliminar([lr, copia], {"colombia"})
+    assert len(unida) == 1 and "colombia" not in unida[0]["tematicas"]
