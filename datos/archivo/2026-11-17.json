@@ -1,5 +1,206 @@
 [
  {
+  "id": "8139d267f22592",
+  "fuente_id": "it-brief",
+  "titular": "LoopUp brings mobile calls into Teams in 14 countries",
+  "bajada": "Multinational firms can now record and transcribe staff mobile calls inside Teams, as LoopUp rolls out the service in 14 countries.",
+  "enlace": "https://itbrief.com.au/story/loopup-brings-mobile-calls-into-teams-in-14-countries",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "1a65b6ba76a769",
+  "fuente_id": "it-brief",
+  "titular": "BlueFlag adds AI agent governance tools for developers",
+  "bajada": "The update gives enterprises more oversight of AI code helpers after BlueFlag found 83% of organisations run unapproved agents and many have admin access.",
+  "enlace": "https://itbrief.com.au/story/blueflag-adds-ai-agent-governance-tools-for-developers",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "f0378721fa7266",
+  "fuente_id": "it-brief",
+  "titular": "Google Cloud outlines five lessons for AI agent adoption",
+  "bajada": "Companies risk bottlenecks unless they redesign workflows, as Google Cloud says AI agents need clear human oversight and boundaries.",
+  "enlace": "https://itbrief.com.au/story/google-cloud-outlines-five-lessons-for-ai-agent-adoption",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "fbdaecdec9583c",
+  "fuente_id": "securitybrief",
+  "titular": "BlueFlag adds AI agent governance tools for developers",
+  "bajada": "The update gives enterprises more oversight of AI code helpers after BlueFlag found 83% of organisations run unapproved agents and many have admin access.",
+  "enlace": "https://securitybrief.com.au/story/blueflag-adds-ai-agent-governance-tools-for-developers",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "2af995fc3d5523",
+  "fuente_id": "channellife",
+  "titular": "LoopUp brings mobile calls into Teams in 14 countries",
+  "bajada": "Multinational firms can now record and transcribe staff mobile calls inside Teams, as LoopUp rolls out the service in 14 countries.",
+  "enlace": "https://channellife.com.au/story/loopup-brings-mobile-calls-into-teams-in-14-countries",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "ac0cde8c98b506",
+  "fuente_id": "channellife",
+  "titular": "Wellness Project launches Garmin Connect integration",
+  "bajada": "It lets users pull Garmin workout, sleep and recovery data into one place with other health records, though historical imports are not guaranteed.",
+  "enlace": "https://channellife.com.au/story/wellness-project-launches-garmin-connect-integration",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "556e693779a5f6",
+  "fuente_id": "telconews",
+  "titular": "LoopUp brings mobile calls into Teams in 14 countries",
+  "bajada": "Multinational firms can now record and transcribe staff mobile calls inside Teams, as LoopUp rolls out the service in 14 countries.",
+  "enlace": "https://telconews.com.au/story/loopup-brings-mobile-calls-into-teams-in-14-countries",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "2c54609e29e6e7",
+  "fuente_id": "futurefive",
+  "titular": "Wellness Project launches Garmin Connect integration",
+  "bajada": "It lets users pull Garmin workout, sleep and recovery data into one place with other health records, though historical imports are not guaranteed.",
+  "enlace": "https://futurefive.com.au/story/wellness-project-launches-garmin-connect-integration",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "35e69ca0e0aa2c",
+  "fuente_id": "google-blog",
+  "titular": "Read the EmbeddingGemma 2 technical report.",
+  "bajada": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
+  "enlace": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "cb1d8f8bc84f7e",
+  "fuente_id": "google-blog",
+  "titular": "Put Gemini to work for you",
+  "bajada": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+  "enlace": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "6924db8430a042",
+  "fuente_id": "google-blog",
+  "titular": "10 states team up with Google on free AI training",
+  "bajada": "Two people work on a computer",
+  "enlace": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "2b5359386136f7",
+  "fuente_id": "google-blog",
+  "titular": "Temporary threads are now available in AI Mode in Search.",
+  "bajada": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+  "enlace": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "19575a6d8d8172",
+  "fuente_id": "google-blog",
+  "titular": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+  "bajada": "Google Home updates bring keyless entry, smarter audio alerts, and faster Gemini performance. See what’s new in the November 2026 update.",
+  "enlace": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "79b64e624cf306",
+  "fuente_id": "google-blog",
+  "titular": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
+  "bajada": "Create custom avatars in Google Vids for free. Design your digital likeness using a selfie and voice recording to narrate videos. Try it out today.",
+  "enlace": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "f6c89c33d8f4c4",
+  "fuente_id": "google-blog",
+  "titular": "Google Wallet is now available on iOS in the U.S.",
+  "bajada": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
+  "enlace": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "539f448c5b024f",
+  "fuente_id": "wsj",
+  "titular": "Electric Tugboats Are Coming to the Port of Los Angeles. It’s Not Just About Emissions.",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/logistics-report/electric-tugboats-are-coming-to-the-port-of-los-angeles-its-not-just-about-emissions-7ded65be?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "45480c06ad8766",
+  "fuente_id": "macrumors",
+  "titular": "Apple Moves Ahead With Better Dual SIM Support for Apps",
+  "bajada": "Apple is moving ahead with changes that could make it easier to use separate work and personal numbers in third-party iPhone calling and contact apps, after advancing a request to the development stage this week. The request was submitted by developer Airelec Clima on August 9…",
+  "enlace": "https://www.macrumors.com/2026/11/17/apple-moves-ahead-with-better-dual-sim-support/",
+  "fecha": "2026-11-17T16:59:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "060fcb69444850",
+  "fuente_id": "bbva",
+  "titular": "BBVA vincula un financiamiento de S/ 50 millones a metas ambientales de Vistony",
+  "bajada": "",
+  "enlace": "https://www.bbva.com/es/pe/sostenibilidad/bbva-vincula-un-financiamiento-de-s-50-millones-a-metas-ambientales-de-vistony/",
+  "fecha": "2026-11-17T16:57:05+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:01:49+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXB3TFhUYlN6M0Z1bzlDdTZDbWJzSUVFWS1wZnlnVjk1dTU2QnFpZ19iMkVNRGtPeDVFcTVLMV8zRDlQMWxWSnRxc0NPN2xRSzJYZEZ1ZzVCN2hxYzZOVmd4VFNqQmotUGNXcnI4eVpNcVdydnUzb2lOOEhreGVXNnBUbHZ1dzk0WWw3clhkLUlTZWxPTnRubkxmNmU2WFBlc21CUDZNTldWbzZEMF9PX1FzaGM1VFlnWElIdkZR?oc=5"
+ },
+ {
+  "id": "f03bd4a8330b06",
+  "fuente_id": "el-heraldo",
+  "titular": "Universidad del Atlántico abre convocatoria para elegir representante de exrectores",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/17/universidad-del-atlantico-abre-convocatoria-para-elegir-representante-de-exrectores/",
+  "fecha": "2026-11-17T16:55:24+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "df67aa8ce547c4",
+  "fuente_id": "el-heraldo",
+  "titular": "Abren inscripciones para el III Congreso de Turismo de Experiencias y Expo-Experiencias 2026",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/17/abren-inscripciones-para-el-iii-congreso-de-turismo-de-experiencias-y-expo-experiencias-2026/",
+  "fecha": "2026-11-17T16:54:49+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
   "id": "289c465e7cc29c",
   "fuente_id": "cybersecurity-news",
   "titular": "TheMailer – Self-hosted Phishing Platform that runs on Claude and ChatGPT",
@@ -621,6 +822,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "e817df4f6f9c90",
+  "fuente_id": "forbes",
+  "titular": "National Security Agency’s Highly Classified Internal Network Has Gone Down, Report Says",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/zacharyfolk/2026/11/17/national-security-agencys-highly-classified-internal-network-has-gone-down-report-says/",
+  "fecha": "2026-11-17T16:16:35+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
   "id": "534b7bac099198",
   "fuente_id": "it-brief",
   "titular": "EY survey finds tax teams keen on AI, but data lags",
@@ -780,6 +991,16 @@
   "fecha": "2026-11-17T16:06:12+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "486554c48403d6",
+  "fuente_id": "forbes",
+  "titular": "Jensen Huang Says He’d Be ‘Honored’ To Return As Nvidia CEO—In First Public Statement Since Resigning In Scandal",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/alisondurkee/2026/11/17/jensen-huang-says-hed-be-honored-to-return-as-nvidia-ceo-in-first-public-statement-since-resigning-in-scandal/",
+  "fecha": "2026-11-17T16:06:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
  },
  {
   "id": "b891f62877c7e3",
@@ -2796,6 +3017,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX2NwelhGVW4ta2ZWVThLdF84TnFiaGdPclp1bDZJOVZfQzNwclJKZnZQdGFHMVV5Z2RBd3p1enJXSkRuTF9CamJpcnRpYkpZLXFaanlpQXZjNFhoeUNzUHpQUWhPLUhPMTVTM0ZmWlFTbVZYRW9IZHFVT1NCRi1qTG9yMGRQdXVEN0dxWDRNRnJBdUlmUFRpX0JqWDZkbjkxVFR0RFVzbjkwTjRwbERkSEN1Qlp1WHZPVFZLNmhBV0FNNUItNjZyYnJJR210enRodFNDN1VoWkhaVktZb2RMZHYtSjF2aDhYSHRmelhqelNycXB1U3NDUkNnbk5ianRBSExrM0dtS0NLb3l1d1R5VFJKSFhJQXZ6bFp5WUhLTXRiTlIzRjVJRWR0YjdNRDY5LU42MTduUW5OQ1V1RFR0MFU3MmNHN1QtNEJxcF92UGIwbnJP?oc=5"
  },
  {
+  "id": "ead9ad36831291",
+  "fuente_id": "business-wire",
+  "titular": "Total Economic Impact Study Finds CreatorIQ Drove 373% ROI Over Three Years for Enterprise Customers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSVFiVmczUWUyS3htWlRKT3F2dkdaX3AxX3dBZGxfT0pXRmVIU0dzcExIc01TUGxreGpXT2JPRmJ1ZDFyTWZhaFFtcTNad0RzYnZ4RXZFUC04aGNiOF80YmtQUTdtWXloNHgzVlJYamZmNjEzUUprMF81ZHl3b292bC1ZTllkSmdrVTdBVEtvaU9oQmdkWEthRjZaMDlqQWNLT3VYVjJ5UEQwRGxRREM1dGFqNWFvY244bnJOSHlsbFM3U21lX1RfdEJQZndScm5XaGlrVzZZZjM1c1JWcXgzNTFrS0NzN1dmUnU3Qw?oc=5",
+  "fecha": "2026-11-17T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
   "id": "68e132bfdc5a05",
   "fuente_id": "cnbc",
   "titular": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
@@ -4681,6 +4912,16 @@
   "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
+  "id": "b91c73d0adbc6e",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Industrial Automation Software Products",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45SXlDWFdRVVV3QWNDOXFyWEFBU1pUX09wQkVjYXJKSV9qckRybzVmMUx4OHRodlVQWmVVTjFSc3RFbjBwTGdGa05XRUVPaVBXQ29ua3haalVKUkhiTjJ0UkpPM3E0cEJYU2RfS3EtYw?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
   "id": "f3ca6bdd0a88bb",
   "fuente_id": "bbc-mundo",
   "titular": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
@@ -5160,6 +5401,16 @@
   "fecha": "2026-11-17T11:09:31+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "db1b72d6636abf",
+  "fuente_id": "yahoo-finance",
+  "titular": "Home Depot taps Richard McPhail as new CEO, reports Q3 earnings beat",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmxMWFJpNURKTHJJU3hEck1DRE5tVHBmQ1o5LWZhTExFc1JJS3drTkk0QkVPOTgwX3puZHVfc1Y3LWlSemlaeU91QURkSE50RlBkZUhmOUNxQXNaWmFEaTdGUXI5ZFNEMk5HNkgyaFhoVmx6WUZJc29QRnlScGd6QzZId3Fack8yVl92MG9sSlJUc2dfdjQyTTFlVG10WjJQaUw5Z2VxYm5Mc1o4RU1KWXdUWE82TlBmcWVQamJlRHVmMUl5eWxCOE4zQQ?oc=5",
+  "fecha": "2026-11-17T11:08:47+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:01:49+00:00"
  },
  {
   "id": "cb74b2746cc6b1",

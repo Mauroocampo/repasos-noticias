@@ -1,6 +1,207 @@
 {
- "actualizado": "2026-11-17T16:58:51+00:00",
+ "actualizado": "2026-11-17T17:01:49+00:00",
  "notas": [
+  {
+   "id": "8139d267f22592",
+   "fuente_id": "it-brief",
+   "titular": "LoopUp brings mobile calls into Teams in 14 countries",
+   "bajada": "Multinational firms can now record and transcribe staff mobile calls inside Teams, as LoopUp rolls out the service in 14 countries.",
+   "enlace": "https://itbrief.com.au/story/loopup-brings-mobile-calls-into-teams-in-14-countries",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "1a65b6ba76a769",
+   "fuente_id": "it-brief",
+   "titular": "BlueFlag adds AI agent governance tools for developers",
+   "bajada": "The update gives enterprises more oversight of AI code helpers after BlueFlag found 83% of organisations run unapproved agents and many have admin access.",
+   "enlace": "https://itbrief.com.au/story/blueflag-adds-ai-agent-governance-tools-for-developers",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "f0378721fa7266",
+   "fuente_id": "it-brief",
+   "titular": "Google Cloud outlines five lessons for AI agent adoption",
+   "bajada": "Companies risk bottlenecks unless they redesign workflows, as Google Cloud says AI agents need clear human oversight and boundaries.",
+   "enlace": "https://itbrief.com.au/story/google-cloud-outlines-five-lessons-for-ai-agent-adoption",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "fbdaecdec9583c",
+   "fuente_id": "securitybrief",
+   "titular": "BlueFlag adds AI agent governance tools for developers",
+   "bajada": "The update gives enterprises more oversight of AI code helpers after BlueFlag found 83% of organisations run unapproved agents and many have admin access.",
+   "enlace": "https://securitybrief.com.au/story/blueflag-adds-ai-agent-governance-tools-for-developers",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "2af995fc3d5523",
+   "fuente_id": "channellife",
+   "titular": "LoopUp brings mobile calls into Teams in 14 countries",
+   "bajada": "Multinational firms can now record and transcribe staff mobile calls inside Teams, as LoopUp rolls out the service in 14 countries.",
+   "enlace": "https://channellife.com.au/story/loopup-brings-mobile-calls-into-teams-in-14-countries",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "ac0cde8c98b506",
+   "fuente_id": "channellife",
+   "titular": "Wellness Project launches Garmin Connect integration",
+   "bajada": "It lets users pull Garmin workout, sleep and recovery data into one place with other health records, though historical imports are not guaranteed.",
+   "enlace": "https://channellife.com.au/story/wellness-project-launches-garmin-connect-integration",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "556e693779a5f6",
+   "fuente_id": "telconews",
+   "titular": "LoopUp brings mobile calls into Teams in 14 countries",
+   "bajada": "Multinational firms can now record and transcribe staff mobile calls inside Teams, as LoopUp rolls out the service in 14 countries.",
+   "enlace": "https://telconews.com.au/story/loopup-brings-mobile-calls-into-teams-in-14-countries",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "2c54609e29e6e7",
+   "fuente_id": "futurefive",
+   "titular": "Wellness Project launches Garmin Connect integration",
+   "bajada": "It lets users pull Garmin workout, sleep and recovery data into one place with other health records, though historical imports are not guaranteed.",
+   "enlace": "https://futurefive.com.au/story/wellness-project-launches-garmin-connect-integration",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "35e69ca0e0aa2c",
+   "fuente_id": "google-blog",
+   "titular": "Read the EmbeddingGemma 2 technical report.",
+   "bajada": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
+   "enlace": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "cb1d8f8bc84f7e",
+   "fuente_id": "google-blog",
+   "titular": "Put Gemini to work for you",
+   "bajada": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+   "enlace": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "6924db8430a042",
+   "fuente_id": "google-blog",
+   "titular": "10 states team up with Google on free AI training",
+   "bajada": "Two people work on a computer",
+   "enlace": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "2b5359386136f7",
+   "fuente_id": "google-blog",
+   "titular": "Temporary threads are now available in AI Mode in Search.",
+   "bajada": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+   "enlace": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "19575a6d8d8172",
+   "fuente_id": "google-blog",
+   "titular": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+   "bajada": "Google Home updates bring keyless entry, smarter audio alerts, and faster Gemini performance. See what’s new in the November 2026 update.",
+   "enlace": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "79b64e624cf306",
+   "fuente_id": "google-blog",
+   "titular": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
+   "bajada": "Create custom avatars in Google Vids for free. Design your digital likeness using a selfie and voice recording to narrate videos. Try it out today.",
+   "enlace": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "f6c89c33d8f4c4",
+   "fuente_id": "google-blog",
+   "titular": "Google Wallet is now available on iOS in the U.S.",
+   "bajada": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
+   "enlace": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "539f448c5b024f",
+   "fuente_id": "wsj",
+   "titular": "Electric Tugboats Are Coming to the Port of Los Angeles. It’s Not Just About Emissions.",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/logistics-report/electric-tugboats-are-coming-to-the-port-of-los-angeles-its-not-just-about-emissions-7ded65be?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-17T17:00:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "45480c06ad8766",
+   "fuente_id": "macrumors",
+   "titular": "Apple Moves Ahead With Better Dual SIM Support for Apps",
+   "bajada": "Apple is moving ahead with changes that could make it easier to use separate work and personal numbers in third-party iPhone calling and contact apps, after advancing a request to the development stage this week. The request was submitted by developer Airelec Clima on August 9…",
+   "enlace": "https://www.macrumors.com/2026/11/17/apple-moves-ahead-with-better-dual-sim-support/",
+   "fecha": "2026-11-17T16:59:28+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "060fcb69444850",
+   "fuente_id": "bbva",
+   "titular": "BBVA vincula un financiamiento de S/ 50 millones a metas ambientales de Vistony",
+   "bajada": "",
+   "enlace": "https://www.bbva.com/es/pe/sostenibilidad/bbva-vincula-un-financiamiento-de-s-50-millones-a-metas-ambientales-de-vistony/",
+   "fecha": "2026-11-17T16:57:05+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T17:01:49+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXB3TFhUYlN6M0Z1bzlDdTZDbWJzSUVFWS1wZnlnVjk1dTU2QnFpZ19iMkVNRGtPeDVFcTVLMV8zRDlQMWxWSnRxc0NPN2xRSzJYZEZ1ZzVCN2hxYzZOVmd4VFNqQmotUGNXcnI4eVpNcVdydnUzb2lOOEhreGVXNnBUbHZ1dzk0WWw3clhkLUlTZWxPTnRubkxmNmU2WFBlc21CUDZNTldWbzZEMF9PX1FzaGM1VFlnWElIdkZR?oc=5"
+  },
+  {
+   "id": "f03bd4a8330b06",
+   "fuente_id": "el-heraldo",
+   "titular": "Universidad del Atlántico abre convocatoria para elegir representante de exrectores",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/atlantico/2026/11/17/universidad-del-atlantico-abre-convocatoria-para-elegir-representante-de-exrectores/",
+   "fecha": "2026-11-17T16:55:24+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
+   "id": "df67aa8ce547c4",
+   "fuente_id": "el-heraldo",
+   "titular": "Abren inscripciones para el III Congreso de Turismo de Experiencias y Expo-Experiencias 2026",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/colombia/2026/11/17/abren-inscripciones-para-el-iii-congreso-de-turismo-de-experiencias-y-expo-experiencias-2026/",
+   "fecha": "2026-11-17T16:54:49+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
   {
    "id": "289c465e7cc29c",
    "fuente_id": "cybersecurity-news",
@@ -663,6 +864,16 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
+   "id": "e817df4f6f9c90",
+   "fuente_id": "forbes",
+   "titular": "National Security Agency’s Highly Classified Internal Network Has Gone Down, Report Says",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/zacharyfolk/2026/11/17/national-security-agencys-highly-classified-internal-network-has-gone-down-report-says/",
+   "fecha": "2026-11-17T16:16:35+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
    "id": "534b7bac099198",
    "fuente_id": "it-brief",
    "titular": "EY survey finds tax teams keen on AI, but data lags",
@@ -822,6 +1033,16 @@
    "fecha": "2026-11-17T16:06:12+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "486554c48403d6",
+   "fuente_id": "forbes",
+   "titular": "Jensen Huang Says He’d Be ‘Honored’ To Return As Nvidia CEO—In First Public Statement Since Resigning In Scandal",
+   "bajada": "",
+   "enlace": "https://www.forbes.com/sites/alisondurkee/2026/11/17/jensen-huang-says-hed-be-honored-to-return-as-nvidia-ceo-in-first-public-statement-since-resigning-in-scandal/",
+   "fecha": "2026-11-17T16:06:01+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
   },
   {
    "id": "b891f62877c7e3",
@@ -1403,6 +1624,16 @@
    "fecha": "2026-11-17T15:26:18+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "20d7d376ffe489",
+   "fuente_id": "the-manufacturer",
+   "titular": "Government launch Milburn Review to create more opportunities for young people",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFZ3akJYaGpsVnJRcmozSVVLakYzMDNWSnRydV9XeUMtZmFDN1ZYOVFNaU5INzdMd0I2Rl9JTmFLWjNVR1Fnbno3UXFLNkV2bGo1eVpKVHFWMU1Ya3dxaTk1MHhSazhxYUc3SXVBR3ZuNmMwbGhWZ3Bobl9vN045YWNFeDNTZmsyVHdKOHJQWUFCaHdqcnRLbG1lT1YwdnpLSTJtMUFKdzZ2bHV5N0t6NjZ5djBqNEMxb0kySA?oc=5",
+   "fecha": "2026-11-17T15:24:13+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
    "id": "f73744b7322b69",
@@ -2454,16 +2685,6 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
-   "id": "e7079717c3d6b6",
-   "fuente_id": "oms",
-   "titular": "Semana Mundial de Concienciación sobre la RAM 2026: Una sola salud, una sola acción: prevenir la RAM ya",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFZsVEQ5TUMtb2pWbUN1bEtoNVZFSVlaa1FJMkQ0cmZWT1hZWXdhS3UzV2dQcUpuczlxZ1JOcjFBd2dSM2E4eGhhOGZaazZ4VTRQMTdPNUZuc2tJNTBCeFZjb2tKalBNaFZCc1JDaTRtc29LbWNrRVNyM1J1SnVSRXptT2JNbnR6T3oxenpMZW5HUG82ZU92ZG94VDRtODVCb1lSakVGNA?oc=5",
-   "fecha": "2026-11-17T14:14:08+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
    "id": "c4ba29493b760e",
    "fuente_id": "wsj",
    "titular": "Deutsche Bank Shares Drop After Leaks Put Spotlight on Troubled Past",
@@ -2671,6 +2892,16 @@
    "enlace": "https://commonslibrary.parliament.uk/research-briefings/inequalities-in-access-to-therapy-for-disabled-children/",
    "fecha": "2026-11-17T14:05:09+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "e7079717c3d6b6",
+   "fuente_id": "oms",
+   "titular": "Semana Mundial de Concienciación sobre la RAM 2026: Una sola salud, una sola acción: prevenir la RAM ya",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFZsVEQ5TUMtb2pWbUN1bEtoNVZFSVlaa1FJMkQ0cmZWT1hZWXdhS3UzV2dQcUpuczlxZ1JOcjFBd2dSM2E4eGhhOGZaazZ4VTRQMTdPNUZuc2tJNTBCeFZjb2tKalBNaFZCc1JDaTRtc29LbWNrRVNyM1J1SnVSRXptT2JNbnR6T3oxenpMZW5HUG82ZU92ZG94VDRtODVCb1lSakVGNA?oc=5",
+   "fecha": "2026-11-17T14:03:37+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
@@ -2926,6 +3157,16 @@
    "via": "google_news",
    "primera_vista": "2026-11-17T16:55:47+00:00",
    "enlace_google_news": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX2NwelhGVW4ta2ZWVThLdF84TnFiaGdPclp1bDZJOVZfQzNwclJKZnZQdGFHMVV5Z2RBd3p1enJXSkRuTF9CamJpcnRpYkpZLXFaanlpQXZjNFhoeUNzUHpQUWhPLUhPMTVTM0ZmWlFTbVZYRW9IZHFVT1NCRi1qTG9yMGRQdXVEN0dxWDRNRnJBdUlmUFRpX0JqWDZkbjkxVFR0RFVzbjkwTjRwbERkSEN1Qlp1WHZPVFZLNmhBV0FNNUItNjZyYnJJR210enRodFNDN1VoWkhaVktZb2RMZHYtSjF2aDhYSHRmelhqelNycXB1U3NDUkNnbk5ianRBSExrM0dtS0NLb3l1d1R5VFJKSFhJQXZ6bFp5WUhLTXRiTlIzRjVJRWR0YjdNRDY5LU42MTduUW5OQ1V1RFR0MFU3MmNHN1QtNEJxcF92UGIwbnJP?oc=5"
+  },
+  {
+   "id": "ead9ad36831291",
+   "fuente_id": "business-wire",
+   "titular": "Total Economic Impact Study Finds CreatorIQ Drove 373% ROI Over Three Years for Enterprise Customers",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSVFiVmczUWUyS3htWlRKT3F2dkdaX3AxX3dBZGxfT0pXRmVIU0dzcExIc01TUGxreGpXT2JPRmJ1ZDFyTWZhaFFtcTNad0RzYnZ4RXZFUC04aGNiOF80YmtQUTdtWXloNHgzVlJYamZmNjEzUUprMF81ZHl3b292bC1ZTllkSmdrVTdBVEtvaU9oQmdkWEthRjZaMDlqQWNLT3VYVjJ5UEQwRGxRREM1dGFqNWFvY244bnJOSHlsbFM3U21lX1RfdEJQZndScm5XaGlrVzZZZjM1c1JWcXgzNTFrS0NzN1dmUnU3Qw?oc=5",
+   "fecha": "2026-11-17T14:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
   },
   {
    "id": "68e132bfdc5a05",
@@ -4114,7 +4355,7 @@
    "titular": "iPhone Users Targeted in Major Website Security Breach",
    "bajada": "Hackers used some of the world's most popular websites to distribute malware designed to steal cryptocurrency and exploit vulnerabilities in iPhones and iPads this week, according to a new security investigation. Reuters reports that websites associated with 178 organizations…",
    "enlace": "https://www.macrumors.com/2026/11/17/iphone-users-targeted-website-security-breach/",
-   "fecha": "2026-11-17T12:42:03+00:00",
+   "fecha": "2026-11-17T12:41:57+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
@@ -4744,6 +4985,16 @@
    "primera_vista": "2026-11-17T16:58:51+00:00"
   },
   {
+   "id": "b91c73d0adbc6e",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens Industrial Automation Software Products",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45SXlDWFdRVVV3QWNDOXFyWEFBU1pUX09wQkVjYXJKSV9qckRybzVmMUx4OHRodlVQWmVVTjFSc3RFbjBwTGdGa05XRUVPaVBXQ29ua3haalVKUkhiTjJ0UkpPM3E0cEJYU2RfS3EtYw?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
    "id": "f3ca6bdd0a88bb",
    "fuente_id": "bbc-mundo",
    "titular": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
@@ -5217,6 +5468,16 @@
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
+   "id": "db1b72d6636abf",
+   "fuente_id": "yahoo-finance",
+   "titular": "Home Depot taps Richard McPhail as new CEO, reports Q3 earnings beat",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmxMWFJpNURKTHJJU3hEck1DRE5tVHBmQ1o5LWZhTExFc1JJS3drTkk0QkVPOTgwX3puZHVfc1Y3LWlSemlaeU91QURkSE50RlBkZUhmOUNxQXNaWmFEaTdGUXI5ZFNEMk5HNkgyaFhoVmx6WUZJc29QRnlScGd6QzZId3Fack8yVl92MG9sSlJUc2dfdjQyTTFlVG10WjJQaUw5Z2VxYm5Mc1o4RU1KWXdUWE82TlBmcWVQamJlRHVmMUl5eWxCOE4zQQ?oc=5",
+   "fecha": "2026-11-17T11:08:47+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
    "id": "cb74b2746cc6b1",
    "fuente_id": "the-hacker-news",
    "titular": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
@@ -5394,16 +5655,6 @@
    "enlace": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
    "fecha": "2026-11-17T10:59:40+00:00",
    "via": "rss",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
-  },
-  {
-   "id": "20d7d376ffe489",
-   "fuente_id": "the-manufacturer",
-   "titular": "Government launch Milburn Review to create more opportunities for young people",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFZ3akJYaGpsVnJRcmozSVVLakYzMDNWSnRydV9XeUMtZmFDN1ZYOVFNaU5INzdMd0I2Rl9JTmFLWjNVR1Fnbno3UXFLNkV2bGo1eVpKVHFWMU1Ya3dxaTk1MHhSazhxYUc3SXVBR3ZuNmMwbGhWZ3Bobl9vN045YWNFeDNTZmsyVHdKOHJQWUFCaHdqcnRLbG1lT1YwdnpLSTJtMUFKdzZ2bHV5N0t6NjZ5djBqNEMxb0kySA?oc=5",
-   "fecha": "2026-11-17T10:57:40+00:00",
-   "via": "google_news",
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
@@ -8358,10 +8609,11 @@
    "fuente_id": "bbva",
    "titular": "¿Qué es el automóvil eléctrico?",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oMDAzTy1uUm5wNkNhV2N5TUdQRXU1WFBCRTZqdWpvRnpnamlHa0t0Qm5yVl9qMUdaSVhHSUY4UWhJSXJST2VpenN2Z2VzMEUwNmVILU1TUk9IQ0lCSGVGQ1dyWXd0Vjh4MkM1dEJXa0MzczRBclkxQg?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/que-es-el-automovil-electrico/",
    "fecha": "2026-11-17T01:19:08+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
+   "primera_vista": "2026-11-17T13:29:46+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oMDAzTy1uUm5wNkNhV2N5TUdQRXU1WFBCRTZqdWpvRnpnamlHa0t0Qm5yVl9qMUdaSVhHSUY4UWhJSXJST2VpenN2Z2VzMEUwNmVILU1TUk9IQ0lCSGVGQ1dyWXd0Vjh4MkM1dEJXa0MzczRBclkxQg?oc=5"
   },
   {
    "id": "bb1b46e4764a5a",
@@ -17017,6 +17269,16 @@
    "primera_vista": "2026-11-16T20:46:34+00:00"
   },
   {
+   "id": "b609e6419a273f",
+   "fuente_id": "marklines",
+   "titular": "BMW Woodruff plant, US, starts series production of Gen6 batteries for electric iX5 Neue Klasse",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQVN2aEl1eDFURXdpTnJUNHMyR1ZHdm44Z3dkQnlWVVJ5NUpKZHI4YWpDUWl2Ums1ek5tV3BudVljWDljRndDRGtSQk1TcmpYSEE?oc=5",
+   "fecha": "2026-11-16T06:34:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
    "id": "8c63e2d4e4a5e2",
    "fuente_id": "abc-economia",
    "titular": "Mejores hipotecas para funcionarios en noviembre de 2026: el tipo y lo que pide cada banco",
@@ -17447,10 +17709,11 @@
    "fuente_id": "bbva",
    "titular": "¿Qué infraestructuras se necesitan para afrontar la sequía?",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUG5xSHYzSXdKY015elJXNkxiNUFsM2U0NWR0UXpqWlBXREQyenNOVUdsenhDQk5ocEt5Qm4wWXhpSWtkU1JYcTUzTDVvUmRGSm5lWFhWTHctQktHNDB1c1RFbVctVV9DQ0dya1Q0VS1ITllJNlFVcDFVY3g1SXl4dVZ6NnNaTUlYcjZKa29jd0U2Ty1JUG9fV1hDN2pQUQ?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/que-infraestructuras-se-necesitan-para-afrontar-la-sequia/",
    "fecha": "2026-11-16T03:57:54+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
+   "primera_vista": "2026-11-17T13:29:46+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUG5xSHYzSXdKY015elJXNkxiNUFsM2U0NWR0UXpqWlBXREQyenNOVUdsenhDQk5ocEt5Qm4wWXhpSWtkU1JYcTUzTDVvUmRGSm5lWFhWTHctQktHNDB1c1RFbVctVV9DQ0dya1Q0VS1ITllJNlFVcDFVY3g1SXl4dVZ6NnNaTUlYcjZKa29jd0U2Ty1JUG9fV1hDN2pQUQ?oc=5"
   },
   {
    "id": "317f7f299d4a2c",
@@ -26378,6 +26641,16 @@
    "primera_vista": "2026-11-14T01:19:52+00:00"
   },
   {
+   "id": "c0e8b568105621",
+   "fuente_id": "la-republica",
+   "titular": "El nuevo Renault Kwid llega a Colombia con más tecnología y precios desde $49,9 millones",
+   "bajada": "El vehículo, que se fabrica en Envigado y se presenta en el Salón del Automóvil, llega con nuevos acabados, insonorización, conectividad y seguridad pensadas para la vida urbana.",
+   "enlace": "https://www.larepublica.co/empresas/que-cambio-en-el-nuevo-renault-kwid-mucho-mas-de-lo-que-parece-4524644",
+   "fecha": "2026-11-13T22:30:59+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T17:01:49+00:00"
+  },
+  {
    "id": "0b9b53f6ace2fa",
    "fuente_id": "wired",
    "titular": "Best Early Black Friday AirPods Deals (2026)",
@@ -31643,20 +31916,22 @@
    "fuente_id": "bbva",
    "titular": "Climate Implementation Bridge de la COP31: cómo traducir objetivos climáticos en proyectos financiables",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSEo4MzZKQW1ZZEdOd1F4b2RDUGpUM0NLUFRkUzMyRExObVVoUm9HRmhZb3NvRjh3Wk1FNEhNYllfYjdja3lyd2l6X0FJSEYwalE1ZzBYTUV1WUZ3UGR4aFFkaFBhV0dQWVFKYmhkRG9SUUlESDhjYndXSmZHVDN3NVBCYmZJU0RYY3ZkbmN5d1NOTkVCcklENWVpTUpnak1iQlVWcUdfSjBEU0pjRG9kMlBnT2lqZk9ad0FWbGRLQWVyTGkwNmpQQW8wSC1uLXBmbVFmVEhGUkZSZw?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/climate-implementation-bridge-de-la-cop31-como-traducir-objetivos-climaticos-en-proyectos-financiables/",
    "fecha": "2026-11-13T13:11:31+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00"
+   "primera_vista": "2026-11-13T18:21:28+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSEo4MzZKQW1ZZEdOd1F4b2RDUGpUM0NLUFRkUzMyRExObVVoUm9HRmhZb3NvRjh3Wk1FNEhNYllfYjdja3lyd2l6X0FJSEYwalE1ZzBYTUV1WUZ3UGR4aFFkaFBhV0dQWVFKYmhkRG9SUUlESDhjYndXSmZHVDN3NVBCYmZJU0RYY3ZkbmN5d1NOTkVCcklENWVpTUpnak1iQlVWcUdfSjBEU0pjRG9kMlBnT2lqZk9ad0FWbGRLQWVyTGkwNmpQQW8wSC1uLXBmbVFmVEhGUkZSZw?oc=5"
   },
   {
    "id": "9383d5c0b84c73",
    "fuente_id": "bbva",
    "titular": "BBVA respalda la iniciativa BRIDGE de la COP31 para acelerar la inversión climática en los mercados emergentes",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHlnWE92VVdvSEIxVGpORFRSYkZ4cUtENGtwY3BwbnROMjJHV2FLVC1vREpvcF96TmZNM2lVLXhQaUt2TGlIdV9NWWM3ZUF6X3FmZ3BvNHVNVkg2SkJPQVZ6YjNSX3RFSXd1MHR5aE1wb253cEZDN0dlXzF4VmFqWDlOLXdTMDVlOFhmbEZGbWZDT0h3TXVIUVhVQlBaOGpDUk4wX29EckZHSnFkV0lPMk0wOWg1TG9mMkdyVl9fZktUZlJZRG1JNmRMdW9JSE5mZHhDaDZPWVpMVFd1TVRTUThUNTc?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/bbva-respalda-la-iniciativa-bridge-de-la-cop31-para-acelerar-la-inversion-climatica-en-los-mercados-emergentes/",
    "fecha": "2026-11-13T13:08:54+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00"
+   "primera_vista": "2026-11-13T18:21:28+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHlnWE92VVdvSEIxVGpORFRSYkZ4cUtENGtwY3BwbnROMjJHV2FLVC1vREpvcF96TmZNM2lVLXhQaUt2TGlIdV9NWWM3ZUF6X3FmZ3BvNHVNVkg2SkJPQVZ6YjNSX3RFSXd1MHR5aE1wb253cEZDN0dlXzF4VmFqWDlOLXdTMDVlOFhmbEZGbWZDT0h3TXVIUVhVQlBaOGpDUk4wX29EckZHSnFkV0lPMk0wOWg1TG9mMkdyVl9fZktUZlJZRG1JNmRMdW9JSE5mZHhDaDZPWVpMVFd1TVRTUThUNTc?oc=5"
   },
   {
    "id": "8132d9fef8ce69",
@@ -32764,10 +33039,11 @@
    "fuente_id": "bbva",
    "titular": "BBVA y AMIA celebraron el cierre de la cuarta edición del programa \"Emprender +55\" con un encuentro presencial",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcDdBM2M2ZXBVVFZqUUZNQ2JSZFpEd2Z6Nno2RER4Z1padkZhN29zQW5aWXVtY3hOWS1fT1huTUFBT2pBaF9PM2lwUEpfci0yQ3k1QldraFZDZUJDUU5rRzkyZ2ZmWTQzdFVRdGJxcHBtdTcxLTJsS1RVSHAxSVdLNGxEWGpsdzBMYk1pZzE1YWs4OHktTEMwZmJTcWpSaXpOWld5Wi05UmlURHlnUzZVVlM1d0lyZWJKaVVmZG8ycDMtVzUwdE5BdXoyYjNOUTI3U1J3eTh0YUE3YjZsOU1RRUlYeFk?oc=5",
+   "enlace": "https://www.bbva.com/es/ar/sostenibilidad/bbva-y-amia-celebraron-el-cierre-de-la-cuarta-edicion-del-programa-emprender-55-con-un-encuentro-presencial/",
    "fecha": "2026-11-13T11:01:03+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00"
+   "primera_vista": "2026-11-13T18:21:28+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcDdBM2M2ZXBVVFZqUUZNQ2JSZFpEd2Z6Nno2RER4Z1padkZhN29zQW5aWXVtY3hOWS1fT1huTUFBT2pBaF9PM2lwUEpfci0yQ3k1QldraFZDZUJDUU5rRzkyZ2ZmWTQzdFVRdGJxcHBtdTcxLTJsS1RVSHAxSVdLNGxEWGpsdzBMYk1pZzE1YWs4OHktTEMwZmJTcWpSaXpOWld5Wi05UmlURHlnUzZVVlM1d0lyZWJKaVVmZG8ycDMtVzUwdE5BdXoyYjNOUTI3U1J3eTh0YUE3YjZsOU1RRUlYeFk?oc=5"
   },
   {
    "id": "1f9401fd47f173",
@@ -37874,10 +38150,11 @@
    "fuente_id": "bbva",
    "titular": "BBVA canaliza cerca de 100.000 millones de euros en negocio sostenible en economías emergentes desde 2025",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDRwenNPTWRQNC1TejZYUy03bDJKeG1sTU01cGlNZXFlUnM0bGhpRzd4cmRMRmpnTkdvSU10OGdLbTEtRDhTMDF4OUdZTE9ndW5wcVBSQnBFRGVqX3A0X0pEYkw0WWpSME5GWDNuaEFic1NmV01DdHJrRWNFcTR1X0tQQU5nSGpHRVZLM2FuR0g1Wkg0UVR2TVh3TVlmc29fN0VLT1k5T2hmcm5YVXVlVXExM05jUFpfNlh3MWRsa3ZmSDAzTWI4UkR1d0YyaHZLOGc3WjY1OURjTEMydEE?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/bbva-canaliza-cerca-de-100-000-millones-de-euros-en-negocio-sostenible-en-economias-emergentes-desde-2025/",
    "fecha": "2026-11-12T17:39:09+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
+   "primera_vista": "2026-11-12T18:40:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDRwenNPTWRQNC1TejZYUy03bDJKeG1sTU01cGlNZXFlUnM0bGhpRzd4cmRMRmpnTkdvSU10OGdLbTEtRDhTMDF4OUdZTE9ndW5wcVBSQnBFRGVqX3A0X0pEYkw0WWpSME5GWDNuaEFic1NmV01DdHJrRWNFcTR1X0tQQU5nSGpHRVZLM2FuR0g1Wkg0UVR2TVh3TVlmc29fN0VLT1k5T2hmcm5YVXVlVXExM05jUFpfNlh3MWRsa3ZmSDAzTWI4UkR1d0YyaHZLOGc3WjY1OURjTEMydEE?oc=5"
   },
   {
    "id": "b37784f6a5b30c",
@@ -39444,10 +39721,11 @@
    "fuente_id": "bbva",
    "titular": "Pódcast | “Mi plan B era hacer música” | Paulo Londra, artista y cantante",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1FyZTE0WUpPVkx2aXRxbjg5QjZoUFNUc2pCakxDOHZURjdMTVpHMW5raGRZdmhvMFJ1alUwMTJBV0wxaDVqZXVjWWl2dTRPYTZVR2hVUDBKU2VJYVlmc2d6WW5YLXkzZzF2VEJSOUFGQUd6TEExN2d4QWRhdV95NkpISVM0UTRmSVpaNFI4dTROZWRCVzdWT05BQTZCbmYwMnAxdDJjTk1sQQ?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/podcast-mi-plan-b-era-hacer-musica-paulo-londra-artista-y-cantante/",
    "fecha": "2026-11-12T16:02:05+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
+   "primera_vista": "2026-11-12T18:40:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1FyZTE0WUpPVkx2aXRxbjg5QjZoUFNUc2pCakxDOHZURjdMTVpHMW5raGRZdmhvMFJ1alUwMTJBV0wxaDVqZXVjWWl2dTRPYTZVR2hVUDBKU2VJYVlmc2d6WW5YLXkzZzF2VEJSOUFGQUd6TEExN2d4QWRhdV95NkpISVM0UTRmSVpaNFI4dTROZWRCVzdWT05BQTZCbmYwMnAxdDJjTk1sQQ?oc=5"
   },
   {
    "id": "2fe60460ad4256",
@@ -44216,10 +44494,11 @@
    "fuente_id": "bbva",
    "titular": "Agenda de negociación de la COP31 y Agenda de Acción: diferencias y claves",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1FkXzRueldwaWI3V0gyUkJ1bzBHLXJ2Yl9aUWkxNlVibVNCbVVWR3BuUlhhSVpsb2t6WFZGX1YycGVSTm93QUZKM3MySG9uNFU4Z2xoNnpQOGxIb3F5d0hDZFFrR0JLMTFzcEJqWDNoRThNOVNoaTNLamtxb3hpTnlqajlWM0djUmxJTGxST0l0amdwY1U0c2tnUjc2VDNkb0lLZU5ZaU4wYzhaNTFDLXBpWQ?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/agenda-de-negociacion-de-la-cop31-y-agenda-de-accion-diferencias-y-claves/",
    "fecha": "2026-11-12T08:00:00+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00"
+   "primera_vista": "2026-11-13T18:21:28+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1FkXzRueldwaWI3V0gyUkJ1bzBHLXJ2Yl9aUWkxNlVibVNCbVVWR3BuUlhhSVpsb2t6WFZGX1YycGVSTm93QUZKM3MySG9uNFU4Z2xoNnpQOGxIb3F5d0hDZFFrR0JLMTFzcEJqWDNoRThNOVNoaTNLamtxb3hpTnlqajlWM0djUmxJTGxST0l0amdwY1U0c2tnUjc2VDNkb0lLZU5ZaU4wYzhaNTFDLXBpWQ?oc=5"
   },
   {
    "id": "84b570225c9042",
@@ -44557,10 +44836,11 @@
    "fuente_id": "bbva",
    "titular": "Pódcast | ¿Cómo deben adaptarse las ciudades al cambio climático para seguir siendo habitables?",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW9FYUpzcF9wYUV1eVVqN2JSVkE4cjY0dGlVUk9yUWNTTDJjOUIyU0IwRVZZc1VUeXhPRFFrek1Kd1hQRnhKM21CMjF2WVFraDVlaVJCaVB4dGxQRFVJbmJ4OWxUcmt0TlBzZUV2Nms2RXJlZ2RSekMxRFJjVk45czdCMU5BR3VCQndEV25VYk5qTk9wUGFmYS1HNk4zakNDaV9OUzBnYWt5c2FlaTJyR0Y3OHlQRmhNTzdad3ctSGlDU0dsTllJc0M4MA?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/podcast-como-deben-adaptarse-las-ciudades-al-cambio-climatico-para-seguir-siendo-habitables/",
    "fecha": "2026-11-12T06:52:09+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
+   "primera_vista": "2026-11-12T18:40:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW9FYUpzcF9wYUV1eVVqN2JSVkE4cjY0dGlVUk9yUWNTTDJjOUIyU0IwRVZZc1VUeXhPRFFrek1Kd1hQRnhKM21CMjF2WVFraDVlaVJCaVB4dGxQRFVJbmJ4OWxUcmt0TlBzZUV2Nms2RXJlZ2RSekMxRFJjVk45czdCMU5BR3VCQndEV25VYk5qTk9wUGFmYS1HNk4zakNDaV9OUzBnYWt5c2FlaTJyR0Y3OHlQRmhNTzdad3ctSGlDU0dsTllJc0M4MA?oc=5"
   },
   {
    "id": "4f68efdbe2cb62",
@@ -53627,10 +53907,11 @@
    "fuente_id": "bbva",
    "titular": "¿Cómo se organiza la COP31 en Turquía? Participantes, espacios y logística de la cumbre del clima",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejVOT3A0blFZdjBpRml2MTBYTVFKeWVmZmVrQTI5X1BQcjRPeDBBRDY5S2ctMVR3by1ObVpwVkJiNXA3ejVINndjOWZ4eS1OYlVyNzRXQXlvNV9ZdV9nMWdCRDdaZjB3X0hMYmlBeW5ieWxNR3lLeEtGUldFdlJRdll6eVlkYU1WTGlRRF9FS0FFTmNjS2czdTZsd2ZSd2NvVTQxX1RaMGhvTTZpZlF1RGtQQXFQQWZYbTFTb2U4MW9PaUpSWC1zNjBYQlprM0k?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/como-se-organiza-la-cop31-en-turquia-participantes-espacios-y-logistica-de-la-cumbre-del-clima/",
    "fecha": "2026-11-11T09:14:05+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
+   "primera_vista": "2026-11-11T13:22:39+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejVOT3A0blFZdjBpRml2MTBYTVFKeWVmZmVrQTI5X1BQcjRPeDBBRDY5S2ctMVR3by1ObVpwVkJiNXA3ejVINndjOWZ4eS1OYlVyNzRXQXlvNV9ZdV9nMWdCRDdaZjB3X0hMYmlBeW5ieWxNR3lLeEtGUldFdlJRdll6eVlkYU1WTGlRRF9FS0FFTmNjS2czdTZsd2ZSd2NvVTQxX1RaMGhvTTZpZlF1RGtQQXFQQWZYbTFTb2U4MW9PaUpSWC1zNjBYQlprM0k?oc=5"
   },
   {
    "id": "10d60a2c5b6fe2",
@@ -54027,10 +54308,11 @@
    "fuente_id": "bbva",
    "titular": "Las ciudades que se cuentan por minutos: así es el cronourbanismo",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWF92Qm0wX2w1N0s4cFBFdnRoT3QwN2FXVTB6YU0tcjdSSVF2aXVLS2ZqZlFEUE12a0MzV2NaUE5yWGxQcmN5WlFJcXJrd0hKN1pnNVQxZ1phRkRZQXpQdXN0RjUwU3A0bGNVNzN1dXNkSFEtM1JCTk1RdGtnUXMyQ0taSEhlRXJIdkZmZlAxNW90T1RyOXllM0RBRWp1dnRSaVFPblowcw?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/las-ciudades-que-se-cuentan-por-minutos-asi-es-el-cronourbanismo/",
    "fecha": "2026-11-11T08:00:00+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
+   "primera_vista": "2026-11-12T18:40:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWF92Qm0wX2w1N0s4cFBFdnRoT3QwN2FXVTB6YU0tcjdSSVF2aXVLS2ZqZlFEUE12a0MzV2NaUE5yWGxQcmN5WlFJcXJrd0hKN1pnNVQxZ1phRkRZQXpQdXN0RjUwU3A0bGNVNzN1dXNkSFEtM1JCTk1RdGtnUXMyQ0taSEhlRXJIdkZmZlAxNW90T1RyOXllM0RBRWp1dnRSaVFPblowcw?oc=5"
   },
   {
    "id": "bcf3f542c4adc9",
@@ -54057,10 +54339,11 @@
    "fuente_id": "bbva",
    "titular": "Ventanas bien aisladas, ahorro energético seguro",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFE2SkNOUjBXVGlzMDFReXRTQUY5NDNmUlg1dEs0RmRoNnhwUnM0VmhzanhBUWh4LVNjanpLTjBueXhvVXQtWEdUb1ZNZzVlZndHNWQ0S2l5ejF3TEZ2ZFlDbU1OWk1kSXFZLUJBTzlhMW5jZzBsU2t3UmU5dGZxb3VjSGhGd2lYLUlYcDJjOUc?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/ventanas-bien-aisladas-ahorro-energetico-seguro/",
    "fecha": "2026-11-11T08:00:00+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00"
+   "primera_vista": "2026-11-13T18:21:28+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFE2SkNOUjBXVGlzMDFReXRTQUY5NDNmUlg1dEs0RmRoNnhwUnM0VmhzanhBUWh4LVNjanpLTjBueXhvVXQtWEdUb1ZNZzVlZndHNWQ0S2l5ejF3TEZ2ZFlDbU1OWk1kSXFZLUJBTzlhMW5jZzBsU2t3UmU5dGZxb3VjSGhGd2lYLUlYcDJjOUc?oc=5"
   },
   {
    "id": "275b8d765b30d8",
@@ -58874,10 +59157,11 @@
    "fuente_id": "bbva",
    "titular": "Aprendemos Juntos cierra su gira global en México y celebra dos años de acercar el conocimiento a millones de personas en el país",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTVQ1X0pVWkpBcW1oRXBKOWFlMkJpay0wYVlpWTd3RGpEU1ZMMThWTThCQk5Qejk1c0lndWNrbl9pRG1Xc3F1RFR6UXg0RnpxQWVUaUFmU2t4ZlBHT2F3d1pPUm9Ea2VBM3hxSXhydmZKZTZqNk8wSVdJbXB0QnhnbldkZnJ6ZXU4YzRtR0Juc3RzRGphMXNjX0o0aGc5Y2xiR1NTVDhUMUdzV1ZscG9SdnB6eS1yaTJORUk2cEdLcEh2WXZJZUVWUXM5ZTRtUUo3UlVENm5XcklYRmVuc2hWc3J1MXByMnFKMTBQSTNrUkhvS3hqWHMxbWFjNXU1dw?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/aprendemos-juntos-cierra-su-gira-global-en-mexico-y-celebra-dos-anos-de-acercar-el-conocimiento-a-millones-de-personas-en-el-pais/",
    "fecha": "2026-11-10T19:09:45+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
+   "primera_vista": "2026-11-11T13:22:39+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTVQ1X0pVWkpBcW1oRXBKOWFlMkJpay0wYVlpWTd3RGpEU1ZMMThWTThCQk5Qejk1c0lndWNrbl9pRG1Xc3F1RFR6UXg0RnpxQWVUaUFmU2t4ZlBHT2F3d1pPUm9Ea2VBM3hxSXhydmZKZTZqNk8wSVdJbXB0QnhnbldkZnJ6ZXU4YzRtR0Juc3RzRGphMXNjX0o0aGc5Y2xiR1NTVDhUMUdzV1ZscG9SdnB6eS1yaTJORUk2cEdLcEh2WXZJZUVWUXM5ZTRtUUo3UlVENm5XcklYRmVuc2hWc3J1MXByMnFKMTBQSTNrUkhvS3hqWHMxbWFjNXU1dw?oc=5"
   },
   {
    "id": "97d8ee8fc7d8af",
@@ -60584,100 +60868,11 @@
    "fuente_id": "bbva",
    "titular": "Pódcast | El amor no se siente. Se construye | Mariano Sigman, neurocientífico",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXNFSGw3cURtN2V6Yy1PNnhXTVNqZ21COHliZ2VmTFVxenhmeExRZ21fbE1WSlNnMHJMYmNXckRQVVhSdDJTY2NZbW8tQWxWeU4tVUl2bVJ3cVZneUZib2M5RW9LQk1EXzJCaVZ3VkpSQlRqNW9CQkVBVzJ1SnR6OE1pX0ZSRnpxM0NJa21ZSUlGeUYxVnEtM3RQR2dOcWVZWEZCa2l6QWQwS3kzZWc2c193?oc=5",
+   "enlace": "https://www.bbva.com/es/sostenibilidad/podcast-el-amor-no-se-siente-se-construye-mariano-sigman-neurocientifico/",
    "fecha": "2026-11-10T17:01:56+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "5e9f409a530d46",
-   "fuente_id": "unite-ai",
-   "titular": "Linux Foundation Launches Agent Name Service for AI Agent Identity",
-   "bajada": "The Linux Foundation announced on November 10, 2026, that Agent Name Service (ANS) has formally launched as a foundation project, bringing domain-anchored identity, discovery and authentication to AI agents through an open specification and open-source tools. ANS is designed to…",
-   "enlace": "https://www.unite.ai/linux-foundation-launches-agent-name-service-for-ai-agent-identity/",
-   "fecha": "2026-11-10T17:01:02+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "55f68c5aabb4d3",
-   "fuente_id": "business-wire",
-   "titular": "OOG Announces Clinical Education Council of Healthcare Professionals to Shape the Future of AI-Powered Continuing Education",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNV21QOTVfOGRWSUY1LXFJamZRM1JoX05SWmQ4X3BVZ1EwbVQ1bTFqRWtvaVUxM3JOYVoxdTBKd0x5T0ZJX3RyZmJvMG9qZk9VU18zNFA5RjhwdFVrUEswN3ZRbGhMMEQwUTgzajNack92blFZVXY1REZkc1M2dWxhVUZzSGtDanY2U2pMakxkNV9PQnhyMlIxT2NZSmNYTkhQcWw0MVlwSm9Ba01YMjlZVzlKb0p4WllHY013bk1sTlRjTXVJX3FyaDY2ejE0TDJ4eGJHbkRBSV9kUVcxaHM4ZVk3QlVnZ2JCZFVDaWNqdE1LMmE0M2NqblF5UVhtcHczeUVxeURNTDluTlVp?oc=5",
-   "fecha": "2026-11-10T17:00:34+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "49ca650d86796c",
-   "fuente_id": "business-wire",
-   "titular": "Proximal Ventures Announces $27.5 Million Debut Fund to Invest in AI-Native Companies Reshaping Life Sciences",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVHR4dm5TbVQwcTk5dUxRYmpIYXlFTjRVU3VJUVQySjhjRVZVUVpWYjRVcTRsNmNrZmdwT191b3ZFZUlfX0wtZ0JKaGpacTdUVERQdmhxa3plLUh0TTF0MmRVeGRRY05FVllYQU5yU1NfMW1NVi1kMWFxRHJWdnpQeG5RaGNtSDZ3SXNLZzE4RlBkSGdMbGdzZmRjamhtQzQxaUtJZUE5ekdyUVFTd2o2dGFCU1l5TTBITXRaZF9rV3ZPdDBsNjVEYUp1RjNkLTR6anhYTU5ycElFWno1OWdwYXV2V0JaUFNORnRPX1M0SXgxRGwzYkJYZFVjOGM?oc=5",
-   "fecha": "2026-11-10T17:00:34+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "afb491d043738f",
-   "fuente_id": "the-register",
-   "titular": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
-   "bajada": "Cores, clocks, memory, and interconnects all perfectly balanced for a singular mission: keeping instinct fed.",
-   "enlace": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523",
-   "fecha": "2026-11-10T17:00:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "071eafe3c73fb2",
-   "fuente_id": "forbes",
-   "titular": "Vevo Backed Billie Eilish And Chappell Roan Early On — Here Are Its 2027 Picks",
-   "bajada": "",
-   "enlace": "https://www.forbes.com/sites/hughmcintyre/2026/11/10/vevo-backed-billie-eilish-and-chappell-roan-early-on---here-are-its-2027-picks/",
-   "fecha": "2026-11-10T17:00:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "8c081b56f07e5e",
-   "fuente_id": "business-wire",
-   "titular": "Hawke Media Acquires 35-Year Retail Tech Communications Agency Ketner Group, Rebranded as Aster Agency",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeC1WSE82RGZLRmpoTnBmaFNIaFVSdkpqODdlc1p5RXVKemFPc2FOX0IzOENDTlFiejRlenF0b0syZ3ZlTGU3T29WUXBUb3hGYmpFSklISjJ6OGFpcWh6U0x0VkZKTXZuX2NGMXZ0RFlpa053ekRkblBhMmwtVnRBLXZ6QUd6M2YtclhINzg2RDg2RXQtVm5VSnlNVXF4Qk5tUVdDQ0xxZjRKbk5sMzRfTWNYYWRfRXY4RjF1czJ3ZVowM0tBODJ2QWJ0b3FNTEgxYTVSbldCYXN0VW1tckJ1VXNVU0hGbTZyQVVEY3NlVQ?oc=5",
-   "fecha": "2026-11-10T17:00:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "0b167cb20d431f",
-   "fuente_id": "business-wire",
-   "titular": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQc2MzcVJ5Z0NpYWJ0UHEyQ2ZacTJCdzFVOUFEYmFZNXZ4SzVmR0FrN1VmOEY3aW56NmthQTlhdHFveFBGYkk0bFczZFBrTFZGTGZmeHozQkVBbzhDUldCV3lrRHJiQnM4dzZGTDZEUC1zXzh4WW5qSUFTanVLT0JSQjNvalg0SjBwRXFMQ09MRTF5WWZYS1JRUzFkSjZEOVBFcWpfcGlxQk1SZnRFUlYwNU1tRllXakZ3QWZNZFA2SUp0WjJWak5nMktXNTB5SnM4NEVKQ1k0OXRiRmk5Sktjb2d3OGE1ZHk0bl9ydVZXTjNBeVNuWWJabnQxOW0xaGc0emFxZQ?oc=5",
-   "fecha": "2026-11-10T17:00:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "4356918bcbd967",
-   "fuente_id": "business-wire",
-   "titular": "Graphon Labs Raises $35M Series A to Accelerate AGI with Persistent Intelligence",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYi1MMlgwV1pfXzNHM1NyTDcwMV9DZ1FGQ2tFNGsyUHZiOGRFTThpdjVQUkJIbUZwRTNKUGpVVUd2WGYtMDA1Um9Yd2VubjM1WU81LTlDd2V5TXBFaUVBSzVpdElmM1hPbTNEZ2k3TVFVeVRxandpNVN3eXJUbkhkUFdfNDFQc25SVjAyaWktbU4zb1RkWThHTWRSMTNHYlBta0t0YWlKamhrTExJS0E4RGtpaTczZUdkZk5KUS1zeWZ4SGl0U3VtSVJ0NG5uZHFTSjB6Ynp3?oc=5",
-   "fecha": "2026-11-10T17:00:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-14T01:19:52+00:00"
-  },
-  {
-   "id": "f4236a4ffd933c",
-   "fuente_id": "el-universal",
-   "titular": "JEP anuncia el fin de las imputaciones y prepara nuevos procesos",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHdxaHRrRHFxQkQxVzlMYVdwWEFPRzJKUlBkZ0F1Qi1leEFxMWNBM3Z6TGEwNmFHZUIxS3lIRmk3Qlc3cWh4RW9kU3dEREpVWTN2UWlNNEtpelZvTmJBN18yNWJJTjdueUE2ZlFzdFhMbFYyUHdOUlJjRGdsNXJ4ZHBrMDZZRmNGMkhlUUM2OGVDdnV0aXlfLXpQSUlMLUNZem5nT2pQdFBQMUtEbWZ3OGZXR0pRc28?oc=5",
-   "fecha": "2026-11-10T16:59:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T14:03:43+00:00"
+   "primera_vista": "2026-11-10T18:25:48+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXNFSGw3cURtN2V6Yy1PNnhXTVNqZ21COHliZ2VmTFVxenhmeExRZ21fbE1WSlNnMHJMYmNXckRQVVhSdDJTY2NZbW8tQWxWeU4tVUl2bVJ3cVZneUZib2M5RW9LQk1EXzJCaVZ3VkpSQlRqNW9CQkVBVzJ1SnR6OE1pX0ZSRnpxM0NJa21ZSUlGeUYxVnEtM3RQR2dOcWVZWEZCa2l6QWQwS3kzZWc2c193?oc=5"
   },
   {
    "id": "502c74966eb950",
