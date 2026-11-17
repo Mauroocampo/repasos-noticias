@@ -2105,6 +2105,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "901ed9493eff68",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nebius Group N.V. (NBIS) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rZTAzT1BNZ1VWcml3d25BamNwS195NDk5Q3otQlQ5UkJDVzdxX25ZX3BnZmZyMGlVTXZCZVozeFl5dmRub2pQeGpCWnd6QQ?oc=5",
+  "fecha": "2026-11-16T21:16:36+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-13T18:21:28+00:00"
+ },
+ {
   "id": "5ddc7f95a20e55",
   "fuente_id": "el-heraldo",
   "titular": "Barranquillero fue asesinado con cuchillo durante una riña en un bar de Santa Marta",
@@ -5363,6 +5373,16 @@
   "fecha": "2026-11-16T16:12:51+00:00",
   "via": "rss",
   "primera_vista": "2026-11-16T20:46:34+00:00"
+ },
+ {
+  "id": "729e0767ef1923",
+  "fuente_id": "yahoo-finance",
+  "titular": "CBOE Volatility Index (^VIX) Charts, Data & News",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YnRwZktIR0FEN2hQRmh2YTY2N3Z4am9PaXJHUU5XQkFpM0FQVzNnX0lOWFRrSFE3RWlrSEJnRHBZSmptU25oS3pxcnlFZmtt?oc=5",
+  "fecha": "2026-11-16T16:12:51+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-13T18:21:28+00:00"
  },
  {
   "id": "ae281cde3bb638",

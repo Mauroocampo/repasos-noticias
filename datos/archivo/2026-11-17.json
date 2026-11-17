@@ -1,5 +1,45 @@
 [
  {
+  "id": "2e82db2b32bf81",
+  "fuente_id": "cybersecurity-news",
+  "titular": "How a Five-Analyst MSSP Increased SOC Capacity by 25% with Threat Intelligence",
+  "bajada": "Every managed security service provider eventually hits the same wall. New clients bring more endpoints, more log sources and more alerts, while SLAs get tighter and qualified analysts stay expensive and hard to hire. The obvious fix is headcount. A US-based MSSP with one SOC…",
+  "enlace": "https://cybersecuritynews.com/mssp-threat-intelligence-soc-capacity/",
+  "fecha": "2026-11-17T17:07:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
+  "id": "d9d63b78294ca7",
+  "fuente_id": "la-republica",
+  "titular": "Comestibles La Rosa anunció el cierre de sus operaciones en la fábrica de Dosquedabras",
+  "bajada": "Luego del sismo del 10 de agosto, la fábrica de Comestibles La Rosa, empresa de Nestlé, presentó averías en 70% de su infraestructura y deberá ser demolida",
+  "enlace": "https://www.larepublica.co/empresas/comestibles-la-rosa-suspendio-sus-operaciones-en-la-fabrica-de-dosquedabrasca-en-dosquebradas-4526394",
+  "fecha": "2026-11-17T17:02:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
+  "id": "fa53eca7d9248d",
+  "fuente_id": "la-republica",
+  "titular": "Grupo Argos conservará 51,5% de Cementos Argos y prevé cerrar venta en marzo de 2027",
+  "bajada": "Con esta operación, el holding busca aumentar el flotante de la cementera y facilitar su eventual ingreso al Msci Standard Index",
+  "enlace": "https://www.larepublica.co/empresas/grupo-argos-conservara-51-5-de-cementos-argos-y-preve-cerrar-venta-en-marzo-de-2027-4526393",
+  "fecha": "2026-11-17T17:02:17+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
+  "id": "38d8a6aa605fe5",
+  "fuente_id": "wsj",
+  "titular": "Anthropic Plans to Raise IPO Price After Strong Demand",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main",
+  "fecha": "2026-11-17T17:02:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
   "id": "8139d267f22592",
   "fuente_id": "it-brief",
   "titular": "LoopUp brings mobile calls into Teams in 14 countries",
@@ -160,6 +200,16 @@
   "primera_vista": "2026-11-17T17:01:49+00:00"
  },
  {
+  "id": "b6ae1104d87898",
+  "fuente_id": "wired",
+  "titular": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+  "bajada": "",
+  "enlace": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+  "fecha": "2026-11-17T17:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
   "id": "45480c06ad8766",
   "fuente_id": "macrumors",
   "titular": "Apple Moves Ahead With Better Dual SIM Support for Apps",
@@ -168,6 +218,16 @@
   "fecha": "2026-11-17T16:59:28+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T17:01:49+00:00"
+ },
+ {
+  "id": "3bdc0736073efd",
+  "fuente_id": "unite-ai",
+  "titular": "Ambience Healthcare Adds Care Orchestration to Inpatient AI Suite",
+  "bajada": "Ambience Healthcare announced on November 17, 2026, two care-orchestration features for its inpatient AI suite, Rounding Assistant and Discharge Readiness, adding task prioritization and earlier identification of discharge barriers to its hospital workflow. The features add a…",
+  "enlace": "https://www.unite.ai/ambience-healthcare-adds-care-orchestration-to-inpatient-ai-suite/",
+  "fecha": "2026-11-17T16:59:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
  },
  {
   "id": "060fcb69444850",
@@ -339,6 +399,16 @@
   "fecha": "2026-11-17T16:46:40+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:58:51+00:00"
+ },
+ {
+  "id": "0d8c50cc9a300a",
+  "fuente_id": "forbes",
+  "titular": "How NYC's Haus Of K Brings K-Beauty, K-Culture And Retail Together",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/reginakim/2026/11/17/how-nycs-haus-of-k-brings-k-beauty-k-culture-and-retail-together/",
+  "fecha": "2026-11-17T16:46:27+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
  },
  {
   "id": "2e64f6e679d891",
@@ -702,6 +772,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "1d6aa0e463cbff",
+  "fuente_id": "forbes",
+  "titular": "Deutsche Bank Leak Exposes Epstein Payments—Democrats Could Hold It And Other Banks Accountable",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/alisondurkee/2026/11/17/deutsche-bank-leak-exposes-epstein-payments-democrats-could-hold-it-and-other-banks-accountable/",
+  "fecha": "2026-11-17T16:29:48+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
   "id": "67dc11613cf3d5",
   "fuente_id": "investing-com",
   "titular": "Wall Street falls, Nasdaq down over 1% as caution prevails ahead of Nvidia results",
@@ -760,6 +840,16 @@
   "fecha": "2026-11-17T16:25:19+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "88376a2cb63dbe",
+  "fuente_id": "business-wire",
+  "titular": "Trust3 AI Integrates Agent DOS with Microsoft Agent 365 to Deliver Real-Time Agent Security Across the Enterprise",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTWtZZmJFR2lvX2R6cm50eXdRYi1BM0FlZWtEelRqUnJ0dXk5dUpiSmYzNFFNV3lrM1F4TllCdzZsOVQ1VzdyMDZ2MjlGNmdtNkxSaTY3OGcwWE5WcmRLVmdkaVJwT1E4V19MSGhSNC1RWFFISFZDSjhMQll0OXJKOVRzY2x4cU5rMjdqYWgwZGp1YmVlck5RbUhjM21RSllJUncyYndNSHliQTVnSk9zZVdTc3UtSU42WUtnNC1McVJ4RFBuZ0hBYnEyQWt5TFM0SHZaNGE4ZmlqYjFmY2JBYnNGZzhKS052X2VnRUFLbDVDcmdiZnVkX2txQW1kSFU?oc=5",
+  "fecha": "2026-11-17T16:25:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
  },
  {
   "id": "e614a518abfda7",
@@ -1243,6 +1333,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "4aedfcf2a6e6c4",
+  "fuente_id": "unicef",
+  "titular": "Consultoría en Ingeniería civil para la Supervisión y Seguimiento Técnico de Obras de Infraestructura Sanitaria. San Jose y Liberia - 9 meses",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZmllQUNVdTNGSGZ1dGJra0NvVVByN3B5cGU3X25HdFlJcFhjTjBDdzF5VlhxbmVEUVp4SkQtUi1TT3ZLbVNfLXlBRG93WnpTc3BINlVnaTVnZGxiRzFQRU1OVE9qNnI0OFU1aUhQekpoczhMV2RCUDkwQXVxWUo5VklvdzNCZDh4MURwQTBtZll3SDlEVmh5OWNaQjNXTDdEMXhmbm0xSUlIck9lU1drMUNpZGtZX3cwZWdzWV9wM2hXSzBZUnFsNzItdy1DVmpCb2pUTjZPNEpLS2FlRTM5X0NWNmhPYzA0Y0JNcWdMczkteVI3OWJEOTlEQWNtQXdfWXpoY3NzdU52Zw?oc=5",
+  "fecha": "2026-11-17T15:53:24+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-12T18:40:14+00:00"
+ },
+ {
   "id": "fffdd76ee5fb91",
   "fuente_id": "el-heraldo",
   "titular": "Redada contra los delitos sexuales y la violencia intrafamiliar deja siete capturados en el Magdalena",
@@ -1662,6 +1762,16 @@
   "enlace": "https://www.wsj.com/business/retail/nike-expects-performance-athleticwear-to-drive-long-term-growth-fdf517a5?mod=pls_whats_news_us_business_f",
   "fecha": "2026-11-17T15:16:00+00:00",
   "via": "rss",
+  "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "1052fde7820207",
+  "fuente_id": "yahoo-finance",
+  "titular": "GraniteShares 2x Long NVDA Daily ETF (NVDL) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tcVktR0pMZDlHWFd3ZE50ZTFBTEZMaDRleC1tNk5LNXZ2MkU0T25mTWF4dm5QSE1zQUdrZG4zQ21rNEtNSEs1Qll5dXhyZw?oc=5",
+  "fecha": "2026-11-17T15:15:09+00:00",
+  "via": "google_news",
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
@@ -3125,6 +3235,16 @@
   "fecha": "2026-11-17T13:48:11+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "4c3de8df641f36",
+  "fuente_id": "forbes",
+  "titular": "Should You Buy Netflix Stock At $60?",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/greatspeculations/2026/11/17/should-you-buy-netflix-stock-at-60/",
+  "fecha": "2026-11-17T13:47:50+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
  },
  {
   "id": "e5f5779f67a1fd",
@@ -4992,6 +5112,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "c7256d3a30e63d",
+  "fuente_id": "business-wire",
+  "titular": "Macy’s, Inc. to Report Third Quarter 2026 Results on December 2, 2026",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXy1uTDh5Ul9JQ2E1NEk0TDdGNVU1X0tEWUdNN056R01ZZUdYLXRMMjNlQnNRWkJKMGxPRFJBNm42UkV0aWdkN21FOHV0WVc1U0l6Y0xCRkxqa2hFVzRBcUxMMjhIOTZIMkdNdFM5c2pOQi1qdTFMeDVFVHRDaUFFZXA0bFlsaGU3OXBpbDNVZ0ppR3B1UzNmVmNsMWhTVzVMRWdsOGVLaFpSSzM1SGFma3lFaERROW1CRjEyWFpPajE?oc=5",
+  "fecha": "2026-11-17T11:55:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
   "id": "ad68ed773344f4",
   "fuente_id": "portafolio",
   "titular": "Barrio El Restrepo de Bogotá, en aprietos por el comercio chino: pedidos caen hasta un 90%",
@@ -5583,6 +5713,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "5971944b8d9453",
+  "fuente_id": "business-wire",
+  "titular": "FreeCast Appoints Public-Company Financial Executive Amy M. Weiss, CPA, to Board of Directors as Audit Committee Chair",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQLW9aeWtLejFrQ1Z3eUJMWmdJN0RSYW43a0VqLVV2LTdRcWZjZjY2Nk9YQVZPSTRmNVZTYmJzbTl1bkVQQWFvVjNDN0pyeGdrUGRONExkUUxxWTNTRTNmU21WcWxiTzVKS0N6X3I4YkRGMHZ3TW9zTDg0MzdKWUNSRk5IMGxLMklfQWtqRmwtTWxjSHB0QkJVcnJIZkNNT0JuS0ZQbFRlczYwTU5DUTgxdURqSHZuck9YZzRIYUdZTzB3WmFreE14S21CT1hFaV9DT202c0VlaXlPNW5xSk00X001QkJFOWF5MEs2UkdWb2JTNmtqMUFDNExsUlZDbmI3UnVv?oc=5",
+  "fecha": "2026-11-17T11:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
+ },
+ {
   "id": "b5961281ad487b",
   "fuente_id": "cyberpress",
   "titular": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
@@ -5951,6 +6091,26 @@
   "fecha": "2026-11-17T10:08:32+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "057a5c1eab0996",
+  "fuente_id": "uicn",
+  "titular": "Pathways to Just and Deforestation-Free Landscapes: Combating Environmental Crimes and Navigating Competing Demands for Land and Biomass",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0JOdjNubzF6ejU2NGN6YVF6dnlwQVZhR1gxaFBMeHZtOWk0LVR5UUFtZzl6ZmRCc3hUZ0VjYWdtQmJqUjczSERwTWh4S2hHRHgwWGJTRzhjSThBdlB0T0NfME54cG5YNkVrX2w5SGZIVlh1MnRWWDJvT0lJWjVVM25ueTNReVlaWFh3SkJLc202dmdQQzZGS1h3c1cxTkMtVXZ6X0tkUVVWUzQtUjgwU3BFdw?oc=5",
+  "fecha": "2026-11-17T10:08:28+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "ec263dd65fc777",
+  "fuente_id": "yahoo-finance",
+  "titular": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeF9YRENiUmkwRHU0WmJMX092TFU2LThqM2hObXBxNXo1cndVdTZpNlFUMUJSUkl5N2pOdW1wMHRoTXhCaElZdGV4dU16TXVnakFXcTdqTF9aZVJNM3poME8wb09tVnVfNUNrdVpkbWF5VXowbUhuVmY1RVQtS1c3UG13cUJhdw?oc=5",
+  "fecha": "2026-11-17T10:07:34+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
  },
  {
   "id": "95737cd65d056e",
@@ -7537,6 +7697,16 @@
   "fecha": "2026-11-17T05:01:36+00:00",
   "via": "portada",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "f75537d6048264",
+  "fuente_id": "la-republica",
+  "titular": "Un loco 38",
+  "bajada": "Sobre esa base, y considerando las perspectivas de inflación y los escasos avances en productividad, un incremento del salario mínimo alrededor del 7% cons...",
+  "enlace": "https://www.larepublica.co/analisis/jonathan-malagon-2590707/el-loco-38-4525851",
+  "fecha": "2026-11-17T05:01:35+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-17T17:09:17+00:00"
  },
  {
   "id": "1440409df586c6",
