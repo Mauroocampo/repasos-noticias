@@ -1,15 +1,356 @@
 {
- "actualizado": "2026-11-17T18:15:51+00:00",
+ "actualizado": "2026-11-17T18:43:14+00:00",
  "notas": [
+  {
+   "id": "4654bb6458dc62",
+   "fuente_id": "wsj",
+   "titular": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-17T18:41:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "1830537bb75efc",
+   "fuente_id": "it-brief",
+   "titular": "SUSE adds AI controls to Rancher Prime & SLES 16.1",
+   "bajada": "New approval checks and AI-assisted troubleshooting aim to help enterprises run Kubernetes, virtual machines and AI workloads with tighter control.",
+   "enlace": "https://itbrief.com.au/story/suse-adds-ai-controls-to-rancher-prime-sles-16-1",
+   "fecha": "2026-11-17T18:40:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "9b3a4d870517d7",
+   "fuente_id": "securitybrief",
+   "titular": "SUSE adds AI controls to Rancher Prime & SLES 16.1",
+   "bajada": "New approval checks and AI-assisted troubleshooting aim to help enterprises run Kubernetes, virtual machines and AI workloads with tighter control.",
+   "enlace": "https://securitybrief.com.au/story/suse-adds-ai-controls-to-rancher-prime-sles-16-1",
+   "fecha": "2026-11-17T18:40:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "e89494ca92b86f",
+   "fuente_id": "channellife",
+   "titular": "SUSE adds AI controls to Rancher Prime & SLES 16.1",
+   "bajada": "New approval checks and AI-assisted troubleshooting aim to help enterprises run Kubernetes, virtual machines and AI workloads with tighter control.",
+   "enlace": "https://channellife.com.au/story/suse-adds-ai-controls-to-rancher-prime-sles-16-1",
+   "fecha": "2026-11-17T18:40:23+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "a63076fbe04236",
+   "fuente_id": "datacentrenews",
+   "titular": "Vertiv signs three-year Infineon pact to secure chips",
+   "bajada": "The pact should help keep data centre power systems supplied as AI-driven demand pushes Vertiv to scale output and avoid chip shortages.",
+   "enlace": "https://datacentrenews.uk/story/vertiv-signs-three-year-infineon-pact-to-secure-chips",
+   "fecha": "2026-11-17T18:38:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "2cd9eec717e335",
+   "fuente_id": "telconews",
+   "titular": "Vertiv signs three-year Infineon pact to secure chips",
+   "bajada": "The pact should help keep data centre power systems supplied as AI-driven demand pushes Vertiv to scale output and avoid chip shortages.",
+   "enlace": "https://telconews.com.au/story/vertiv-signs-three-year-infineon-pact-to-secure-chips",
+   "fecha": "2026-11-17T18:38:53+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "7c135b109e3b50",
+   "fuente_id": "it-brief",
+   "titular": "Google Cloud launches Gemini Omni 1.2 Flash for video",
+   "bajada": "Businesses can now make 15-second product clips and ads more cheaply, as Google Cloud cuts Gemini Omni 1.2 Flash video pricing by 30%.",
+   "enlace": "https://itbrief.com.au/story/google-cloud-launches-gemini-omni-1-2-flash-for-video",
+   "fecha": "2026-11-17T18:37:58+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "e33d411e1a393f",
+   "fuente_id": "unite-ai",
+   "titular": "Microsoft Launches AI Transparency Initiative for Enterprise Agents",
+   "bajada": "Microsoft announced the AI Transparency Initiative on November 17, 2026, at Microsoft Ignite, bringing together more than 40 organizations to develop open standards for securing and governing AI models and agents across providers. Chairman and CEO Satya Nadella introduced the…",
+   "enlace": "https://www.unite.ai/microsoft-launches-ai-transparency-initiative-for-enterprise-agents/",
+   "fecha": "2026-11-17T18:36:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "51bb9fd367c6d9",
+   "fuente_id": "bbva",
+   "titular": "BBVA México estima que los servicios aportarán 1.2 puntos del crecimiento de 1.8% del PIB Total en 2027",
+   "bajada": "",
+   "enlace": "https://www.bbva.com/es/economia-y-finanzas/bbva-mexico-estima-que-los-servicios-aportaran-1-2-puntos-del-crecimiento-de-1-8-del-pib-total-en-2027/",
+   "fecha": "2026-11-17T18:35:29+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3RtbGJlT2FGSjM1aHQ1UGdxTnBzZlFqZFFmRW5iRlNJQU0ySWxmOGxDQlFIQ3BfeHpUOU5zYTFCcU5RYjRLVmFwZnl1LW90UkVFeFl5d0NUdTV0RjI5WVlWYTlLZHNrREctbnhsUUtxamtFVDd6Mk5GRmF4Qml6T0k5WExob2VGbmdVRDVNLW5SYjZ5anpkQk5wYWxvalRFaEVYSEZhSEhoMU1GTHdvSDlhbVctUVc0SmhMdWkxendneVpkSEZaTklULUM1UUFxLW9LTjFRRDNKQVVuREVxbQ?oc=5"
+  },
+  {
+   "id": "2ef2e68dd2e581",
+   "fuente_id": "macrumors",
+   "titular": "Nomad Launches Black Friday Sale With Up to 30% Off Apple Accessories",
+   "bajada": "Nomad kicked off its Black Friday sale this week, with the year's best prices on iPhone 18 Pro cases, USB-C cables, MagSafe-compatible charging stations, Apple Watch bands, Find My trackers, and more. This sale is set to run all the way through Cyber Week, ending on December 1…",
+   "enlace": "https://www.macrumors.com/2026/11/17/nomad-black-friday-sale-2026/",
+   "fecha": "2026-11-17T18:35:28+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "12a5a231a4bb2c",
+   "fuente_id": "wsj",
+   "titular": "Inside Xi Jinping’s Grip on Power Ahead of Trump Talks",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd?mod=rss_worldnews",
+   "fecha": "2026-11-17T18:35:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "eeb2914173538b",
+   "fuente_id": "cnbc",
+   "titular": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
+   "bajada": "Venture investors are sitting on big gains from the AI buildout. Anthropic's IPO could set the stage for many smaller AI startups seeking exits.",
+   "enlace": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
+   "fecha": "2026-11-17T18:34:06+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "2bb85c7f12ec91",
+   "fuente_id": "unite-ai",
+   "titular": "Microsoft and Salesforce Introduce Copilotforce for AI Sales Workflows",
+   "bajada": "Microsoft and Salesforce announced Copilotforce on November 17, 2026, unveiling the partnership at Microsoft Ignite with a Salesforce plugin for Microsoft Copilot in public preview. The plugin includes more than 38 prebuilt sales skills and connects customer records and…",
+   "enlace": "https://www.unite.ai/microsoft-and-salesforce-introduce-copilotforce-for-ai-sales-workflows/",
+   "fecha": "2026-11-17T18:32:02+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "557b3968f7a973",
+   "fuente_id": "investing-com",
+   "titular": "Jensen Huang says he would return as Nvidia CEO if asked",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/jensen-huang-says-he-would-return-as-nvidia-ceo-if-asked-shares-gain-5033563",
+   "fecha": "2026-11-17T18:31:45+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "9a6ceb7fb8fb71",
+   "fuente_id": "investing-com",
+   "titular": "Willamette Valley Vineyards director buys $20,672 in company stock",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-director-buys-20672-in-company-stock-93CH-5033783",
+   "fecha": "2026-11-17T18:31:05+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "dbbc0735742f0a",
+   "fuente_id": "wsj",
+   "titular": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+   "fecha": "2026-11-17T18:31:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "fb1e93b22c994d",
+   "fuente_id": "wsj",
+   "titular": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+   "bajada": "",
+   "enlace": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=pls_whats_news_us_business_f",
+   "fecha": "2026-11-17T18:31:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "a33d348ec3a714",
+   "fuente_id": "investing-com",
+   "titular": "US retail sales showcase underlying strength despite cost-of-living crunch",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/economy-news/us-retail-sales-increase-moderately-in-october-5033051",
+   "fecha": "2026-11-17T18:30:55+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "216d3c05f4472a",
+   "fuente_id": "investing-com",
+   "titular": "Pentagon’s Colby warns NATO allies against shutting US firms out of arms deals",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/pentagons-colby-warns-nato-allies-against-shutting-us-firms-out-of-arms-deals-5033782",
+   "fecha": "2026-11-17T18:30:45+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "15871098bacf09",
+   "fuente_id": "investing-com",
+   "titular": "Kalshi suspends Trump speech wagers on US regulatory order",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/kalshi-suspends-trump-speech-wagers-on-us-regulatory-order-5033781",
+   "fecha": "2026-11-17T18:30:29+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "67e467790bd2da",
+   "fuente_id": "the-register",
+   "titular": "America's hyperscale bit barns draw as much power as entire states",
+   "bajada": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+   "enlace": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471",
+   "fecha": "2026-11-17T18:29:00+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "21bc862f25114b",
+   "fuente_id": "el-heraldo",
+   "titular": "El truco casero para perfumar el baño que se volvió viral en redes sociales",
+   "bajada": "",
+   "enlace": "https://www.elheraldo.co/sociedad/2026/11/17/el-truco-casero-para-perfumar-el-bano-que-se-volvio-viral-en-redes-sociales/",
+   "fecha": "2026-11-17T18:27:04+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "8b047a81fbe519",
+   "fuente_id": "cnbc",
+   "titular": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+   "bajada": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
+   "enlace": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+   "fecha": "2026-11-17T18:27:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "7181c95680ca4a",
+   "fuente_id": "investing-com",
+   "titular": "Pennant Group at Stephens conference: growth, integration and margin push",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/transcripts/pennant-group-at-stephens-conference-growth-integration-and-margin-push-93CH-5033777",
+   "fecha": "2026-11-17T18:26:55+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "939144bda8622a",
+   "fuente_id": "unite-ai",
+   "titular": "Meta Launches Muse AI Agent in Australia with Local Connectors",
+   "bajada": "Meta announced on November 17, 2026 that its Muse personal AI agent is available in Australia, with local connector experiences for creativity, shopping, property, fitness and entertainment rolling out progressively. Meta describes Muse as performing work rather than only…",
+   "enlace": "https://www.unite.ai/meta-launches-muse-ai-agent-in-australia-with-local-connectors/",
+   "fecha": "2026-11-17T18:25:03+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "171ab2d380e53a",
+   "fuente_id": "investing-com",
+   "titular": "North Carolina approves Duke Energy resource plan through 2034",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/north-carolina-approves-duke-energy-resource-plan-through-2034-93CH-5033776",
+   "fecha": "2026-11-17T18:24:35+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "f70b8ff201076c",
+   "fuente_id": "investing-com",
+   "titular": "SEGG regains Nasdaq compliance, cancels hearing",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/segg-regains-nasdaq-compliance-cancels-hearing-93CH-5033775",
+   "fecha": "2026-11-17T18:24:27+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
   {
    "id": "558b39f2463f8d",
    "fuente_id": "cnbc",
    "titular": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
    "bajada": "He said he had seen support from investors and employees and was willing to come back as CEO.",
    "enlace": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-   "fecha": "2026-11-17T18:13:35+00:00",
+   "fecha": "2026-11-17T18:21:03+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "c3606c950f100b",
+   "fuente_id": "investing-com",
+   "titular": "Microsoft launches AI transparency initiative with 40+ partners",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/company-news/microsoft-launches-ai-transparency-initiative-with-40-partners-93CH-5033771",
+   "fecha": "2026-11-17T18:20:34+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "b9d9c10e1d3898",
+   "fuente_id": "unite-ai",
+   "titular": "OpenAI Releases GPT-6.2 Astra With First High Self-Improvement Rating",
+   "bajada": "OpenAI on November 17, 2026 released GPT-6.2 Astra and GPT-6.2 Sol across ChatGPT Work, Codex and its API, cutting Astra's standard input and output token prices by 20% and making Astra its first externally released model rated High for AI self-improvement. Astra is intended for…",
+   "enlace": "https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/",
+   "fecha": "2026-11-17T18:20:04+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "ae0b68950cbcd4",
+   "fuente_id": "macrumors",
+   "titular": "Google Wallet Available on iPhone, But Without Tap to Pay",
+   "bajada": "Google today said it is bringing Google Wallet to iOS in the United States, giving users a way to make payments and manage purchases across Google services. Google Wallet cannot be used for tap-to-pay purchases in retail locations, but it otherwise serves as an alternative to…",
+   "enlace": "https://www.macrumors.com/2026/11/17/google-wallet-iphone/",
+   "fecha": "2026-11-17T18:19:39+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "73d2f8a7e81e93",
+   "fuente_id": "investing-com",
+   "titular": "Nike targets 2029 sales growth in effort to reassure wary investors",
+   "bajada": "",
+   "enlace": "https://www.investing.com/news/stock-market-news/nike-expects-5-billion-incremental-revenue-growth-in-2031-5033239",
+   "fecha": "2026-11-17T18:18:41+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "99ded9f290e097",
+   "fuente_id": "abc-economia",
+   "titular": "Un ciberataque vulnera la seguridad de 178 webs, entre ellas Ikea, CNN, Air France o Zoom",
+   "bajada": "Casi 200 sitios web , incluidos los de la cadena británica BBC, el banco HSBC de Emiratos Árabes Unidos, IKEA y Air France, fueron objeto de un ciberataque que buscaba robar información financiera e infectar dispositivos Apple, informó la prensa especializada el martes.Hackers…",
+   "enlace": "https://www.abc.es/economia/ciberataque-vulnera-seguridad-178-webs-ikea-cnn-20261117191621-nt.html",
+   "fecha": "2026-11-17T18:16:22+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "0d86a2adddb45d",
+   "fuente_id": "securityweek",
+   "titular": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+   "bajada": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .",
+   "enlace": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+   "fecha": "2026-11-17T18:16:17+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "a872f6f1696d2c",
+   "fuente_id": "abc-economia",
+   "titular": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
+   "bajada": "La huelga de maquinistas de este martes ha dejado una nueva imagen caótica en el sector ferroviario. Madrid y Barcelona han sido las ciudades más afectadas al verse paralizado prácticamente el tráfico de trenes durante la mañana. Cercanías Madrid prácticamente se paralizó con un…",
+   "enlace": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
+   "fecha": "2026-11-17T18:15:39+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
    "id": "879bec9495dd8e",
@@ -42,6 +383,16 @@
    "primera_vista": "2026-11-17T18:15:51+00:00"
   },
   {
+   "id": "b51e925c216ec3",
+   "fuente_id": "unite-ai",
+   "titular": "HCLTech Joins Cohere to Deliver Sovereign AI in Canada and Germany",
+   "bajada": "HCLTech announced on November 17, 2026 a partnership with Cohere to build and deliver sovereign AI solutions for enterprises and governments, beginning with systems-integration work in Canada and Germany and initial applications in insurance, financial services and…",
+   "enlace": "https://www.unite.ai/hcltech-joins-cohere-to-deliver-sovereign-ai-in-canada-and-germany/",
+   "fecha": "2026-11-17T18:12:04+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
    "id": "f0362b7cbe40d8",
    "fuente_id": "investing-com",
    "titular": "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
@@ -62,19 +413,9 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
-   "id": "a872f6f1696d2c",
-   "fuente_id": "abc-economia",
-   "titular": "La huelga de maquinistas colapsa Madrid y Barcelona tras no cumplirse los servicios mínimos previstos",
-   "bajada": "La huelga de maquinistas de este martes ha dejado una nueva imagen caótica en el sector ferroviario. Madrid y Barcelona han sido las ciudades más afectadas al verse paralizado prácticamente el tráfico de trenes. Cercanías Madrid se encuentra caso paralizado con un 97,64% de los…",
-   "enlace": "https://www.abc.es/economia/huelga-maquinistas-deja-cercanias-madrid-servicio-rodalies-20261117074616-nt.html",
-   "fecha": "2026-11-17T18:10:04+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
-  },
-  {
    "id": "027b06d66aa242",
    "fuente_id": "techcrunch",
-   "titular": "As decision model use skyrockets, is customization is the next frontier?",
+   "titular": "As decision model use skyrockets, is customization the next frontier?",
    "bajada": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
    "enlace": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
    "fecha": "2026-11-17T18:10:00+00:00",
@@ -94,7 +435,7 @@
   {
    "id": "8330b4db48792f",
    "fuente_id": "bbc-mundo",
-   "titular": "México, Bolivia y EE.UU. pierden su estatus de países libre de sarampión tras registrar miles de casos y decenas de muertes",
+   "titular": "México, Bolivia y EE.UU. pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
    "bajada": "En los tres países, se observó la transmisión de un mismo genotipo y linaje del virus durante 12 meses o más, señaló la OPS.",
    "enlace": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-17T18:07:53+00:00",
@@ -284,7 +625,7 @@
   {
    "id": "d6f2bb8771a865",
    "fuente_id": "la-republica",
-   "titular": "Agencia de Seguridad de EE.UU. tiene las comunicaciones internas caídas",
+   "titular": "Agencia de Seguridad de Estados Unidos tiene las comunicaciones internas caídas",
    "bajada": "Este incidente en la principal agencia de inteligencia del país se suma a una reciente ola de fallos tecnológicos",
    "enlace": "https://www.larepublica.co/globoeconomia/agencia-de-seguridad-de-ee-uu-tiene-las-comunicaciones-internas-caidas-4526470",
    "fecha": "2026-11-17T17:59:56+00:00",
@@ -483,16 +824,6 @@
    "enlace_google_news": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbzh1dWxHdGJDSFI0elNldnVaRGRVdFUwSGRTX3JXZVd2RS14TEsxQVJEZjJkb1h3by0xRXZiaW5UbU1PaHpnaEE3cDYwN3YtY2J0bEJCenpLTVprMW5HbXdUV0RCZE94dG9FTFlRZHlvZkFBZkhFdUtPWU4yRjVDU3hISHJWZ3RoNDVlY3hyYmJHNnRsQ3ItQS0xNWRvSk01TVV5aGlCZ3MwSm1VbS1MR0dyOGtSSk16bVJqNXZhU0ljYWwyOWJuRzZacTV1REl0aTA0R2stNDVtRzFsODcwTDF1R0pLaVBMYnFyS1VSa3Z0R0VCdnEtajF0aEFiaElPd2tpVGk5eXlUczRaa283bEdUY1hGbDFCTDg0dC1JRHpLN1U?oc=5"
   },
   {
-   "id": "8b047a81fbe519",
-   "fuente_id": "cnbc",
-   "titular": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-   "bajada": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
-   "enlace": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
-   "fecha": "2026-11-17T17:41:22+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
    "id": "0cf616aac1290c",
    "fuente_id": "el-heraldo",
    "titular": "De 100 a 1.000 millones de dólares de Collective Mining en la minería de Caldas durante la Milagro Week",
@@ -683,16 +1014,6 @@
    "primera_vista": "2026-11-17T18:15:51+00:00"
   },
   {
-   "id": "4654bb6458dc62",
-   "fuente_id": "wsj",
-   "titular": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-17T17:26:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
    "id": "a6edbe2ca696bd",
    "fuente_id": "wsj",
    "titular": "Auto & Transport Roundup: Market Talk",
@@ -772,6 +1093,16 @@
    "fecha": "2026-11-17T17:20:15+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T18:15:51+00:00"
+  },
+  {
+   "id": "ba04d93fbfcad1",
+   "fuente_id": "unicef",
+   "titular": "Programme Associate (WASH) G-6, (6 months) TA, #00139130, Bogota-Colombia, LACR",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmtvMnFGdHR0c1dvdUszMDNER3VpamUyNi0zb0M1SnFPRERUdWdDYnFSWGJBMHlmOGtSbGpOeWNmU2VlQ29hMFM5Wng1U1FCRDNaZ1dHMF9NdTlFbk1ncWQ3SnhQMldBeHRyYjlqLWNWQ2c5ZWc1eTUtYlJSUVh6Y1dCVGRvM09abmNjZFFvWm1IUjdjbFZCMHctbHEtUlJsRVduZy1hcmdSQW1a?oc=5",
+   "fecha": "2026-11-17T17:19:48+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "c9b5835243cd52",
@@ -963,6 +1294,16 @@
    "fecha": "2026-11-17T17:08:04+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T17:20:21+00:00"
+  },
+  {
+   "id": "25a1e54523dd16",
+   "fuente_id": "business-wire",
+   "titular": "Apptegy Earns Dual Honors with the 2027 GovWire 150 and the 2027 GSV 150",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmI5SEVENmJSMUNtODZJOVBsSXU0eTFIWXg2UkRwaW03dVBGejFNZWxFUlNSZjd6SHBlMWZhUGxNOFlFNjdVa1hRbmRfZzJ1RTBUSlEtZVBVaUN5elVyaXREYk11cW1nQllQd1ZpTjFBQ2FrNi14dkZ5ejFRY2ZDQlU2N2VxaTVTaTc2bG5mV004ZjhiTHEyTzBULUhodnFnT2FjZFd6YWdCb1lmOWhudEM2RlpUa2YyUDVSdVZZOXhfbm1oR29XZA?oc=5",
+   "fecha": "2026-11-17T17:08:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "c88a3bafe1abfd",
@@ -1396,6 +1737,16 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
+   "id": "23e55e39eea27d",
+   "fuente_id": "bbva",
+   "titular": "¿Qué pasa si no puedo pagar un préstamo o crédito personal?",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEVaRVA3YVFQc09rbnZ2djVPclE2V1RENnZydTc0b1RTd0RDMldFNGxCd0RwX3dyMV9pSUl3UW5nUVhJbEdLVEVsVnBZMDRDdGQ2c3dwa0FPdzNUd2U5Q0xxQ2tYaVJiaW53RGlqbW92SVpMS0pMb0k5MkRwMk9PclUwUTBnVjE3MXlRQ2QxWEZ5RUF2WmFvS0NnX2RZTE9CSGZQeTZUWlBGalhLNkQ5b1RwelprZjNOYUpEYWxXcw?oc=5",
+   "fecha": "2026-11-17T16:49:57+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
    "id": "bbe8011b40b351",
    "fuente_id": "cnbc",
    "titular": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
@@ -1585,6 +1936,16 @@
    "fecha": "2026-11-17T16:40:25+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "43c9826ae59c18",
+   "fuente_id": "yahoo-finance",
+   "titular": "Elon Musk wants Jensen Huang back at Nvidia, but Scott Bessent wants a ‘dramatic shake-up’ — and answers within 10 days",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEwwczVPQUw3cnFKNFRyTVNjVzgtd1ZoeHZCNFBTLWdkcWN1UmxLR1poWnh0T1BkVzdNZm45cXpUbmJPVXZqQ3hpZGE0VnNMOERLcnJFZmItMWNFRVFrUk9zcFJvandYc0NuM3BIekNLN3hNNnZQSGZYZVBfVjNGVTRjMm5Jdk1jUnJGUUtVa3l3d2M?oc=5",
+   "fecha": "2026-11-17T16:40:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "9f1b030414a2e2",
@@ -2533,16 +2894,6 @@
    "primera_vista": "2026-11-17T18:15:51+00:00"
   },
   {
-   "id": "1052fde7820207",
-   "fuente_id": "yahoo-finance",
-   "titular": "GraniteShares 2x Long NVDA Daily ETF (NVDL) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tcVktR0pMZDlHWFd3ZE50ZTFBTEZMaDRleC1tNk5LNXZ2MkU0T25mTWF4dm5QSE1zQUdrZG4zQ21rNEtNSEs1Qll5dXhyZw?oc=5",
-   "fecha": "2026-11-17T15:45:48+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-17T16:52:55+00:00"
-  },
-  {
    "id": "7e349a101e44dd",
    "fuente_id": "la-republica",
    "titular": "FMI advierte de \"graves consecuencias\" sin un ajuste fiscal en el corto plazo",
@@ -2804,6 +3155,16 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
+   "id": "bac5f453eba573",
+   "fuente_id": "yahoo-finance",
+   "titular": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOemxDWTVXV3JMNXZZSVFPM1hRaW1TUmxCaWlXYU90MWFoTTRtWF9UYndOSGI2UUVZeFhLc0NyeFBELUtqM0J0UlpjSUhxWG5rYm11VUc1VkZObVItTjdRZkZMemlHV3NHM3Z2MS1RWmtOZ1BjLXlOdlh5YzQ2bG5yRDhxYzlFb0lOLTFiTTZnZGJ4Z2dvS3hKMXRKVE13aTBsaW5UUy0yRVFOUnVyVWUwbXhsMXBCcFExcjRiMUN5cEhxTV90aWNmdndzaDNVNS1vbjNhYWNrb19sMmJUOU83VHhfNExvNHZrckxTU1VVbw?oc=5",
+   "fecha": "2026-11-17T15:25:07+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
    "id": "20d7d376ffe489",
    "fuente_id": "the-manufacturer",
    "titular": "Government launch Milburn Review to create more opportunities for young people",
@@ -2922,6 +3283,16 @@
    "enlace": "https://www.wsj.com/business/retail/nike-expects-performance-athleticwear-to-drive-long-term-growth-fdf517a5?mod=pls_whats_news_us_business_f",
    "fecha": "2026-11-17T15:16:00+00:00",
    "via": "rss",
+   "primera_vista": "2026-11-17T16:52:55+00:00"
+  },
+  {
+   "id": "1052fde7820207",
+   "fuente_id": "yahoo-finance",
+   "titular": "GraniteShares 2x Long NVDA Daily ETF (NVDL) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tcVktR0pMZDlHWFd3ZE50ZTFBTEZMaDRleC1tNk5LNXZ2MkU0T25mTWF4dm5QSE1zQUdrZG4zQ21rNEtNSEs1Qll5dXhyZw?oc=5",
+   "fecha": "2026-11-17T15:15:09+00:00",
+   "via": "google_news",
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
@@ -4339,6 +4710,16 @@
    "enlace_google_news": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUG10Ym1uLUE1Z3hZam9Rc1dSeUhnMmNlVk4tbkpFbUMzcHZUMXpLRUdzMVpVaWM1bl93ZzNCckU4aHRlRnh3UjY2X25tQW14cDlwSHIyVkE5d2JjaDF0TjMzT2lsZkJKMFExdk8zY0x6RlMwS2xBTms3Wkk2WHVvaUFIN2REcm0wUGFIS25QSjk3V2drWWlPWWxXQVBld3lXR3MtUGpUUmJqVUd1aU81ZkQ3MjM2T0hkV2NxUU05dTdWc000LW5kekRSSFo4Uy0zZUU5SmlQb3RhZmNGVUlSUUVB?oc=5"
   },
   {
+   "id": "4271fcd9cf2e7f",
+   "fuente_id": "business-wire",
+   "titular": "Nintendo News: Play Nintendo Switch 2 and Discover Gift Ideas at the Nintendo Switch 2 Holiday Experience, Starting Nov. 25",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSUc0YkY4SHloYXB0TENlc1NUUGtNQXdLNUxtdlh2aTIwUEpNVWtzMGhfNjNBWDFqZnlpaUxod0hFdHZVeWZBcUtiREd6b2p5SF9aZlkxeHh6SHNlWTVVME8tRERuSlhsdDhBTEx0bGxqV0dmU0t6WHVsWlBIRlhtb00wTGE0ckJRa0xRbWxFRlFXM0xUWFBnMURJTWhzcDU5ZDc4SWY3VlVpMDI3Umw3T2ZielZpVHlUMjVZUWxhdnZJSEd0TDlHZEZUUlBwT0p3LXg2ZXdUVVNJMmlXWVp0UnBoNTdKYjUzUWF2RHFwWDhfTjdSOGY4c3gwTE0zQjdKODNPV1lOc3B0UQ?oc=5",
+   "fecha": "2026-11-17T14:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
    "id": "68e132bfdc5a05",
    "fuente_id": "cnbc",
    "titular": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
@@ -4621,16 +5002,6 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
-   "id": "eeb2914173538b",
-   "fuente_id": "cnbc",
-   "titular": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
-   "bajada": "Venture investors are sitting on big gains from the AI buildout. Anthropic's IPO could set the stage for many smaller AI startups seeking exits.",
-   "enlace": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
-   "fecha": "2026-11-17T13:35:18+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-17T13:29:46+00:00"
-  },
-  {
    "id": "e55ffe8f4ea88a",
    "fuente_id": "wsj",
    "titular": "Trump Returns to World Stage After Midterm Setback",
@@ -4851,6 +5222,16 @@
    "fecha": "2026-11-17T13:21:22+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "7ee4fb05cceb0b",
+   "fuente_id": "yahoo-finance",
+   "titular": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmRNU2NpdXk3bEdSa1BWT0poQUJGVkk2dGVpWmh4Z1R4am5qSkItb0pXN1hOYlVpLVhQRWh1RUc5R3B2NmE2VWRSelFGc0FVUDNoMFROVFktYTNGS25TTDdOU1RROVZrcUxXamhFeThCdGFpN2x3U2ctQkp0UTY3Z1RNTVhxZmEyQXhDVXRCUUxNSzQ?oc=5",
+   "fecha": "2026-11-17T13:21:21+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "6ce41961f014e5",
@@ -5550,6 +5931,16 @@
    "primera_vista": "2026-11-17T16:52:55+00:00"
   },
   {
+   "id": "faad754933ca36",
+   "fuente_id": "business-wire",
+   "titular": "Net Asset Value(s)",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjlxcG1aVzE2VnpfQW4xTWJuaUhxdFpUdGdoN1NTNURDeGlyMXlreVNNRWdtUG1LazhMSURVRWxkNHJyZW1sMWxjVlNoWjQwR3Z6WldZbjRYZEpla1RMX2h6dkdZZjlSbzhNaWdRbjg4RVczWDVJQWVtTGRyLXdORHhRaHBLUm9rR0h4THc4dXhzVDV5N2ZNcXFkekdHLXJlWWRYYURqT0syRHV2ZkZuSHRVVUt4ODNWMU54RUZoXzdVX2REaVdhbg?oc=5",
+   "fecha": "2026-11-17T12:39:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
    "id": "ec8e3cc2b64005",
    "fuente_id": "yahoo-finance",
    "titular": "Nvidia to report Q3 earnings amid Huang scandal",
@@ -5578,6 +5969,16 @@
    "fecha": "2026-11-17T12:34:33+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "119a0e2f15dd86",
+   "fuente_id": "business-wire",
+   "titular": "Net Asset Value(s)",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTy1HX0VoLW9ISlk4UDZIQTFOY01ZM2VGQkVLRTJKU0FBOXV6LXc5eHprVHdiQUNNNXl1UGpNUG1KYWdvTHBnSmllYkFPVFp6am9Xd3UtZF9SVlFMVFN4dzB6ckRWbFpoQkxTOHFDNnR5bWV1VGowZ0R1Q19wNzBaaGxoOFplcHdDN1IyY0lzTVcydGh6eF9tYVdza3VkbVFRQnFZY09pc2luaEZCLTJyUWZ3YkpVNUVEOHQyMXNtTmE3SGl1SEZreA?oc=5",
+   "fecha": "2026-11-17T12:34:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "cc1ee63f301428",
@@ -5660,6 +6061,16 @@
    "via": "google_news",
    "primera_vista": "2026-11-17T16:52:55+00:00",
    "enlace_google_news": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakFDU2llR3pIQ0YxYXVRYTU4bGN2X3k0ZnBYTzRGM0lKbkF6VTlWWW55QjJUejRGYmxramI4bk43NVd5YV8xenRFMGh1Z0ZGVzR6UzJMZGtjYzE0blB0TWxxMVdvUDc3dllINUp1c3pSVVF5RFNNRDVjQjBaRzl6R0xOX3VGQURlNlY0dDh5T3pCS3ktNzdQTFJNYXM1OUNCX28wV0Q2Z2thOEhRQ2IzYi03VF9MazlkX05EM0tRc2hQVVZxeGx4SDZn?oc=5"
+  },
+  {
+   "id": "e4f7b4ffd939d0",
+   "fuente_id": "business-wire",
+   "titular": "Aramark Collegiate Hospitality Selected as N.C. A&T Dining Partner",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanduNjZSdXhIbElhWmJfVUdvVVdvMF84OFp3ZnVwbkdnbkNHNW9pclJZRERHb2owQjI3ZEdoX3ZmcXRHbUV5NDR0dkFxQkdJVElRa3V6V2pRdEx0c3RoV0ZPRzJmc3E5RjZueEd4S2wzUTh3YnFMNTBGcllQbi1YZlZWWjNUaURTWTRrZTVrZTk5SmhqVlRITl83NWQtZ3ozZVFNQ2pJZVByejZkWmhEaE1saElTdThMXzFJY29Gbw?oc=5",
+   "fecha": "2026-11-17T12:30:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "8d35578b5eb261",
@@ -6247,6 +6658,66 @@
    "via": "google_news",
    "primera_vista": "2026-11-17T18:15:51+00:00",
    "enlace_google_news": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRFdza3JlYkN4M2czN1FiNW52elR3cWRrWTczVExsLW5hVVozUFppZzUwbFhHUjhpQ0p0Qk94SU42TkROaXI0c2Z1WFVrWkpxZU81YnRCUlB1MGEyQThUZWw5LVZqYVhCblUxdG12SU0ybzVHTTZFZUVYSmFkR2I4S1o3N19rcEo2akN1UXBsX0xWemROajRLb2ROdVVYaEJqRDdZMXVrbk11QlVZeGlzM1VydUx5Qjk5YXROdEtIS0M3emNSSUlpMS1kNUJSOUVXOXF2b05fSy1UZE5Ra29SQUt4dmpiSV9wd05NNS1WNElELWdQN09CbFdWZnJIVlU1VWV1b2ViTVh1LTRkNFp6SlRfYnZ2RThsekVBZGhRVGFfNUJt?oc=5"
+  },
+  {
+   "id": "3ba3ccc26c92c5",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens SIMATIC WinCC",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TzNWM09mRzd5ZUdoNUtGbldYR3JwTUE5YjJrR2Y5Rno4SlNRQkRxckRHN2diVW9PR0UzTkVJdGFrdlN5eUR1RllKWlZCRzlNdU82MWswWjlscE0yU2Y5d2pFTzlTOGxsSWstLXZjRQ?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "e180ec647d2011",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens RUGGEDCOM APE1808",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMEh6dFNtbXZMdl9OTnVOZXVQRFpKb2NhWGxzMWNGeDlYbzhIN2pHUlJhSEJ0eVRtQmlUa0RYVkdhdTVOdVBtVWlTbXYxaFdudHpzTlQtMVRaZTdDOVIwMnktQ3RJeWZteG9zY1prdw?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "3e5b15cd9f37ff",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens meta-iot2050",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11MFBlNWJtVFJiODdnSVhxVklpY2pkZTV2NUQtUDNFeng2c0czdjdNY0hORUNFR3JDeDUweWttdDZ5NnQ2Nk9uLTJkbTVPVk95Zjd2NVMxYjhLN1dOYzBYbTY5eFhzd1pOdGJlbmJLSQ?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "64098a2c3c4f48",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens SIMATIC",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5reTlYbTFIY0MzeE9pNUNKVGJYeTBQc0gzUWFkMklGMUNTWGxJamVmSGxRdUlJd2FoWV80WjVxQ2ZZRTRzM3B3d2Vsemx4ZnVVR1pLcFV5Y3R5WTVSc1diNngycVFyV0tPcEhxekw0Zw?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "6c7860d9dd587e",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens Simcenter Femap",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KWUpVa18xdVhkVWZFUVRKQkc2R0h0aXNUNTBtLThtNjhVcUVCNzNWd1lNRExpRmpzZlVLcjFuV09UZTZha3hLejN3bXZfSmEzVkEtTl82TkY5SmZ5UmVxOExjN09XQzRZTi1yWTR2QQ?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
+   "id": "1282ebeb4fffef",
+   "fuente_id": "cisa-ics",
+   "titular": "Siemens ROS#",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NZjRhSnhNb3RCVy1FZzJpR3N1aWYzZXYxMVVMWmYyWlIyM1pyN3JZVDNpMjhYZ0U1VUlXTGlZRHVwMkYtY2dlLXJRU2tqWWtpRjlRTWE3Y0ZrYy1rYVctQV9ZcHV5bVFnZ2tYU0VoRQ?oc=5",
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "f3ca6bdd0a88bb",
@@ -9122,6 +9593,16 @@
    "enlace_google_news": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ1Ficzh5c3hOUHJ5ZHJQb1R3eWZ3ODNDbXk2em1ibG1nSjVzR2daY3ZUVGM0LVkwbEIwcGxjNVFqS3RydXNEUFk0LXB6Y1g5dTFRYlc4RmNTUndvMzNXa3ZkSkhJOFo5akI3N2RVU3ItXzlhUGRIbWN1c0kxSnFUTXdhNV9ldTdUdzJXNWpNU0FzelhjVHBzNTJTT1pPUExLNU9LMGhWZnF6TklMa1pyU2NVNFVKLUxQY1FKZVVwM3B5ZnFxbTkxZmtDMTYyMjhzWEZsVVFoa2twZ2FtTS1VUGFpa2JHY0w2WVRZaWpjQ2hqZw?oc=5"
   },
   {
+   "id": "53da959874471a",
+   "fuente_id": "la-republica",
+   "titular": "IA y financiación: la fórmula de Bancolombia para acompañar a las empresas",
+   "bajada": "Bancolombia Empresas en Movimiento reunió en Bogotá a líderes del sector productivo para acelerar su adopción tecnológica y apoyar su respuesta a las coyunturas del mercado",
+   "enlace": "https://www.larepublica.co/finanzas/ia-conocimiento-y-financiacion-la-formula-de-bancolombia-para-acompanar-a-las-empresas-4526495",
+   "fecha": "2026-11-17T05:00:45+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
+  },
+  {
    "id": "510ec1f8b7eeac",
    "fuente_id": "la-republica",
    "titular": "Latam Pass lleva su programa de millas más allá de los tiquetes aéreos",
@@ -9140,6 +9621,16 @@
    "fecha": "2026-11-17T05:00:34+00:00",
    "via": "rss",
    "primera_vista": "2026-11-17T13:29:46+00:00"
+  },
+  {
+   "id": "949ba8c42b36be",
+   "fuente_id": "la-republica",
+   "titular": "GreenYellow y Jerónimo Martins impulsan una nueva era energética para el retail",
+   "bajada": "El Centro de Distribución de Cota incorpora 1.957 paneles solares, con una capacidad de 1.389 kWp y una producción estimada de 2.026 MWh anuales",
+   "enlace": "https://www.larepublica.co/empresas/greenyellow-y-jeronimo-martins-impulsan-una-nueva-era-energetica-para-el-retail-colombiano-con-proyectos-solares-en-62-tiendas-ara-y-dos-centros-de-distribucion-4515083",
+   "fecha": "2026-11-17T05:00:34+00:00",
+   "via": "rss",
+   "primera_vista": "2026-11-17T18:43:14+00:00"
   },
   {
    "id": "9f9b56406cf74c",
@@ -13410,6 +13901,16 @@
    "primera_vista": "2026-11-17T13:29:46+00:00"
   },
   {
+   "id": "c802b285edcfb2",
+   "fuente_id": "yahoo-finance",
+   "titular": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbWY1cHQ5MEJvWUhYRWtaWjBMdEVIMlB0cnRkdFpKNDRCMjVIWlJmWDVxdE5jUlhkWGFHeU9DSDFGamNwR2ROYmx6NDhZZw?oc=5",
+   "fecha": "2026-11-16T17:57:30+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-10T18:25:48+00:00"
+  },
+  {
    "id": "4f95aee86b7dd6",
    "fuente_id": "unite-ai",
    "titular": "The Inference Economics Scorecard Challenges GPU Utilization as an AI Performance Metric",
@@ -14364,6 +14865,16 @@
    "primera_vista": "2026-11-16T20:46:34+00:00"
   },
   {
+   "id": "127895a4d231f1",
+   "fuente_id": "yahoo-finance",
+   "titular": "Apple Inc. (AAPL) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oRWFDOUk5RnFwTHd2QWxnZnYwNXZRTEtYaDRVUXZZVEJrSW5aWGdPZ1BwSFJtQ2RXWGY2OGJiTzU5MGZrbjZhUlNQdGZmUQ?oc=5",
+   "fecha": "2026-11-16T16:43:02+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-07T12:59:03+00:00"
+  },
+  {
    "id": "ea0db901ce13fd",
    "fuente_id": "cybersecurity-news",
    "titular": "Hackers Use AI-Powered Marketplace to Find Infected Computers With Corporate VPN and Cloud Access",
@@ -14442,16 +14953,6 @@
    "fecha": "2026-11-16T16:36:39+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-17T13:29:46+00:00"
-  },
-  {
-   "id": "a7f82750e94714",
-   "fuente_id": "yahoo-finance",
-   "titular": "Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44b29VZTl0MFpSY0hBZF8yWjNjRW1yV2JxV2poNFUxSkdQamdsUmFORHdraWViUld1NXJtS244Rm5yODVxZU5xYjAtSFg?oc=5",
-   "fecha": "2026-11-16T16:34:43+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-09T13:10:03+00:00"
   },
   {
    "id": "3d0f21d577c7a8",
@@ -15089,16 +15590,6 @@
    "fecha": "2026-11-16T15:36:55+00:00",
    "via": "rss",
    "primera_vista": "2026-11-16T20:46:34+00:00"
-  },
-  {
-   "id": "127895a4d231f1",
-   "fuente_id": "yahoo-finance",
-   "titular": "Apple Inc. (AAPL) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oRWFDOUk5RnFwTHd2QWxnZnYwNXZRTEtYaDRVUXZZVEJrSW5aWGdPZ1BwSFJtQ2RXWGY2OGJiTzU5MGZrbjZhUlNQdGZmUQ?oc=5",
-   "fecha": "2026-11-16T15:36:17+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-07T12:59:03+00:00"
   },
   {
    "id": "652672e57954fc",
@@ -17448,6 +17939,16 @@
    "via": "google_news",
    "primera_vista": "2026-11-17T13:29:46+00:00",
    "enlace_google_news": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZF9WSUk5X3E0cEh2UWU0U1YwQUdSRUFJVzNWbG1IblZ6M0NNTEMwT0hjMkxMaTI5YnMzYWtXeDEwTDlBWEE0Zm11RUxrZzNCOUhiVHNnNEowMnRla1ZBbk5lLWc0bnJZQTRoeEZCU09GY1RLY3dxbVZBSEpaZHJ3OWZRVjdQMmpDZHVhNmdEMDlKZF9VYkczNEtLTDRyNVdDY2c2TUw5dlVaSmI1cFFNR3FJTnp6bmZVdVdwSWNST0pmSVhPbktnX0F6QU5DMi1iYjBsa2x4SDRhZw?oc=5"
+  },
+  {
+   "id": "a7f82750e94714",
+   "fuente_id": "yahoo-finance",
+   "titular": "Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History",
+   "bajada": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44b29VZTl0MFpSY0hBZF8yWjNjRW1yV2JxV2poNFUxSkdQamdsUmFORHdraWViUld1NXJtS244Rm5yODVxZU5xYjAtSFg?oc=5",
+   "fecha": "2026-11-16T11:32:37+00:00",
+   "via": "google_news",
+   "primera_vista": "2026-11-09T13:10:03+00:00"
   },
   {
    "id": "ba680f82382990",
@@ -21942,16 +22443,6 @@
    "fecha": "2026-11-15T12:49:07+00:00",
    "via": "rss",
    "primera_vista": "2026-11-15T17:31:30+00:00"
-  },
-  {
-   "id": "c802b285edcfb2",
-   "fuente_id": "yahoo-finance",
-   "titular": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbWY1cHQ5MEJvWUhYRWtaWjBMdEVIMlB0cnRkdFpKNDRCMjVIWlJmWDVxdE5jUlhkWGFHeU9DSDFGamNwR2ROYmx6NDhZZw?oc=5",
-   "fecha": "2026-11-15T12:47:34+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
   },
   {
    "id": "6c1fb836c68e3f",
@@ -39096,10 +39587,11 @@
    "fuente_id": "bbva",
    "titular": "BBVA es reconocido por The Banker como la Mejor Banca Privada del Perú por tercer año",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMTRPQlZRTlJpQkZCNmZ0ekV0R1l4NXhCNTZmTlB1aWdWS1pYMkFMek9EMWhJMmt4R2xqQVJCamtEb3dmWXp1NXVaT25GVDF0WUVoRlVaYl9PSGkxVkRhVnFlWEtMbl9VdXl3Z1NuR1V5Sy1zbU5acmpNVkN2emd2WHhTMWdDc0dUNmxlaXlURHJkai1yNC1tQnA2aW1acWNoeWdSZ3ZZRTVZamotQlNmTnhrdE04Q0JHZk9SMjZHWHlTS3JsUUZ0dTF0aWQ3QQ?oc=5",
+   "enlace": "https://www.bbva.com/es/pe/economia-y-finanzas/bbva-es-reconocido-por-the-banker-como-la-mejor-banca-privada-del-peru-por-tercer-ano/",
    "fecha": "2026-11-12T18:11:28+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
+   "primera_vista": "2026-11-12T18:40:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMTRPQlZRTlJpQkZCNmZ0ekV0R1l4NXhCNTZmTlB1aWdWS1pYMkFMek9EMWhJMmt4R2xqQVJCamtEb3dmWXp1NXVaT25GVDF0WUVoRlVaYl9PSGkxVkRhVnFlWEtMbl9VdXl3Z1NuR1V5Sy1zbU5acmpNVkN2emd2WHhTMWdDc0dUNmxlaXlURHJkai1yNC1tQnA2aW1acWNoeWdSZ3ZZRTVZamotQlNmTnhrdE04Q0JHZk9SMjZHWHlTS3JsUUZ0dTF0aWQ3QQ?oc=5"
   },
   {
    "id": "2a9e1da171b18a",
@@ -43040,10 +43532,11 @@
    "fuente_id": "bbva",
    "titular": "Podcast | La educación es clave para romper el ciclo de pobreza en México: Susan Parker",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1BOeUhhSWVlSlVoQl9yWWNva3ZWNks5NnE1ME5SYnI0TEdLOFdXWVppeVo4VEJSTzNzMVRQZ1J0NnltM3BlQUpGOTZIUnBzS3pORDZaU0dQdEQyRWxRV2hReTZ0WlRvU1dWbkprVEFXcmNOZFR2cDF1dXlqRDAwVWJIQktFcldNNTlBOFFrSXd0dm5VTUdVT0pZTHczb1VIYjk0N2hHS2JJYy1BXzVIWkUxWHlPdDJYeVRVVHdKZFc5Ti1UZjNicW44Ql8?oc=5",
+   "enlace": "https://www.bbva.com/es/mx/economia-y-finanzas/podcast-la-educacion-es-clave-para-romper-el-ciclo-de-pobreza-en-mexico-susan-parker/",
    "fecha": "2026-11-12T13:56:18+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
+   "primera_vista": "2026-11-12T18:40:14+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1BOeUhhSWVlSlVoQl9yWWNva3ZWNks5NnE1ME5SYnI0TEdLOFdXWVppeVo4VEJSTzNzMVRQZ1J0NnltM3BlQUpGOTZIUnBzS3pORDZaU0dQdEQyRWxRV2hReTZ0WlRvU1dWbkprVEFXcmNOZFR2cDF1dXlqRDAwVWJIQktFcldNNTlBOFFrSXd0dm5VTUdVT0pZTHczb1VIYjk0N2hHS2JJYy1BXzVIWkUxWHlPdDJYeVRVVHdKZFc5Ti1UZjNicW44Ql8?oc=5"
   },
   {
    "id": "634329c3c7687c",
@@ -60093,10 +60586,11 @@
    "fuente_id": "bbva",
    "titular": "BBVA acompaña a Ecopetrol en emisión de bonos por US$2.000 millones a ocho años",
    "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckhGS0s5WWZwbWxmTzQwd0ZFanBDcmNjekdEN3RrNXpxMXNyVEh3elB6ZlhjandUWjdMb0w1aGE2RmdfWkJwUWt5cU1XMnREeWN1cUdkXzNmQXhNaGRNamtRek5uS2djczBneUJYMmZ1LVp6ZFo2VC0tQWJpS1hKV3ZaZXlVMkkzdnU3MHVjTjd5OFNvSUlsQXZXblBPQ3otbXVYVGJiSXcyOXNsdHJaZk5WLXZnSW9KOFVzRVU1LV9tNFBZ?oc=5",
+   "enlace": "https://www.bbva.com/es/co/economia-y-finanzas/bbva-acompana-a-ecopetrol-en-emision-de-bonos-por-us2-000-millones-a-ocho-anos/",
    "fecha": "2026-11-10T20:20:16+00:00",
    "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
+   "primera_vista": "2026-11-11T13:22:39+00:00",
+   "enlace_google_news": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckhGS0s5WWZwbWxmTzQwd0ZFanBDcmNjekdEN3RrNXpxMXNyVEh3elB6ZlhjandUWjdMb0w1aGE2RmdfWkJwUWt5cU1XMnREeWN1cUdkXzNmQXhNaGRNamtRek5uS2djczBneUJYMmZ1LVp6ZFo2VC0tQWJpS1hKV3ZaZXlVMkkzdnU3MHVjTjd5OFNvSUlsQXZXblBPQ3otbXVYVGJiSXcyOXNsdHJaZk5WLXZnSW9KOFVzRVU1LV9tNFBZ?oc=5"
   },
   {
    "id": "e7c03193d0e104",
@@ -60818,277 +61312,6 @@
    "fecha": "2026-11-10T18:44:00+00:00",
    "via": "google_news",
    "primera_vista": "2026-11-11T18:18:55+00:00"
-  },
-  {
-   "id": "a69e2e468a35f6",
-   "fuente_id": "el-heraldo",
-   "titular": "Luz Stella Murgas, a cargo del gremio productivo más influyente del país",
-   "bajada": "",
-   "enlace": "https://www.elheraldo.co/economia/2026/11/10/luz-stella-murgas-a-cargo-del-gremio-productivo-mas-influyente-del-pais/",
-   "fecha": "2026-11-10T18:41:45+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "9d16c4bfa1beac",
-   "fuente_id": "wsj",
-   "titular": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
-   "fecha": "2026-11-10T18:41:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T13:27:10+00:00"
-  },
-  {
-   "id": "fbf7a0dd624af9",
-   "fuente_id": "wsj",
-   "titular": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-10T18:41:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T13:27:10+00:00"
-  },
-  {
-   "id": "6ce45693c9cd8e",
-   "fuente_id": "el-heraldo",
-   "titular": "“Su elección es un reconocimiento a una trayectoria de liderazgo”: Naturgas despide a Luz Stella Murgas quien ahora liderará a la Andi",
-   "bajada": "",
-   "enlace": "https://www.elheraldo.co/economia/2026/11/10/su-eleccion-es-un-reconocimiento-a-una-trayectoria-de-liderazgo-naturgas-despide-a-luz-stella-murgas-quien-ahora-liderara-la-andi/",
-   "fecha": "2026-11-10T18:33:30+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "0915a4ef24f918",
-   "fuente_id": "el-universal",
-   "titular": "Resultados de La Fantástica Día: martes 10 de noviembre de 2026",
-   "bajada": "",
-   "enlace": "https://www.eluniversal.com.co/loterias/chances/2026/11/17/resultados-de-la-fantastica-dia-martes-17-de-noviembre-de-2026/",
-   "fecha": "2026-11-10T18:33:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-13T18:21:28+00:00",
-   "enlace_google_news": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnVNOGcyOTB5Vm9IZkt4VHFpNXZpbHdEZDlnc0Utbnh6NTFtYWlFc2l4azhOTmtLQ0c1cFIyODR3bzBld0tPSlpDU1h0WjNLZVFSVXFBX3R2T3ZyVUdUVDJldVJjM1g5V182enlZMkFTbEhMWW8yd3pIRUZZVGFPT2o1RTVVTUJ3M2I2cGNVdVJEU2lvWkE2VmJfeVFOTUNXZWhzai1rSlJ6MWVVVHBUd2hRVnA2VzBpWG8wRGlIWQ?oc=5"
-  },
-  {
-   "id": "f3f225b501e144",
-   "fuente_id": "the-register",
-   "titular": "14-year-old creates tool for AI agents to band together like a team",
-   "bajada": "Autark can act without constant prompting, but leaves users to enforce their own security boundaries",
-   "enlace": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
-   "fecha": "2026-11-10T18:31:53+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "37e93126404aa4",
-   "fuente_id": "abc-economia",
-   "titular": "El PP eliminará el calendario de cierre de todas las centrales nucleares",
-   "bajada": "El Partido Popular ha dado a conocer este martes su programa electoral de cara a las elecciones generales del próximo 29 de noviembre, y bajo el título de ‘Reconstrucción Nacional’, los populares introducen algunas novedades en materia eléctrica y, sobre todo, certifican la…",
-   "enlace": "https://www.abc.es/economia/pp-eliminara-calendario-cierre-centrales-nucleares-20261110144404-nt.html",
-   "fecha": "2026-11-10T18:30:45+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "131276a757f516",
-   "fuente_id": "el-universal",
-   "titular": "Vicepresidente de Estados Unidos cancela visita a Colombia: ¿qué pasó?",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaW80Y29ueWNTNzZVVUdsbms2dUNSYUV1MV9QLV9zYXdDc3hQSVRZV01jbjk5OFdlTkZfYXdtSzZremhNZGdGTHFOQV9zdkhLRERDdEVUTnh2VGxZS3k4cVpMUGxqaElRdDlSWF9JRHNYaTBpOG1TQW03VUZtb2NWOXZLQTlqRHo4SmhpMXJ0M1RCbGtIeS1zSkNaeEhmRUFMTDNlVGtvUUd4SGtHUXEtRy02Z3Utc2xQamVZ?oc=5",
-   "fecha": "2026-11-10T18:30:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-12T18:40:14+00:00"
-  },
-  {
-   "id": "bda486d7fd4e78",
-   "fuente_id": "wsj",
-   "titular": "Global CO2 Emissions to Fall as Iran War Cuts Fossil-Fuel Use",
-   "bajada": "",
-   "enlace": "https://www.wsj.com/business/energy-oil/global-co-emissions-to-fall-as-iran-war-cuts-fossil-fuel-use-04bfc01b?mod=pls_whats_news_us_business_f",
-   "fecha": "2026-11-10T18:29:00+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "0ca54953dd55bb",
-   "fuente_id": "bloomberg-professional",
-   "titular": "How investment workflows are moving beyond the relay race",
-   "bajada": "",
-   "enlace": "https://www.bloomberg.com/professional/insights/financial-services/how-investment-workflows-are-moving-beyond-the-relay-race/",
-   "fecha": "2026-11-10T18:28:11+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "215af1d02f8905",
-   "fuente_id": "agronegocios",
-   "titular": "El tractor de New Holland que funciona con gas natural comprimido y biometano renovable",
-   "bajada": "En cuanto a su autonomía, puede operar hasta 11 horas en transporte cuando cuenta con el extensor de autonomía delantero opcional",
-   "enlace": "https://www.agronegocios.co/tecnologia/new-holland-t7-270-methane-power-recibe-el-premio-tractor-sustentable-de-2027-4521419",
-   "fecha": "2026-11-10T18:27:45+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "ca4fe6217d646c",
-   "fuente_id": "abc-economia",
-   "titular": "¿Qué hago si no puedo entrar al trabajo? ¿Cuánto me quitan de la nómina si paro? Claves de la primera huelga general en 14 años",
-   "bajada": "Han pasado ya más de 14 años desde que España vivió su última huelga general, hasta la que este miércoles ha vuelto a convocarse a las puertas de la campaña electoral. En todo este tiempo han sido miles los trabajadores que se han ido incorporando al sistema -sobre todo jóvenes…",
-   "enlace": "https://www.abc.es/economia/cuentas-corrientes/hago-puedo-entrar-trabajo-quitan-nomina-claves-20261110161733-nt.html",
-   "fecha": "2026-11-10T18:27:36+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "301718be4d6f2c",
-   "fuente_id": "uicn",
-   "titular": "Experts meet in Greece for world’s first IUCN SSC workshop to identify Important Marine Turtle Areas",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWhRNVVRS3dUMVFuZlcxMDZvMXpqbTVRalFzcnJ6MXJfU3luakFMcTdkZ1NCUzJTbUotdHphdkJXWUJrTmJjU3lfMTV4QUpaMnZCaEFMczRHbjR3VGJDN0Fnb2loYzU3S2lLRzlQZmplWTFCc0JYblVzV0dETTdzYU1PdDZrVjN0SnJQQi14aXlZSXJkT2hRUXVtcFQ5MEdCcjN3R2ltWFpKVWRHNWs2VzRR?oc=5",
-   "fecha": "2026-11-10T18:25:13+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "6b904854975539",
-   "fuente_id": "la-republica",
-   "titular": "Luz Stella Murgas se convierte en la primera mujer en presidir la Andi en más de 80 años",
-   "bajada": "La Junta Directiva de la Andi anunció la elección de Luz Stella Murgas como la nueva presidenta de la Asociación, luego de la renuncia de Bruce Mac Master",
-   "enlace": "https://www.larepublica.co/empresas/humo-blanco-en-la-andi-luz-stella-murgas-fue-elegida-para-presidir-la-asociacion-4521528",
-   "fecha": "2026-11-10T18:24:15+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "3d394b1cada8d3",
-   "fuente_id": "el-universal",
-   "titular": "Caos en una autopista de Bulgaria: 86 vehículos chocaron y hay 12 fallecidos",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzR2SExubEJDYnJOcU5CUXgwb1FjTFduUGkzSVlDclZNRXpvQk9zUDVYTjYzSTZRbWw1eEJSekgtUFNpTElMTUs0TGlQQzNYY1hxZmR1NWgwdFZ1ZDBWVHJQS3lWNHNzZTFNc0ZJLW5JY1JkcjlJSHA1dVZVZkFUV1YxMDdyRXFxczg4TmJyRVdMMVliVzdIeGN3Ti1TTWVCV3NsUHFMM0ttUkQwOXVpTGc4MlFSWllhOE14T211UzBvQQ?oc=5",
-   "fecha": "2026-11-10T18:24:00+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "e6788df2cbe66b",
-   "fuente_id": "cnbc",
-   "titular": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-   "bajada": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.",
-   "enlace": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-   "fecha": "2026-11-10T18:23:36+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "c8e91e642e5800",
-   "fuente_id": "cnbc",
-   "titular": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
-   "bajada": "Rep. John Moolenaar, R-Mich., is the chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
-   "enlace": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-   "fecha": "2026-11-10T18:22:44+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "1aefa7e2a07272",
-   "fuente_id": "abc-economia",
-   "titular": "El PP promete un millón de viviendas y echar a los okupas en 48 horas",
-   "bajada": "El Partido Popular incluye en su programa electoral una ambiciosa hoja de ruta con el fin de hacer frente a la enorme crisis habitacional que asola a España y en especial a las grandes capitales. La formación que lidera Alberto Núñez Feijóo propone un total de 13 medidas para…",
-   "enlace": "https://www.abc.es/economia/pp-promete-millon-viviendas-echar-okupas-horas-20261110141235-nt.html",
-   "fecha": "2026-11-10T18:19:55+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "d707a51f0eb5c7",
-   "fuente_id": "investing-com",
-   "titular": "US power demand to beat record highs in 2026 and 2027 as AI use surges, EIA says",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/commodities-news/us-power-demand-to-beat-record-highs-in-2026-and-2027-as-ai-use-surges-eia-says-5016495",
-   "fecha": "2026-11-10T18:19:15+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "b778d4cf58d1f0",
-   "fuente_id": "investing-com",
-   "titular": "Mizuho cuts D-Wave Quantum stock price target on bookings decline",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-dwave-quantum-stock-price-target-on-bookings-decline-93CH-5016493",
-   "fecha": "2026-11-10T18:19:02+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "f6716919a3532e",
-   "fuente_id": "investing-com",
-   "titular": "Fed officials open door to a half-point hike after inflation beats expectations",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/economy-news/investors-boost-odds-of-halfpoint-fed-hike-as-core-cpi-rise-meets-wallers-bar-5016055",
-   "fecha": "2026-11-10T18:18:59+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "668ca7d034863d",
-   "fuente_id": "investing-com",
-   "titular": "Service Corporation International at UBS Global Healthcare Conference: 2027 rebound in view",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/transcripts/service-corporation-international-at-ubs-global-healthcare-conference-2027-rebound-in-view-93CH-5016492",
-   "fecha": "2026-11-10T18:18:15+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "69f80c9c0661d3",
-   "fuente_id": "investing-com",
-   "titular": "Strata at UBS Global Healthcare Conference: transplant push gains scale",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/transcripts/strata-at-ubs-global-healthcare-conference-transplant-push-gains-scale-93CH-5016491",
-   "fecha": "2026-11-10T18:17:43+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "26402c0cf42e9e",
-   "fuente_id": "linux-foundation",
-   "titular": "The AI Security Gap Hiding in Routine Maintenance",
-   "bajada": "This blog was first published on November 9, 2026 at https://openssf.org/blog/2026/11/09/the-ai-security-gap-hiding-in-routine-maintenance/ and repurposed here with consent from the author.",
-   "enlace": "https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance",
-   "fecha": "2026-11-10T18:17:42+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "6d3e45b11dcdca",
-   "fuente_id": "investing-com",
-   "titular": "US credit card debt hits record $1.29 trillion in third quarter",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/economy-news/us-credit-card-debt-hits-record-129-trillion-in-third-quarter-5016490",
-   "fecha": "2026-11-10T18:17:38+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
-  },
-  {
-   "id": "14906a98fa3e9d",
-   "fuente_id": "yahoo-finance",
-   "titular": "Top strategist: Nvidia CEO Jensen Huang's affair highlights key risk for tech companies",
-   "bajada": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVNPWlNSNGZZU2t3ams4Ri1sb2NRaE02RVF2ZkRMU3M3WWpJU2ZCT2c5WFM4cGdycTk3NUotY2xDaWxleldLaDAwMzBtWFlqV2VVYkxsb0ZxMldXcTBNVTc1Slc3ODdVV0F0NU90RFNmTG1YU3JORWlqN2QxUzJ6dHdxNUVWeG5WcVUtVzk2UU5VQzB0Z3ZZeGlDVGIwQVoxZmxyQXlZRTk2bVVOZl9KS0o0U09TZGgydEgxYi1RWkY2WmNCbENXQ2FLMmN2eTl0Q3hZRlVsRGNxNzRWUFE?oc=5",
-   "fecha": "2026-11-10T18:17:05+00:00",
-   "via": "google_news",
-   "primera_vista": "2026-11-11T13:22:39+00:00"
-  },
-  {
-   "id": "ed361c442dc022",
-   "fuente_id": "investing-com",
-   "titular": "Lattice Semiconductor director sells $50,864 in shares",
-   "bajada": "",
-   "enlace": "https://www.investing.com/news/insider-trading-news/lattice-semiconductor-director-sells-50864-in-shares-93CH-5016489",
-   "fecha": "2026-11-10T18:16:03+00:00",
-   "via": "rss",
-   "primera_vista": "2026-11-10T18:25:48+00:00"
   },
   {
    "id": "502c74966eb950",

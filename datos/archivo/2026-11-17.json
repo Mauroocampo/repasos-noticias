@@ -1,5 +1,306 @@
 [
  {
+  "id": "1830537bb75efc",
+  "fuente_id": "it-brief",
+  "titular": "SUSE adds AI controls to Rancher Prime & SLES 16.1",
+  "bajada": "New approval checks and AI-assisted troubleshooting aim to help enterprises run Kubernetes, virtual machines and AI workloads with tighter control.",
+  "enlace": "https://itbrief.com.au/story/suse-adds-ai-controls-to-rancher-prime-sles-16-1",
+  "fecha": "2026-11-17T18:40:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "9b3a4d870517d7",
+  "fuente_id": "securitybrief",
+  "titular": "SUSE adds AI controls to Rancher Prime & SLES 16.1",
+  "bajada": "New approval checks and AI-assisted troubleshooting aim to help enterprises run Kubernetes, virtual machines and AI workloads with tighter control.",
+  "enlace": "https://securitybrief.com.au/story/suse-adds-ai-controls-to-rancher-prime-sles-16-1",
+  "fecha": "2026-11-17T18:40:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "e89494ca92b86f",
+  "fuente_id": "channellife",
+  "titular": "SUSE adds AI controls to Rancher Prime & SLES 16.1",
+  "bajada": "New approval checks and AI-assisted troubleshooting aim to help enterprises run Kubernetes, virtual machines and AI workloads with tighter control.",
+  "enlace": "https://channellife.com.au/story/suse-adds-ai-controls-to-rancher-prime-sles-16-1",
+  "fecha": "2026-11-17T18:40:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "a63076fbe04236",
+  "fuente_id": "datacentrenews",
+  "titular": "Vertiv signs three-year Infineon pact to secure chips",
+  "bajada": "The pact should help keep data centre power systems supplied as AI-driven demand pushes Vertiv to scale output and avoid chip shortages.",
+  "enlace": "https://datacentrenews.uk/story/vertiv-signs-three-year-infineon-pact-to-secure-chips",
+  "fecha": "2026-11-17T18:38:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "2cd9eec717e335",
+  "fuente_id": "telconews",
+  "titular": "Vertiv signs three-year Infineon pact to secure chips",
+  "bajada": "The pact should help keep data centre power systems supplied as AI-driven demand pushes Vertiv to scale output and avoid chip shortages.",
+  "enlace": "https://telconews.com.au/story/vertiv-signs-three-year-infineon-pact-to-secure-chips",
+  "fecha": "2026-11-17T18:38:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "7c135b109e3b50",
+  "fuente_id": "it-brief",
+  "titular": "Google Cloud launches Gemini Omni 1.2 Flash for video",
+  "bajada": "Businesses can now make 15-second product clips and ads more cheaply, as Google Cloud cuts Gemini Omni 1.2 Flash video pricing by 30%.",
+  "enlace": "https://itbrief.com.au/story/google-cloud-launches-gemini-omni-1-2-flash-for-video",
+  "fecha": "2026-11-17T18:37:58+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "e33d411e1a393f",
+  "fuente_id": "unite-ai",
+  "titular": "Microsoft Launches AI Transparency Initiative for Enterprise Agents",
+  "bajada": "Microsoft announced the AI Transparency Initiative on November 17, 2026, at Microsoft Ignite, bringing together more than 40 organizations to develop open standards for securing and governing AI models and agents across providers. Chairman and CEO Satya Nadella introduced the…",
+  "enlace": "https://www.unite.ai/microsoft-launches-ai-transparency-initiative-for-enterprise-agents/",
+  "fecha": "2026-11-17T18:36:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "51bb9fd367c6d9",
+  "fuente_id": "bbva",
+  "titular": "BBVA México estima que los servicios aportarán 1.2 puntos del crecimiento de 1.8% del PIB Total en 2027",
+  "bajada": "",
+  "enlace": "https://www.bbva.com/es/economia-y-finanzas/bbva-mexico-estima-que-los-servicios-aportaran-1-2-puntos-del-crecimiento-de-1-8-del-pib-total-en-2027/",
+  "fecha": "2026-11-17T18:35:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3RtbGJlT2FGSjM1aHQ1UGdxTnBzZlFqZFFmRW5iRlNJQU0ySWxmOGxDQlFIQ3BfeHpUOU5zYTFCcU5RYjRLVmFwZnl1LW90UkVFeFl5d0NUdTV0RjI5WVlWYTlLZHNrREctbnhsUUtxamtFVDd6Mk5GRmF4Qml6T0k5WExob2VGbmdVRDVNLW5SYjZ5anpkQk5wYWxvalRFaEVYSEZhSEhoMU1GTHdvSDlhbVctUVc0SmhMdWkxendneVpkSEZaTklULUM1UUFxLW9LTjFRRDNKQVVuREVxbQ?oc=5"
+ },
+ {
+  "id": "2ef2e68dd2e581",
+  "fuente_id": "macrumors",
+  "titular": "Nomad Launches Black Friday Sale With Up to 30% Off Apple Accessories",
+  "bajada": "Nomad kicked off its Black Friday sale this week, with the year's best prices on iPhone 18 Pro cases, USB-C cables, MagSafe-compatible charging stations, Apple Watch bands, Find My trackers, and more. This sale is set to run all the way through Cyber Week, ending on December 1…",
+  "enlace": "https://www.macrumors.com/2026/11/17/nomad-black-friday-sale-2026/",
+  "fecha": "2026-11-17T18:35:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "12a5a231a4bb2c",
+  "fuente_id": "wsj",
+  "titular": "Inside Xi Jinping’s Grip on Power Ahead of Trump Talks",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd?mod=rss_worldnews",
+  "fecha": "2026-11-17T18:35:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "2bb85c7f12ec91",
+  "fuente_id": "unite-ai",
+  "titular": "Microsoft and Salesforce Introduce Copilotforce for AI Sales Workflows",
+  "bajada": "Microsoft and Salesforce announced Copilotforce on November 17, 2026, unveiling the partnership at Microsoft Ignite with a Salesforce plugin for Microsoft Copilot in public preview. The plugin includes more than 38 prebuilt sales skills and connects customer records and…",
+  "enlace": "https://www.unite.ai/microsoft-and-salesforce-introduce-copilotforce-for-ai-sales-workflows/",
+  "fecha": "2026-11-17T18:32:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "557b3968f7a973",
+  "fuente_id": "investing-com",
+  "titular": "Jensen Huang says he would return as Nvidia CEO if asked",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/jensen-huang-says-he-would-return-as-nvidia-ceo-if-asked-shares-gain-5033563",
+  "fecha": "2026-11-17T18:31:45+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "9a6ceb7fb8fb71",
+  "fuente_id": "investing-com",
+  "titular": "Willamette Valley Vineyards director buys $20,672 in company stock",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-director-buys-20672-in-company-stock-93CH-5033783",
+  "fecha": "2026-11-17T18:31:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "dbbc0735742f0a",
+  "fuente_id": "wsj",
+  "titular": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+  "fecha": "2026-11-17T18:31:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "fb1e93b22c994d",
+  "fuente_id": "wsj",
+  "titular": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-17T18:31:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "a33d348ec3a714",
+  "fuente_id": "investing-com",
+  "titular": "US retail sales showcase underlying strength despite cost-of-living crunch",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/economy-news/us-retail-sales-increase-moderately-in-october-5033051",
+  "fecha": "2026-11-17T18:30:55+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "216d3c05f4472a",
+  "fuente_id": "investing-com",
+  "titular": "Pentagon’s Colby warns NATO allies against shutting US firms out of arms deals",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/pentagons-colby-warns-nato-allies-against-shutting-us-firms-out-of-arms-deals-5033782",
+  "fecha": "2026-11-17T18:30:45+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "15871098bacf09",
+  "fuente_id": "investing-com",
+  "titular": "Kalshi suspends Trump speech wagers on US regulatory order",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/kalshi-suspends-trump-speech-wagers-on-us-regulatory-order-5033781",
+  "fecha": "2026-11-17T18:30:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "67e467790bd2da",
+  "fuente_id": "the-register",
+  "titular": "America's hyperscale bit barns draw as much power as entire states",
+  "bajada": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+  "enlace": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471",
+  "fecha": "2026-11-17T18:29:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "21bc862f25114b",
+  "fuente_id": "el-heraldo",
+  "titular": "El truco casero para perfumar el baño que se volvió viral en redes sociales",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/17/el-truco-casero-para-perfumar-el-bano-que-se-volvio-viral-en-redes-sociales/",
+  "fecha": "2026-11-17T18:27:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "7181c95680ca4a",
+  "fuente_id": "investing-com",
+  "titular": "Pennant Group at Stephens conference: growth, integration and margin push",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/transcripts/pennant-group-at-stephens-conference-growth-integration-and-margin-push-93CH-5033777",
+  "fecha": "2026-11-17T18:26:55+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "939144bda8622a",
+  "fuente_id": "unite-ai",
+  "titular": "Meta Launches Muse AI Agent in Australia with Local Connectors",
+  "bajada": "Meta announced on November 17, 2026 that its Muse personal AI agent is available in Australia, with local connector experiences for creativity, shopping, property, fitness and entertainment rolling out progressively. Meta describes Muse as performing work rather than only…",
+  "enlace": "https://www.unite.ai/meta-launches-muse-ai-agent-in-australia-with-local-connectors/",
+  "fecha": "2026-11-17T18:25:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "171ab2d380e53a",
+  "fuente_id": "investing-com",
+  "titular": "North Carolina approves Duke Energy resource plan through 2034",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/north-carolina-approves-duke-energy-resource-plan-through-2034-93CH-5033776",
+  "fecha": "2026-11-17T18:24:35+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "f70b8ff201076c",
+  "fuente_id": "investing-com",
+  "titular": "SEGG regains Nasdaq compliance, cancels hearing",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/segg-regains-nasdaq-compliance-cancels-hearing-93CH-5033775",
+  "fecha": "2026-11-17T18:24:27+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "c3606c950f100b",
+  "fuente_id": "investing-com",
+  "titular": "Microsoft launches AI transparency initiative with 40+ partners",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/company-news/microsoft-launches-ai-transparency-initiative-with-40-partners-93CH-5033771",
+  "fecha": "2026-11-17T18:20:34+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "b9d9c10e1d3898",
+  "fuente_id": "unite-ai",
+  "titular": "OpenAI Releases GPT-6.2 Astra With First High Self-Improvement Rating",
+  "bajada": "OpenAI on November 17, 2026 released GPT-6.2 Astra and GPT-6.2 Sol across ChatGPT Work, Codex and its API, cutting Astra's standard input and output token prices by 20% and making Astra its first externally released model rated High for AI self-improvement. Astra is intended for…",
+  "enlace": "https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/",
+  "fecha": "2026-11-17T18:20:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "ae0b68950cbcd4",
+  "fuente_id": "macrumors",
+  "titular": "Google Wallet Available on iPhone, But Without Tap to Pay",
+  "bajada": "Google today said it is bringing Google Wallet to iOS in the United States, giving users a way to make payments and manage purchases across Google services. Google Wallet cannot be used for tap-to-pay purchases in retail locations, but it otherwise serves as an alternative to…",
+  "enlace": "https://www.macrumors.com/2026/11/17/google-wallet-iphone/",
+  "fecha": "2026-11-17T18:19:39+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "73d2f8a7e81e93",
+  "fuente_id": "investing-com",
+  "titular": "Nike targets 2029 sales growth in effort to reassure wary investors",
+  "bajada": "",
+  "enlace": "https://www.investing.com/news/stock-market-news/nike-expects-5-billion-incremental-revenue-growth-in-2031-5033239",
+  "fecha": "2026-11-17T18:18:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "99ded9f290e097",
+  "fuente_id": "abc-economia",
+  "titular": "Un ciberataque vulnera la seguridad de 178 webs, entre ellas Ikea, CNN, Air France o Zoom",
+  "bajada": "Casi 200 sitios web , incluidos los de la cadena británica BBC, el banco HSBC de Emiratos Árabes Unidos, IKEA y Air France, fueron objeto de un ciberataque que buscaba robar información financiera e infectar dispositivos Apple, informó la prensa especializada el martes.Hackers…",
+  "enlace": "https://www.abc.es/economia/ciberataque-vulnera-seguridad-178-webs-ikea-cnn-20261117191621-nt.html",
+  "fecha": "2026-11-17T18:16:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "0d86a2adddb45d",
+  "fuente_id": "securityweek",
+  "titular": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+  "bajada": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .",
+  "enlace": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+  "fecha": "2026-11-17T18:16:17+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
   "id": "879bec9495dd8e",
   "fuente_id": "la-republica",
   "titular": "Congreso autoriza a comisiones debatir conjuntamente la Ley de Rescate Económico",
@@ -28,6 +329,16 @@
   "fecha": "2026-11-17T18:12:38+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T18:15:51+00:00"
+ },
+ {
+  "id": "b51e925c216ec3",
+  "fuente_id": "unite-ai",
+  "titular": "HCLTech Joins Cohere to Deliver Sovereign AI in Canada and Germany",
+  "bajada": "HCLTech announced on November 17, 2026 a partnership with Cohere to build and deliver sovereign AI solutions for enterprises and governments, beginning with systems-integration work in Canada and Germany and initial applications in insurance, financial services and…",
+  "enlace": "https://www.unite.ai/hcltech-joins-cohere-to-deliver-sovereign-ai-in-canada-and-germany/",
+  "fecha": "2026-11-17T18:12:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "f0362b7cbe40d8",
@@ -602,6 +913,16 @@
   "primera_vista": "2026-11-17T18:15:51+00:00"
  },
  {
+  "id": "ba04d93fbfcad1",
+  "fuente_id": "unicef",
+  "titular": "Programme Associate (WASH) G-6, (6 months) TA, #00139130, Bogota-Colombia, LACR",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmtvMnFGdHR0c1dvdUszMDNER3VpamUyNi0zb0M1SnFPRERUdWdDYnFSWGJBMHlmOGtSbGpOeWNmU2VlQ29hMFM5Wng1U1FCRDNaZ1dHMF9NdTlFbk1ncWQ3SnhQMldBeHRyYjlqLWNWQ2c5ZWc1eTUtYlJSUVh6Y1dCVGRvM09abmNjZFFvWm1IUjdjbFZCMHctbHEtUlJsRVduZy1hcmdSQW1a?oc=5",
+  "fecha": "2026-11-17T17:19:48+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
   "id": "c9b5835243cd52",
   "fuente_id": "portafolio",
   "titular": "Resultados del PIB: la economía colombiana crece por el lado del gasto, no tanto en la producción nacional",
@@ -801,6 +1122,16 @@
   "fecha": "2026-11-17T17:08:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
+  "id": "25a1e54523dd16",
+  "fuente_id": "business-wire",
+  "titular": "Apptegy Earns Dual Honors with the 2027 GovWire 150 and the 2027 GSV 150",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmI5SEVENmJSMUNtODZJOVBsSXU0eTFIWXg2UkRwaW03dVBGejFNZWxFUlNSZjd6SHBlMWZhUGxNOFlFNjdVa1hRbmRfZzJ1RTBUSlEtZVBVaUN5elVyaXREYk11cW1nQllQd1ZpTjFBQ2FrNi14dkZ5ejFRY2ZDQlU2N2VxaTVTaTc2bG5mV004ZjhiTHEyTzBULUhodnFnT2FjZFd6YWdCb1lmOWhudEM2RlpUa2YyUDVSdVZZOXhfbm1oR29XZA?oc=5",
+  "fecha": "2026-11-17T17:08:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "c88a3bafe1abfd",
@@ -1244,6 +1575,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "23e55e39eea27d",
+  "fuente_id": "bbva",
+  "titular": "¿Qué pasa si no puedo pagar un préstamo o crédito personal?",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEVaRVA3YVFQc09rbnZ2djVPclE2V1RENnZydTc0b1RTd0RDMldFNGxCd0RwX3dyMV9pSUl3UW5nUVhJbEdLVEVsVnBZMDRDdGQ2c3dwa0FPdzNUd2U5Q0xxQ2tYaVJiaW53RGlqbW92SVpMS0pMb0k5MkRwMk9PclUwUTBnVjE3MXlRQ2QxWEZ5RUF2WmFvS0NnX2RZTE9CSGZQeTZUWlBGalhLNkQ5b1RwelprZjNOYUpEYWxXcw?oc=5",
+  "fecha": "2026-11-17T16:49:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
   "id": "bbe8011b40b351",
   "fuente_id": "cnbc",
   "titular": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
@@ -1423,6 +1764,16 @@
   "fecha": "2026-11-17T16:41:25+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:55:47+00:00"
+ },
+ {
+  "id": "43c9826ae59c18",
+  "fuente_id": "yahoo-finance",
+  "titular": "Elon Musk wants Jensen Huang back at Nvidia, but Scott Bessent wants a ‘dramatic shake-up’ — and answers within 10 days",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEwwczVPQUw3cnFKNFRyTVNjVzgtd1ZoeHZCNFBTLWdkcWN1UmxLR1poWnh0T1BkVzdNZm45cXpUbmJPVXZqQ3hpZGE0VnNMOERLcnJFZmItMWNFRVFrUk9zcFJvandYc0NuM3BIekNLN3hNNnZQSGZYZVBfVjNGVTRjMm5Jdk1jUnJGUUtVa3l3d2M?oc=5",
+  "fecha": "2026-11-17T16:40:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "2edb6b86da8f26",
@@ -2649,6 +3000,16 @@
   "fecha": "2026-11-17T15:26:18+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T16:52:55+00:00"
+ },
+ {
+  "id": "bac5f453eba573",
+  "fuente_id": "yahoo-finance",
+  "titular": "Disney stock rises after Q4 earnings beat estimates, company sets $3 billion cost savings target",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOemxDWTVXV3JMNXZZSVFPM1hRaW1TUmxCaWlXYU90MWFoTTRtWF9UYndOSGI2UUVZeFhLc0NyeFBELUtqM0J0UlpjSUhxWG5rYm11VUc1VkZObVItTjdRZkZMemlHV3NHM3Z2MS1RWmtOZ1BjLXlOdlh5YzQ2bG5yRDhxYzlFb0lOLTFiTTZnZGJ4Z2dvS3hKMXRKVE13aTBsaW5UUy0yRVFOUnVyVWUwbXhsMXBCcFExcjRiMUN5cEhxTV90aWNmdndzaDNVNS1vbjNhYWNrb19sMmJUOU83VHhfNExvNHZrckxTU1VVbw?oc=5",
+  "fecha": "2026-11-17T15:25:07+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "f73744b7322b69",
@@ -4185,6 +4546,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUG10Ym1uLUE1Z3hZam9Rc1dSeUhnMmNlVk4tbkpFbUMzcHZUMXpLRUdzMVpVaWM1bl93ZzNCckU4aHRlRnh3UjY2X25tQW14cDlwSHIyVkE5d2JjaDF0TjMzT2lsZkJKMFExdk8zY0x6RlMwS2xBTms3Wkk2WHVvaUFIN2REcm0wUGFIS25QSjk3V2drWWlPWWxXQVBld3lXR3MtUGpUUmJqVUd1aU81ZkQ3MjM2T0hkV2NxUU05dTdWc000LW5kekRSSFo4Uy0zZUU5SmlQb3RhZmNGVUlSUUVB?oc=5"
  },
  {
+  "id": "4271fcd9cf2e7f",
+  "fuente_id": "business-wire",
+  "titular": "Nintendo News: Play Nintendo Switch 2 and Discover Gift Ideas at the Nintendo Switch 2 Holiday Experience, Starting Nov. 25",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSUc0YkY4SHloYXB0TENlc1NUUGtNQXdLNUxtdlh2aTIwUEpNVWtzMGhfNjNBWDFqZnlpaUxod0hFdHZVeWZBcUtiREd6b2p5SF9aZlkxeHh6SHNlWTVVME8tRERuSlhsdDhBTEx0bGxqV0dmU0t6WHVsWlBIRlhtb00wTGE0ckJRa0xRbWxFRlFXM0xUWFBnMURJTWhzcDU5ZDc4SWY3VlVpMDI3Umw3T2ZielZpVHlUMjVZUWxhdnZJSEd0TDlHZEZUUlBwT0p3LXg2ZXdUVVNJMmlXWVp0UnBoNTdKYjUzUWF2RHFwWDhfTjdSOGY4c3gwTE0zQjdKODNPV1lOc3B0UQ?oc=5",
+  "fecha": "2026-11-17T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
   "id": "68e132bfdc5a05",
   "fuente_id": "cnbc",
   "titular": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
@@ -4697,6 +5068,16 @@
   "fecha": "2026-11-17T13:21:22+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "7ee4fb05cceb0b",
+  "fuente_id": "yahoo-finance",
+  "titular": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmRNU2NpdXk3bEdSa1BWT0poQUJGVkk2dGVpWmh4Z1R4am5qSkItb0pXN1hOYlVpLVhQRWh1RUc5R3B2NmE2VWRSelFGc0FVUDNoMFROVFktYTNGS25TTDdOU1RROVZrcUxXamhFeThCdGFpN2x3U2ctQkp0UTY3Z1RNTVhxZmEyQXhDVXRCUUxNSzQ?oc=5",
+  "fecha": "2026-11-17T13:21:21+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "6ce41961f014e5",
@@ -5446,6 +5827,16 @@
   "primera_vista": "2026-11-17T16:52:55+00:00"
  },
  {
+  "id": "faad754933ca36",
+  "fuente_id": "business-wire",
+  "titular": "Net Asset Value(s)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjlxcG1aVzE2VnpfQW4xTWJuaUhxdFpUdGdoN1NTNURDeGlyMXlreVNNRWdtUG1LazhMSURVRWxkNHJyZW1sMWxjVlNoWjQwR3Z6WldZbjRYZEpla1RMX2h6dkdZZjlSbzhNaWdRbjg4RVczWDVJQWVtTGRyLXdORHhRaHBLUm9rR0h4THc4dXhzVDV5N2ZNcXFkekdHLXJlWWRYYURqT0syRHV2ZkZuSHRVVUt4ODNWMU54RUZoXzdVX2REaVdhbg?oc=5",
+  "fecha": "2026-11-17T12:39:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
   "id": "993cc7ec4f0a1a",
   "fuente_id": "yahoo-finance",
   "titular": "Who is new Home Depot CEO Richard McPhail?",
@@ -5464,6 +5855,16 @@
   "fecha": "2026-11-17T12:34:33+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "119a0e2f15dd86",
+  "fuente_id": "business-wire",
+  "titular": "Net Asset Value(s)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTy1HX0VoLW9ISlk4UDZIQTFOY01ZM2VGQkVLRTJKU0FBOXV6LXc5eHprVHdiQUNNNXl1UGpNUG1KYWdvTHBnSmllYkFPVFp6am9Xd3UtZF9SVlFMVFN4dzB6ckRWbFpoQkxTOHFDNnR5bWV1VGowZ0R1Q19wNzBaaGxoOFplcHdDN1IyY0lzTVcydGh6eF9tYVdza3VkbVFRQnFZY09pc2luaEZCLTJyUWZ3YkpVNUVEOHQyMXNtTmE3SGl1SEZreA?oc=5",
+  "fecha": "2026-11-17T12:34:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "cc1ee63f301428",
@@ -5555,6 +5956,16 @@
   "via": "google_news",
   "primera_vista": "2026-11-17T16:52:55+00:00",
   "enlace_google_news": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakFDU2llR3pIQ0YxYXVRYTU4bGN2X3k0ZnBYTzRGM0lKbkF6VTlWWW55QjJUejRGYmxramI4bk43NVd5YV8xenRFMGh1Z0ZGVzR6UzJMZGtjYzE0blB0TWxxMVdvUDc3dllINUp1c3pSVVF5RFNNRDVjQjBaRzl6R0xOX3VGQURlNlY0dDh5T3pCS3ktNzdQTFJNYXM1OUNCX28wV0Q2Z2thOEhRQ2IzYi03VF9MazlkX05EM0tRc2hQVVZxeGx4SDZn?oc=5"
+ },
+ {
+  "id": "e4f7b4ffd939d0",
+  "fuente_id": "business-wire",
+  "titular": "Aramark Collegiate Hospitality Selected as N.C. A&T Dining Partner",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanduNjZSdXhIbElhWmJfVUdvVVdvMF84OFp3ZnVwbkdnbkNHNW9pclJZRERHb2owQjI3ZEdoX3ZmcXRHbUV5NDR0dkFxQkdJVElRa3V6V2pRdEx0c3RoV0ZPRzJmc3E5RjZueEd4S2wzUTh3YnFMNTBGcllQbi1YZlZWWjNUaURTWTRrZTVrZTk5SmhqVlRITl83NWQtZ3ozZVFNQ2pJZVByejZkWmhEaE1saElTdThMXzFJY29Gbw?oc=5",
+  "fecha": "2026-11-17T12:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "8d35578b5eb261",
@@ -6172,6 +6583,66 @@
   "via": "google_news",
   "primera_vista": "2026-11-17T18:15:51+00:00",
   "enlace_google_news": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRFdza3JlYkN4M2czN1FiNW52elR3cWRrWTczVExsLW5hVVozUFppZzUwbFhHUjhpQ0p0Qk94SU42TkROaXI0c2Z1WFVrWkpxZU81YnRCUlB1MGEyQThUZWw5LVZqYVhCblUxdG12SU0ybzVHTTZFZUVYSmFkR2I4S1o3N19rcEo2akN1UXBsX0xWemROajRLb2ROdVVYaEJqRDdZMXVrbk11QlVZeGlzM1VydUx5Qjk5YXROdEtIS0M3emNSSUlpMS1kNUJSOUVXOXF2b05fSy1UZE5Ra29SQUt4dmpiSV9wd05NNS1WNElELWdQN09CbFdWZnJIVlU1VWV1b2ViTVh1LTRkNFp6SlRfYnZ2RThsekVBZGhRVGFfNUJt?oc=5"
+ },
+ {
+  "id": "3ba3ccc26c92c5",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens SIMATIC WinCC",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TzNWM09mRzd5ZUdoNUtGbldYR3JwTUE5YjJrR2Y5Rno4SlNRQkRxckRHN2diVW9PR0UzTkVJdGFrdlN5eUR1RllKWlZCRzlNdU82MWswWjlscE0yU2Y5d2pFTzlTOGxsSWstLXZjRQ?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "e180ec647d2011",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens RUGGEDCOM APE1808",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMEh6dFNtbXZMdl9OTnVOZXVQRFpKb2NhWGxzMWNGeDlYbzhIN2pHUlJhSEJ0eVRtQmlUa0RYVkdhdTVOdVBtVWlTbXYxaFdudHpzTlQtMVRaZTdDOVIwMnktQ3RJeWZteG9zY1prdw?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "3e5b15cd9f37ff",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens meta-iot2050",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11MFBlNWJtVFJiODdnSVhxVklpY2pkZTV2NUQtUDNFeng2c0czdjdNY0hORUNFR3JDeDUweWttdDZ5NnQ2Nk9uLTJkbTVPVk95Zjd2NVMxYjhLN1dOYzBYbTY5eFhzd1pOdGJlbmJLSQ?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "64098a2c3c4f48",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens SIMATIC",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5reTlYbTFIY0MzeE9pNUNKVGJYeTBQc0gzUWFkMklGMUNTWGxJamVmSGxRdUlJd2FoWV80WjVxQ2ZZRTRzM3B3d2Vsemx4ZnVVR1pLcFV5Y3R5WTVSc1diNngycVFyV0tPcEhxekw0Zw?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "6c7860d9dd587e",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens Simcenter Femap",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KWUpVa18xdVhkVWZFUVRKQkc2R0h0aXNUNTBtLThtNjhVcUVCNzNWd1lNRExpRmpzZlVLcjFuV09UZTZha3hLejN3bXZfSmEzVkEtTl82TkY5SmZ5UmVxOExjN09XQzRZTi1yWTR2QQ?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
+  "id": "1282ebeb4fffef",
+  "fuente_id": "cisa-ics",
+  "titular": "Siemens ROS#",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NZjRhSnhNb3RCVy1FZzJpR3N1aWYzZXYxMVVMWmYyWlIyM1pyN3JZVDNpMjhYZ0U1VUlXTGlZRHVwMkYtY2dlLXJRU2tqWWtpRjlRTWE3Y0ZrYy1rYVctQV9ZcHV5bVFnZ2tYU0VoRQ?oc=5",
+  "fecha": "2026-11-17T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "f3ca6bdd0a88bb",
@@ -9111,6 +9582,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "53da959874471a",
+  "fuente_id": "la-republica",
+  "titular": "IA y financiación: la fórmula de Bancolombia para acompañar a las empresas",
+  "bajada": "Bancolombia Empresas en Movimiento reunió en Bogotá a líderes del sector productivo para acelerar su adopción tecnológica y apoyar su respuesta a las coyunturas del mercado",
+  "enlace": "https://www.larepublica.co/finanzas/ia-conocimiento-y-financiacion-la-formula-de-bancolombia-para-acompanar-a-las-empresas-4526495",
+  "fecha": "2026-11-17T05:00:45+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
+ },
+ {
   "id": "510ec1f8b7eeac",
   "fuente_id": "la-republica",
   "titular": "Latam Pass lleva su programa de millas más allá de los tiquetes aéreos",
@@ -9129,6 +9610,16 @@
   "fecha": "2026-11-17T05:00:34+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "949ba8c42b36be",
+  "fuente_id": "la-republica",
+  "titular": "GreenYellow y Jerónimo Martins impulsan una nueva era energética para el retail",
+  "bajada": "El Centro de Distribución de Cota incorpora 1.957 paneles solares, con una capacidad de 1.389 kWp y una producción estimada de 2.026 MWh anuales",
+  "enlace": "https://www.larepublica.co/empresas/greenyellow-y-jeronimo-martins-impulsan-una-nueva-era-energetica-para-el-retail-colombiano-con-proyectos-solares-en-62-tiendas-ara-y-dos-centros-de-distribucion-4515083",
+  "fecha": "2026-11-17T05:00:34+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-17T18:43:14+00:00"
  },
  {
   "id": "9f9b56406cf74c",
