@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T18:43:14+00:00",
+ "actualizado": "2026-11-17T19:13:44+00:00",
  "fuentes": {
   "portafolio": [
    "https://portafolio.co/economia/infraestructura/colombia-y-francia-sellan-acuerdo-para-modernizar-aeropuerto-el-dorado-y-convertirlo-en-un-charles-de-gaulle-506491",
@@ -15,6 +15,7 @@
    "https://portafolio.co/economia/economia-colombiana-crecio-0-5-en-el-tercer-trimestre-del-506501",
    "https://portafolio.co/economia/finanzas/resultados-del-pib-la-economia-colombiana-crece-por-el-lado-del-gasto-no-tanto-en-la-produccion-nacional-506512",
    "https://portafolio.co/economia/fmi-respalda-la-ley-de-rescate-economico-y-pide-consensos-para-aprobar-el-ajuste-fiscal-propuesto-por-el-gobierno-506511",
+   "https://portafolio.co/negocios/empresas/despues-de-75-anos-de-historia-comestibles-la-rosa-suspendera-definitivamente-su-produccion-en-dosquebradas-506519",
    "https://portafolio.co/energia/minera-canadiense-anuncia-us-100-millones-para-caldas-y-preve-invertir-hasta-us-1-000-millones-506515",
    "https://portafolio.co/economia/por-que-era-posible-que-se-cayera-el-iva-a-la-canasta-familiar-en-la-reforma-tributaria-506435",
    "https://portafolio.co/opinion/editorial/abonar-el-terreno-506361",
@@ -22,14 +23,13 @@
    "https://portafolio.co/economia/gobierno/el-nino-pone-en-alerta-al-sector-electrico-autoridades-refuerzan-medidas-ante-minimos-historicos-de-embalses-506505",
    "https://portafolio.co/negocios/empresas/empresas-colombianas-no-podran-usar-datos-publicos-libremente-para-entrenar-modelos-de-inteligencia-artificial-506484",
    "https://portafolio.co/economia/gobierno/mas-de-us-6-000-millones-llegarian-a-colombia-desde-estados-unidos-que-sectores-recibirian-el-capital-506498",
-   "https://portafolio.co/negocios/comercio/barrio-el-restrepo-de-bogota-en-aprietos-por-el-comercio-chino-mama-donde-estan-los-zapatos-506352",
    "https://portafolio.co/economia/empleo/este-miercoles-18-de-noviembre-arranca-la-negociacion-del-salario-minimo-estas-son-las-fechas-clave-del-proceso-506495",
    "https://portafolio.co/negocios/empresas/costos-laborales-presionan-a-las-pymes-necesitarian-hasta-63-millones-mas-en-ventas-para-cerrar-506420",
    "https://portafolio.co/tendencias/quien-es-strauss-zelnick-el-ceo-detras-de-gta-vi-que-dejo-la-presidencia-de-20th-century-fox-por-los-videojuegos-506455",
-   "https://portafolio.co/economia/agro/abelardo-de-la-espriella-prohibe-el-cafe-importado-en-entidades-estatales-y-reabre-debate-sobre-compras-publicas-506334",
-   "https://portafolio.co/economia/infraestructura/nuevas-tarifas-en-los-peajes-en-la-via-bogota-villavicencio-estos-son-los-valores-por-categoria-desde-hoy-506437",
-   "https://portafolio.co/tendencias/entretenimiento/robert-pattinson-sera-el-nuevo-james-bond-y-heredara-una-franquicia-que-ha-recaudado-cerca-de-us-8-000-millones-506447",
-   "https://portafolio.co/economia/regiones/becas-virtuales-en-bogota-100-cupos-nuevos-para-pregrado-maestria-y-doctorado-506458",
+   "https://portafolio.co/economia/gobierno/contraloria-reporta-hallazgo-por-9-000-millones-en-consultoria-contratada-por-el-ministerio-de-agricultura-506508",
+   "https://portafolio.co/economia/tener-empleo-formal-no-garantiza-estabilidad-financiera-estas-son-las-dificultades-de-los-trabajadores-506513",
+   "https://portafolio.co/economia/empleo/multinacional-alemana-abre-convocatoria-para-cerca-de-200-empleos-en-colombia-asi-puede-aplicar-506500",
+   "https://portafolio.co/economia/gobierno/presidente-del-senado-y-miembros-del-centro-democratico-se-reunieron-con-la-embajada-de-ee-uu-de-que-hablaron-506510",
    "https://portafolio.co/tendencias/entretenimiento/grammy-2027-estos-son-los-colombianos-nominados-y-las-categorias-en-las-que-buscaran-quedarse-con-un-premio-506440",
    "https://portafolio.co/economia/finanzas/el-peso-colombiano-es-quizas-la-mejor-moneda-del-planeta-506482",
    "https://portafolio.co/negocios/empresas/donacion-fundacion-sarmiento-angulo-asi-se-invertira-en-valle-risaralda-y-choco-506321",
@@ -68,13 +68,15 @@
    "https://portafolio.co/economia/finanzas/si-eliminan-la-tasa-de-usura-el-fenomeno-del-gota-a-gota-pasaria-a-ser-legal-506097",
    "https://portafolio.co/economia/rector-de-icesi-si-un-joven-le-delega-su-pensamiento-a-la-ia-nunca-va-a-desarrollar-criterio-propio-506249",
    "https://portafolio.co/internacional/un-colombiano-vicepresidente-de-nike-le-metio-un-gol-a-adidas-por-el-balon-de-futbol-de-las-copas-uefa-hasta-506444",
-   "https://portafolio.co/energia/regasificadora-de-palermo-inversion-de-us-180-millones-busca-aportar-hasta-180-millones-de-pies-cubicos-de-gas-506324"
+   "https://portafolio.co/economia/agro/abelardo-de-la-espriella-prohibe-el-cafe-importado-en-entidades-estatales-y-reabre-debate-sobre-compras-publicas-506334",
+   "https://portafolio.co/negocios/comercio/barrio-el-restrepo-de-bogota-en-aprietos-por-el-comercio-chino-mama-donde-estan-los-zapatos-506352",
+   "https://portafolio.co/negocios/empresas/primicia-avianca-invertira-us-3-000-millones-en-61-aviones-durante-los-proximos-tres-anos-506432"
   ],
   "la-republica": [
-   "https://larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-17-de-noviembre-4526138",
    "https://larepublica.co/economia/la-economia-crecio-0-5-en-el-tercer-trimestre-jalonada-por-minas-y-canteras-4526316",
    "https://larepublica.co/globoeconomia/agencia-de-seguridad-de-ee-uu-tiene-las-comunicaciones-internas-caidas-4526470",
    "https://larepublica.co/empresas/comestibles-la-rosa-suspendio-sus-operaciones-en-la-fabrica-de-dosquedabrasca-en-dosquebradas-4526394",
+   "https://larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-17-de-noviembre-4526138",
    "https://larepublica.co/economia/restrepo-anuncia-recursos-por-us-25-900-millones-para-inversion-privada-en-la-milagro-week-4526089",
    "https://larepublica.co/globoeconomia/huang-dispuesto-a-volver-como-ceo-de-nvidia-y-confirma-presencia-en-congreso-4526383",
    "https://larepublica.co/empresas/que-cambio-en-el-nuevo-renault-kwid-mucho-mas-de-lo-que-parece-4524644",
