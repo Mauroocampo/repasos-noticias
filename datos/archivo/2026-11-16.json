@@ -400,6 +400,16 @@
   "primera_vista": "2026-11-17T13:29:46+00:00"
  },
  {
+  "id": "b55115095160dd",
+  "fuente_id": "el-universal",
+  "titular": "¿Cuánta tierra?",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhTGY5OHIyV1Z5bWEzclA4ckJXbUVtLW9aYkpKWXI4d1NISGFtNVhHQ1cwVGdGN20yUnduYVV1X2IyellTaGltRVEzaURGQXJ1U2x1cWp2LTA5VjgyVWJBTmRsTWt3Um1JWTdGaDhJdnJRZXZydlpPODVkaVo?oc=5",
+  "fecha": "2026-11-17T03:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "0f5b1dd30b6e26",
   "fuente_id": "el-heraldo",
   "titular": "Estación de Policía de El Pital, Huila, fue ataca con drones explosivos",
@@ -2123,6 +2133,16 @@
   "fecha": "2026-11-16T21:21:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-17T13:29:46+00:00"
+ },
+ {
+  "id": "d1b12a3bb6ceee",
+  "fuente_id": "yahoo-finance",
+  "titular": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zdnlfaEltb3czeS1vUmpLemRNWE5Ka0lKYjZLTXpRV3RqNFB2UFpFUU85RHJNQlQzcnNLdmFjY3htMHZ6a0RvUnh0dm4wLXlQSkYtbmdKeWN3WTNFUk5jMlhqazFJRXFDS0pVbUVGUGhkeGNhYXEySnltajg?oc=5",
+  "fecha": "2026-11-16T21:20:37+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "a33356b09456f0",
@@ -9471,6 +9491,37 @@
   "fecha": "2026-11-16T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "eb4bc2ab1a15ea",
+  "fuente_id": "business-wire",
+  "titular": "Iconic Raises $10M to Build Software That Understands the World’s Biggest Projects",
+  "bajada": "",
+  "enlace": "https://www.businesswire.com/news/home/20261116725327/en/Iconic-Raises-%2410M-to-Build-Software-That-Understands-the-Worlds-Biggest-Projects",
+  "fecha": "2026-11-16T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T18:15:51+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUcwVlg1WjUtUW1ESHI2N0YyRUdSWXZKckZtNmFGNGQ2ZVMzQXBrUHIwNHhRaWQwQ1VRLUlFTE4zekFXWEwwb2Y4S2lZVHkyam9Fckhyek5qMGhOa0JiSm5rd2RfNFd2Nm5EZEJTcjdSUzNucXNBNWk1bVh1bzZERW9ia3BuM293OWV4NklsSFA3OWxwdXV0dTJOazQ2azlPT0JoNWZlWExaaFBjQkxUVEtRMWZ2ZmEtRlVKNkgyMWo1clZkT1l2enBhbGtYQW5aZUZrcUFOUQ?oc=5"
+ },
+ {
+  "id": "2dc47f5e725075",
+  "fuente_id": "oms",
+  "titular": "Alocución de apertura del Director General de la OMS en la sesión informativa para los Estados Miembros sobre el establecimiento de prioridades y el reajuste – 16 de noviembre de 2026",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOGtQVlZVaEpQVUNMTGl4WV94aDRtX2FMUk01eTBZbElvVGk3bmVJRlhwVkJkWEtLSmhtM29Ya0dnZ0pyVGh3enNGVEtqUEZaOWFVWjRobFBTVHVuMW82LWNPYXk5ZWJsUnVXQlJ2NzVpOWljTmtqWGVWV0Y5ai16ZnR6MWlhMU9obHdNTlQ0QWRpUG42bnZlV1gtNVNUSUp6ZF9YUkNqUS14LTY3ZHIwWUp4N2thY2xUVXZTUUZ4aUdXRlNJQ28tY3RSdkN3SGJWV3FnRHlPUkRfRVhveDBieVN5c0c0bGMxMDk5TG5HYWJmVkhOZFJTbjNR?oc=5",
+  "fecha": "2026-11-16T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "7c744781eed9a5",
+  "fuente_id": "unicef",
+  "titular": "Para la niñez de Panamá, la tierra todavía tiembla",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fR3lNRmM0OG9DSnVOZTBZQ0dYZFFyN3JXTDh2U2p2eUZoYjdzQTlFR2Z2S3hwS3JxUmFWd0F3X3dELWhSWnZDN0NUZXl1SS1VNGVDSWQ0Q0hSd3BrMXRveFk3dzhrMl9O?oc=5",
+  "fecha": "2026-11-16T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "320937646ddc4a",

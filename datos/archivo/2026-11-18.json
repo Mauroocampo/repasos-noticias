@@ -1,5 +1,15 @@
 [
  {
+  "id": "84d0ed04127025",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] OPmobility to supply INWIN 2.0 pressurized fuel tank technology to Chinese OEM",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTE92Vlo0NGxEQzRITDY3Q1Itck5VRkxEeGUyeEpzQWxXM0c0cGgwYXJxQV9nWjU0QXJ3Q0t0QjhWT0J4WlE1bVFoUnBrbnVTWHc?oc=5",
+  "fecha": "2026-11-19T04:51:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "d1202d3392a4ec",
   "fuente_id": "the-hacker-news",
   "titular": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
@@ -451,6 +461,17 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "afeb2626fdf4b0",
+  "fuente_id": "el-universal",
+  "titular": "Video: el golazo de volea de Jorge Carrascal con el Flamengo de Brasil",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/18/video-el-golazo-de-volea-de-jorge-carrascal-con-el-flamengo-de-brasil/",
+  "fecha": "2026-11-19T01:29:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUdTRVA0WXRYcFppakJ2NXJ2Ynk5RDdMZ1oyUk1qTkgwTkVZQS1jZURnQTZsQlRxektKMElrelBzVTJlbWVQUkk4UlBWTGlBSlhuNkp0YnZ6bl9Za05lc2V1a1psV09JWGhPOHVMNmZUS0kxT1VzV1YtYWQ1ZWRZd054SU5Bams4SXBndHpIR3RxWHYzemJ1SFNQYTlhbGRlbGJUbUI0NTllbkgybkVobGxvWVdNSU1PSzFNMkh3?oc=5"
+ },
+ {
   "id": "35f8619a2a16a2",
   "fuente_id": "abc-economia",
   "titular": "Ese muchacho de Cibeles",
@@ -803,6 +824,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "01f6102d687a12",
+  "fuente_id": "siemens-productcert",
+  "titular": "SSA-810379 V1.0: Java4Shell Vulnerability in Siemens Products",
+  "bajada": "On November 17, 2026, the OpenJDK project released security updates addressing a critical vulnerability in the hardware-accelerated Base64 decoder in the OpenJDK HotSpot JVM, commonly referred to as “Java4Shell” (tracked as CVE-2026-114938). The vulnerability is a heap-based…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-810379.html",
+  "fecha": "2026-11-19T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "5b5b437ec19e74",
   "fuente_id": "telconews",
   "titular": "Zetifi wins NSW funding for satellite safety antenna",
@@ -831,6 +862,16 @@
   "fecha": "2026-11-18T23:39:30+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "991b06708a5409",
+  "fuente_id": "uicn",
+  "titular": "Enroll in Training of Trainers: Indigenous Peoples and Local Communities’ Governance Systems on Biodiversity Event",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yTnVYM0dLbkFUaloyYklGb2hBejRYZ1gxaTdvcktWa2hsRUtNbHVORDEwbmM0RUp5ZUMxb1c4QmVPZjdyQmd4ak11QlNuaVpMM0Vqck96MVdHSVU?oc=5",
+  "fecha": "2026-11-18T23:39:05+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "8b0fb513b55398",
@@ -1458,6 +1499,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "962757d4753d86",
+  "fuente_id": "portafolio",
+  "titular": "Ambiente Gourmet acelera su conquista internacional abriendo su primera tienda en Florida",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/comercio/ambiente-gourmet-acelera-su-conquista-internacional-abriendo-su-primera-tienda-en-florida-506607",
+  "fecha": "2026-11-18T21:29:07+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "7a9e3ac0a17ff7",
   "fuente_id": "portafolio",
   "titular": "Chevignon alista maletas para su regreso a Venezuela, mientras acelera en Estados Unidos",
@@ -1609,6 +1660,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "0ecf0908496afc",
+  "fuente_id": "yahoo-finance",
+  "titular": "Skydance's David Ellison calls Elon Musk 'the greatest entrepreneur of our time'",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOGx4Zno5TndjdGlyYUZGZDQ4aHp0blcteWUtVERzLXFIamhCQ1NTWEhKZHZNVWczajVrUEdWZkFYcHU2RXlvV2cxTGI1ak1VQkFCSzAzcUYwbXpfUnQzaGVEdFN6Z0F1Snl4Rks5VlRhaUZiVnZCdTJ3bWxrdWN1bUJZbWx5UmpHNVYwZ1NFYjRucnlkajh1bW0zNVp0YjdseWEwRVozZTB5dmlGREN1WEN0aEZwY29xU3dsX1BGc3VtYkwzazJxVkpqY1V0Zl95cWg3XzhxV2EyRTZW?oc=5",
+  "fecha": "2026-11-18T20:54:05+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "0f4076ca356a12",
   "fuente_id": "macrumors",
   "titular": "HomeView 27.2.1 Update Fixes Siri Bugs",
@@ -1668,6 +1729,16 @@
   "fecha": "2026-11-18T20:34:07+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "35d7306b25c573",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nvidia interim CEO Colette Kress has taken over one of the most consequential companies on the planet; those who know her say she's up to the task",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOS1Azay1tYURtX2gzT1FRR3gwRENVbDYxTW4zbEZQU0pjWmxTeV93bTc4eUVxTURFR0tSWGlWYXdSTGk2M1NrVEw4RlpjUXFBOThWbk5zc1ljdmFvXzllckpaVVVKRlo2QkZiNVRJUXAzRUFZcTJmaXF0TlZXeXg4QWVTSnA0ZkJZbW8zdTM3Y2d1ZXFjQWJfV2FSNE8xSWxmZzNYNHVKX3BoWVpBZkE0M29OMmdNXzBaS1daY2YzamxRSm41OUJiTDJTcEs4NTRUanZtWlplV0JwQU9aUDlTWUF2c1R2SHJsb3k5eEdFR192ZmYwUC1BRHVhd1BQQ2NidEl1d2pub3VETlBUZmZBbW13bklTb0xaenNnNm11NXByLWFCeUNiTVBvWDY?oc=5",
+  "fecha": "2026-11-18T20:26:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "9ce69de56b7851",
@@ -1830,6 +1901,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "208439cc6f6136",
+  "fuente_id": "uicn",
+  "titular": "ReSea Project Regional Infographic",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NcjZIczEyTWo1R1owLUM4N18xYWg3UGsxTHd1V3ZRZEI1WlI5TEhUWjVfVHhweWVvM2U5SEVWakRJbVJoenA4bFg4YnB3TEtMWUxSaTczY0lBUkNfQ0VaV2ZCbGxiU2NBdHRCd1dyMjlOSWU3REcySXEzMA?oc=5",
+  "fecha": "2026-11-18T19:35:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "5aced8f8769efd",
   "fuente_id": "wired",
   "titular": "The ‘GTA 6’ Work Blackout Is Here",
@@ -1898,6 +1979,16 @@
   "fecha": "2026-11-18T19:23:55+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "30ba166b05eb9e",
+  "fuente_id": "yahoo-finance",
+  "titular": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYllIU21xeUp1ZmdnUWRwbUFnbkxFYzN2NXZFdXVlek9kOGdOc2N1YUFsTUtWZEt6Mkx5R3dudm11WW9hWFcwN1BRWnBBYWJaSFVXcEJXcUxTdWVFSjZMRUE2cWRuYzdieG9WTlVvbHRESTZIRFItendOZlYxVzZJUVJpaVhFcHltTzNqem5pUldTaTdadUVmVkpjV09kV01K?oc=5",
+  "fecha": "2026-11-18T19:20:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "13f43b94dcf438",
@@ -2248,6 +2339,16 @@
   "fecha": "2026-11-18T18:50:35+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "52a0b31e520c1c",
+  "fuente_id": "el-universal",
+  "titular": "Nuevo video revela cómo comenzó el brutal ataque contra el creador de contenido Alex Guzmán",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVENuSjNLejlna0hyb3VEVkZqMXNscmtTZm1VM3E4dVlnUlhoMzFCTnBzRldMQ2NxZnBOQW5qTlhOWjhnelRsTHVlQk01SlZvb0oyWnNGX05Jc3JWV0FPeGkyeEpzdF9kSnhDOVJBOGNKYkl6Mk1ORWdkaTNvZGdzTloxT18ySHZ4UzFPdVp6cUpKOGNpOTNDRXRtay1MQTRnNmt6Mm1Ud3RHcEpMTkJfUU1zRTl3QWhQbEdacGVEbkZUcGk1dkY3WGctNmZkeWpOcl83SWtjLS1PQQ?oc=5",
+  "fecha": "2026-11-18T18:48:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "eba2bdf6683fa6",
@@ -3543,6 +3644,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "c9587c2e75e97c",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-63189: Dialoqbase Unauthenticated Path Traversal Enables Administrator Takeover",
+  "bajada": "Critical Threat Advisory: Assigned a 9.8 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. Dialoqbase is an application for creating chatbots....",
+  "enlace": "https://www.thehackerwire.com/cve-2026-63189-dialoqbase-unauthenticated-path-traversal-enables/",
+  "fecha": "2026-11-18T17:02:21+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "c1576f35931e9f",
   "fuente_id": "the-register",
   "titular": "MongoDB snaps up Firebolt to bring transactions and analytics under one roof",
@@ -3811,6 +3922,16 @@
   "fecha": "2026-11-18T16:45:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "28a35bdf164059",
+  "fuente_id": "business-wire",
+  "titular": "Forsee Power Unveils ZEN 8 LFP Battery, Setting a New Benchmark for Electric Off-highway Machinery",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZFUyWjFZSDVreE5oajZsVVBXLVptUFpraUdueklfTFRhWmV3ZjFURjlmdkp4aWJyOUE1cHlvWS1HYlk2ZTI5RVFaZVp5WHI4M0lneEthTERRVDN6cThlSzFZV2ZaVnJsQ2xlcEZXYmg2dGdLREtEODMwYkNYQ3U4Q1hodGNrWjYtRzFEQnB2VlN2Z0VtUUNYZnV1ajlnRUVqNC16enZoSUtlZlVvbXVtMUwyb1M5S0x5bFdZMG4yTm1IUWdXZVFwci1ObktmVWVtV1I1OWp2MGpWbWFscmlVRjFmUE9TbEpoa1E?oc=5",
+  "fecha": "2026-11-18T16:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "eda1b4de2000b1",
@@ -4446,6 +4567,16 @@
   "fecha": "2026-11-18T16:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "1db6e942b4a07a",
+  "fuente_id": "business-wire",
+  "titular": "Yanmar Ventures Invests in MIT Spinout Brelyon, Pioneer of Next-Generation In-Cabin Screens",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU1hxcWJDbEpJanlzLVktZDN5Z2I3c3RuckV1dHM1WU5DakRsTVYtM2N4SjVOSEFCV3Rza3g5dWpRVmZ4UnMxb1d3a2FsTjU5aDhpb2F3bC04aHl5cXlOLUV6YmtBd3VTNlc2LXM4eUdrUzBuY1MxV0NReTBBWFA2MmF2cXozYVJ4bFVSc2FMY2VpUzVFcmp1blo4dUF1RmIwTTRjeDNRakVFWWZxT1dkQzE5UlNqZ0pLZ0FYdGNSQWZpRWZINkdsYXdSbU5JVFd2a3k3Mk1UZkxXOFh4NEZ0Vw?oc=5",
+  "fecha": "2026-11-18T16:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "6d350fdc8b1fc0",
@@ -5352,6 +5483,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "1da047ca8decaa",
+  "fuente_id": "business-wire",
+  "titular": "Sila Inks Long-Term Offtake Deal with Panasonic Energy to Power Domestic Battery Production",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZlJDR0p1NkVjRXhpRGhWX0JRMXFkeU5CLVBTdVQ3OHBJbDVzaFFOU1Zud180OVk1eFhPT2hLMjlxTmxsRnNvLUNqelpOUjF2R0lLb2pmeVNaLTNhVktkbFcyRGVoU1lWelgwMHBPNjBjd2J6Mmc5bWNjWjVTSjRXM1NQeHppaXJpRmJsZnJJOXVBNENwdG44R1JvZmszZzliWjU3V0tUZG0zVXNkTjZFellNWW5ua2FuZ3RlMUZuTGx2R3hIMTBNZm1TYjRWSWZHSjNtNkFCX2pRSU1xam82UHRR?oc=5",
+  "fecha": "2026-11-18T14:21:13+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "780dde653503a6",
   "fuente_id": "bbc-mundo",
   "titular": "\"Es mucho más divertido ser el malo\": la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
@@ -5540,6 +5681,16 @@
   "fecha": "2026-11-18T14:03:40+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "a0095f70f7f4e6",
+  "fuente_id": "business-wire",
+  "titular": "ASUS Announces Availability of ProArt GR1X",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3Vhb0ctaGFlZXFKN01ZMHVwNzAzWTZST1JkT2RaOUpRek4zZHNObEZQVUxxRGo1NHhFN1QxRU9oRWZMdWo4eHkwRDV0ZUpYVjV1eGtFQ1VSeEdVeWFpa1hBSG9KSW5ON1lWSWJnZl9BdWlaelkwS1VsVHZCaUEycmZZYVEzY1R6Z2pGMzJzYUpsbEJVNHROZ3U3WEc5Sllk?oc=5",
+  "fecha": "2026-11-18T14:03:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "c93bbfaf219009",
@@ -5820,6 +5971,16 @@
   "fecha": "2026-11-18T13:47:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "2bc5d7dd44de52",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-130733: Grav Publisher Authorization Bypass Allows Protected Content Overwrite",
+  "bajada": "Critical Threat Advisory: Assigned a 9.8 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. Grav from 2.0.0 before 2.2.18 contains an...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-130733-grav-publisher-authorization-bypass-allows-protected-content/",
+  "fecha": "2026-11-18T13:46:49+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "840550b2301682",
@@ -6273,6 +6434,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "3536fba8f6c307",
+  "fuente_id": "business-wire",
+  "titular": "Ansa Biotechnologies Raises $71.5 Million in Oversubscribed Series C Round to Scale Guaranteed DNA Synthesis",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd05WTFB3cTJFdUVkNHRKMHpXTjFXMGtHMUpXWFllYXVkMWNOSnhVVnRuUGYzWlBGZktiUGViT3IwTGI3cEpKZ21QVnlCNm5mN0ZfT0IwaHhHT2gxS3ZHaGNROTljbmVNMTlrNjR3Wmw4M1FYaldSNUhVVlU4b3pkcy00djNhWHlfN1ZFY1A5V3BqWnlSM3dVVDdNWmhfSGlGZERYejNzZEwzWnNSamwtcjNYVnVXYkhRZGdFT281MDNFSnM4RlVMTjVneWFLSVdKSnV4a21TdkNhRGFuR0MyNXFDQW5WbXpWTmcxS1djNHAyV1hEWXVHQjYyUQ?oc=5",
+  "fecha": "2026-11-18T13:03:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "05155899f774d4",
   "fuente_id": "macrumors",
   "titular": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
@@ -6433,6 +6604,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "7a5dfddccee676",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-130735: Grav Twig Injection Enables Persistent Script Execution via Image Metadata",
+  "bajada": "Critical Threat Advisory: Assigned a 9.8 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. Grav from 2.0.0 before 2.2.18 contains a...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-130735-grav-twig-injection-enables-persistent-script-execution-via/",
+  "fecha": "2026-11-18T12:46:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "194c44b3534698",
   "fuente_id": "el-heraldo",
   "titular": "¿Quién es Ricardo Salinas, el empresario mexicano que invertirá en Colombia?",
@@ -6551,6 +6732,16 @@
   "fecha": "2026-11-18T12:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "3657a0aaee7666",
+  "fuente_id": "business-wire",
+  "titular": "EasyPost, the Leading Shipping AI and API Platform for Modern Commerce, to Go Public on Nasdaq Through Business Combination with American Drive Acquisition Company",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUXVQNUF2SFRCUXpKQVpyc09yd3JhMl9HYzVZQ1dfOG9yZG45VmdKTWxDejAtXzByVTgxM1RVWGt6c0dlNko1STd5WGtGNS1RdW1lVzJBbFBTWnUyS2pFNU1vVXp6eG5IdDJUNk9FUnhFdVJSeEswZWlOc0lWalRWOVR6aUhHRlBuSUdiNGpuajFHMHpIQ1M5bGRWT0xua1ZZelUxbk14WE5xV2lGT1RWVUt2QVA3OGVRclROeVd6WVNOWDlvYWVfc0g4T3dPamMtVFpaR2tzQTg5dmt1eWdObkV2QnNpVXJsU3BmRVFhLVJTY0RwV3VJS2pRRUpNenRTNnY2bXlqdXd6VWd6OFZyYXNTYVVPa2tUTDBNOXpTcEl6aVFPdUt4ZjJSemdSanprSzhkc2NDbW1BdmsxZzZ3?oc=5",
+  "fecha": "2026-11-18T12:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "ace570749dddb2",
@@ -6843,6 +7034,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "c046df1dbb94cf",
+  "fuente_id": "cisa-ics",
+  "titular": "Danfoss AK-SM 8xxA Series (Update A)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDZDVJWFpicVdrSzl4VWFBeFFKWTRFRVVtTXZ0ZFZ0OVNKbFdROUlxT0JUNXBlT1B2V2dXWFhVNTBfUzFPdG8tSGRUUHdHcEMwX0tFOFBrVVlhcGVJZjRoX1c2OXhhQ2RhYVRvckE3MA?oc=5",
+  "fecha": "2026-11-18T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "4768f8a7188f1b",
   "fuente_id": "la-republica",
   "titular": "Alcaldía de Bogotá entregará hasta $10 millones a locales por incendio ocurrido en el Gran San",
@@ -7116,6 +7317,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "edc885b0b38e65",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-110486: Unauthenticated RCE in Eclipse Mosquitto WebSocket Listener (CVE-2026-110486)",
+  "bajada": "Critical Threat Advisory: Assigned a 9.8 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. In Eclipse Mosquitto versions 2.1 through 2.1.2,...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-110486-unauthenticated-rce-in-eclipse-mosquitto-websocket-listener/",
+  "fecha": "2026-11-18T11:30:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "47cd1092f7c253",
   "fuente_id": "el-heraldo",
   "titular": "Milagro Week: MinTic anunció acuerdo con Meta para proteger a menores en entornos digitales",
@@ -7317,6 +7528,16 @@
   "fecha": "2026-11-18T11:11:15+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "1162d072425e84",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] Al Mulla & Behbehani appointed official Leapmotor’s distributor in Kuwait",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IU0cwYUc5eDFHNzBUbVlEdnVLU2ZnT0tNUERhd1NVaXFSRmZISUdnbzJTZnd6M19OT01fQ0VObUMzRndVZ3MzbzdPSFNWb3pwdHc?oc=5",
+  "fecha": "2026-11-18T11:11:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "60ba7623a7158b",
@@ -7959,6 +8180,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "87fdf0c4099e04",
+  "fuente_id": "thehackerwire",
+  "titular": "CVE-2026-91570: Oracle WebLogic Server TopLink Integration Vulnerability Enables Unauthenticated Remote Takeover",
+  "bajada": "Critical Threat Advisory: Assigned a 9.8 Critical severity rating. Successful remote exploitation can lead to complete host takeover or severe data compromise. Immediate security evaluation is strongly advised. Vulnerability in the Oracle WebLogic Server product...",
+  "enlace": "https://www.thehackerwire.com/cve-2026-91570-oracle-weblogic-server-toplink-integration-vulnerability/",
+  "fecha": "2026-11-18T09:16:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
   "id": "b70cbaddb100e9",
   "fuente_id": "securitybrief",
   "titular": "Security Journey brings training to Claude & ChatGPT",
@@ -8328,6 +8559,36 @@
   "fecha": "2026-11-18T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "7ece49ceb71a78",
+  "fuente_id": "business-wire",
+  "titular": "PulteGroup Increases Quarterly Cash Dividend by 4% to $0.27 Per Share",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNElRTUM5WFNrZFkxd0lKSkt5V3laaE1rUzdCSnR6MzVQQ2dzbEtjRGwwNDRmQkhJd0JDTW9VNkVEdkVtOUVCV1VRbjdrdGxOSTUyYXA2U0VWR2RVNjJ3ZEl1UUFmaWs4eHFiTWdSZk0wM3NWVlJWQU1majdmVndqeFBhdGd3MEQxeFJtZThpelhKdTI1UEFienJ1NnZyR2FyNDE4SDZwT0RSdVpVS2ptTVRSZzdDV19oTW5lUklscWZiT3dRSGc?oc=5",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "95756336570d36",
+  "fuente_id": "unicef",
+  "titular": "Municipios, provincias y actores de la sociedad civil rearfirmaron su compromiso con la primera infancia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUHpfbUZ5UHR6ZWUzWW1PSTBGc04wWGQyNGE1YnpxQlU5cHhaWHFZUWhOY09XTnlBcDRCbEZtS0dlVURldGRUYjNzY1lSbHBFM1AyaTJVY1JtWEdHRkNOMEs0YjlTRGxvQzk2M2drWUlPZTQ1cm5MaHZDLUpnOXJoTkhLeFlBNy0wZjR3YVdNbw?oc=5",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "21e0dd70dcfc68",
+  "fuente_id": "bbva",
+  "titular": "¿Cuáles son las diferencias entre los distintos tipos de interés?",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblFIb2dLbVluZHdJaEE1OFY3ekZISVNPYUdCNkVrTnlwYWRpMDdpVXc0dnhIYS1uNV9razJISUdkcEpsaGU5c1Z0UGlfVXJkRDBoY1FUVG5GRXVzNVFtLWYyU1ItMnFPZmQ4T1dOMG1qcUZwd0NTSWExN2ZXWk1WS3lCS0dfdDdQcy1zNEljQzlDX3doNVdycjFiRlpHWG4wZUg4UFBPVTk?oc=5",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
   "id": "9b593f00c537bc",
