@@ -100,6 +100,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "7e476ce4df7ee2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaU5fcWdWTThEVlRJcHBxc3g4bHI2ZmpvSFJEaWxQbmZsdnVWOFZQc2J2VlR3QlZwclptUVJfMF9XNDN3NzJmSVptUjR5NVpOWXhCTDJKWE11a20tQVdicU0wemtwdkRkUmVWODdKeE9GdnhmS1BKcHo5U1dKajVDQXJZN0dfRVc4WGItSVNITVAyR0ZIZXA1c3ZmcDR6S01ReVE?oc=5",
+  "fecha": "2026-11-20T04:09:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
   "id": "8ef0012ff86be7",
   "fuente_id": "bbc-mundo",
   "titular": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
@@ -249,6 +259,16 @@
   "via": "google_news",
   "primera_vista": "2026-11-20T18:56:39+00:00",
   "enlace_google_news": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTlzcjZzdWNXVE91eXBzeTBJTjhNaS04VGlJN2pHeXdNVmNQZ1JZc3JkOFEzNXFIOVhJRXg5U05UVi1DMlVSaXA4RzVOdkNvdWhPZGdrR2hxbGhxaDVLWlFZR1ZTLTVjalNlN1ljX3p6LU9jWHVpQXdLMEthSlRkTG9MVzZvekpfU04wNk44YWwxTlZrM0xHaWlrNV9vQ3JKQ3Z0OGVjRkNSajVhNndjcnJ0bWs0eFM3Nkc1RGdSaw?oc=5"
+ },
+ {
+  "id": "ede9ad4187374e",
+  "fuente_id": "the-manufacturer",
+  "titular": "The New U.S. Manufacturing Opportunity",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXhELUtlUlV5U1YyZUUxQ3dfSTlxYl80aVZ1MDZEU0xVc1J6SGgwMGpEYmRVbXlTaWc2WHhnNW03c3Y2MXdMSWRLY2ltclh3R3JJRDBleEJ5c2Q2eEFYWFlpRFlwaFZVb3pUWGlESXR0OWJqbEFUSjZCX0VyNkNkZXNJX0pUb0U1dGNqNVQzNDhObzRh?oc=5",
+  "fecha": "2026-11-20T02:37:16+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "e94b9b602fa8e1",
@@ -492,6 +512,17 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "4f7119f2b4d790",
+  "fuente_id": "el-universal",
+  "titular": "Video: Real Cartagena ya le gana a Tigres en el Morón",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/19/video-real-cartagena-ya-le-gana-a-tigres-en-el-moron/",
+  "fecha": "2026-11-20T00:52:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDgxR2Z6M29rZ0pWWHp6NmVudWxOLS0wU0tPOTRtLVdLNEZVMmxCNkg0YjdhT1QxSE1CVFJWTDhqX3VTcGpMSGlKOHJLUy1lU2ZWVnp0LWNlMTI3cGdkOHZrMTF1MDhCMHBCcFRJbVRNY1pQNGgyUllOcEZoRVdiVS1MODYwUGZEQWZ1ZXVVOFdIazRzbVJ4SDFnZS1YRnQ3Ui1DeVREYw?oc=5"
+ },
+ {
   "id": "da7d539ea83a87",
   "fuente_id": "wsj",
   "titular": "Opinion | The Astonishing Wealth of Anthropic",
@@ -530,6 +561,16 @@
   "fecha": "2026-11-20T00:43:50+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "3a77cdaa6f726b",
+  "fuente_id": "yahoo-finance",
+  "titular": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVTZfeWJfZHFoRm5GU3N0ZEJqeXlTYnR3V1lkWDlMbWZibkNUa2o3ZTN0Q1pvOENJZEdnNE9sbkZManJfVmIxbWlLckNLTUJlUjF1ejhvYTlfRzRFamhoUHZFVjVWei1QMlVtYzg1QzNBNGRoQ1UzZi1OUTZsamJtWHRObE9yTDdZX2Y5SlZQT0pkZHFLbHllYWJKNEUybDg?oc=5",
+  "fecha": "2026-11-20T00:43:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "5436fa175af69f",
@@ -681,6 +722,16 @@
   "fecha": "2026-11-20T00:01:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "2ac18ec6439dcf",
+  "fuente_id": "cnbc",
+  "titular": "Anthropic was supposed to save the AI trade. What went wrong?",
+  "bajada": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+  "enlace": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+  "fecha": "2026-11-20T00:00:38+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "4f0c876f6f73c9",
@@ -1135,6 +1186,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "b98934fecf5791",
+  "fuente_id": "yahoo-finance",
+  "titular": "California subpoenas Nvidia as questions about CEO affair, AI chips mount",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE83Skw0eUhuWjU4Q3hPMmNUb0JENWpsLWlReEpPYURSTmpISU5fMlpjTE50YUNFVWlyTVdwb0R5RFU5dUw4UmRSQjNpa1AtaFNNbHZJUUxHaFB5TkhPUkdiVTdXOEd6X2hSRzhwNm1SSmdlTC1YT2NRSjdIQ2hWb0VlUG5OcmNMUWNWOG1Jd3UyUUhkSWRlQmY2VE91UHU2Xzd0V0dYSTk?oc=5",
+  "fecha": "2026-11-19T23:04:44+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "e65087e448f0b8",
   "fuente_id": "help-net-security",
   "titular": "Android developer verification will reach every install source, with a side door for power users",
@@ -1215,6 +1276,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "96264ca7934360",
+  "fuente_id": "el-universal",
+  "titular": "“Dedicó su vida a la gente”: así despiden a Alcira Quintana tras su homicidio en Cantagallo",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNME1WeXRUbEVXa1lKZjlISjhaYzVmUGk5TEhSWjB5M1V3OXg1d3RoMVkwRHI0dVBWWDNzRTRYOGlvbnJkWEJ6eWFDWG5HbXY1VmdPVHJWMW8zTHhBSGNnYjltcUhMNGx3Rk9aaUVLUW1KLTQydVltYWxSb2xGTUdGRmE0UzZtWFowbDlhbUFPMktXcjk3aFNfWXNyWWpXTDlSeTVydHQ1VzV4Ni1xLTF4cUU2OFpFQWZOaFV5UWF5RFF0d0NfOFoxamlOS1RWYjFZd1k5M053?oc=5",
+  "fecha": "2026-11-19T22:51:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "55f4c5fa6745ba",
   "fuente_id": "yahoo-finance",
   "titular": "US Lawmakers Near Deal to Ban Chinese Cars in Lame Duck Session",
@@ -1263,6 +1334,16 @@
   "fecha": "2026-11-19T22:46:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "8711bf1ca4505b",
+  "fuente_id": "yahoo-finance",
+  "titular": "BILL Agrees to be Acquired by TPG in Partnership with Corpay",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNERzRjFsUGhOamkxQTZYWlJHTF9uUWpuUUJxT3hxYVpYQnJaMTdwSHVmSThYdm04UXpZR3FWaXYxejRxdGRXdWNyVVl4RVJ2eVRZTk82UXJrMVZrUGo3LW9qdmh0RzlqcnRDMjR5dEtoMGlsSjc4YkdEVDMxdVFxQl9NV3NmaXZ6M3VHSVByNTVYUXZrNE5yTGtNOUJGSDJ1TW1B?oc=5",
+  "fecha": "2026-11-19T22:46:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "cc40b03b9f1556",
@@ -1596,6 +1677,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "857bc6d95f8810",
+  "fuente_id": "business-wire",
+  "titular": "Strategic Storage Trust VI, Inc. Reports Third Quarter 2026 Results",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajdXZkF0NW45YUg0cEtPV3B1c2lXQ1NXQTVrQ0JicmNfTmlKMDBCeExZSy1KSDBjNWJQbGhyY0RzQ3o1X1Q3X3JrY01pQnB0NTFHNVBBRlJ4RktNYk5DWVZmajBpdDJNUXAxaDhMNXM1RGNpVnRfNTFMdXYxVTFQbGlTMkw1VGdpLVg4T1RMUXM0RGlWRmZGMERWaldCVVpJdVB5UF94YWZHdno5bUZMWFloeXNZRWdSZkNaWHVjcDE?oc=5",
+  "fecha": "2026-11-19T21:41:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "7f9073a0fa6e12",
   "fuente_id": "cnbc",
   "titular": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
@@ -1865,6 +1956,16 @@
   "fecha": "2026-11-19T20:44:44+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "90fc26d8442d55",
+  "fuente_id": "yahoo-finance",
+  "titular": "Oil settles flat as Hormuz disruptions offset global surplus fears",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdy1WaGxIV3Q2SDJjX0k5anJIcmtrR3ZJOVlpMmJ6UjgzcEdtTXFJVVh1UWZlMnhheTRZUEotUmFvWHlvMmRWX3BxemhuMHdwVklWeVBBd2laRjVfRWM2V04xNWpuQWlDSi1mUUhuSk0wZWdHV25zb0RlWk1DcVVFZnQ2cTV4bm54SEQzNE5mcVVCUXc?oc=5",
+  "fecha": "2026-11-19T20:42:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "e7a76364f02538",
@@ -2566,6 +2667,26 @@
   "fecha": "2026-11-19T18:42:04+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "9c2ab916663d9b",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnRNRnpvRjF6S1dUc1B4a05Nb09CcExXcWJwTXZhNkZTTmluNm1EZnhsVllwaUVldk1sM1pTTlhwZDl4X2VkcFFYRFNETm5xaklfYlBNaHpDaEktdTdZRmU2TU1OOFk0dGNITWFqdWhobC1vN0JFSlpXNnZ2UG4zeA?oc=5",
+  "fecha": "2026-11-19T18:41:56+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "ae5a4811c7a0cd",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnFkWnVzV2xURkstRWhVLV84OUo0TlJBQnZyYkhIUzA4TDQxTkJPZDdZUHpRaERGMU1EbTJYbjNJQjU3UXE0Zk1BU0QxVmt3cHUxV3Q1LVNyZkpxUWxHb2JLRTJ4ZGQ1TXlqcDFsRFlmbnZYNHg0bzRETnh2d09mWTZvTzRPNU1LYTlrRm5OV1M?oc=5",
+  "fecha": "2026-11-19T18:41:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "a9bc17482a32fa",
@@ -3699,6 +3820,16 @@
   "fecha": "2026-11-19T17:09:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "8c3011d99c7d83",
+  "fuente_id": "yahoo-finance",
+  "titular": "Anthropic shares jump 34% in Nasdaq debut after record IPO",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0RNTlp2UmZ4UzZleV9NTUlkMDdHVmo0cmVzbVMxV19sa1JkNFdWQ25FdTlvNWRtVDBkbkhQa3FOeDAzM3FJemU2d0FodVcxaGJwMV9FaHFaNzJmZkRPeUs0ZDFaME9GSGpnaDA5WmMtc0FFdDItMGk5TjlCMXpkTHprTzlDRDdQQlJiQ09sM0ZiUENBUnBhdHBVRQ?oc=5",
+  "fecha": "2026-11-19T17:07:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "3a2e88be7e9539",
@@ -4842,6 +4973,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "478b6b41d4e627",
+  "fuente_id": "business-wire",
+  "titular": "North Star Carbon Removal Project Selected by Government of Canada for Landmark Carbon Removal Procurement Program",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWFY3QWtOT3VpYTdFYmctcDJMbExIZWR6blBHRjN1WllEdHRmVUZpTEZzaDEzYTlrTG9iZHBuVVJMcVZfNjFsOVFsOXpSRFFfaUhsZlY1Sl9PWkExQ0JQa1J2VGFtaThtVFFhQnZkVlpJZmtXVmxwa0l0elR5WkNGcDVjcXQ5eUNTVjdEUE9HWkNETm56RHFFNjg2c0VscFF3WVlPWTZ3ZVc5LVRyUXViUS13cEtXa2FEWVVITVI1Ymo2bTZIX0FVQjV1blE1MUVOenk4TVhjUGlBS1VacFBIV3QxakgxR2NTa0tBZWlibGZqd3p4NDFhaktLMWNSWDNy?oc=5",
+  "fecha": "2026-11-19T15:34:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "288e9947dc31fd",
   "fuente_id": "la-republica",
   "titular": "Debut bursátil de Anthropic marca estreno de inteligencia artificial en Wall Street",
@@ -4880,6 +5021,16 @@
   "fecha": "2026-11-19T15:31:19+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "f9c4e90f186c40",
+  "fuente_id": "business-wire",
+  "titular": "Wynnchurch Capital Completes Take-Private Acquisition of Luxfer Holdings PLC",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXpTU2ZWTmtRZG43UUVTVUwxSE5Ib3VDUGdhbDZCOEpGVmc5MHJpc05lVWVnRVU4VGFNQkQzTmRMRnNOMG0teDR4NVNhY3EyMnJXNHNJRDdpRkd1c19oVFdKaU5DY2xTbFpPVlgyN04ySmM1VjJuSUV3NnE4V1VHenBuQ3dDVk44bVJITWNIMzdvQkJiYzBVcTI3MEF5ZEx6NmZTZHd1TFhEdDF3bnAxdWpkVUFvSzhranFpbVZ2WmJSMTVkT1VQdFNpdS1HUQ?oc=5",
+  "fecha": "2026-11-19T15:30:45+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "d0ebf3c514535d",
@@ -6045,6 +6196,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "6fd23a6fbfd52c",
+  "fuente_id": "business-wire",
+  "titular": "Bluespring Wealth Expands Mid-Atlantic Presence With Addition of $1.6 Billion Dynasty Advisors",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmZuM3Q4dEEtRTFQekk2Y0pNbjFnY1VpQkdBNHRDRE1NWTl1V2JDWXltbEItcVZ1a2hmRDkwY25pNVNvTEQzZkpBb0RyUkN1Rms5UVZIOXBLNWFESnpRMXlRRE5LOWRFZkZ5OGx0azFpMGxGOTcwYUhOcFo4eUdBekMwUEN2dGtlZ0JoZXlVWE9rRTU0bmVmeXJvQzU1MXgxTk1QSHAxVjhIVmFObHhtMk01cVJNaWRpNEdsZjJYdnVuLUZOdGNZaWIwNW9ZaU5ULVUxSHJrd2Etc3VweXFwRHk1c20yaHNt?oc=5",
+  "fecha": "2026-11-19T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "9e4ddcb4635009",
   "fuente_id": "macrumors",
   "titular": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
@@ -6254,6 +6415,16 @@
   "fecha": "2026-11-19T13:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "bab052845e85d2",
+  "fuente_id": "business-wire",
+  "titular": "Choice Properties Real Estate Investment Trust Announces Normal Course Issuer Bid",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkpIdTBGdFNiQW9GQXhkSDNyUGg3X2ZKc0Z2SnZlMWcwS2VYWUdVbG5GN2ZvbDNnMEhDT05ocWxIWm1iZ2VUNFROQzhVYVdaLWhEamd4bGNYazJzS1BKQkxSaFVnWmlISGJ3cExRR0lfUkJYX2FpNlVFWjRsOHZjMUxmNXhBSnk2MEp1NFltVzlpTmVXRUNLXzdOc3BRNmZ5VHBKWGhoWWRuanpPdG01aDA1VDdZa2RBMlhVeUZFb1JWQlg4LUJFSlA1bmFMOHI0VWpEZg?oc=5",
+  "fecha": "2026-11-19T13:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "9e797d244eef89",
@@ -6666,6 +6837,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "44d3574ac3a8b3",
+  "fuente_id": "business-wire",
+  "titular": "Carvana Expands Same-Day Delivery to Southern New Hampshire",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkJCQl93cDY2Mm1wRlc1ZmdXNFlkODJ5OFNBbmRlVjF1MmJYc0VUMXpsWDlVa1hDYkI1Z05iOFBrT3dhNnFiM2VHX2ZZZGU0eVFpOXZZN1FFT29BZTZIbm5IMHpyZGpCZ1VTd0xZdk5RVDExNUc3RlZTdDBIRFhNQW5tcGc0dXRaQ3dMd0FPWUFrR1dWRjBORnRKOHpoTDVSakhzY005T25lcDNOdkdtZDFFVllQeVU?oc=5",
+  "fecha": "2026-11-19T13:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "076943c6fee1b3",
   "fuente_id": "portafolio",
   "titular": "Lo que debe saber del nuevo Renault 4 eléctrico: ¿cuánto podría costar tras agotarse la preventa de 50 unidades?",
@@ -6944,6 +7125,16 @@
   "fecha": "2026-11-19T12:30:36+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "f7a02c19621857",
+  "fuente_id": "business-wire",
+  "titular": "Adjective Health Launches Point-of-Care AI Platform to Bridge the Gap Between Clinical Conversations and Treatment Plan Follow-Through",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVm82c2lFMHFuamZyR252MENhamlfN1lSQmllSEwyMTFBMUpBZnpCRzNnSEI1QWJ1MWo5RW5ibDd6YWtBbWE0Q2ZFZndrV0x4UUxJS1lSckxkMU1WSHd5YnRzYkY4NjQ0cWQ4TzlwRjJzRFIxaE9NTmU0a2s5X3BxLV9IaTRzY1hlWUNQQVBiUDRMNDJwaTM3YUItX2I0eWZNM1Q4ZHVEYlNYVkhYMHdNWXBPSzdDd2FYV2NPZ2Rqa25CbkRTc0gySm5NelI5eGFkVEJ0N1VYa2o4TTN6VjFFWVBvcWFOcWdvb1pCdV93QXl3M3dKa2QtbFAyTUZIR1l1aVp3YnZxckphQ0s4MzdXZkttOTRTOElnenNN?oc=5",
+  "fecha": "2026-11-19T12:30:36+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "7b57742fb75167",
@@ -8738,6 +8929,16 @@
   "fecha": "2026-11-19T06:26:23+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "838b04f25af6c1",
+  "fuente_id": "uicn",
+  "titular": "2004-055.pdf",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqd3hFR292RlMtTmJjU0NFVlBNbFhwaU1LeGRybVhKTm13eUhMLVBCWGV4YWp0aTMwQ1BjOVFrWHdJemJWR0sySHFnYy1vWkZnOE5qQ2lvVXdHNURJTXFKVWRSX2ZxN1JpODZ4bTY0R2RKdw?oc=5",
+  "fecha": "2026-11-19T06:19:24+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
   "id": "60c59e263a24fd",
