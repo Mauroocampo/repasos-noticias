@@ -1,5 +1,1376 @@
 [
  {
+  "id": "27f16ae41d1509",
+  "fuente_id": "yahoo-finance",
+  "titular": "Netflix Falls Below $60. Bill Ackman Explains Why That’s an Incredible Investment Opportunity.",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNms5aUFqSmw1RkF6YXM5N2lnT2tTbzFyOEJkTUZlWFRUWDNlM1daOG9ldmVuV3d6SlVZbU5wSS01QlM1NWRDc0hfS2NRSFE2NlN0WDhNUVU2eExSSWprZ1hUS0J6TmJyc0VnaHI3QVZtUEI5dUZnS2p1bHZTMzA5VTdpZmhQdHVIV0Z6cUtyYS1PQnRZY3Mw?oc=5",
+  "fecha": "2026-11-22T04:20:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c6b86babcaf0d9",
+  "fuente_id": "forbes",
+  "titular": "Today’s Wordle #1982 Hints, Clues And Answer For Sunday, November 22",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/erikkain/2026/11/21/wordle-hints-clues-answer-sunday-november-22/",
+  "fecha": "2026-11-22T04:08:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2a3b5a649367b2",
+  "fuente_id": "el-heraldo",
+  "titular": "Boca llegó como campeón a Barranquilla con la Sudamericana en sus brazos",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/boca-llego-como-campeon-a-barranquilla-con-la-sudamericana-en-sus-brazos/",
+  "fecha": "2026-11-22T04:06:20+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "be6f8110df4656",
+  "fuente_id": "cybersecurity-news",
+  "titular": "OpenRouter Users' Private AI Chats Possibly Exposed Via Compromised Third-Party Providers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XTjVwS051Y3VQMXg1alpRRm5NdFI3bjFOSVZqREdtNGpwTGo5cVBKS2hoT1p6Y0o2dXJlcXgxYi1aSmktNHB2bXBFNDJMT2s3aWRZeGpJWDczUmNrR2ZUQXhVQU9QZ9IBa0FVX3lxTFBGQWRYY1VsN2JRa2UtRkY3NkJJTkFCT3A0WDRXejdVdGdMay1tOHFSUFRKdkkxT25rTHNKNW1Jc3NxNUhqbHlaajJ3aW1uU00wSXNhUjk4TGluRUhpY1AtbkpuSUFCY0oxbXpF?oc=5",
+  "fecha": "2026-11-22T04:03:32+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "513770ec135c66",
+  "fuente_id": "el-universal",
+  "titular": "Once Caldas y Nacional no se hicieron daño: así están los grupos en los cuadrangulares",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/once-caldas-y-nacional-no-se-hicieron-dano-asi-estan-los-grupos-en-los-cuadrangulares/",
+  "fecha": "2026-11-22T03:50:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeF9IYS1sdnpZTE9qbHhOR0xlb3JJVXdNZUhIWENqTFM2NlVMOXJZeEFwZm94QTFCMGNHZWl4dTN2MlFsR2RhQlVRNmVyMFVOWThCNXRFOGlqN3dZc3FUM3lPUk5tb3RMdjVSZldndVFuMnBWT3FFbTRWSWdUX3RtTk5pb1hnb20tSlpxRlNYQWhmV3JkbE9sUk93RlExZExDX1gtVVZMRExrMmhkakFVTjF6T0VKV0NMT2U5czBkMThxMG05QmdRZS1pSkNweEJ6eG9F?oc=5"
+ },
+ {
+  "id": "529a22303eac63",
+  "fuente_id": "el-heraldo",
+  "titular": "Tiroteo en el norte de Barranquilla dejó muerto a un presunto asaltante",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/judicial/2026/11/22/tiroteo-en-el-norte-de-barranquilla-dejo-muerto-a-un-presunto-asaltante/",
+  "fecha": "2026-11-22T03:42:16+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "9a4813c9c165cf",
+  "fuente_id": "bbva",
+  "titular": "Patricia Espinosa",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hdldOTnB0QUJLUmU3YVR2VHFEVkU1cTV6UGZQWjYzTGlHeHlLZ01aYzN0eGRxS0VnN0x5NjBTb1ZMamowenY1d3ZzeHZRMFZQNlBucmJuS1RJWERDTnpEWDNMcGNiRzZDUm5Xdw?oc=5",
+  "fecha": "2026-11-22T03:37:13+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b98896f7f2bfa7",
+  "fuente_id": "el-heraldo",
+  "titular": "Policía Metropolitana entrega balance positivo tras final de la Copa Sudamericana en Barranquilla",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/22/policia-metropolitana-entrega-balance-positivo-tras-final-de-la-copa-sudamericana-en-barranquilla/",
+  "fecha": "2026-11-22T03:36:58+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "f43364596d9e06",
+  "fuente_id": "el-heraldo",
+  "titular": "Kevin Castaño y Casierra, la otra cara de la moneda",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/kevin-castano-y-casierra-la-otra-cara-de-la-moneda/",
+  "fecha": "2026-11-22T03:15:54+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "1b68c309a6b60e",
+  "fuente_id": "yahoo-finance",
+  "titular": "3 Top AI Stocks With At Least 14% ROE",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm1tNjdMbVBqVzRFN3FqVUo0WG1zT3JQZjVfOXhMdjZzekg1UndFbDJaWk1Vb3J3QUpkb0RhWnpsUXJBU1VWZ0pRUG5haGF1THJ4SVFoYnRBVjhqNVhURTg4LVVaZy1Va0ZQaUw2eVFaVHQ4R3pxU2NvSGZnaTB0YWJGdmFHVmNSYUZxWVFR?oc=5",
+  "fecha": "2026-11-22T03:12:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ce1e85ae7217b0",
+  "fuente_id": "el-heraldo",
+  "titular": "“Vino ‘el Vasco’ y nos cambió la cara”: Miguel Merentiel destaca el impacto de Arruabarrena tras victoria de Boca Juniors",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/vino-el-vasco-y-nos-cambio-la-cara-miguel-merentiel-destaca-el-impacto-de-arruabarrena-tras-victoria-de-boca-juniors/",
+  "fecha": "2026-11-22T03:10:33+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "60f312cf9d770e",
+  "fuente_id": "unite-ai",
+  "titular": "OpenRouter Cuts Three Providers After AI Prompt Exposure Findings",
+  "bajada": "OpenRouter announced on November 22, 2026, that it had off-boarded three inference providers and removed 125 endpoints from eligibility for Zero Data Retention (ZDR), a setting under which prompts and responses are not stored. It also notified all potentially affected customers…",
+  "enlace": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/",
+  "fecha": "2026-11-22T03:06:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "4a6ed4f2d87fbc",
+  "fuente_id": "el-heraldo",
+  "titular": "Los hombres ya no quieren vivir con las emociones bajo llave",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/22/los-hombres-ya-no-quieren-vivir-con-las-emociones-bajo-llave/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "629c11da32f23b",
+  "fuente_id": "el-heraldo",
+  "titular": "La Ley del Montes | Apreciados Ministros…",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/politica/2026/11/22/la-ley-del-montes-apreciados-ministros/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "342c6fd9720707",
+  "fuente_id": "el-heraldo",
+  "titular": "Disputas criminales, lo que más dispara las muertes de mujeres en Atlántico",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/judicial/2026/11/22/disputas-criminales-lo-que-mas-dispara-las-muertes-de-mujeres-en-atlantico/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "35c27f97fcfa16",
+  "fuente_id": "el-heraldo",
+  "titular": "‘GTA VI’: una odisea técnica que tomó 13 años",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/22/gta-vi-una-odisea-tecnica-que-tomo-13-anos/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "3c1145aa482187",
+  "fuente_id": "el-heraldo",
+  "titular": "El edadismo financiero limita el acceso al crédito de adultos mayores",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/22/el-edadismo-financiero-limita-el-acceso-al-credito-de-adultos-mayores/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "1db8ec10056c88",
+  "fuente_id": "el-heraldo",
+  "titular": "El camino fácil hacia los cargos públicos: los títulos falsos vuelven a sacudir la política",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/politica/2026/11/22/el-camino-facil-hacia-los-cargos-publicos-los-titulos-falsos-vuelven-a-sacudir-la-politica/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "e0d279e99860c4",
+  "fuente_id": "el-heraldo",
+  "titular": "Tarifas de energía irán al alza en el Caribe por el fenómeno de El Niño",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/22/tarifas-de-energia-iran-al-alza-en-el-caribe-por-el-fenomeno-de-el-nino/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "62c8350d3853f5",
+  "fuente_id": "el-heraldo",
+  "titular": "Canciones de Escalona se transforman en piezas de moda y arte",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/22/canciones-de-escalona-se-transforman-en-piezas-de-moda-y-arte/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b7c75467141929",
+  "fuente_id": "el-heraldo",
+  "titular": "Los proyectos de la Milagro Week en el Caribe",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/22/los-proyectos-de-la-milagro-week-en-el-caribe/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "7f17adea1c3849",
+  "fuente_id": "el-heraldo",
+  "titular": "¿De dónde saldrá la plata para llevar a buen puerto la Ley de Rescate Económico?",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/economia/2026/11/22/de-donde-saldra-la-plata-para-llevar-a-buen-puerto-la-ley-de-rescate-economico/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "51c777fca8f0d2",
+  "fuente_id": "el-heraldo",
+  "titular": "Senderismo en el Atlántico, una alternativa para descubrir distintos tesoros naturales",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/22/senderismo-en-el-atlantico-una-alternativa-para-descubrir-distintos-tesoros-naturales/",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "3626bc55a813ef",
+  "fuente_id": "wsj",
+  "titular": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c?mod=rss_worldnews",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "88c90b542a65e0",
+  "fuente_id": "wsj",
+  "titular": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "600ad091474353",
+  "fuente_id": "wsj",
+  "titular": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-22T03:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "700c8205584f11",
+  "fuente_id": "el-heraldo",
+  "titular": "El nuevo Metropolitano, un gigante que deslumbró a todo un continente",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/el-nuevo-metropolitano-un-gigante-que-deslumbro-a-todo-un-continente/",
+  "fecha": "2026-11-22T02:55:39+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a7069582068c16",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Could Execute Commands on WordPress, Email and Print Servers Through Upload2Shell Flaw",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51d3lNdVpzZXhSMUpsSnp3TTU5bjNGdUhvc1NWMDJpT1lBNHBlZnh5VHJvTkd3RjlmQW1Uc3ZTa29YYkZ0ZjJuQUplZ0ItRk9JYk9JNDI5dWZKcUQz0gFiQVVfeXFMTU1qM2ZlUTdfYXRMVWpCZG14OHRhZUlGQ3ZLZExsbmFESXh2V2pkZkgwVS1ZZlBGSmxFSHFSNWEzVWxwTVRaMnNxbVRGTGlIOVNkbWVyNUItdHU4VWRUcHgwenc?oc=5",
+  "fecha": "2026-11-22T02:48:32+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "132c3c571beead",
+  "fuente_id": "el-heraldo",
+  "titular": "Sebastián Villa celebra el título de la Copa Sudamericana al ritmo de ‘Colombia, tierra querida’",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/sebastian-villa-celebra-el-titulo-de-la-copa-sudamericana-al-ritmo-de-colombia-tierra-querida/",
+  "fecha": "2026-11-22T02:44:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "45a5f6c8f48618",
+  "fuente_id": "el-heraldo",
+  "titular": "Ascacibar, el héroe inesperado, y Merentiel, el socio de todos, fueron claves en un Boca que vuelve a meter miedo",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/ascacibar-el-heroe-inesperado-y-merentiel-el-socio-de-todos-flueron-claves-en-un-boca-que-vuelve-a-meter-miedo/",
+  "fecha": "2026-11-22T02:34:19+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "9819c770f04ca8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
+  "fecha": "2026-11-22T02:18:32+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "440c74b79a8187",
+  "fuente_id": "el-heraldo",
+  "titular": "“Esto es muy importante para mi carrera”: Sebastián Villa",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/esto-es-muy-importante-para-mi-carrera-sebastian-villa/",
+  "fecha": "2026-11-22T02:13:50+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "d321bae7aea2ac",
+  "fuente_id": "el-heraldo",
+  "titular": "“Todos lo necesitábamos después de 18 años”: Arruabarrena tras victoria de Boca Juniors",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/todos-lo-necesitabamos-despues-de-18-anos-arruabarrena-tras-victoria-de-boca-juniors/",
+  "fecha": "2026-11-22T02:12:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c45485f545f583",
+  "fuente_id": "el-heraldo",
+  "titular": "Miles de aficionados celebran en Argentina la tercera Copa Sudamericana de Boca Juniors",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/miles-de-aficionados-celebran-en-argentina-la-tercera-copa-sudamericana-de-boca-juniors/",
+  "fecha": "2026-11-22T02:10:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2b2a048766fec8",
+  "fuente_id": "el-heraldo",
+  "titular": "“Perdimos porque entramos nerviosos y Boca hizo todo de forma natural”: Domínguez",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/perdimos-porque-entramos-nerviosos-y-boca-hizo-todo-de-forma-natural-dominguez/",
+  "fecha": "2026-11-22T02:08:15+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2bedf3c818cbcd",
+  "fuente_id": "wsj",
+  "titular": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews",
+  "fecha": "2026-11-22T02:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "10cfbde8afc278",
+  "fuente_id": "wsj",
+  "titular": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_worldnews",
+  "fecha": "2026-11-22T02:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c8d16e8a95ea09",
+  "fuente_id": "el-heraldo",
+  "titular": "Leandro Paredes se desmayó en plena entrevista en la final de la Copa Sudamericana",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/leandro-paredes-se-desmayo-en-plena-entrevista-en-la-final-de-la-copa-sudamericana/",
+  "fecha": "2026-11-22T01:37:38+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "5db4fe6fc4d6a1",
+  "fuente_id": "el-universal",
+  "titular": "Las palabras de Sebastián Villa tras conquistar la Copa Sudamericana: “Vamos por más”",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/las-palabras-de-sebastian-villa-tras-conquistar-la-copa-sudamericana-vamos-por-mas/",
+  "fecha": "2026-11-22T01:32:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0ZxcEFaY0VHVklGT253LXR0WjZlZWxJWG9QMFE0eDJjalNfc3UxQkhCbi1qVWtPZElDTTIyc0dxQ0dEWVFSNHhJLTZ1cFlQR1hDeFJjQ2VpR3pDM3BYNnNnRFZfeDNjeEtpcmRnei1PVlRWaE83OEduLTJWS0hqZFZWMFlhMGs0S0pTNDNTQlJhMEtiZHo2cnFia0YxendZTGs4MzFsZWxBTXhtTHJxbGVHMzcwX0Jxc2xXZFRIWmRDX05oMEk2Mk9SSTV3Nms?oc=5"
+ },
+ {
+  "id": "d0efa90bb5c283",
+  "fuente_id": "abc-economia",
+  "titular": "Sánchez afianza una macroestructura de Estado 6.500 millones más cara que la de Rajoy",
+  "bajada": "Duplicar el radio de acción del ingreso mínimo vital, compensar a los contribuyentes buena parte del sobrecoste fiscal de 500 euros que han tenido que asumir por la no adaptación de las tarifas del IRPF a la inflación o enjugar con holgura el déficit inversor en conservación de…",
+  "enlace": "https://www.abc.es/economia/sanchez-afianza-macroestructura-estado-6500-millones-cara-20261122020432-nt.html",
+  "fecha": "2026-11-22T01:22:39+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c0a81ac0d719d1",
+  "fuente_id": "el-heraldo",
+  "titular": "Medios internacionales destacan la victoria de Boca Juniors en Barranquilla",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/22/medios-internacionales-destacan-la-victoria-de-boca-juniors-en-barranquilla/",
+  "fecha": "2026-11-22T01:11:51+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "d500fcded6d9e8",
+  "fuente_id": "securityweek",
+  "titular": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+  "bajada": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+  "enlace": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+  "fecha": "2026-11-22T00:53:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "af2f47ab4f222a",
+  "fuente_id": "el-heraldo",
+  "titular": "Boca gritó campeón en Curramba y el Malecón se vistió de fiesta",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/22/boca-grito-campeon-en-curramba-y-el-malecon-se-vistio-de-fiesta/",
+  "fecha": "2026-11-22T00:52:59+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ac18f3f6ec8c27",
+  "fuente_id": "yahoo-finance",
+  "titular": "Kroger lays off American workers, moves jobs to India",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGgwekJZd3R1SWdlZi16cm1tcG9jNjI0dWJmdVF5ZGtqeWprWUh1SkZUd29RWkpoaDI2ZG9WWE4tbnZidm9JR3BLbU43REVhQm9IbS1iZGZmMEJvdkFTMDVPTS1vNFhMNUJucVdRc0lXTlJwc3NZazR4cGUwY05KWTAwSFlTb05UOHREMHUzQlhJQnBUc1p4Y2FYaEUwZw?oc=5",
+  "fecha": "2026-11-22T00:37:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ab27acfae4817f",
+  "fuente_id": "el-universal",
+  "titular": "Sebastián Villa y Álvaro Montero, campeones de Copa Sudamericana con Boca Juniors",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/sebastian-villa-y-alvaro-montero-campeones-de-copa-sudamericana-con-boca-juniors/",
+  "fecha": "2026-11-22T00:25:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzJleUpxdmJ0d0tGMlZPdjdpNHpjcDlrVUZVV2xPMG1PdUNNTHFDQzliVFBJTDJtMkJOWGJ4N0Yyc3k1ams4RlBVQUtVMlBQVURRZVZVUHhVY2RRa3NCX21XQnNtTnNlWUhyeFVjSE9WaHhoclpBa0xjNFMycnFmdkN5TjAzNmNzcHZYVTNPNmlMejY4b2gxdExQMjJLZkducl93S3A0dFVjbUU5QnhSVjM5VDgxQW5ydUFmd0FrczA5T3FlUk9Uck9QbE4?oc=5"
+ },
+ {
+  "id": "fe7b4f4973f59c",
+  "fuente_id": "el-heraldo",
+  "titular": "De la Espriella critica gasto en la JEP, falta de bienes de las Farc y presunta corrupción en la Unidad de Víctimas",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/22/de-la-espriella-critica-gasto-en-la-jep-falta-de-bienes-de-las-farc-y-presunta-corrupcion-en-la-unidad-de-victimas/",
+  "fecha": "2026-11-22T00:17:25+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "52104744c1bc00",
+  "fuente_id": "el-heraldo",
+  "titular": "Los vecinos del ‘Supermetro’, desbordados en apoyo al conjunto xeneize",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/22/los-vecinos-del-supermetro-desbordados-en-apoyo-al-conjunto-xeneize/",
+  "fecha": "2026-11-22T00:06:30+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "512cc89ebb4345",
+  "fuente_id": "forbes",
+  "titular": "Debunking The Most Popular James Bond 007 Theory",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/markhughes/2026/11/21/debunking-the-most-popular-james-bond-007-theory/",
+  "fecha": "2026-11-22T00:01:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "27ca8a9362c489",
+  "fuente_id": "el-heraldo",
+  "titular": "El presidente De la Espriella compartió con hinchas durante la final de la Sudamericana",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/el-presidente-de-la-espriella-compartio-con-hinchas-durante-la-final-de-la-sudamericana/",
+  "fecha": "2026-11-21T23:55:48+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "5d6b72a424b04e",
+  "fuente_id": "el-heraldo",
+  "titular": "Disparan contra supermercado en el suroriente de Barranquilla: dos capturados",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/judicial/2026/11/21/disparan-contra-supermercado-en-el-suroriente-de-barranquilla-dos-capturados/",
+  "fecha": "2026-11-21T23:52:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "1b288ebdc0bb73",
+  "fuente_id": "el-heraldo",
+  "titular": "Así fue el primer gol en el Supermetro: Ascacívar entró en la historia del estadio",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/21/asi-fue-el-primer-gol-en-el-supermetro-ascacivar-entro-en-la-historia-del-estadio/",
+  "fecha": "2026-11-21T23:50:27+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b4db6cd96a8a6c",
+  "fuente_id": "el-universal",
+  "titular": "Video: asistencia descomunal de Villa para otro golazo de Boca en la final de la Sudamericana",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/video-asistencia-descomunal-de-villa-para-otro-golazo-de-boca-en-la-final-de-la-sudamericana/",
+  "fecha": "2026-11-21T23:44:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMTlhRmNtbVlQODdHNnZiRmZFa1c5TktTaEQwNlVtWWs5eWgzdnplQ2tSRWZPeFFGcEFERVVoNTRuc1JyY2NValhCZEc0N09YV08wV0xidS1YQlQyYlZ6dU5SNGtDUmo0bVhMUl84eG1Fc0N5MjhyTjdtZFNPdENsQ0dhM1NqRFhkdTBQQ3k3ZC1yREFzTHdRUTRHdWNhQXVwd2J2dXBrSkNtOUpLMDREMmtxdVl6TkNPSjFaZUZXLUZFOFVxLXhBcnFPUFZoYmZvMkk0Nk9leDB1YzY4?oc=5"
+ },
+ {
+  "id": "aec90b6b715047",
+  "fuente_id": "unite-ai",
+  "titular": "Together AI Discloses Prompt Leak After Coding Agent Exposed Credential",
+  "bajada": "Together AI disclosed on November 21, 2026 that an unauthorized party downloaded stored samples from a subset of customer prompts submitted to its serverless inference service. An AI coding agent had exposed the private-repository credential used in the download while the…",
+  "enlace": "https://www.unite.ai/together-ai-discloses-prompt-leak-after-coding-agent-exposed-credential/",
+  "fecha": "2026-11-21T23:38:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ba1628b4d4c09a",
+  "fuente_id": "el-heraldo",
+  "titular": "‘La Despensa de Don Luis’ llega a Mercado Libre y abre ruta para 12.000 emprendedores en convocatoria de la Patria Milagro",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/la-despensa-de-don-luis-llega-a-mercado-libre-y-abre-ruta-para-12000-emprendedores-en-convocatoria-de-la-patria-milagro/",
+  "fecha": "2026-11-21T23:24:09+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "8339fe482a1da8",
+  "fuente_id": "el-universal",
+  "titular": "Video: el golazo de Ascacibar que tiene ganando a Boca Juniors la Copa Sudamericana",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/video-el-golazo-de-ascacibar-que-tiene-ganando-a-boca-juniors-la-copa-sudamericana/",
+  "fecha": "2026-11-21T23:20:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZjFma3JDRHVoLW1PV1lMUkk3MHZseHpFUnJqQlJZUktqeV9jWkNDM2FzUE96WHV4ZlhoODhKY1pBZWNDcHUxM2FkR3ZkLXFEc0VYblE5RVRsQTFPM0lESG0xTkE4a0xEZmE4eVY5blpkVVU1akZabEJvRWR5c0hiYzN1VE5qNDVQT3k0U0dLeEVUNlRlSzRMbzFaLW15cGpGX3I0WW9fNXB0TDBKdllUZFJPTngzaURfa3E3MzY1ZHRKSk9HVGZacXNGR0VqU1U?oc=5"
+ },
+ {
+  "id": "9ca2b40e6c222b",
+  "fuente_id": "abc-economia",
+  "titular": "Una legislatura de primeras veces",
+  "bajada": "A una semana de acudir a las urnas, es hora de hacer balance de la primera legislatura de la historia de la democracia en la que no se ha aprobado un solo presupuesto. Ha sido, sin duda, una legislatura de primeras veces. Los cuatro años anteriores de Pedro Sánchez ya fueron…",
+  "enlace": "https://www.abc.es/economia/yolanda-gomez-legislatura-primeras-veces-20261122001900-nt.html",
+  "fecha": "2026-11-21T23:19:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "0518eb34af5c3b",
+  "fuente_id": "abc-economia",
+  "titular": "La startup que exprime la IA para convertir una idea en negocio en dos horas",
+  "bajada": "Una idea de negocio puede permanecer durante años sin salir de una libreta, especialmente cuando quien la imagina carece de tiempo para convertirla en un producto. Esa dificultad llevó a Matías Szarfer y Sergi Fayos a crear Spelt, una plataforma que utiliza IA para desarrollar…",
+  "enlace": "https://www.abc.es/economia/startup-exprime-ia-convertir-idea-negocio-dos-20261122001204-nt.html",
+  "fecha": "2026-11-21T23:12:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "927d6d1f4ccf20",
+  "fuente_id": "abc-economia",
+  "titular": "Los hoteles evolucionan para sacar partido a cada segundo y metro cuadrado",
+  "bajada": "¿Es posible monetizar los servicios de un hotel más allá de las habitaciones? El Total Revenue Management , estrategia de gestión que optimiza los ingresos y la rentabilidad de todo el establecimiento, se ocupa de sacarle partido a las áreas y servicios complementarios. Los…",
+  "enlace": "https://www.abc.es/economia/hoteles-evolucionan-sacar-partido-segundo-metro-cuadrado-20261122001201-nt.html",
+  "fecha": "2026-11-21T23:12:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ae094a1148f13d",
+  "fuente_id": "el-heraldo",
+  "titular": "Todo salió a pedir de Boca en el Supermetro",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/21/atletico-mineiro-vs-boca-junior-formaciones-confirmadas-para-ir-por-la-gloria-continental/",
+  "fecha": "2026-11-21T23:10:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b379598f8eb6d8",
+  "fuente_id": "abc-economia",
+  "titular": "El auge de las suscripciones transforma el videojuego en España",
+  "bajada": "Hubo un tiempo en el que estrenar un videojuego empezaba antes de encender la consola o el ordenador: tocaba acercarse a la tienda, recorrer las estanterías, pasar por caja y volver a casa con el preciado botín bajo el brazo. Ese ritual está perdiendo peso mientras modelos como…",
+  "enlace": "https://www.abc.es/economia/auge-suscripciones-transforma-videojuego-espana-20261122001000-nt.html",
+  "fecha": "2026-11-21T23:10:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2f3b53721f39d5",
+  "fuente_id": "abc-economia",
+  "titular": "Así se construye una estrategia integral frente al cibercrimen",
+  "bajada": "En tiempos de vertiginosa transformación tecnológica y de amenazas digitales cada vez más sofisticadas y voraces, el encuentro ' Ciberseguridad: preparados para lo que viene ', celebrado en la sede de Vocento el pasado 13 de noviembre, sirvió de gran punto de encuentro para…",
+  "enlace": "https://www.abc.es/economia/construye-estrategia-integral-frente-cibercrimen-20261122000500-nt.html",
+  "fecha": "2026-11-21T23:05:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "093df098768ebc",
+  "fuente_id": "bbc-mundo",
+  "titular": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+  "bajada": "\"Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia\", dice la Princesa de Gales en el documental.",
+  "enlace": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
+  "fecha": "2026-11-21T22:57:24+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "f166f0ae3b4224",
+  "fuente_id": "el-heraldo",
+  "titular": "Perú reporta 1 fallecido, 16 lesionados y 850 damnificados tras sismo de 6,7 del viernes",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/mundo/2026/11/21/peru-reporta-1-fallecido-16-lesionados-y-850-damnificados-tras-sismo-de-67-del-viernes/",
+  "fecha": "2026-11-21T22:49:24+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ce1042540b24b7",
+  "fuente_id": "el-heraldo",
+  "titular": "Christian Daes llevó a ‘Chancletica’ a la final de la Sudamericana: ‘El humillado será exaltado’",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/21/christian-daes-llevo-a-chancletica-a-la-final-de-la-sudamericana-el-humillado-sera-exaltado/",
+  "fecha": "2026-11-21T22:49:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "0fa994e897f0f2",
+  "fuente_id": "portafolio",
+  "titular": "Grupo Argos vendió acciones de Cementos Argos para aumentar el flotante y fortalecer su visibilidad internacional",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/grupo-argos-vendio-acciones-de-cementos-argos-para-aumentar-el-flotante-y-fortalecer-su-visibilidad-internacional-506845",
+  "fecha": "2026-11-21T22:49:08+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "e3680befbb6cca",
+  "fuente_id": "el-universal",
+  "titular": "Cararín mantiene su paso imparable y Bravitos despierta con autoridad en el Béisbol de Desarrollo",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/cararin-mantiene-su-paso-imparable-y-bravitos-despierta-con-autoridad-en-el-beisbol-de-desarrollo/",
+  "fecha": "2026-11-21T22:49:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOF9nVEZCMm5BWjY5M0FyOURBRkRUc3NoX1JZVW9vSjJUQnpDZGNrNFRPRjVzRGVLcXZyV2FfeUZqaXN2U0RuM0t6WmdVZ2oyUHJEUTZoM2pxWEZJM045eE00RWJrX2dsT281TGhQRGpxVmFmSGIwUDNzb21aTHBtM0M2cjZjZHl5UDFzN3ZhQ0QwMGhvRnl0NUUxOVBRNlBqSXh0Z0FWM0dSVDJydjdSUFRvUHJmX2ZXV0VtYllQWkRqVXhCaGNCTDl1c1JxZF9IWU10aXkyMmI5Y2dIcDlWNlhhOA?oc=5"
+ },
+ {
+  "id": "66fa9570b12080",
+  "fuente_id": "el-heraldo",
+  "titular": "El Gran Malecón también palpita con la final de la Sudamericana en pantalla gigante",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/21/el-gran-malecon-tambien-palpita-la-final-de-la-sudamericana-en-pantalla-gigante/",
+  "fecha": "2026-11-21T22:46:20+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "0073d720b12a19",
+  "fuente_id": "la-republica",
+  "titular": "Se inauguró nuevo servicio ferroviario de carga en Uruguay con millonaria inversión",
+  "bajada": "El proyecto incorpora siete locomotoras de la compañía estadounidense Wabtec y busca ampliar las alternativas de transporte de mercadería en el país, además de captar cargas provenientes de Argentina, Brasil y Paraguay",
+  "enlace": "https://www.larepublica.co/globoeconomia/se-inauguro-nuevo-servicio-ferroviario-de-carga-en-uruguay-con-millonaria-inversion-4530172",
+  "fecha": "2026-11-21T22:43:30+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "403c97f9772c0a",
+  "fuente_id": "forbes",
+  "titular": "Barilla Partners With F1 Arcade For Formula 1 Las Vegas Grand Prix",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/jacquelinejevtich/2026/11/21/barilla-partners-with-f1-arcade-for-formula-1-las-vegas-grand-prix/",
+  "fecha": "2026-11-21T22:36:07+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "04d3399800d60a",
+  "fuente_id": "el-heraldo",
+  "titular": "Barranquilla recibió la final Sudamericana a ritmo de Carnaval",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/21/barranquilla-recibio-la-final-sudamericana-a-ritmo-de-carnaval/",
+  "fecha": "2026-11-21T22:26:33+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "05a1e8b358b5dd",
+  "fuente_id": "el-universal",
+  "titular": "Copa Sudamericana: tres colombianos titulares en la final de Barranquilla",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/copa-sudamericana-tres-colombianos-titulares-en-la-final-de-barranquilla/",
+  "fecha": "2026-11-21T22:15:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXdScXhNdmlyQzl6Tlg0NkI5emszZ1BsUmROcmdXMVhWcFFvelBTcllxSllkS0pTbG1yYTFfX0ZQNWlyaWJtSlNlb1VkU2ZnSTBhOEtjYmE2WDFqc2w4WDd0Ui1MSHhZNFB5OG5KSEJLQjRsMEs4ZUJFNlh4TmRhbzFyeXoxSkE2WDV6cHVrTmVMUkxkMVk5ZS05a1ZaZHllNl92U0JSLU84eTdFemlIbXY2SHgtWVZWbGxuQWY1OUNFQQ?oc=5"
+ },
+ {
+  "id": "f0548299053a77",
+  "fuente_id": "el-universal",
+  "titular": "El Real Madrid impone su jerarquía y derrota al Celta de Vigo en un duelo vibrante",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/el-real-madrid-impone-su-jerarquia-y-derrota-al-celta-de-vigo-en-un-duelo-vibrante/",
+  "fecha": "2026-11-21T22:14:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOazlGU2VBbE5JQV9FS2JlN1NYLXhWNnIwdUFfeV9kQkFCR0sxc1ZFWWxNSllFR3ZzdmdIbTlZMGg1QlBNcFJOVXdXdWJ5T2tXOXRQaE56ZWM2MjVPbEowWmc3RjRhT2pJajYyTzExdzN3VDRDXzY3cldJVjZtdWdFczJMbjVVcHZaMXQ1eXloNHdWYVc3UWJCSVl2MFpvNHVWQ2x3ZENHelVXSXY1OTZLTEdDVW0ycC1xZzBnbGJMcjJBaDI4QTZvRkZpZ3dUTWs?oc=5"
+ },
+ {
+  "id": "44878547f0bf33",
+  "fuente_id": "el-heraldo",
+  "titular": "La Policía garantiza la seguridad durante el inicio del Tropical Fest en el marco de las Fiestas del Río en Montería",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/la-policia-garantiza-la-seguridad-durante-el-inicio-del-tropical-fest-en-el-marco-de-las-fiestas-del-rio-en-monteria/",
+  "fecha": "2026-11-21T22:07:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "d60b0104fd4d57",
+  "fuente_id": "la-republica",
+  "titular": "Agencia Nacional de Infraestructura habilitó 106 kilómetros de vía en Huila",
+  "bajada": "La obra hace parte del proyecto Santana - Mocoa - Neiva, con una longitud total de 456 kilómetros y una inversión global estimada en $2,1 billones",
+  "enlace": "https://www.larepublica.co/economia/agencia-naiconal-de-infraestructua-entrego-106-kilometros-de-via-en-huila-4530153",
+  "fecha": "2026-11-21T22:03:27+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "5fcedd2711e6d7",
+  "fuente_id": "el-universal",
+  "titular": "Pese al gol de Jhon Arias, Flamengo y Jorge Carrascal celebran un nuevo título en Brasil",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/pese-al-gol-de-jhon-arias-flamengo-y-jorge-carrascal-celebran-un-nuevo-titulo-en-brasil/",
+  "fecha": "2026-11-21T22:01:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUpyd3U5UXpIUGc0SUdkWXczcm5tdVlEODRJazA4NF82VkhiRFF4VjE0WmlGU3lvZ0JsN1E0TWZUQ05KaHUtcUtfVU52dFdrbmRTNldsR1RmM1ZhMk0wSEI5eDAxbDlEbnJQN1dEUXVTSExrdWFNWm1rdTVHNFJyLVpMUUZRRTNaVHhXRU9rZXhRbUxPRDZ6VDNjbmtuYTVFOTQ1X0t2TTVJa3pRb3c3eEg4ZUpYaUxaeFdVRlc2LW1BR1RxLVNubFc5OEk5aHVTYW53S3Jn?oc=5"
+ },
+ {
+  "id": "cb6ffd7690626a",
+  "fuente_id": "la-republica",
+  "titular": "Chile buscará fortalecer la cooperación en el sector de minerales críticos con Japón",
+  "bajada": "Chile es el mayor productor mundial de cobre y segundo mayor de litio, ambos metales clave para el desarrollo de vehículos eléctricos y los sistema de almacenamiento de energía",
+  "enlace": "https://www.larepublica.co/globoeconomia/con-visita-de-kast-chile-busca-fortalecer-cooperacion-en-minerales-criticos-con-japon-4530154",
+  "fecha": "2026-11-21T21:55:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "7104cd55b1d017",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nvidia faces US accounting probe amid deepening turmoil: media",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkpvTmdpdzNUMVVjZEJXbVdIYXlheTM1ZmpMRl9LdkQ1YjV1VXYtNUxGSTlHZWpzLWhfTFVnR2h0b0NMNGlsTWhOYXpYRVYyR0ZkTmJNRkh2MXAycU5Nd0pKNy1QbG92UGg1TXd0SGx4S1R6UXNDek1fTTFpZnR1VEVfaE9Na0hOYjlBUGlfUC1jTGFCS195ek1ZNjc?oc=5",
+  "fecha": "2026-11-21T21:53:54+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "3ebb15acfc39fc",
+  "fuente_id": "oms",
+  "titular": "Highly Hazardous Pesticides infographic ESP_3 pages200420",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2ZyYXI1RUZVV25pQnpiSmhUOHhSM21mTmtiaDNGbTZYandCNGxHR3ZnWW5YV2ktam92TXhXWHhVWDdpVGg0UWlKRTh2bXZsUHVLdHpWRmRQaGZ4ek1ic3QyQjJ3NW5ZY3VQYmFFZW1aY0V1Y3BRTmFfcE5TcGRCcUR2OW5OTGdzVS0wdkZlS2tnWi1rMnVhVFByckN1cUFVRUdZbGliQ3JwQ0JNaF9WVng0QktZZWxJSHJ6bUp0X3hDS1RLVkE?oc=5",
+  "fecha": "2026-11-21T21:52:40+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "008fb2073f48d6",
+  "fuente_id": "el-heraldo",
+  "titular": "Nueva Estación, Córdoba, ya cuenta con sistema de alcantarillado",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/nueva-estacion-cordoba-ya-cuenta-con-sistema-de-alcantarillado/",
+  "fecha": "2026-11-21T21:41:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "f3487ac9886e90",
+  "fuente_id": "techcrunch",
+  "titular": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "bajada": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+  "enlace": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "fecha": "2026-11-21T21:37:10+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b6733c98586a65",
+  "fuente_id": "la-republica",
+  "titular": "Producción de cacao en Ecuador podría caer 25% en 2027 según intensidad de El Niño",
+  "bajada": "Antes de El Niño, el país estaba en camino de desplazar a Ghana, el segundo mayor productor mundial, al tercer puesto a nivel global",
+  "enlace": "https://www.larepublica.co/globoeconomia/produccion-de-cacao-en-ecuador-podria-caer-25-en-2027-segun-intensidad-de-el-nino-4530145",
+  "fecha": "2026-11-21T21:31:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "69237302d17df0",
+  "fuente_id": "unite-ai",
+  "titular": "Lean and Mathlib Communities Certify Claude-Assisted Riemann Proof",
+  "bajada": "The Lean and Mathlib communities certified on November 21, 2026 that Levent Alpöge’s 17-million-line Lean library correctly states and proves the Riemann Hypothesis, following a day of compilation, statement-matching, and proof-kernel checks. Their joint statement was endorsed…",
+  "enlace": "https://www.unite.ai/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/",
+  "fecha": "2026-11-21T21:28:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "647bf78bc07533",
+  "fuente_id": "la-republica",
+  "titular": "Canadiense Ensign planea ampliar número de equipos de perforación en Venezuela",
+  "bajada": "Bob Geddes, director ejecutivo de Ensign Energy, dijo que la empresa trasladó desde la región productora del Permian en Estados Unidos a Venezuela un tercer taladro de perforación de alta especificación",
+  "enlace": "https://www.larepublica.co/globoeconomia/canadiense-ensign-planea-ampliar-numero-de-equipos-de-perforacion-en-venezuela-4530136",
+  "fecha": "2026-11-21T21:23:35+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "9c7eb5fd0b3df7",
+  "fuente_id": "wsj",
+  "titular": "Opinion | Defining Genocide Down at the International Court of Justice",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/opinion/international-court-of-justice-genocide-definition-israel-1f650a2e?mod=rss_worldnews",
+  "fecha": "2026-11-21T21:19:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "3e245c8b050e4a",
+  "fuente_id": "el-heraldo",
+  "titular": "Incautadas tres toneladas de cocaína del Clan del Golfo en La Guajira",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/incautadas-tres-toneladas-de-cocaina-del-clan-del-golfo-en-la-guajira/",
+  "fecha": "2026-11-21T21:17:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "928bb812c0fba3",
+  "fuente_id": "la-republica",
+  "titular": "MinAmbiente de Panamá afirma que la \"mafia del petróleo\" utiliza los negocios como rehenes",
+  "bajada": "Los partidarios del propuesto Tratado sobre Combustibles Fósiles, entre ellos Vanuatu, Tuvalu, Fiyi y Panamá, afirman que subsanaría una laguna en el marco climático internacional",
+  "enlace": "https://www.larepublica.co/globoeconomia/minambiente-de-panama-afirma-que-la-mafia-del-petroleo-utiliza-los-negocios-como-rehenes-4530137",
+  "fecha": "2026-11-21T21:17:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a70631eb50ce49",
+  "fuente_id": "el-heraldo",
+  "titular": "Miguel Agamez abrió el camino en el debut ganador de Colombia en el Mundial sub-17",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/21/miguel-agamez-abrio-el-camino-en-el-debut-ganador-de-colombia-en-el-mundial-sub-17/",
+  "fecha": "2026-11-21T21:16:19+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "d18f2a5f8be2a1",
+  "fuente_id": "la-republica",
+  "titular": "Riesgo país de Argentina trepa a máximo en 13 meses, inusual derrumbe de bonos",
+  "bajada": "Los bonos soberanos extrabursátiles se derrumbaron un inusual 5,6% en promedio, con ventas disparadas sobre casi toda la nómina sin importar la emisión pesificada o dolarizada",
+  "enlace": "https://www.larepublica.co/globoeconomia/riesgo-pais-de-argentina-trepa-a-maximo-en-13-meses-inusual-derrumbe-de-bonos-4530134",
+  "fecha": "2026-11-21T21:08:39+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a1abc1ba2744af",
+  "fuente_id": "techcrunch",
+  "titular": "A tale of two Nvidias",
+  "bajada": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+  "enlace": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "fecha": "2026-11-21T21:07:42+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "74fdae35207558",
+  "fuente_id": "portafolio",
+  "titular": "Don Luis pasó de vender panela puerta a puerta en Florencia a comercializar sus productos en Mercado Libre",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/sostenibilidad/don-luis-paso-de-vender-panela-puerta-a-puerta-en-florencia-a-comercializar-sus-productos-en-mercado-libre-506842",
+  "fecha": "2026-11-21T21:05:40+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a0ca58714bf4d7",
+  "fuente_id": "el-heraldo",
+  "titular": "Caso Verónica Estrada: piden a Comisión de Ética de Cámara verificar los títulos de todos los representantes",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/politica/2026/11/21/caso-veronica-estrada-piden-a-comision-de-etica-de-camara-verificar-los-titulos-de-todos-los-representantes/",
+  "fecha": "2026-11-21T21:04:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "9d0d817015a852",
+  "fuente_id": "el-heraldo",
+  "titular": "Así se prepara el tradicional bistec a caballo colombiano",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/gastronomia/2026/11/21/asi-se-prepara-el-tradicional-bistec-a-caballo-colombiano/",
+  "fecha": "2026-11-21T21:02:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "512a87e4857668",
+  "fuente_id": "la-republica",
+  "titular": "Empleados del Grupo Vázquez, dueños de Ueno Bank, exigen pago de liquidaciones",
+  "bajada": "Los afectados tras la quiebra del banco sentaron su posición de que no respaldar un proyecto de ley que plantea que el Estado asuma la administración de las empresas del Grupo Vázquez",
+  "enlace": "https://www.larepublica.co/globoeconomia/empleados-del-grupo-vazquez-duenos-de-ueno-bank-exigen-pago-de-liquidaciones-4530127",
+  "fecha": "2026-11-21T21:01:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "7803645df6696b",
+  "fuente_id": "el-heraldo",
+  "titular": "Char sobrevuela Barranquilla para supervisar la seguridad durante la final de la Sudamericana",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/21/barranquilla-despliega-2200-policias-para-garantizar-la-seguridad-durante-la-final-de-la-sudamericana/",
+  "fecha": "2026-11-21T20:59:13+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "008f4d68aa8836",
+  "fuente_id": "oms",
+  "titular": "- World Health Organization (WHO)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jREpBV2FjT3packt1MVk3eEVaQXVmLVV2dHFkWjlQS0pWR2dmbVNXZmxMYks1a1ltS01mQ3BkUnVlNlhpSU5jWmo4aV9WYk1LRy1hR002a2Z0ZC0yRG8yVUpYQ0dwWmJ2UnhnRkk4NA?oc=5",
+  "fecha": "2026-11-21T20:54:04+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "dcb1f2ccc71dc1",
+  "fuente_id": "el-heraldo",
+  "titular": "En Montería le impusieron las bandas a las candidatas del Reinado del Río",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/en-monteria-le-impusieron-las-bandas-a-las-candidatas-del-reinado-del-rio/",
+  "fecha": "2026-11-21T20:53:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a7f4aa4af721e5",
+  "fuente_id": "forbes",
+  "titular": "Eduardo Quintero Yet Another Los Angeles Dodgers Multi-Tooled Prospect",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/chuckmurr/2026/11/21/eduardo-quintero-yet-another-los-angeles-dodgers-multi-tooled-prospect/",
+  "fecha": "2026-11-21T20:48:08+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "af40b29198f9e9",
+  "fuente_id": "el-heraldo",
+  "titular": "El nuevo POT de Cartagena recibe concepto favorable del Consejo Territorial de Planeación",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/el-nuevo-pot-de-cartagena-recibe-concepto-favorable-del-consejo-territorial-de-planeacion/",
+  "fecha": "2026-11-21T20:47:12+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "0eb0b4de9f5f1c",
+  "fuente_id": "wsj",
+  "titular": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+  "fecha": "2026-11-21T20:45:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "d1d927814d20c6",
+  "fuente_id": "cyberpress",
+  "titular": "Home",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14RnRvazJZZVBDQUQ0RGd4Z0ZPQTJPWHQ5cko1eW5wbHRTVmJmamJVMWViS0NKNXJvYkhNZDdaNzROZVhtZWtJ?oc=5",
+  "fecha": "2026-11-21T20:40:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "586b9452fd4a22",
+  "fuente_id": "portafolio",
+  "titular": "Dólar en colombia podría acercarse a los $3.540 en los próximos días: ley de rescate incidiría en el mercado",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/dolar-en-colombia-podria-acercarse-a-los-3-540-en-los-proximos-dias-ley-de-rescate-incidiria-en-el-mercado-506840",
+  "fecha": "2026-11-21T20:35:23+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "0c0c685e05e084",
+  "fuente_id": "el-heraldo",
+  "titular": "La pasión boquense a pleno sol",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/21/la-pasion-boquense-a-pleno-sol/",
+  "fecha": "2026-11-21T20:32:51+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "91aa15c2f909cf",
+  "fuente_id": "la-republica",
+  "titular": "Avianca reforzó su operación para la final de la Sudamericana con capacidad adicional",
+  "bajada": "Con un Dreamliner de 291 sillas y vuelos sin escalas, la aerolínea programó trayectos directos entre Buenos Aires y Barranquilla y seis frecuencias adicionales desde Bogotá para los días de mayor demanda alrededor del partido",
+  "enlace": "https://www.larepublica.co/empresas/avianca-reforzo-su-operacion-para-la-final-de-la-sudamericana-con-capacidad-adicional-4530108",
+  "fecha": "2026-11-21T20:24:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ceef425b4a5179",
+  "fuente_id": "la-republica",
+  "titular": "La investigación de Nvidia en California abarca posibles violaciones de la ley penal",
+  "bajada": "California investiga si Nvidia vendió chips ilegalmente a China y engañó a sus inversionistas",
+  "enlace": "https://www.larepublica.co/globoeconomia/la-investigacion-de-nvidia-en-california-abarca-posibles-violaciones-de-la-ley-penal-4530101",
+  "fecha": "2026-11-21T20:19:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a14c8ae1c09d16",
+  "fuente_id": "portafolio",
+  "titular": "Ecosistema financiero impulsa la Semana de la Seguridad 2026 para prevenir fraudes en la temporada de fin de año",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/ecosistema-financiero-impulsa-la-semana-de-la-seguridad-2026-para-prevenir-fraudes-en-la-temporada-de-fin-de-ano-506838",
+  "fecha": "2026-11-21T20:18:10+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "812ef82bac42b4",
+  "fuente_id": "el-heraldo",
+  "titular": "Concurso DIAN 2676: publican resultados de las pruebas escritas y esta es la fecha límite para reclamar",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/concurso-dian-2676-publican-resultados-de-las-pruebas-escritas-y-esta-es-la-fecha-limite-para-reclamar/",
+  "fecha": "2026-11-21T20:16:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2c0fff5c174bcf",
+  "fuente_id": "el-heraldo",
+  "titular": "Dos presuntos integrantes de las disidencias de las Farc y el Clan del Golfo mueren en combates con el Ejército Nacional en Yarumal, Antioquia",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/dos-presuntos-integrantes-de-las-disidencias-de-las-farc-y-el-clan-del-golfo-mueren-en-combates-con-el-ejercito-nacional-en-yarumal/",
+  "fecha": "2026-11-21T20:14:23+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ee99aa6de36e06",
+  "fuente_id": "el-heraldo",
+  "titular": "Hinchas ‘Xeneizes’ y ‘Galos’ están listos para la gran final",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/21/hinchas-xeneizes-y-galos-estan-listos-para-la-gran-final/",
+  "fecha": "2026-11-21T20:14:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "7214f4e5211722",
+  "fuente_id": "el-heraldo",
+  "titular": "Luz Verónica Estrada designa a Santiago Trespalacios como abogado tras escándalo por presunta falsificación de títulos académicos",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/luz-veronica-estrada-designa-a-santiago-trespalacios-como-abogado-tras-escandalo-por-presunta-falsificacion-de-titulos-academicos/",
+  "fecha": "2026-11-21T20:09:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "ed2f388d8e4d63",
+  "fuente_id": "portafolio",
+  "titular": "Ocde pide que más colombianos paguen impuesto de renta y propone ampliar la base de contribuyentes",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/ocde-pide-que-mas-colombianos-paguen-impuesto-de-renta-y-propone-ampliar-la-base-de-contribuyentes-506837",
+  "fecha": "2026-11-21T20:03:02+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b44045a68b0d44",
+  "fuente_id": "portafolio",
+  "titular": "Proponen subir la edad de pensión en Colombia de forma gradual y ajustarla a la esperanza de vida",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/mis-finanzas/jubilacion/ocde-propone-subir-la-edad-de-pension-en-colombia-de-forma-gradual-y-ajustarla-a-la-esperanza-de-vida-506836",
+  "fecha": "2026-11-21T19:59:56+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "254f57767ce28f",
+  "fuente_id": "el-heraldo",
+  "titular": "Mejor Esquina, en Córdoba, estrena el Polideportivo de la Paz",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/mejor-esquina-en-cordoba-estrena-el-polideportivo-de-la-paz/",
+  "fecha": "2026-11-21T19:50:26+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c49c21a38b2677",
+  "fuente_id": "el-heraldo",
+  "titular": "“Hoy la Policía Nacional está trabajando para garantizar la seguridad de todo el Departamento”: mayor general Mujica Jaime",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/judicial/2026/11/21/hoy-la-policia-nacional-esta-trabajando-para-garantizar-la-seguridad-de-todo-el-departamento-mayor-general-mujica-jaime-subdirector-general-de-la-policia-nacional/",
+  "fecha": "2026-11-21T19:48:30+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "9f309016ec37a6",
+  "fuente_id": "la-republica",
+  "titular": "China planea fortalecer los estándares de tokens de IA en su impulso a la computación",
+  "bajada": "Los tokens de IA son unidades básicas de datos, como texto, audio y vídeo, que procesan los modelos de inteligencia artificial",
+  "enlace": "https://www.larepublica.co/globoeconomia/china-planea-fortalecer-los-estandares-de-tokens-de-ia-en-su-impulso-a-la-computacion-4530098",
+  "fecha": "2026-11-21T19:45:25+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2e078ba1b4fe5d",
+  "fuente_id": "el-heraldo",
+  "titular": "Ejército Nacional abrió inscripciones para estudiar y convertirse en suboficial: estos son los requisitos y beneficios",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/ejercito-nacional-abrio-inscripciones-para-estudiar-y-convertirse-en-suboficial-estos-son-los-requisitos-y-beneficios/",
+  "fecha": "2026-11-21T19:40:47+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "4c4adefbb7f3a8",
+  "fuente_id": "la-republica",
+  "titular": "El expresidente brasileño Jair Bolsonaro fue ingresado a Unidad de Cuidados Intensivos",
+  "bajada": "El exmandatario se encuentra bajo arresto domiciliario por motivos humanitarios y médicos ycumple desde el año pasado una condena de 27 años de prisión por conspirar para dar un golpe de Estado",
+  "enlace": "https://www.larepublica.co/globoeconomia/el-expresidente-brasileno-jair-bolsonaro-fue-ingresado-a-unidad-de-cuidados-intensivos-4530094",
+  "fecha": "2026-11-21T19:38:48+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a09443ada8a6e4",
+  "fuente_id": "portafolio",
+  "titular": "Gobierno de De la Espriella lanza convocatoria para que 12.000 emprendedores vendan sus productos por Mercado Libre",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/gobierno-de-de-la-espriella-lanza-convocatoria-para-que-12-000-emprendedores-vendan-sus-productos-por-internet-506833",
+  "fecha": "2026-11-21T19:16:59+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "9711db3b7fc803",
+  "fuente_id": "la-republica",
+  "titular": "Secretaría de Ambiente declaró en Alerta Fase 1 cuatro zonas de Bogotá por contaminación",
+  "bajada": "La medida se toma luego de que las estaciones Carvajal-Sevillana, Ciudad Bolívar, Puente Aranda y Kennedy registren niveles bajos o moderados de contaminación durante 36 horas",
+  "enlace": "https://www.larepublica.co/economia/secretaria-de-ambiente-declaro-en-alerta-fase-1-cuatro-zonas-de-bogota-por-contaminacion-4530074",
+  "fecha": "2026-11-21T19:16:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "8c1f17dea0bdbe",
+  "fuente_id": "el-universal",
+  "titular": "La invitación de Jesurún para que Cartagena amplíe el estadio Jaime Morón León",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/la-invitacion-de-jesurun-para-que-cartagena-amplie-el-estadio-jaime-moron-leon/",
+  "fecha": "2026-11-21T19:12:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFd3WndxSGFWWTdNSHlraW9oWWJ6cE5sX25iYjdvQ0ljcVY0NjkwVU1KbzAtWE9OY1FVbUNIZ2g1WjRNNy1ZeldOcVNFZ01KSmlRZzhNZzBleFNRWkp3d0YwNVJidzl5OGpkMG11YXpPMnhCaWFaaFhubWU0aTNKOWtfVFFzMEMwT1hRamplOE50cVliaWd3ajVsQUhYMEFKU3dzUEEteUFUWnRqVndiRzVlZ2NZNk9iWWt5NExqSVJUMlNITG1fejZR?oc=5"
+ },
+ {
+  "id": "a1ea53b77b75c5",
+  "fuente_id": "bbc-mundo",
+  "titular": "\"La utopía socialista\" que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
+  "bajada": "Decenas de australianos salieron de su país a finales del siglo XIX en busca de un mejor lugar para vivir. El país escogido fue Paraguay.",
+  "enlace": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
+  "fecha": "2026-11-21T18:52:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "2e6bd7d885d125",
+  "fuente_id": "el-heraldo",
+  "titular": "Avianca activa plan de contingencia con 28 vuelos adicionales tras afectaciones en aeropuertos de Bogotá y Medellín",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/avianca-activa-plan-de-contingencia-con-28-vuelos-adicionales-tras-afectaciones-en-aeropuertos-de-bogota-y-medellin/",
+  "fecha": "2026-11-21T18:52:18+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "f60c750e9cd17f",
+  "fuente_id": "el-heraldo",
+  "titular": "Jair Bolsonaro está en cuidados intensivos y sin previsión de alta pero estable",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/mundo/2026/11/21/jair-bolsonaro-esta-en-cuidados-intensivos-y-sin-prevision-de-alta-pero-estable/",
+  "fecha": "2026-11-21T18:49:11+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "b7a9ca3218b64c",
+  "fuente_id": "el-heraldo",
+  "titular": "XM confirma que Air-e avanza en un nuevo pago de $300 mil millones a las térmicas",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/xm-confirma-que-air-e-avanza-en-un-nuevo-pago-de-300000-millones-a-las-termicas/",
+  "fecha": "2026-11-21T18:48:22+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "cb04ff398bc086",
+  "fuente_id": "techcrunch",
+  "titular": "Trump says reported FBI database hack is ‘not good’",
+  "bajada": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+  "enlace": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+  "fecha": "2026-11-21T18:44:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "fffe18799e25b6",
+  "fuente_id": "forbes",
+  "titular": "Trump Wants AI Data Centers In West Virginia. The Gulf Wants Them Too, And Needs His Permission.",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/guneyyildiz/2026/11/21/trump-wants-ai-data-centers-in-west-virginia-the-gulf-wants-them-too-and-needs-his-permission/",
+  "fecha": "2026-11-21T18:41:06+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "94a364c7ff4b79",
+  "fuente_id": "portafolio",
+  "titular": "Usuarios Pro Black de Rappi recibirán el 2% de todas sus compras en créditos para viajar",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/usuarios-pro-black-de-rappi-recibiran-el-2-de-todas-sus-compras-en-creditos-para-viajar-506832",
+  "fecha": "2026-11-21T18:41:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "884a2a8001701b",
+  "fuente_id": "forbes",
+  "titular": "Comedian Leanne Morgan Gets Candid About Her Weight And Health",
+  "bajada": "",
+  "enlace": "https://www.forbes.com/sites/brucelee/2026/11/21/comedian-leanne-morgan-gets-candid-about-her-weight-and-health/",
+  "fecha": "2026-11-21T18:38:05+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "26170676b9be8f",
+  "fuente_id": "el-heraldo",
+  "titular": "Con una invitación a los cordobeses a mostrar más a Córdoba como destino emergente cerró el III Congreso de Turismo de Experiencias y Expo-experiencias",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/21/con-una-invitacion-a-los-cordobeses-a-mostrar-mas-a-cordoba-como-destino-emergente-cerro-el-iii-congreso-de-turismo-de-experiencias-y-expo-experiencias/",
+  "fecha": "2026-11-21T18:33:20+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "a95686205cd3b4",
+  "fuente_id": "la-republica",
+  "titular": "Rusia afirma que un buque de carga fue atacado por drones en el Golfo de Finlandia",
+  "bajada": "El ataque con dos drones dejó un buque ruso a la deriva en aguas finlandesas y elevó la preocupación por las rutas comerciales del mar Báltico",
+  "enlace": "https://www.larepublica.co/globoeconomia/rusia-afirma-que-un-buque-de-carga-fue-atacado-por-drones-en-el-golfo-de-finlandia-4530061",
+  "fecha": "2026-11-21T18:32:12+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "394ad3c34a3313",
+  "fuente_id": "el-heraldo",
+  "titular": "David Bisbal renueva “El burrito sabanero” con raíz y espíritu flamenco",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/21/david-bisbal-renueva-el-burrito-sabanero-con-raiz-y-espiritu-flamenco/",
+  "fecha": "2026-11-21T18:26:33+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "7c09cf5627bf43",
+  "fuente_id": "el-heraldo",
+  "titular": "Nicolás de Zubiría y su esposa viven dolorosa pérdida: “Durmió con nosotros casi toda su vida”",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/entretenimiento/2026/11/21/nicolas-de-zubiria-y-su-esposa-viven-dolorosa-perdida-durmio-con-nosotros-casi-toda-su-vida/",
+  "fecha": "2026-11-21T18:23:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "5db0ba64b52061",
+  "fuente_id": "el-heraldo",
+  "titular": "Atlético Mineiro vs. Boca Juniors: así vivió Barranquilla la final de la Copa Sudamericana",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/deportes/2026/11/21/atletico-mineiro-vs-boca-junior-asi-vive-barranquilla-los-minutos-previos-a-la-final-de-la-copa-sudamericana/",
+  "fecha": "2026-11-21T18:13:37+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "dddd213ccb4cdf",
+  "fuente_id": "la-republica",
+  "titular": "Perú fue sacudido por un fuerte terremoto de magnitud 6,7, que dejó 15 heridos",
+  "bajada": "El sismo de magnitud 6,7 se produjo poco después de las 19:00 hora local, a una profundidad de más de 129 kilómetros, con epicentro en la región andina de Junín",
+  "enlace": "https://www.larepublica.co/globoeconomia/peru-fue-sacudido-por-un-fuerte-terremoto-de-magnitud-6-7-que-dejo-15-heridos-4530068",
+  "fecha": "2026-11-21T18:05:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "24b457853a613c",
+  "fuente_id": "portafolio",
+  "titular": "Crece el número de profesionales que generan ingresos desde Colombia para el exterior",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tecnologia/crece-el-numero-de-profesionales-que-generan-ingresos-desde-colombia-para-el-exterior-506830",
+  "fecha": "2026-11-21T17:58:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "d8bc734b457986",
+  "fuente_id": "la-republica",
+  "titular": "Autoridades japonesas mantienen alerta por erupción del Volcán Sakurajima",
+  "bajada": "Tras la erupción, la Agencia Meteorológica de Japón, JMA, mantuvo vigente el nivel tres, sobre cinco",
+  "enlace": "https://www.larepublica.co/globoeconomia/autoridades-japonesas-mantienen-alerta-por-erupcion-del-volcan-sakurajima-4530063",
+  "fecha": "2026-11-21T17:56:45+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "813cfbb135db0b",
+  "fuente_id": "el-universal",
+  "titular": "Mateo Herrera Jiménez hace jaque mate en Bogotá y se consagra bicampeón nacional intercolegiado",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/21/mateo-herrera-jimenez-hace-jaque-mate-en-bogota-y-se-consagra-bicampeon-nacional-intercolegiado/",
+  "fecha": "2026-11-21T17:44:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTjZuR0otQkxjZWZPXzRfQ014dVUzYVFtMmE5R0d0Qk9mR2VBc2ZUZEtaMmRrNVFqeUdKYktXVzU5OWg1OWN5cXBOZHJLNGo4VlhNWU41RklIN2hscEhvRGxveDFmb2plOFFYX3BUWFk5YUE3QmtUaXFEOXZIWEJzOHM4OTRHbkxFdHhWYWlXTHhMeS1VVUZyN3U0bkVveVlnT2ZzNzBsT05BbjVJWXlrbGxaUGp0ek5OQWtXSklrVWItZGJPVDBRYjFnRVBVYi1aM1Y3aEdpaThmQm9ZR0lTQw?oc=5"
+ },
+ {
   "id": "3829f9dfb239e0",
   "fuente_id": "macrumors",
   "titular": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price",
@@ -68,6 +1439,16 @@
   "fecha": "2026-11-21T17:31:41+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "1f0ea62b16c300",
+  "fuente_id": "yahoo-finance",
+  "titular": "Goldman favours gold over silver as central bank demand supports prices",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVZ5Rjg4NWxibWhrN3JYTF8zaVVIcDFpakt2cGNLWkEtYnYwenpFNmpTRS1oNFhOT2thMExGdDFpNHVwSFcwYXZvakRHU0hMbHdBM0xuRS1PV2NpWjZkck9kTUVQMFZfeWdXNDlSd3l6R0VSQ08zVjRrRkh4U1J4S3Bwd1JLTGpaOVhVWUxyQU9FVmk4cHZUQk1hbzR4Qnh4SDNXYw?oc=5",
+  "fecha": "2026-11-21T17:31:01+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "6671af8bd09c12",
@@ -158,6 +1539,17 @@
   "fecha": "2026-11-21T17:12:18+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "74000633b74c75",
+  "fuente_id": "el-universal",
+  "titular": "Hugo Corrales, el cartagenero que perdió la vida en fuerte choque en moto",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/sucesos/2026/11/21/hugo-corrales-el-cartagenero-que-perdio-la-vida-en-fuerte-choque-en-moto/",
+  "fecha": "2026-11-21T17:10:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2IxRVk2aHpRS0pSdDZMdExRR3AtUTE4bGV2b1VjcVVGaWZVOWFKT2lDbE03VEp5MVZyTFRSdE5jRVJKUGpwZG91UXhxLVgwUFhLN1EzX3NMZmNJdU1xaFBxbmp4Wk1NbVVtTWpTMzdVUFJiWFlKWDVTOHVQcWhwRHhDeXVRd2t6R0ZDdmRlZ19hQVNGNnZjeUk0amM0cm9KeG1aRWR1VzVja3VncjM2SXRDQ193Y21wdmJwSnFrZi0?oc=5"
  },
  {
   "id": "f17907377cc958",
@@ -298,6 +1690,16 @@
   "fecha": "2026-11-21T16:48:41+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "3dbafd2191308c",
+  "fuente_id": "yahoo-finance",
+  "titular": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEp2cFJpSnJhdDRCOGRqY3VoRzBpRXptZHdlUk8wLTJBZG82WGJIRWlLNEFMQTY2bU5IVFIxSUM3VzY0ckFlMHlfQkNHamwzLUZFVWxrODJxbGZhNXRHWm95aGl2ZWU1MDFIMEJ3OVpmVE5PeWNLcm1qTTRmTW9LN3owMzdNdTZTMXk5SGxxckNNcVcyNTY5V01n?oc=5",
+  "fecha": "2026-11-21T16:48:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "82f2351a0d12ed",
@@ -612,6 +2014,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "9012d2b80eecaf",
+  "fuente_id": "yahoo-finance",
+  "titular": "Anthropic, PBC (ANT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QVkVnNXlCX0x5VnlSd3lkUzJQVEkwbWJpWjFLb2I0RXh0c3owa0pqUWxOME5QVGZjVmYtWnFFalJaVGI0Z0dGdHpsRk4?oc=5",
+  "fecha": "2026-11-21T15:19:25+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "b316f5016eae51",
   "fuente_id": "techcrunch",
   "titular": "Alaska, your next governor is a Wikipedia nerd",
@@ -710,6 +2122,16 @@
   "fecha": "2026-11-21T15:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "57468a8213ba2b",
+  "fuente_id": "yahoo-finance",
+  "titular": "Chip Stocks are Now Repeating What Happened in 2001",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHl2UUowSHg4R3RCT0RoWnlTeHlYc2sySVplREFvQ1JXalNnSU0yLXVjRkdrZE5sTGZGNUlYVXN1a051b0VMd1R1dUhTdkcxLW5zYzFDSzRaVE05SVhIVXM3Q0JsYmY1WnRnTWZqMlhMbkpVLXVRdkRJcUNpTHNYV0MxblViZFNzUFBNQVJiLTktRHVHMVMxLVFkTXVCaklX?oc=5",
+  "fecha": "2026-11-21T14:52:52+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "b1227c10c3716b",
@@ -1193,6 +2615,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "cc6571e5460f6e",
+  "fuente_id": "yahoo-finance",
+  "titular": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ05sOXJ6MlFuUncyTjgxWG1zcXpCbDhzRUwzYVA4ZFo5bkZ4NEt0SGxLZnFobjBKODU3SzlWV0I5MElCSDd2ODEwaTcwNnFCM0lMRDhXQklvVTdLcFp0YlJzUXRKVGNsUHJiaVNiek5zREpSeUtZRkZsblZQclR3Ml9NNmR0d3V6VVZ4dWpnbk54MnJqRDkzV0x5aVI?oc=5",
+  "fecha": "2026-11-21T14:01:06+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "b198cfa431b218",
   "fuente_id": "macrumors",
   "titular": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
@@ -1294,6 +2726,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFFkdllEZXVhUEpHbmE2TjlzbUtTV1lkSXJmLUtQYTBiNk5wQUJ5cjFXZmI2SjFwR1I2UGRHS0hnY1kybk1uYTZlSzJNT1RiTml4UTVDM2h4TFZhOEdoZkJid1FpUVpKTmxRMi0wcFJlNTlfemVuSHBHRlhPblZ3RUkzQlRfRE9HU2p2YmF6T1dhTDJISE5oR3FHa2RNb0NhSG1FenZBOTc3dXFrMWZzbUo0RlZLVS1fXzduMDZR?oc=5"
  },
  {
+  "id": "2eb08d6c9e7465",
+  "fuente_id": "yahoo-finance",
+  "titular": "S&P 500 (^GSPC) Charts, Data & News",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Vm8yM2lLRXFrWEhqVUdJZ3JhRWpCbjNiN3lDWGxXWkxXR1pNSzQ5S3lPcmIwYWxjRVVRN2p1Tkt6X29rWDIyaG1OLWxuODNmWFE?oc=5",
+  "fecha": "2026-11-21T13:43:54+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T17:20:21+00:00"
+ },
+ {
   "id": "bbb652e0d7bc5a",
   "fuente_id": "portafolio",
   "titular": "Carne bovina colombiana vuelve a Chile: se prevén ventas por más de 27 millones de dólares",
@@ -1342,6 +2784,16 @@
   "fecha": "2026-11-21T13:22:43+00:00",
   "via": "portada",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "d742060a0a0740",
+  "fuente_id": "cybersecurity-news",
+  "titular": "CrowdStrike in Talks to Acquire Zscaler in One of the Biggest Cybersecurity Deals Ever",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ld0lYZlBKQTZpR3l1WVBiN19aMy1CbWhPbUhPSGt5aDFGbkY0T1FOSFpVSmRPU285TkR4d3hqampEWld4b0tPMWZQZUo1dFBISHhxMXdVQ0hKSGdyV0Y2VzE5bjVqaUlLYUx5RUtn0gFzQVVfeXFMTm1ISlZXN0JkaFFLbERBMFFiZ2hsTmRaZGVuXzRINEFyLUdKTTV3S0Rvel9TSUx0ellaekVLUXVMcU92QVlhQmVIQklHWmpqSU1LaVhOWXRaU1RlQ1BnQjM0R2pEOWZUbzEyaENRc3hQTlFLSQ?oc=5",
+  "fecha": "2026-11-21T13:17:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "ce3b6b2bf081f8",
@@ -1402,6 +2854,16 @@
   "fecha": "2026-11-21T13:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "880f64baff4dc3",
+  "fuente_id": "securityweek",
+  "titular": "President Trump Taps Kirsten Davies as National Cyber Director",
+  "bajada": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
+  "enlace": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+  "fecha": "2026-11-21T13:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "b2376e58bce528",
@@ -1544,6 +3006,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "5cd0139aa670af",
+  "fuente_id": "yahoo-finance",
+  "titular": "‘It makes me sick’: Minnesota homeowner slapped with a 31% property tax hike — he worries his only hope now is to sell",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZIYzJfR0dNMjhPa1A3ZTZ5OFRFdzZrMWlRUTNyZkJjOWFfOXJKLWZnaGxhdzZzYzM5b1FTM2k3QUNzUUpmMHVaZmRhX0t5emhDWGFIMVVTM2lkemJNVUdyWXJrTjFld2tpT2ZoTXppeHNzQ2t5c0s0R1FSSk5uYkZtU2x2NGE2N2N2QlYtY1F3ajl0QXZVNTlDWWJaMWt4SXc?oc=5",
+  "fecha": "2026-11-21T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "0ad755f2681c37",
   "fuente_id": "the-hacker-news",
   "titular": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -1602,6 +3074,26 @@
   "fecha": "2026-11-21T11:30:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "4b68bea04d98ed",
+  "fuente_id": "cnbc",
+  "titular": "S&P 500 correction: Five forces behind the market sell-off",
+  "bajada": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+  "enlace": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+  "fecha": "2026-11-21T11:29:25+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "392b1d64e4fc5a",
+  "fuente_id": "oms",
+  "titular": "- World Health Organization (WHO)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE96T0w2dTlPbUU1M2hmV21idXJmU1hoTGRJOHcxa05lbE5UeFZXVjloRkxSRVlvRnk5WlpxZFVHRDBxaXRMNHBxVlZnZHFLRXN0SmYxUDU0OTlVdTh0NEoxV1VaTlp6TmdBUDh6cTVvcjRNdw?oc=5",
+  "fecha": "2026-11-21T11:17:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "761885e6c02d65",
@@ -1754,6 +3246,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "a5eb5720251e68",
+  "fuente_id": "yahoo-finance",
+  "titular": "Should You Really Buy Anthropic Stock After Its Historic IPO? History Offers a Clear Answer.",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPal9RU1JBdFN4ZDIteWhOQ29nSVBSY3pYZ3Y3VW1kRS16UVVfb1Nlb2d6b1NrOTgyMHdDUlc1X3VuQ05XMEJ2TExqNVowVDJtZUxEU19nQ0k2a3FPRi1FY3FZbFpqN1VkLTdIcDMzNUFmODY5WjJSaENvT3ljWWZVQjZqM0xfYnEyNnMwNG9rMjl2Y05Hb1ZXVXhFdXlHaUFzTXc?oc=5",
+  "fecha": "2026-11-21T09:44:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "8cfc9b2ae008bc",
   "fuente_id": "forbes",
   "titular": "Seville’s Passionate ‘Gran Derbi’ Divides A City Looking To The Future",
@@ -1784,6 +3286,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "d5ff5f43453fc9",
+  "fuente_id": "yahoo-finance",
+  "titular": "How Biden’s former aide sparked a $100bn stock market sell-off",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2FMYS1JV24xdEhELXpsTkZWbU9JczVqNkgtcDhqX2ZncWVfenc4dmttcDhKb0Zidk4zczF4eVMyVVlaNURIVWpfakRJbzh6bVhVUlNKV1dTX3dib1lmLUJ0aDR0SXFEdHA4N0RxUER4eGlITWV6X0JGV29UZ2loT2xaRTQyUVpnakdpZVlhZDE4MHRRLWdnUGZkRkE?oc=5",
+  "fecha": "2026-11-21T09:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "9da47b8efcbbfa",
   "fuente_id": "the-hacker-news",
   "titular": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
@@ -1802,6 +3314,16 @@
   "fecha": "2026-11-21T08:49:13+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "85c09e5ab2f088",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMDRhMTRXWGZxQ3V6M1QyV19jWmk1REJpM0w3dzNVMXdLSUZ4bzAwa2RKTHNQWTVsWjkyVFdmazdxUUU3RWswYi1jZ2E3bGx5NFV1NGdzWl80NkpmWkxlT1ZZcjJRUjNZOVZvTmhFNmlqc2tQTFHSAXtBVV95cUxQRjVhN0lSdEVBVUt3SmF6RUIwdU1uMzhGb3lNa1ZzT0N3SHhkUk0xVkRJT0xKd0t4ZGF2c1M2WjZUdlNzd0pBem91YkNsaGpYQjNxcVktOEt6cmpCbUtsY2tLOEJrQXc0dndjZ2FXRmtvYUIwMjYxT0gydWM?oc=5",
+  "fecha": "2026-11-21T08:27:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "e1a55673eb6a39",
@@ -1872,6 +3394,16 @@
   "fecha": "2026-11-21T06:23:14+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "119c4d629c41b6",
+  "fuente_id": "oms",
+  "titular": "- World Health Organization (WHO)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40b2liaTh2OWxOUWFrMjRfOHpSUWlGYjF3UER2TXR4VGJNMk9URzg0Z3E2eXgtRjFjMlpoSFh2a28tMVFGSFZwUUlPY05KbC03aWVMZ3BCQVViU04tTENZQ2dOUkx6V0xvWVZHRUhCNA?oc=5",
+  "fecha": "2026-11-21T06:22:21+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "2887b361f82c55",
@@ -2044,6 +3576,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "5ad83b238655e5",
+  "fuente_id": "cyberpress",
+  "titular": "Chinese Hackers Use Modified SoftEther VPN to Spy on European Government Networks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZUdyU1FHU0V0QllZTjhETFlFckRrRUxJYkhaRkQzYWlrZzB2dE5PVmItT2RzUWJyelE2WDQ5NmpxUFdZMDk1WXpUTW1rbUE3cVRmbzNsaUNlZ0JfaGhLSjMtZzI5Y1VKcDBJ0gFrQVVfeXFMTUdlR3JTUUdTRXRCWVlOOERMWUVyRGtFTEliSFpGRDNhaWtnMHZ0Tk9WYi1PZHNRYnJ6UTZYNDk2anFQV1kwOTVZelRNbWttQTdxVGZvM2xpQ2VnQl9oaEtKMy1nMjljVUpwMEk?oc=5",
+  "fecha": "2026-11-21T05:29:11+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "b42bae4213bf77",
   "fuente_id": "forbes",
   "titular": "NFL Week 11 Sunday Night Football Best Player Props—Vikings Vs. 49ers",
@@ -2062,6 +3604,16 @@
   "fecha": "2026-11-21T05:17:39+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "f3a1db42626b85",
+  "fuente_id": "cyberpress",
+  "titular": "New Bazuka Android Banking Trojan Uses AI to Target Victims and Steal Banking Credentials",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idjdhSDY2ZHo2UWpxY1FST0VVRUdKc3BCZlpaMFRyZTNhcEx2UlBwZXM4a2lJUWxFZkdCc0wtOVJKUmxCNXIxWjA0NUlaZ0JNSGFsVF8yczB5WnF4Tm5Ddy1UZjhfcnFVRlFsYUpKMULSAXBBVV95cUxPYnY3YUg2NmR6NlFqcWNRUk9FVUVHSnNwQmZaWjBUcmUzYXBMdlJQcGVzOGtpSVFsRWZHQnNMLTlSSlJsQjVyMVowNDVJWmdCTUhhbFRfMnMweVpxeE5uQ3ctVGY4X3JxVUZRbGFKSjFC?oc=5",
+  "fecha": "2026-11-21T05:17:39+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "8f7ca0d4cf763a",
@@ -2512,5 +4064,15 @@
   "fecha": "2026-11-21T05:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "0b2054abb72eb0",
+  "fuente_id": "yahoo-finance",
+  "titular": "Aussie’s trick before pay day to find $200 amid cost of living crisis",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWJoWVQyeTVRT09rRmdzTU0xdE5FOVV1YmtYYnctM0RPejBFc09UUUJDWGo3TjJFZW83dmxlRTVRRk5qV2lHb3FZdU5vWXlRSHJidUY0VldmcVZNQlcxZ1lfSTJhUER1MndNMmhyZWlqNEJsanNFWHdRWDlfdzA2bzRBN3pPMFROaHFfandNQWIxMDV2UmI2MEFkMUFvRTVwZVl2cTFLQnpiS0tRR2xxRkZ2Q2lXWUlxcmoyUl9BYTJ4SkJBcEsyMnBiU2Q3aDByTTI0aw?oc=5",
+  "fecha": "2026-11-21T05:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  }
 ]

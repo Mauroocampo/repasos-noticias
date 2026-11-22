@@ -30,6 +30,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "5c688b223bee00",
+  "fuente_id": "business-wire",
+  "titular": "Lenovo Group: Q2 Financial Results 2026/27",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS19lOHB1c0hXa3c1SktmOEd4N3pUTzJBaDJoZTRUR05taFFfVF9NM3V6Y1BQNlU1ZURjeU1HRmdsdGlmSjAzN0VfX3ZFZHA0a2FPblZfVHdEMkp0VlFzb1hUVnMxRmFZNFpTTWNPalAtVmRDQ3BEc3FzRlJnOWs2SHdXUmo1aDdNX29NRVZqTFdtNUNETWtONEZlTHVTZw?oc=5",
+  "fecha": "2026-11-19T04:20:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "3af8f3cba0295c",
   "fuente_id": "wsj",
   "titular": "Anthropic Raises $81 Billion in Biggest IPO Ever",
@@ -38,6 +48,16 @@
   "fecha": "2026-11-19T04:19:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "0e96fb605b072b",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Abuse CyberPower UPS Software to Execute SYSTEM Commands and Dump Active Directory Data",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnY09tQTF4WU5PZS1hbWFJOEJpZnFFNWk4SXNjVXYwWnZQUWlVQzkzdXgxN1VkMTlPazcyMER2enZCTWtqNE9fWkNRQ0FyTm45TmNNNTBhU3VoUzZCWkN1SVo5MDY2RXlBUFMwQnpnTWJzd1dIR1pV0gF8QVVfeXFMTjkwcmpSTHZUSlRKNlFpNGNVODRzQjVtNGViRlhVRDhYN3pYLURZeEE0ay1hdzFmcmZrdHViX0VVejJ4ZUlGYnNjd0ZDYUFJckN0cVZkbHFVeWh3ZGFvS3VuVVJUY0MySHhVWGJXc1cteVVJZVI5LWJ1UlRmbQ?oc=5",
+  "fecha": "2026-11-19T04:10:46+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "d0b7da7d9c1050",
@@ -180,6 +200,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "1e6bb302437689",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Exploiting Java4Shell RCE Flaw Using ARTEX Disguise Themselves as Chrome",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaEhHb3VaQks4N24wVzh1c3VHNHc5Y2h5Z1dCSkI5Z1pQYWtoSDRmcFBtbm81MUNWcE9SRE1FSDVwSGEwRWdWSGJtejQzNzNVSVlSWUZaVEhIelpYRjVzRlNlaklGdk82US1ieA?oc=5",
+  "fecha": "2026-11-19T03:18:37+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "344bf0405e2e8c",
   "fuente_id": "yahoo-finance",
   "titular": "Lisa Su Sells 70,000 Shares for $35.5 Million as AMD Stock Pops 147% in 2026: Her Direct Holdings Fall 2.32%",
@@ -188,6 +218,16 @@
   "fecha": "2026-11-19T03:18:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "1114885b469961",
+  "fuente_id": "portafolio",
+  "titular": "3 Cordilleras lanza cerveza sin alcohol en Colombia y anuncia su llegada a Dollarcity y Rappi Turbo",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/3-cordilleras-lanza-cerveza-sin-alcohol-en-colombia-y-anuncia-su-llegada-a-dollarcity-y-rappi-turbo-506627",
+  "fecha": "2026-11-19T03:09:07+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "ed2eb428ab6972",
@@ -270,6 +310,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "c2080bd2ae112b",
+  "fuente_id": "el-universal",
+  "titular": "Importaciones de Bolívar siguen disparadas y la balanza comercial es deficitaria",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1RaWd2YnRmSUY5Y0tzN1ltZUtnSXNEdGZSZWE3b2RLemdQRGpuUEZjMDYxQk82cHdzSlBIMU5Da01DQ2RaTXNJX1lEY29WMF9xT2JSaVpNaWFULTU5aWxsM00tVXVfc3o1UWZKWFVSNmprQWNMQXA5UXluZHEyTmNvUVozZDJoenJsVXNReWptQ01pZHc3dkcwWHhibl96QUlmZl9LeS15dERteklZTEYtYWhtUy1VUjkxTktZWlJkbmJIWE8xN2FjbmdkUQ?oc=5",
+  "fecha": "2026-11-19T02:38:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "940acf9a172974",
   "fuente_id": "securitybrief",
   "titular": "Issues shaping cybersecurity in 2027: Predictions from FortiGuard Labs",
@@ -340,6 +390,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "2fdde990eb048a",
+  "fuente_id": "cybersecurity-news",
+  "titular": "PHP Security Team Warns of Critical Vulnerabilities, Urges Users to Prepare for November 19 Updates",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45bFc5YWwtbE8yMFh2Q25ZQ3dBMzhRYXNmaXBxT0J2Uy1JdmNkM2pEY3FXaFpEdG5wLS1jTHRhQUpIVHBvdXB1WDFibDRtWktieU1DcnU5OFNyYlZZNjNwRjV4MmhtS214bDlZ0gFwQVVfeXFMTk9FRUJnSzJnZWJnYVF3VEVObjJqanZEY09pTVFuNDJtbVBMZWstVGpuNGQ3UnFVSUk3RG10SVNyMlVqb3B3UlB6cG1oN2VWQlNYMjgyU05VQkhRczl3V2VmV1RZUFd5clRsallCOEdGZw?oc=5",
+  "fecha": "2026-11-19T02:07:56+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "3476204de04558",
   "fuente_id": "el-heraldo",
   "titular": "Atlético Mineiro ya está en suelo barranquillero para la final en el Supermetro",
@@ -388,6 +448,16 @@
   "fecha": "2026-11-19T02:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "e5ef6e9839e2e7",
+  "fuente_id": "business-wire",
+  "titular": "Toshiba Releases Photovoltaic-Output Photocoupler for Driving High-Voltage Power MOSFETs in Automotive Equipment",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTnRpeFJQeFhMclBkRmtGQ21HZTNOOEZCeG9qX3V3cWlaM3RZQlFMcldnM1FTV0JoV3I3RUNkMVBYb1dTVEkwZEVNUDZXWC11VnQ0eFVWLWZSY091Qm9VLV9EZlp1ZTVMTExlUlM2dTNMRnBtQmZfMGdFNHgxNUlFYUZROXdpQTQ5SkNFWjYzSDl6U0hVZTQ1Nml3YkN3UWtrYnc0TWpnMjlnMDJ0a3AxUFM1V3ItQ1pIM2E5SUpGSHJjUzZJV0x5RHktTFF1UzQzd2lXaWljNXBUeUk0YjdyaUVESzF2OHk4Vkd1WU9hcWFRV3FqSF91NVA2LUdGdw?oc=5",
+  "fecha": "2026-11-19T02:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "09829750fbdce2",
@@ -824,6 +894,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "5e9ae8629d21c0",
+  "fuente_id": "cybersecurity-news",
+  "titular": "N-able Confirms Server Breach, Disables Mail Assure and SpamExperts Management Access",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0SF9XVmgxNFBLTnFlNHZSLWFtNGxkQ0dVMVFoUVdmQ1Y0WE5qQ0xqWmJlR1QzUmExeUtIdkkwdEhOemZRdklaeU02X3hlVFBFWDVaVHhjMlkteU41YUkxeFBmTlJyclBYdHl3MdIBckFVX3lxTFBldGN1RXFEYVE0bndKbklqMU9xLTdQLUtuNFE4Y1hzRUdibThTYWpuTGRKYW44ekloV3B6YkdYc3IwYVlkMFo3TU1DQWt1MV9oa0VISmVseTNISHZ0VTlxa1dkT0RqTUlVcC1PdEVTaFg1QQ?oc=5",
+  "fecha": "2026-11-19T00:01:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "01f6102d687a12",
   "fuente_id": "siemens-productcert",
   "titular": "SSA-810379 V1.0: Java4Shell Vulnerability in Siemens Products",
@@ -1055,6 +1135,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "c9f80c81c89dcd",
+  "fuente_id": "business-wire",
+  "titular": "UGI Corporation Announces Plan to Pursue the Separation of Its Global Liquefied Petroleum Gas Business Into a Standalone Public Company",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQ2tGWFB3WXQ0NTJQbDQxd2dtM1lpd2NJRk9TWEZoTDNBdzJXWjdlMDA3NGg2TkZFMExyWklYS0xCUDA2YTBMVVg1QnoxeFhmdnN5VWM3eThQV3diUmt5Y0RMVzBTZ2NUYW0zUkpvN042QThZOEFtT3NSTlBJU0tXbW1vcmRENUptV2hOTFRzeldKdUpZdDZXWFNpbWZZSzV6SFB3aWtUMjEwcDJxdEFWM1ZRUXhNUkROS283eVJ3NG9GTWlxclBSWHlNa3M4eXJNckRsQTNEamRFQkNnNGxSbV81YlFEV1hXX0g4VXZsTlYzTEJtemY1QWluMWgwM2pQLWRfaHhJeTBLM3Z5M1RLclVNZUFkX3d3LTBoVg?oc=5",
+  "fecha": "2026-11-18T23:01:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "1da71f0f022fc8",
   "fuente_id": "la-republica",
   "titular": "Cámara de Comercio de Bogotá dará asesoría a los afectados en Gran San",
@@ -1073,6 +1163,16 @@
   "fecha": "2026-11-18T23:00:02+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "ab26ae20c8a1e1",
+  "fuente_id": "business-wire",
+  "titular": "Workato Named One of the Fastest-Growing Companies in North America on the 2026 Deloitte Technology Fast 500™",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGVNQjkwSkJIUFFWanRrNUx4Rk5fTVFfOGNYOGZ0NjVHQTVLYzY2QmctSktCVkg2LVFpdUswSGFLLTdzUDBsZktkUFJqYTdZSlJ6UkpzUG1OcEkzZER5SW54SzdBREJwdklPZlBPS0g1bGphenRlaWYxTVFCdDgweFZ4ZVhmbEEwT01uZ2FqbnlYUC1UNmM1TTJPSFc4ZDhWMFZVQ1NGb1VQaTIwbGpzeFNHVmtieXd3XzNfc2VMR2dGMkF6VlZVNVpkWmwxQnZQUXA4eDlaQW5Mblk5WnVHNzRwcC1oQXZ4QUNIaFRMcVZ4NGFRYUtMSA?oc=5",
+  "fecha": "2026-11-18T23:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "acb7f96633bb03",
@@ -2692,6 +2792,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "a9f22cc6064809",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Use GhostMap eBPF Rootkit to Hide IronWorm Malware From Linux Security Tools",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE54YkFsZFFvWk9YY2MxbE5qc2E2QnJuSGdtVUpFTmQwYm5LS25GOWd6dnNFQnZCNkM3LWJaSnpDLUp1Q3J2VWtwTGVjR1U2ZHZfamJteG5zTVpER3V1a21CYU4zcDZnVTVuZ3l1RjI2QlR1Z9IBd0FVX3lxTFBGMC1CaFl5dlBDNWtkQndwNHRqeGEtWjFaOVQzckJTMTZfRHpRNngyVndMSk5xYjVfaUE1dVBpdWVpUDdGNnhjTHg5b1FOTnl6SlBnZkxrTUNnU1cwcW14ZW8zck1XVVE5RFp4aDctOFV3WVBZSEk4?oc=5",
+  "fecha": "2026-11-18T18:11:43+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "ee67408d639102",
   "fuente_id": "cnbc",
   "titular": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
@@ -2770,6 +2880,16 @@
   "fecha": "2026-11-18T18:01:24+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "65738d97a7801e",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Use Hidden Cron Jobs to Reinstall Malware on Firewalls and Routers Every 5 Minutes",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoYWx5T3pubDNlVzViYVRNU0R3b0VCTzVBOGFRbmFuRW5Hb3NKMVdGZlhHWm9yUDJkMnlOdTZxVWV3WllYcXEtcE9SN0t4MXk1bGxvcjR5NVFhZDJfNXdiMEMyU19Pc0JrZUUw0gFwQVVfeXFMUC00SG1MX3ZselZ1US14cElxc1RwWVNZWjQ4ZVB3VGpOVHg1NWFZQkdZWVlfLUdQclZ2alJpQlhrZloyLWtLbHJMTzlZMVFFTDBLREh3YkZGVlVfY2FwQm5JaEw4SzlaWEJ3aEZYZXhUeg?oc=5",
+  "fecha": "2026-11-18T18:01:24+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "f4860fc6a10ab0",
@@ -2890,6 +3010,16 @@
   "fecha": "2026-11-18T17:53:08+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "2b3aa33af42a24",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Actively Exploiting Atlassian Confluence RCE Vulnerability, 1.2M Instances Exposed to the Internet",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVJnbUFEMUJfYTUzTDlQRTdsSU5PQWJvZnktWllzUDhMT3ZmOElUOEZUekQtREJNdm1LRnJMZG9qOUd1aS1MaHVDdmM2UnBlN2JiUnpCVDBxbjhPN2U3cXZuanktcDk3TTRFTFc3WUFldTBXQWhwTV9nWmJXQmQ2MW1idmVqUGxscEtwZ9IBkgFBVV95cUxQQ05uQWVwUnZjQ0ZnS2M2QlN0RUR3aS1QM0ZKcXVLdTN0WEhNVnBmOXA1ZXYyTTdQWF9IVHMwZi1zUTR3enpIeTYtZFVXRDBzVHFzTkRheFJBZjlnaDlzV0JWb1daNVpmWUJkYy1ld0lxeUVrdVQyZm5rTENZazRDeTI1MHR1V2hISC1vbTd0UEx0UQ?oc=5",
+  "fecha": "2026-11-18T17:52:56+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
   "id": "3275e8fb74ea4e",
@@ -3041,6 +3171,16 @@
   "via": "google_news",
   "primera_vista": "2026-11-18T19:13:26+00:00",
   "enlace_google_news": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFBTN2FnWDQxYWZmcno5Y01udVlVUVNUVGxXOTk5RkszaDd0dUtCNEFvZEVmWGQ1aGVJU19ZY0N0RzFqUmtDRnFkaGxKelV3Y3ZWcXlzcmoyX1VsZEYzU21uZmhEcG05bjdIZ1BVYnpsQU84c1lWMWY3UmdMTHB0MVJfMWc3ckl3ZWlYUDQ0Wjh2YjFPVmpqanRaOC00MVFKYmdNMnNVRkxEZFFFbThOdGFsTXptUDZ6dU1xd0lPTQ?oc=5"
+ },
+ {
+  "id": "334ce70c25a43e",
+  "fuente_id": "business-wire",
+  "titular": "Rancher’s Premium Smokehouse Turns Up the Heat with New Rib Lineup",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0EzbERiaW5CYm5lcEpYWnJ4alhwT2stdHNOUjFibUc2NmZHTG9XMG5faThzSm03WV95NzVOYmRIOXdpQjRpY2FfVHgzTjNvN0xwYl92OUthWjRaVWNyWHd5eUQwSnlaZk16dW5uRmpyZVh4c0NFQTNZN0VvdGtfaXBkTlZudDBRblc0SF9PYnp5Sy1zc21oX1NlN2dRYnpyNWVKdUl1TDNHTERRTmN5NVVEMHo0eHFEZmFaT1Uydw?oc=5",
+  "fecha": "2026-11-18T17:37:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "a7c41cbfce1463",
@@ -4359,6 +4499,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "6f0b1e84b308cf",
+  "fuente_id": "cybersecurity-news",
+  "titular": "NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote Code Execution on Web Servers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zWUdBVUpKWXZxSGFzV2RuSUFmRWhYTDNuZ2tRWjJ0N1FNTmhoTmFIV2JtemN1dHRrNWdiY3N6ajJCbTBnNGwwVFhRVTRIajE5aV9HclgyZlBYeERIQTdqRzBia21zckQxck5N0gFwQVVfeXFMTlBpQUtxWW80dFB5dmRJVV9QWTRMYlFmeWU5TXo5czhuZzhLMUxrRjd2YUV1ZWJnbVJva2R4empSYTc3ZXJzdVZsdHRTc2J6ei15MmtnNk1GOUZiRXg5Nkh6MHNrRlc4Smd0bVV5dlJCWA?oc=5",
+  "fecha": "2026-11-18T16:10:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "48b4c3c20939a5",
   "fuente_id": "yahoo-finance",
   "titular": "Waymo pulls robotaxis off highways after California ban, with tech seen as 'far from perfect'",
@@ -4597,6 +4747,16 @@
   "fecha": "2026-11-18T16:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "515d4c3aa537a6",
+  "fuente_id": "business-wire",
+  "titular": "PSA: Immediately Patch NGINX Web Servers Due to Critical Vulnerability Allowing Unauthenticated User RCE",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLXBjNkJaT09xbzhLZC1uNVRvSzZQRkdzd3NDLXB5aERjTVJkMGN0MG5SU0FZR1JlUUdQei1xazY5ZjZkS2JqZnAzYnlSVE9ZMGNNYnltWDBJSHpZNWcyY1VrQ2ZueHdaUXFIM3NBWlRIOTRkaUxSZy1qN2Ziek90UTZfOXV1SDlKay12TS02QTNaU2JiMGZQNFRFMERwUU1CSDBBUE44MjFaaE9JUEtkdWl5eUxmcHMtRlpXbGhCOU01NTA3dUJlcDd5cl9rak9CWjBsZ1FvbjkzejdOQzRyRFF4SC1Zd2g4SERtOGZVVjBfUQ?oc=5",
+  "fecha": "2026-11-18T16:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "6d350fdc8b1fc0",
@@ -5563,6 +5723,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "0e3ce3a2776139",
+  "fuente_id": "cybersecurity-news",
+  "titular": "New Hello Again Attack Bypasses Windows Hello and BitLocker PIN Lockout Protection",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0xScGx4dVEzNk4wR0g0MDlSZHFSYnctdjZYaFRrTHhwdmFRQVliQVZDUmFiMFY4dEF4N2J0SktCUm1ZX1FwRzh6cFR3V0x4ejRBX2Y0WXZ0SWs3b0p5RzdHNnF5d25HVjJFdlpmQWRHQTk3ZzBJQ1J0SXdRQUMxTVZDQXRRTlXSAYwBQVVfeXFMUE9CcUtyNGo4ZlZlNkc5R1FzRUtxekNkVWN5a3RiajNyZFJUX19nLXdLdDJtRUdIV0VjV2M0cExZbUNpejhBZVV4Zmw1YUlVUk42cVROUE1TMzdRSTh4VGhRR1FGWWthcVBqa0psR0Zzd05qdXQ1R19TRkswY1lzbXhsZHRlaXNiU2NRTU8?oc=5",
+  "fecha": "2026-11-18T14:16:45+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "94eeff815bcc6f",
   "fuente_id": "macrumors",
   "titular": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
@@ -5833,6 +6003,36 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "be5dd779e381b7",
+  "fuente_id": "business-wire",
+  "titular": "Nex and HYBE Bring BTS to Living Rooms with Starri | BTS",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmZTR19RSkpxRDR3eGU2bWk4Ymk3Y3Q0RFBoZXhleTRZZkJwRkNtNGtUWFFCLTcwdEQ3R1hucndWX3dxYkZDRW5hd1dZNFpGaVJuWmZfb3hvQTA1Y1B1QVV4Y0ZmZzlCZjQycmF2V1FpUnR2Y1lPN2pNT0djSlZYaHFYZ2JyV2lxclRpTktFX2RUaDhMRklmVlhDcWYxZjhHaGd6RXVNeWtUTzFtMUZPSg?oc=5",
+  "fecha": "2026-11-18T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "5878d7ed793b2c",
+  "fuente_id": "business-wire",
+  "titular": "Comtech and U.S. Marine Corps Establish Longest Ever Low Power Troposcatter Link in Hawaii",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN2FRS2NVU251ZFNzMlREN1ZtcmU1WXFKWk1RM1hmYXd1YXRrV2JoTnlKb3V2X2l6M0Z4LUFGVUJ4YTB0VEx4NnltSW1xdU9DcEZDT2tnRF96ejhKcmc3NnZONGpTVFhSemw0dkl0STdnN1o3bWFTaXBKM2p3TkRzYWRGTGVjaTFmYW1BdlE1Nm1UYzhwNVRBYWFJTFpObUlKOG00VWs1NEV3bFFja0VzT09XT0VoR0o0aURwY0V3N2ppZVFjSHF5T19jNWtudTJlRkhBWUI4Y0NJUzFUMzFZUg?oc=5",
+  "fecha": "2026-11-18T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "aabd71c7860ee8",
+  "fuente_id": "business-wire",
+  "titular": "Mark Barrocas, SharkNinja CEO, Joins Gopuff's Board of Directors",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEtvalNyUnRycl9NU1ZNT0QtYUJvMnlYMV9Mc1U0UVhyUWt4NVYycnY5R1ZSSE1vUkM1YUVHU0pmMTJuMFBKTVBrcGRVY3RQWjdmLTNIVF8wOW8yZEgzaTFTd3Q4cm1MOVBPY0lORVJuUlZPaUpJRndVeUkzY3ItV19LVUNrblRCdlZzU0wyczB1cmpoaDYxM2VGdk9ncUd6RWxVSHFQbGhDTXZNZkZfSk1hQ0JjeDFlbFE?oc=5",
+  "fecha": "2026-11-18T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "7471d7c550832b",
   "fuente_id": "cnbc",
   "titular": "U.S. soldier taken into military custody over suspected spying for Russia",
@@ -6071,6 +6271,16 @@
   "fecha": "2026-11-18T13:40:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "daa499bbd0daca",
+  "fuente_id": "cybersecurity-news",
+  "titular": "The Gentlemen Ransomware Gang Allegedly Claims to Have Breached NVIDIA",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zSHk4djJFaC1BdjJ4bnphM2lEcVJ5UUdzcDJHdVFyZUlzX0tEQnZuSjBSQnRQaVlWei00d0JkU21YelgzVEV3dzhTOXE1QnBJVmE5dzlaN19ETGxpYTF0QWVoZjZiUdIBa0FVX3lxTE4zeWFYTVBnRHBEaXdQYktCbHVFdW1yVGVocGZwVDRWU0w0NWgxUTFZQWU0Qy05V3ZGMkNVNUlITmttTFptbGhfUlR4aThrb1NId1BKSEI2MXdUb3J2SDNZakNrTFh4cXM4TVRF?oc=5",
+  "fecha": "2026-11-18T13:37:43+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "b0d796e60f34b0",
@@ -6362,6 +6572,16 @@
   "fecha": "2026-11-18T13:09:20+00:00",
   "via": "portada",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "5f9f2d258d59dd",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Impersonate Microsoft Exchange Online Alerts to Trick Users During Microsoft 365 Outage",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sd0trNFZoblNYT1hiblgwR2FNM2NOa05PSDc2MFJBUWxYbHJVU0g2T01OczRDdVctTzFVc3c2cVdydlhyZFY2enQydDM4Q0htMkhoQjBfdEpTTmpmc3lhQm9ZNmlMd18tQ2UxOEE0RmxDYVgtTURsM9IBfkFVX3lxTFBxMHJqX1R2b0JhUDdhcGMwTTFCa3RsR05fczZkWVhlNzBsR1Y5MnNZdGhhZXk5NHdrRzRzcGl4cVAyM2dJNGxNOXdTTUtjTFJPZkFlLW41NmY3QWl0Zkk3Z1V2VTlCdG1pQWRUYXdFV0ZkSWl4LUIwM3pHc3lQZw?oc=5",
+  "fecha": "2026-11-18T13:07:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "8362000f47a5e9",
@@ -6692,6 +6912,16 @@
   "fecha": "2026-11-18T12:31:57+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "190887a54d7bc6",
+  "fuente_id": "cyberpress",
+  "titular": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kd0xNWjc5RnpZSFg4bzVzVFdiZEdtejJjOTQtTjJlMkt5SWQ3U3dkYzJKWWllakV0cFJOemVMU2Y4TGNUX3BtNU4za2VMQV9KNlhDWV9WX1Vna0JOR2ZESHltQ3Y0RWdMZWdaM2FEdTVLUXBB0gF0QVVfeXFMTWR3TE1aNzlGellIWDhvNXNUV2JkR216MmM5NC1OMmUyS3lJZDdTd2RjMkpZaWVqRXRwUk56ZUxTZjhMY1RfcG01TjNrZUxBX0o2WENZX1ZfVWdrQk5HZkRIeW1DdjRFZ0xlZ1ozYUR1NUtRcEE?oc=5",
+  "fecha": "2026-11-18T12:31:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "5ad11d56ca070b",
@@ -7064,6 +7294,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "eda95bba8fb4b7",
+  "fuente_id": "cybersecurity-news",
+  "titular": "CISA Warns of Puppet Enterprise Vulnerability Actively Exploited in Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kRFJjS2J4SlRKTlRndzlmMnhTWjVPNjNJVjgyMzdGbnliYk05eFBudjFzSzhaNm1qLWN4MUE4ZFRTNk42aG9yOWJMSXkzeUZQdWtZM3U2cWw4clVWQm1kRUpXeUFWNFVZT1VQWnpQemd4UWtNVEhNLU9FM1rSAYIBQVVfeXFMTjA1YllCRHVPamNDemNmVzdPdmhHQU9jYUtyVWZvMHZMSnJLV2tIczVRZXRhWUloMEY4eWI0dWtNd2hjbVpNSDBTMzBsX3RoMTc1YkRHUHpUc0dNNFhXQWNMMmxfV0NUX1FiV2FjMm5jWkoxYU9yQVVjX09xTzh4ZXFEdw?oc=5",
+  "fecha": "2026-11-18T11:59:36+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "4768f8a7188f1b",
   "fuente_id": "la-republica",
   "titular": "Alcaldía de Bogotá entregará hasta $10 millones a locales por incendio ocurrido en el Gran San",
@@ -7165,6 +7405,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "3f063436a68d58",
+  "fuente_id": "cyberpress",
+  "titular": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzejcyZldadDZuNV91Zm8yd29MQ2RBaXZVRjB0TE5icnA0RHg0QWJSTUJxZWRNVnFjSzVzNV84dlJRdURYNGhqYWYzS0E5dlRqaFlDT3Y3SkJHS0VUTTQyWmx1X09RbHBGZ2M1b3BVb1V3WHQtY0d4RkR30gF6QVVfeXFMUDN6NzJmV1p0Nm41X3VmbzJ3b0xDZEFpdlVGMHRMTmJycDREeDRBYlJNQnFlZE1WcWNLNXM1Xzh2UlF1RFg0aGphZjNLQTl2VGpoWUNPdjdKQkdLRVRNNDJabHVfT1FscEZnYzVvcFVvVXdYdC1jR3hGRHc?oc=5",
+  "fecha": "2026-11-18T11:49:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "47b1bd7ee014cf",
   "fuente_id": "portafolio",
   "titular": "Dólar en Colombia frena su racha alcista y cae este miércoles 18 de noviembre: este es su precio oficial",
@@ -7213,6 +7463,16 @@
   "fecha": "2026-11-18T11:45:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "2bb1ef58b816ba",
+  "fuente_id": "business-wire",
+  "titular": "Pfizer Enters into Exclusive Licensing Agreement with Starna Therapeutics for Autoimmune Diseases",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORThETVk3STViR3BEWEV6WjJTQzYyS09RalVWNzZLTWszSUhGazc5cExwUl9iYnJaU1EyU3dRcEo1MzVUTHNpZFFIUm1tODQtYWpYU0dfTmpEckFWT2J1Sy1XYXNrTC1iTEtLWGZ2VXBEQjR2M3ZKUHQ3UlE5cUtEa09rd3lldDFFLVo1dmdJcERRb0FjZWRLOEFtRGtyYUp6dkZEemphT1huRUNOQ3ZEbTRQa2FDZUlXNGdpSmsxblVqNURFaXRkdk1peWswSkhYOHNDaExDdmFnbnVHakZBNnAwNWItVEdtekE?oc=5",
+  "fecha": "2026-11-18T11:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "29108c555c6e03",
@@ -7294,6 +7554,16 @@
   "fecha": "2026-11-18T11:35:27+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "6a2a28895d88da",
+  "fuente_id": "cyberpress",
+  "titular": "Tor Releases Emergency Tails 7.17.1 Update to Fix Critical uBlock Origin XSS Flaw",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUHEtZkY1UWwxVTk4X3RJZmItRUZKank4ay1ORVFtN3hWOHVJa1ZJNmdCR2JQcjQ5a3ZRT2Z2SWk0eVNaRnZ4emIxeHduLWJqX1FhRlJpWWNsWU5vQjJ0eE5GWlFxb1HSAWdBVV95cUxQUFBxLWZGNVFsMVU5OF90SWZiLUVGSmp5OGstTkVRbTd4Vjh1SWtWSTZnQkdiUHI0OWt2UU9mdklpNHlTWkZ2eHpiMXh3bi1ial9RYUZSaVljbFlOb0IydHhORlpRcW9R?oc=5",
+  "fecha": "2026-11-18T11:35:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "879a56702a31cd",
@@ -7740,6 +8010,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "13a346938bc0e1",
+  "fuente_id": "business-wire",
+  "titular": "Summit Therapeutics Further Expands Ivonescimab Global Development Program with Phase III HARMONi-10 Study in Unresectable Stage III Non-Small Cell Lung Cancer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNV2xDS1hBV1kySWlpR0ZMeHNSbEpsT203aFZPRTZaVXZicmxTYm1QOXFFaWE4Zm11T3RmN3NXVXNINE1hbk1ISElOY1luV1RWN2hlclVvZFFRRXViRmhKc1Z1UWNvREwzaFpXVDRpNWVYdzZuVW5NU0N4ekxIeFhINkdtUTZfS29VaDVtTzF1eGxYb3YteVRpVU45U2dIUzJoMEVXVVpIZElXcVVuQWdqeWJXZk1zU1NYX3p4MzY0Q3VCUzRidXgwQkR1QXFZQ2hRZ19JWXVtVEFvRWFLRjh5a1VqaHEyU2tZUDRFLXFfWWRGTkp6NWp5TjV5Zm1QcXR3NUVFTWh3RWZJcjRWd2dQR3BTdmpzU2U0TkJPXzlYb3ZiTXlCOHdkMHZheXdqOF9weUNkX2ZxRHpsR2tq?oc=5",
+  "fecha": "2026-11-18T11:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "88a2c98814561b",
   "fuente_id": "cyberpress",
   "titular": "NVIDIA GPU Driver Flaw Lets Attackers Escape Containers and Gain Root Access to Linux Hosts",
@@ -7748,6 +8028,16 @@
   "fecha": "2026-11-18T10:59:33+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "0fc162f5f18ae8",
+  "fuente_id": "cyberpress",
+  "titular": "NVIDIA GPU Driver Flaw Lets Attackers Escape Containers and Gain Root Access to Linux Hosts",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55RHktX3U0LXRuNFlTOFlDaFdFc2VfQXBsWGl0ZlRzMWlBRkRWNVNzblhNVHN3N3VkaUktdFhSMEtPNjVmNkFHaW5MaTRFWXo4OHBkeVVKSGdGZ9IBWkFVX3lxTE55RHktX3U0LXRuNFlTOFlDaFdFc2VfQXBsWGl0ZlRzMWlBRkRWNVNzblhNVHN3N3VkaUktdFhSMEtPNjVmNkFHaW5MaTRFWXo4OHBkeVVKSGdGZw?oc=5",
+  "fecha": "2026-11-18T10:59:33+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "c074986d15b7fd",
@@ -7888,6 +8178,16 @@
   "fecha": "2026-11-18T10:34:24+00:00",
   "via": "rss",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "30424884d69f90",
+  "fuente_id": "cyberpress",
+  "titular": "ADEX Report: Device-Targeted iOS Attacks Drive 20% of Advertiser Suspensions, 50 Accounts Tied to One Coruna Campaign",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2UtNkJ6MmFVdkZmUVZweEppZVcwc3J4blJqV3lKRk9UZ080SmRnYlZIeEhtcWo2N2tVclk3Vi02U0p0WDBaSFBsUUtKb1FuamdWUGFIV3RubDRVd0RnU2VJVHE1bVc3Nm9ESVhTcnlNaGp5M0pvbmhWcW1OeEFBSmRtNm8xTldMZ05McXNLNzYxczJDS2wzR1hWYUtFYjhyQkstaEF1ZGp5bzY0V0FjaFRrY1Y1UzlvMm9reXhJbXE3SEtHV3NMcGFBVHpZMEJmYk1Da9IB1AFBVV95cUxQZ2UtNkJ6MmFVdkZmUVZweEppZVcwc3J4blJqV3lKRk9UZ080SmRnYlZIeEhtcWo2N2tVclk3Vi02U0p0WDBaSFBsUUtKb1FuamdWUGFIV3RubDRVd0RnU2VJVHE1bVc3Nm9ESVhTcnlNaGp5M0pvbmhWcW1OeEFBSmRtNm8xTldMZ05McXNLNzYxczJDS2wzR1hWYUtFYjhyQkstaEF1ZGp5bzY0V0FjaFRrY1Y1UzlvMm9reXhJbXE3SEtHV3NMcGFBVHpZMEJmYk1Daw?oc=5",
+  "fecha": "2026-11-18T10:34:24+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "bbbd157282c541",
@@ -8178,6 +8478,16 @@
   "fecha": "2026-11-18T09:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "264b5b6a784660",
+  "fuente_id": "cybersecurity-news",
+  "titular": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jNEhtcXlmek43c01jWWo0R3VBcVFIdEE1TjUtajNhbzVvYW9OZ18ta0FlelpHbjZYZXpkQXB1ZTIzbUxzMUdIQk5MQnN5R1VyWE5zRUhCYWwxZElxT2oxTU9JMHRGaEQzLWVremJsZlrSAXZBVV95cUxQMWxpVm1YU1BqRTJmSjBaWmtIT1Y5NUJsNTZGMVNRYUJQR2tpNUtIbnlGLUJ5M3dQWGwxS2VOSjJseFRqRms4emtURjZMQlIwMWxoXzU1d1ZMZFhUUGc1RUhyRTZCT0stR3pKX1g3dTJaTFZ3eXB3?oc=5",
+  "fecha": "2026-11-18T09:28:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "10962fb22a13f0",
@@ -8551,6 +8861,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "efeeb28f1df8e8",
+  "fuente_id": "cybersecurity-news",
+  "titular": "macOS 27.3 Adds New Security Controls to Stop AI Apps From Accessing All Mac Data",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NT050YUdYV3V5d3JjaVp5THlheXRfQzhVUGV3dWdpTG1zRWllY3UtenJwRFNVWW9oX1U0cFN5cnJQWmF6bzNWM0Q1aDFxaHJ4VmtMZl9oREpHZUc4a2lJOHFOR01wWndtWGJBVjktYW_SAXZBVV95cUxPNTNFbXduWTFja1pnZjZhbFJZZm1Ja3lUdGtRMDRaU3FJRE1IaGpyZXptakVBOWhIcElGeUFiTFA0RVprSjF3Nl93ZzQ1b3dzWmJsbE55N0NqVy1rT1VBY0Y4NVhscHdkQzZkaEEyTC1TckVqZUdn?oc=5",
+  "fecha": "2026-11-18T08:06:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "fd96bc5d305551",
   "fuente_id": "datacentrenews",
   "titular": "OVHcloud unveils Olala mini, its first in-house LLM",
@@ -8619,6 +8939,47 @@
   "fecha": "2026-11-18T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "23342a8220a0c1",
+  "fuente_id": "cybersecurity-news",
+  "titular": "BADBOX 3.0 Malware Infects Android TV Boxes to Generate 40 Billion Fraudulent Ad Requests Daily",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fMVk2Y05ZTHNVcDlfM3dwTmxhS2N3LUZ2NnhaajRZN2RQSlYzSWhWNzA2d1V1cEcwZnE3RTlOQjB6Rjl6c1FuOGkwTHdKazlqLTh6cEFUWlRGRW5BU3fSAWNBVV95cUxNUUwyMWxmRkJKVWNLUGZyNEo5dG5HaU11QUtteEkxYUwySVNGLVVsVXc5LTF4OFZGQlFSX0dOWGFqbTFwQXM1ekVBWEcwendrcXZ3ekVRM2pVRndoNzl0NURuZE0?oc=5",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "3f89fff07f920a",
+  "fuente_id": "bbva",
+  "titular": "Agenda de negociación de la COP31 y Agenda de Acción: diferencias y claves",
+  "bajada": "",
+  "enlace": "https://www.bbva.com/es/sostenibilidad/agenda-de-negociacion-de-la-cop31-y-agenda-de-accion-diferencias-y-claves/",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1FkXzRueldwaWI3V0gyUkJ1bzBHLXJ2Yl9aUWkxNlVibVNCbVVWR3BuUlhhSVpsb2t6WFZGX1YycGVSTm93QUZKM3MySG9uNFU4Z2xoNnpQOGxIb3F5d0hDZFFrR0JLMTFzcEJqWDNoRThNOVNoaTNLamtxb3hpTnlqajlWM0djUmxJTGxST0l0amdwY1U0c2tnUjc2VDNkb0lLZU5ZaU4wYzhaNTFDLXBpWQ?oc=5"
+ },
+ {
+  "id": "2393f72591322d",
+  "fuente_id": "bbva",
+  "titular": "Accionistas - Inversiones en Bolsa, Analistas de Mercados y Financieros",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56bUd6NVI4VTVPeFBNcGJ6OFJ2cmkydkRaV2VBSEczZFRmbUZlV0h1SEU1cXJUYW1FWjBZODNyUUxXRWgzc0RmWGdyc0ZienBKdW1XWV9IV2VQR2UzLVh5alRB?oc=5",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "91477b684e6ded",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Japan Shuts Down Fugaku Supercomputer After Hackers Breach Internal Servers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RaEZZSlNpaUN0OGhaUHc4RVlhQWEwLUhfNnZBbWRKa3lyVXNwam9iZDNLd3owUHpPcW03bUFMMlpKUGlTOENwSUh1WE1UcmtrSzNrLXlJYkZkM1N2YXE1X1RDS2hlNWVKckZaekllTU5kYlhWWG5R0gF8QVVfeXFMUFptTXdpNy1IWnpObkZLYmJrY1BreEVrQUN1aW9nZWNCOU9EaHlRYnUyZ1VZSlp4NUxWTTA4cWRRTlhOcjRtZ2pfX2huYThZRDUtUm9vN3BIUTZJcWZYcEZmR2RtTVFDNHVZZ09rR1dqQnY5NlpXcHNiRGQ5eg?oc=5",
+  "fecha": "2026-11-18T07:59:16+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "9b593f00c537bc",
@@ -8741,6 +9102,26 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "8edafdc439f1e1",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Send Fake Microsoft 365 Email Recovery Notices to Lure Users Into Credential Phishing",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CamhUdDE0Znk0R05Rc1Y2c2dMNUVua3YxRkFSYWFMdzFqdmRIckxpYUs3dURqcHpKV0R0ajhfZk1tNUp3THp0MGNFczBJeUY5X0ZUWmhGZGJUQlFsY0I5QjlvS2hHM3J0TTN1dUpR0gFuQVVfeXFMT0JqaFR0MTRmeTRHTlFzVjZzZ0w1RW5rdjFGQVJhYUx3MWp2ZEhyTGlhSzd1RGpwekpXRHRqOF9mTW01SndMenQwY0VzMEl5RjlfRlRaaEZkYlRCUWxjQjlCOW9LaEczcnRNM3V1SlE?oc=5",
+  "fecha": "2026-11-18T07:10:17+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "5a846e85230994",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Impersonate Freight Booking Platforms to Deploy CastleRAT Malware on Trucking Companies’ Systems",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xYUFSRXNIVDZmTy1iNFJNcDhfX1dvX3lQbHpUNFhOZXZoX2tZYi1SYW9USUc0T3NKbXBqOTNCOURUcnRaeXZDYk1Rdi1BQ3hJdmhPNHhoQTlHQkhlR0c3QnlCNjlFNTNieWk4clhHUm0wd9IBckFVX3lxTE0xYUFSRXNIVDZmTy1iNFJNcDhfX1dvX3lQbHpUNFhOZXZoX2tZYi1SYW9USUc0T3NKbXBqOTNCOURUcnRaeXZDYk1Rdi1BQ3hJdmhPNHhoQTlHQkhlR0c3QnlCNjlFNTNieWk4clhHUm0wdw?oc=5",
+  "fecha": "2026-11-18T07:01:16+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "aff399c5ac5caa",
   "fuente_id": "cfotech",
   "titular": "Nium wins Woori Bank remittance deal in Asia Pacific",
@@ -8801,6 +9182,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "2916b4acd4469c",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Hijack AI Coding Agents Through Malicious GitHub Repositories to Steal Developer Credentials",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cWZSSS1pOHZPQ05mT0pUWkNXczQ3VFVvVTdBYWxiSXVuR19pN2NTVEdVSzNPMmZQRkY1dEZsanZxajdpZ05WSFp0d3JOZXdfYXZxRGxaajRYckk4X25RQlVYcEZkbWhjRmVkam82RdIBdEFVX3lxTE1JMEZkQjlHUm1qZkdaTnpLRUhkQ0ZoMVNsSERpbC1YRHlIdjNoR2xfcnpUWHdUME96RlZNeWlpeW84RkdrSElmOV9zMVdJTDRGMDJKdTZkXy1nWFFOdmY2Y2ZSc1RzckVFWUlMQ3JSc2xKQTRL?oc=5",
+  "fecha": "2026-11-18T06:56:04+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "8d968ca6eaf938",
   "fuente_id": "industrial-cyber",
   "titular": "ColorTokens makes Xshield microsegmentation platform available to DHS components through Carahsoft BPA",
@@ -8841,6 +9232,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "fad52b317e655c",
+  "fuente_id": "cyberpress",
+  "titular": "Russian Hackers Hijack Google Workspace Accounts to Steal Data and Target Other Companies",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hRzVOY3BzMDlIb2lINDZXSTlKNkFOM2J1OFpiZXYyN2dtZUw5dG5ia3ROWV95OTZUSF9JOWt5LTdNMGdmLU1nWmp5ZGk0azVCV1RadDFBWkpNS3JZbEdPaFlTZnFqRkXSAWdBVV95cUxNYUc1TmNwczA5SG9pSDQ2V0k5SjZBTjNidThaYmV2MjdnbWVMOXRuYmt0TllfeTk2VEhfSTlreS03TTBnZi1NZ1pqeWRpNGs1QldUWnQxQVpKTUtyWWxHT2hZU2ZxakZF?oc=5",
+  "fecha": "2026-11-18T06:39:56+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "145d6d67c25e21",
   "fuente_id": "the-register",
   "titular": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
@@ -8879,6 +9280,16 @@
   "fecha": "2026-11-18T06:08:12+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "daeb0b4ff7feb7",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Use Fake Google Play Download Pages to Infect Android Phones With GravityRAT Spyware",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEN1lEWFNHM1NjQWpFdHFuN2NwSTNBX3llWWJ1VFB6eHhfcUlMVDNVUDZhNzAyMTh1czZQN2FteFlKTVg2RWVKc1RTYU9hUnI5Y2M3X0RyNGE5SENhVzVyNHl0VFUyZ3BD0gFoQVVfeXFMUEQ3WURYU0czU2NBakV0cW43Y3BJM0FfeWVZYnVUUHp4eF9xSUxUM1VQNmE3MDIxOHVzNlA3YW14WUpNWDZFZUpzVFNhT2FScjljYzdfRHI0YTlIQ2FXNXI0eXRUVTJncEM?oc=5",
+  "fecha": "2026-11-18T06:06:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "200f7ce0c290a0",
@@ -9041,6 +9452,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "9332c2fd8cab19",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Inject Credential-Stealing Malware Into Microsoft’s Agent Framework PyPI Package",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OTnF5anRLbi14T0lFSFEyRVhBVjdlTWhIZG9XSHRuakFLRkJjLXRMUDJTUEw0R1g5eXVCZ3VRWm53NENoZUZPZDU4b3dYN0VMM0VsY0I3QV8zM2tlOWFvWmNzNlRlcWpEdS01TzU2ZWHSAXBBVV95cUxNTk5xeWp0S24teE9JRUhRMkVYQVY3ZU1oSGRvV0h0bmpBS0ZCYy10TFAyU1BMNEdYOXl1Qmd1UVpudzRDaGVGT2Q1OG93WDdFTDNFbGNCN0FfMzNrZTlhb1pjczZUZXFqRHUtNU81NmVh?oc=5",
+  "fecha": "2026-11-18T05:34:23+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "23c477cebf92b7",
   "fuente_id": "wsj",
   "titular": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
@@ -9081,6 +9502,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "26e9aea65a6c64",
+  "fuente_id": "cyberpress",
+  "titular": "Critical Apache HTTP Server Flaw Allows Hackers to Execute Code Remotely",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY1JKN2J6ajM5MkNsZjI1RzZ6eEl3Sk1SOURhMDdpSWtvUzFva21vX0JaclozZUR6U0xJdWFzZnZrRXJBOE5hdGJhWWFyZWVhNjFUZm0tOGpXeEEtY20xZDl5S1V5R0XSAWdBVV95cUxNcGNSSjdiemozOTJDbGYyNUc2enhJd0pNUjlEYTA3aUlrb1Mxb2ttb19CWnJaM2VEelNMSXVhc2Z2a0VyQThOYXRiYVlhcmVlYTYxVGZtLThqV3hBLWNtMWQ5eUtVeUdF?oc=5",
+  "fecha": "2026-11-18T05:19:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "0d0ed8764b198b",
   "fuente_id": "el-heraldo",
   "titular": "En redes sociales identifican a joven hallada muerta en Galapa, a la altura del puente de la Prosperidad",
@@ -9111,6 +9542,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "80dc4ad069c5cf",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Critical Apache HTTP Server RCE Vulnerability Actively Exploited in Attacks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xaWh3MzNkeTBkeHhTdUJ1OERfWkw3TUVYendISk1uUUt6eVltNFM2R2tPd18yMl80Ri1xWm9uVHcwVjR4bWcxVFRjUEFHRFJpdXBmWnJPR1RBeVhjZFkwSkRkaExqMFNnTFV5R1Y5bVJ0WENt0gF6QVVfeXFMTTRRVjQxLThxS1lqZ3NqZnkxZWc2dmNjTnVYaUxCem4tMzBZNWVGWklIQ2k3S2NiSEhvU3R5NmZxZ1IyV0h4T2wtVWR2RFBjc1A2LTBsTndMelE3N2x3MmZTRENXRDRmOU9qNmVKcy1TRGg5LU1rWkNpbEE?oc=5",
+  "fecha": "2026-11-18T05:06:49+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "4c1d2bb60d2b5b",
   "fuente_id": "la-republica",
   "titular": "El cambio en Texas",
@@ -9119,6 +9560,16 @@
   "fecha": "2026-11-18T05:05:55+00:00",
   "via": "portada",
   "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
+  "id": "9711757e7bf0fd",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Use TheMailer AI Phishing Kit to Rewrite Emails Until They Bypass Spam Filters",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUHpPMWpfWHRZcGFqXzhGTFZTa1FjME91Z2tTTDFOY0s5S3RwWHdKVUtUZ2pKbWgxNFhNV3BYeEg1S0hhWFRYa0pULVNhM2oyblB6NkpxUnZmNlNxbUHSAV5BVV95cUxPRlB6TzFqX1h0WXBhal84RkxWU2tRYzBPdWdrU0wxTmNLOUt0cFh3SlVLVGdqSm1oMTRYTVdwWHhINUtIYVhUWGtKVC1TYTNqMm5QejZKcVJ2ZjZTcW1B?oc=5",
+  "fecha": "2026-11-18T05:05:20+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "12ba33ca0e35de",

@@ -20,6 +20,26 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "a4346e0ad23bdd",
+  "fuente_id": "yahoo-finance",
+  "titular": "Sandisk (SNDK) Implements 8 For 1 Stock Split",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXRPRklBN3h3empodmRHZzA4dDczY0xDMFhYQ05aR3ZCNk9Ja2NJX294dGQ3Tm14R2wwRWY5Tm5VSWxwQTN2U1RmX2EycDF1M3l6bjd5Ni1EX0xia2RPcnJfVEp3Q0ZwdVV2QkFSRUN5c0lVQXVLLVBfRDhVeEJIbTMzS1NFU2tHTzA0SW52OU5ubGUyWlpN?oc=5",
+  "fecha": "2026-11-21T04:25:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c9229e99789cec",
+  "fuente_id": "yahoo-finance",
+  "titular": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Pauses Advanced Chip Shipments To China",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGhIWnVaYlI5aFc1emtra29CdDBWS3J0dXVRTFZhQmdXNThUU2hUVXZBYWVLR2RpaHJEX1ZqNnJXTzQyWFJ4Q1BQN1dmeDlXVGxQTDZwTkNKbHlxWUFzT2VaZFFENXBwYjVyV2NCN1d2dVBmODA2MGVUdTk0UEJHcW9Mc2dJRHRTTUpJanI1dGR3dDMyNkVVM1QycU9iVzJ5VGVIUEpJWQ?oc=5",
+  "fecha": "2026-11-21T04:25:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "520cc07727cb8d",
   "fuente_id": "automation-com",
   "titular": "High-Performance Motion Made Simple",
@@ -141,6 +161,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "94ddf1268379e6",
+  "fuente_id": "cybersecurity-news",
+  "titular": "WhatsApp Android Flaws Could Let Hackers Delete Users' Files and Expose IP Addresses",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kc1JYcE14WVVKZWFHZFZXLXhUcWlWRWt6U1E0UEw4d2lDSkdYaDY5SlZoNWNwNmxrZU9GeTVrSnlsOWI0Q1I0dXJ4OXhqX05oa2JoMTQ3T25sNXgwU1JsemZkUdIBaEFVX3lxTE1VN2ZXWEJ0QzZpQWRlMlZrUTBmaGxDZ1pFQjQyYnEzSDdMWmdvS0taeHJUcHVMenZka3l5YlB3WUJ1c2FyRHJFLXFkV3Z5elBIYS1YMHdqV2o4SHFhdWdwX1Y1QTY4Y0ZS?oc=5",
+  "fecha": "2026-11-21T02:36:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "1cc504cd06e54f",
   "fuente_id": "wsj",
   "titular": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
@@ -242,6 +272,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "f262d8bc0d7817",
+  "fuente_id": "yahoo-finance",
+  "titular": "Billionaire Bill Ackman’s Top 5 Stocks After Selling Stakes to Open a Brand-New Position",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDViSS1XdHNXTHJiWDZOTUFJMWJlVUNPUGJHcDJibzZNWVRwRWJDclZMcXp4bWN5TVdjeDl1bWF1MmZ6MHhtT0dtZ0tlWklYcXRkMUdaSDVWTk9kSkd4bVlqT1MwTURTZ1RYWkhqTmJpQ0VBcDk4S2RJTnlGWVM0bm1OOGFxSW42M2RDLUtLSnExN3l1YjBzMldR?oc=5",
+  "fecha": "2026-11-21T01:38:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "6549a7c64a5482",
   "fuente_id": "agronegocios",
   "titular": "Chile reabre su mercado a la carne bovina colombiana y se proyectan exportaciones por US$27 millones",
@@ -330,6 +370,16 @@
   "fecha": "2026-11-21T01:28:39+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "54d413cbbd9573",
+  "fuente_id": "yahoo-finance",
+  "titular": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjdfM3pSLU52aW1SV3l1NmNMR2JOb2xEYTVyc01SalUxNm9wQ0NJa2pmVGlhd1loN25jR3pjdlhBQlhuem1ubDZFSTBfRG1SSl9RWmhaR1lCN2RfZVVTUklpTnkyNGtCWFJDMV9INmZpMjhDNWYtZ0VmakVXMWdvbWlxNFNzbThISWVJdktqMFBFVVo0bGJMTmQ4TEQxNnNUeEE?oc=5",
+  "fecha": "2026-11-21T01:28:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "f057ee0985ee22",
@@ -560,6 +610,16 @@
   "fecha": "2026-11-21T00:01:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "a60dfbdac1f1e3",
+  "fuente_id": "business-wire",
+  "titular": "Green Giant Canada Announces a Voluntary Recall of Certain Cans of Green Giant Cream Style Corn Manufactured by Nortera Foods Because of Possible Foreign Material",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOZlQwWWZCd1JXNm00M3NOeG1HY1ZQaGRPRG9ELTNHUDlwbUpmX2RkUXFhXzlRLTJyNWdUTGRxLU9GSzRiRWdtVDlkblRfQkVwa2owYmNqclhVTGVlMWVUR0tHYVhObXBKZDZ4YTlPcDhPY2d2S3BWbnVYMDQ3RXhfM2RRSmI2VF9BMnlFVDlQTHFsU3hMRUFhdUo3dFdCQWR0Sy10VzFEYnUwQk9OdFNLS2t4eWZTbUhmeXoyT2xtNzlyUHVUaXdTR0xMVGY3dU5ydmczYXNabjRHRktZZ2JuM2Jua2ttcVc1STE1VUZMcDgyMWdXOG90TzdlbE9xLVNaS3pibDFLcjdqSUdUU0RDLWc3SXZkWHJQNmd3NFc1UWx0NW9YY3FibFpWTC1oSi1PWWFJVTZVZnhrN01UQjduQw?oc=5",
+  "fecha": "2026-11-21T00:01:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "828d65b24ccb98",
@@ -1033,6 +1093,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "4faadb54de5db8",
+  "fuente_id": "el-universal",
+  "titular": "Liga: la razón por la que el partido de Medellín y Santa Fe se suspendió",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0xIYXJEYUlGaXRXa2VISUlRSHo5ckN6RHc3alRHdkVmWkloeXg4N0pUVVc3RWZsU2RNcFFkeGxXMTd3ZHdJNW5KdXF4dG5OT3h3S3Y0SHUxaWxDUXBXM1RteVA3WElRUDd2RFNWT29nZU9hSXNISnBQSTlkQU52REdhYk8xVU5rN3JBZlRlOWlLbUxEUG5BSFN5STd6bzl1QmV4TE5Cc2c2ODYybUo4a1dyOHRWbXJZXzRJQjFBWWk?oc=5",
+  "fecha": "2026-11-20T22:23:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "e7dddf0752a314",
   "fuente_id": "forbes",
   "titular": "In ‘A Cherry Pie Christmas,’ Door County’s Food Is Part Of The Plot",
@@ -1202,6 +1272,16 @@
   "fecha": "2026-11-20T21:53:42+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "7a164e967f98c0",
+  "fuente_id": "unicef",
+  "titular": "Anexo C - Términos de Referencia - PCM0120760.pdf.docx - Unicef",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMm9zYVFLNTlPVktrd0JubEYyX3FYOG1uVzZIdWZJZF94VzUzeWRfOC1zZnNpTXJWU29SRllQWVJvc0JFazdNU2lOY3VZUmJieEhPMGNZTU5QTnRMd3Bpalp1anhaTTlMUFJzNExqTk9FNE5aLWsyQkViWGdsQ19xc0hMQkVVeW1VREs3OWxLOVVlajFQbU42OGpjMHhGbVY2ekxQWUEyU1lWWWN6MTVwaE4yVkFNMURJYl9GQQ?oc=5",
+  "fecha": "2026-11-20T21:53:42+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "2b404f9859e3d1",
@@ -3101,6 +3181,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "5dee3c483330e4",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Over 100 Debian Packages Still Contain Distrusted CA Certificates Despite Security Updates",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OVDdfdXF0UWpGMl9qdW5US05HUmh4d0FseTBiemhyQUhNWDl4T2x6U0V0cVRTSHYxX0YzNk1OQ19Gd0Z6ZTN6WUlOY0ZCTjBrTjRESmRmZnhGMkZoaVJNem9tZ0VsR0JCdzdEVENPSdIBdEFVX3lxTE9zVUhJRzZ0MGI2amhLc3lSR0VHbzI5OW9jMkl2WVVCMEhDOWNqLTJ5cTNWdDhhdFFYb1J0bTdiV1ZQUFJQUkZoYzBlOHlfQWJmWW1raFlOelkzNWVpcDEyRUowTi15LWRvb1d1bFMxS0p2WGk3?oc=5",
+  "fecha": "2026-11-20T17:17:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "e20b523168fa6c",
   "fuente_id": "el-heraldo",
   "titular": "Fiscalía imputará cargos a Nelson Linares, exgerente de campaña de Carolina Corcho, por presunta emisión de facturas falsas",
@@ -3232,6 +3322,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "03abe6529d14a7",
+  "fuente_id": "onu-colombia",
+  "titular": "- Naciones Unidas en Colombia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE4yQzRTTHB2R3lrZmQ2dWp4UjRvMm5ENE5JVUxiQjV5OVdMTDlKZ3hmM1N2Qk0ybEhYS3V6MTJEOUE3czlEQTcyTEduaDNfb19keFUzYmEwc0xSanBQZFBKS2ZpZlB4Qi1ERWc0TFhyTE15WFF6RkszWk9sWGxsM3BBQV8?oc=5",
+  "fecha": "2026-11-20T17:04:15+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "7fbc880a3de7f8",
   "fuente_id": "wired",
   "titular": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
@@ -3250,6 +3350,16 @@
   "fecha": "2026-11-20T17:01:31+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "5a13a96336523a",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Microsoft Investigates Attachment Upload Failures in New Outlook",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GU3QyZkQ4MFFzb2VKWjJDbWNfeTVlTzBWeDIyQktMUmRyaVgzZGJNSGxwcTVnenhvamJFSlhpTjRRaC1NVGQ5eWVIWENZVlBnNmdEZTNGQjVTMGtUWXRsOElITVM1OUgxMjZxZV9NeGlHNk01cWfSAXtBVV95cUxOd2FnZWdJTzNpMmwwWmo3T2JHTWpOQ3ZNZHBVVTEzV3I1ZThUa2I2UG1LZTJPTm10QS1HVlo5RmhPTHdlYkJLZ3R1dFpyV2xJTzdjb25DN2RFS1ZoSDl6STczZWwybjluUXZuZmh4RjFDd2tXU3U4WnFVczA?oc=5",
+  "fecha": "2026-11-20T17:01:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "1a3d12e0076c94",
@@ -3500,6 +3610,16 @@
   "fecha": "2026-11-20T16:36:11+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "29bfaffb430ef1",
+  "fuente_id": "yahoo-finance",
+  "titular": "The Home Depot, Inc. (HD) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ncDJOZDc5SXpubFJEd1hrVF90OUJBSFJLSU4yYjMyaDhzYU40LU1aeTFqeFZhV2RXYjVwZUhubUI4eHlYeGhmSmxkcw?oc=5",
+  "fecha": "2026-11-20T16:34:12+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
   "id": "9f33008ceb2f80",
@@ -5056,6 +5176,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "fc5966a09939ee",
+  "fuente_id": "business-wire",
+  "titular": "Spotfire® Completes Enertel Acquisition and Introduces Spotfire® Industry Pro Accelerators for Confident Upstream Asset Decisions",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ25QajJwVk9CamZfTDlzRDRUS1J4MDBiXzZ0MVhuRHdhVGZPNkpOUmRQb2oxV01ZQ2lsMjhZM01xVGk0dXFZdERPRVZWUjJ0SnowMGN6TWR6U1V6RTYtZDVZOFZCc2tXalVrcWdhQ1gxRVlfNmc1Y2pIWEN6aDc0dXNBTzR1TmFwSkdXYVYtOEpkeUN3T1pvN0RLTURudWwzTEZyZTlkd1ZMRU9ocVBaekFLSWw0Vk5zYkRsWXRpREtZTFZfQy1RNVlzWEFDSHVRWndHX2Z1QTlqc21oSzRTa0NZeGplbXFjTXY3Qm1nbFlPLXhvX25GMWV0bEdUVF8xV2NjTUNkMWZFY0d6WU9qVHhn?oc=5",
+  "fecha": "2026-11-20T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "19665eb9ea4697",
   "fuente_id": "tech-funding-news",
   "titular": "Anthropic lists at $1.8T: Did Europe’s VCs avoid a bubble or miss a major opportunity?",
@@ -5438,6 +5568,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "124fb58d4b4d0c",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Use 355 Domains to Spread Fake GTA 6 PC Launchers Delivering Malware",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdkgxU0lwcWFQSHJTQ1Q0OEhlSDJCRXc2Tk5lNTJEV3BCRjdUQnJaZGNQa0hKTzBHeHZFSjI0UnFWOFdfYlh0ODQxVERISlljSU1HR1hQcDZtTUphQnhuVURNUm3SAWpBVV95cUxOVzJPVUgxbEYta1lNRmVWTV9qelpYaDdFWDNiUUtFS1lORTFMM2o3NFE2VDkxOVpnZWtkNEN3QktxdVFYdHlTaTkwOHVGZTV3elF6VUVwdnNUX2wwZDl2NHZMb3FUT3VmSklB?oc=5",
+  "fecha": "2026-11-20T13:07:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "8b4ec89539433b",
   "fuente_id": "la-republica",
   "titular": "El precio del dólar se acerca a $3.500 por incertidumbre fiscal y la tributaria",
@@ -5759,6 +5899,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "a75ac914bac39f",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Signal Restricts Screenshots to protect User Privacy from AI assistants",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaUZROEhVZG1mQjB4aFlLUk1JTEMtVEJ1cVZIQ3lHOVN5TnpjMG85YUJNa0NYZkszaHBjdHJHS0RmS3E2cnNHMTAtWGVJZlJmdDNGMTl6R3dNWHBnLUk0Z2RLR3NmeGQ4aUlr0gFwQVVfeXFMTTItV2lPaW9fTmJvSUVGRk9vaUFBNlFZRllHS0stbktCdkhLdFhHXzlzSDVjUFJabW84OHMyMVNvQlBqWm5VZnBhejZ3ZlM3aGxHNkIyWUZSU3dEN3ZZdVZNZVZQNERDNl9wWmdra1ZvTQ?oc=5",
+  "fecha": "2026-11-20T12:37:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "8c832fc387086d",
   "fuente_id": "wsj",
   "titular": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
@@ -5787,6 +5937,16 @@
   "fecha": "2026-11-20T12:34:30+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "899af10ff235e9",
+  "fuente_id": "cybersecurity-news",
+  "titular": "OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeVp6OW1XaUVOVlhuT002SVFKOXJlR2xTWUw0THd4VlVNMFBqa1U2Qi1STktjOEo0aXVrMlFpODhYMVRqUHRQUnNSMlBzcVIxaWoyTG9JbjBfQjdBeUw4U2F1ZlUtSkFaNXVB0gFwQVVfeXFMTlZBRFFTYkxnYU1JRkk1azM2LXNJdkg1OVBPR3RkMEVTeVp4ekNWTXptS2I5UzZvdXNWc2gzc1lrbERBR0R6WUo2c042eDNTeWR0ekk5VEdlUWRfcngydmcyN3lqN2NiVC1ROG9ncjFWZg?oc=5",
+  "fecha": "2026-11-20T12:34:30+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "52923eba688278",
@@ -6131,6 +6291,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "4702153b3cf756",
+  "fuente_id": "onu",
+  "titular": "Discordia en la COP31, Ucrania, Afganistán y hambre global: las noticias del viernes",
+  "bajada": "Discordia en el último día de la cumbre del clima contra el borrador del acuerdo. Ucrania registra el máximo de niños muertos en casi cuatro años. En Afganistán, la mitad de las organizaciones de mujeres anuncia que tendrá que cerrar sus servicios por falta de dinero. El…",
+  "enlace": "https://news.un.org/feed/view/es/story/2026/11/1542198",
+  "fecha": "2026-11-20T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "4cd17514281676",
   "fuente_id": "portafolio",
   "titular": "Dólar en Colombia se disparó y tocó un techo de $3.500 este viernes: así cerró la semana la divisa estadounidense",
@@ -6159,6 +6329,16 @@
   "fecha": "2026-11-20T11:54:51+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "5f3c6b7dc38fdb",
+  "fuente_id": "cyberpress",
+  "titular": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jQ2pyTk1xaXpDY0Y4aGZTVkpucDNtR3hIWFJ3clk2UzRhVWN4a3czOUxXNHZXQmdoOERRckF2RXppWU5EYjd6cEUzLTlPR1MtTEE2QzEyQkRzQUd3NTBFM2hnTjU1N09KV2VmUVpwNVY0d9IBckFVX3lxTE1jQ2pyTk1xaXpDY0Y4aGZTVkpucDNtR3hIWFJ3clk2UzRhVWN4a3czOUxXNHZXQmdoOERRckF2RXppWU5EYjd6cEUzLTlPR1MtTEE2QzEyQkRzQUd3NTBFM2hnTjU1N09KV2VmUVpwNVY0dw?oc=5",
+  "fecha": "2026-11-20T11:54:51+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "cba0eab4f6841b",
@@ -6261,6 +6441,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "48bd66b1d449d1",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80UHpSZzRFN3E2UFQwX3RYaVZfbXAyTzlpRldWcldHNHRQemY0SXhlQlN6QWcxZHN2MGxuRVU4a2NEOXlzTDU2NXUtYlVSQ2dSWG1LZ3p5ck1MWklEdEF5NDhxUXBqRnMwNGN4VVpB0gFzQVVfeXFMUGVsdUhuSFUtODB5RDRlREZqS0d5VDEwaXpkajk2bXF6VF9XWjNWRVcwZ01nMTNYVFZmRm1lb1VralJfb0ZvczRfZGtmYXFIS05qeUI1c0E4WkxBcFQ3T2xrZWNtR1lSS2szd3RsalhSeTN5TQ?oc=5",
+  "fecha": "2026-11-20T11:35:08+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "9f6d209eb6caad",
   "fuente_id": "cyberpress",
   "titular": "Hackers Can Exploit Volkswagen Bluetooth Flaw to Spy on Drivers and Track Vehicles",
@@ -6269,6 +6459,16 @@
   "fecha": "2026-11-20T11:34:39+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "3a9449b3e4039f",
+  "fuente_id": "cyberpress",
+  "titular": "Hackers Can Exploit Volkswagen Bluetooth Flaw to Spy on Drivers and Track Vehicles",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeEZzWVJTVW0wcXBmbkZsb21LNFhyTGRIem53MENBWWl5SElPaXlPRXhlcTJDUVlRYllLM3lTY0xVV25rOGJ5ZzlnOVZYcDgzZlNwMTlPQXZzTkdicjE0VC1WdnFLTU5BZk1PcEVKUnrSAXBBVV95cUxNaHhGc1lSU1VtMHFwZm5GbG9tSzRYckxkSHpudzBDQVlpeUhJT2l5T0V4ZXEyQ1FZUWJZSzN5U2NMVVduazhieWc5ZzlWWHA4M2ZTcDE5T0F2c05HYnIxNFQtVnZxS01OQWZNT3BFSlJ6?oc=5",
+  "fecha": "2026-11-20T11:34:39+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "663657a336e7e0",
@@ -6341,6 +6541,16 @@
   "fecha": "2026-11-20T11:27:05+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "53225e227f643f",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Use AI-Powered ARTEX Framework to Automate Cyberattacks Without Relying on Zero-Day Exploits",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LekRlUmdLNU82TUlBWWFYcGN6NzZIWUxBUG03SllicUtZV0VXRlZzeVpXRUJKczBMdE1yTEdXTDhFSXRSNTBxcE9jc1cyaTAyVzJFLU9uUUVhSDNtZ1BfaGttYWRONXZNaFJYOVBqQ2dXTHlvSGlmatIBfkFVX3lxTE5nZDhyanMyWml0SmwyQ2JIWURqNWFKb0swZkVMOWE3RXFENHpSRmlmNHRRZTNYMW5acjNNQkRkTFRaNUVndmRILUZpUHNNVTdITS0tNUxIcmpvNk5oOXViNzdyWjhEdzUzLU1LOFpJTWcyeV9nVWxrSVh5bkI1Zw?oc=5",
+  "fecha": "2026-11-20T11:27:05+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "27fbf33e9af0c1",
@@ -6793,6 +7003,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "5a48d7c43a751d",
+  "fuente_id": "cyberpress",
+  "titular": "China-Linked Hackers Use Stealthy SoftEther VPN Tool to Spy on Government Networks",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuUG1Fb2VZQkhQU3ljd3F6RjdrbUZMYU5ETzZjbW9BWkEzLVRXdzlvRXE3VWtKV0hWdVVMU1BSYWc4RW55VXpId09UWTJRbFljSVVpcTE5TEZqVTB4VkJBN2RvdzMzaFFBajZ4QU91T3dGR2pvSjdN0gF3QVVfeXFMUG5QbUVvZVlCSFBTeWN3cXpGN2ttRkxhTkRPNmNtb0FaQTMtVFd3OW9FcTdVa0pXSFZ1VUxTUFJhZzhFbnlVekh3T1RZMlFsWWNJVWlxMTlMRmpVMHhWQkE3ZG93MzNoUUFqNnhBT3VPd0ZHam9KN00?oc=5",
+  "fecha": "2026-11-20T10:25:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "6684af7dfc6f75",
   "fuente_id": "cybersecurity-news",
   "titular": "Signal Restricts Screenshots to protect User Privacy from AI assistants",
@@ -6873,6 +7093,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "0ef358ac383111",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2VWSjVTNEQ5TWlvQTN3Z3ZSZmJYUmxIMy0tbTBqR05ubnp4YVp0RmhlWk84bDdLOUh3YnMySkZyUVNEYm5yZGIzeXNzdl8yVkpaUm8ybl9YVm0xVm5ZUno4YkZVOUh2MFdsdFZxVHhfRWVvMEhIUzVjR3Y4Vlc1V1d30gGHAUFVX3lxTE1Nc3RMRWdmaHZlYnc0OHVnc2pTekg3aDV3ZUcxLTNSdWliR1l6RHExRDRuT2RWakhjdjhMWEtBbE9rUnZDY0F1Z3lYNXZ6VFI4VGx2X1pqYmI3aW0yZ3NBWlJaZV8ySVd6V3N5WlpmbVF3N04yQWpLbmE5NHlVd2hTc2d2aTN0QQ?oc=5",
+  "fecha": "2026-11-20T10:12:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "0a4f3bdd33fd2d",
   "fuente_id": "portafolio",
   "titular": "Más que un debut",
@@ -6913,6 +7143,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "65f86f6abfc098",
+  "fuente_id": "yahoo-finance",
+  "titular": "AMD stock gets drilled again in the wake of surprise short seller report",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYURUTEs0UGVfaThtVUVERUJ5UVcxUnc3SHNfeklNTVEyZVo1enBCSy1KaUZ0Z2swN2R3YXJpWU9hUkE2bDIzYUt0dVQ0WUxvazZ3dEpJQjVaVXVaN19rV3pCVVNKZ216T2R3VGFoelZ4MF81NVhHNDRVcnl3OGd6eGJTZWJzaHdHempKbVBOd3ZzYklFTlBKREgxRFRFZ1lTLWtBSk53RWdXUFM5dGsyQnh0STZYdWRfT1VXTXB0QXRoLWhWY3c0Y2c5Qk0zenlPWGc?oc=5",
+  "fecha": "2026-11-20T10:04:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "0661fd26bdf30a",
   "fuente_id": "cybersecurity-news",
   "titular": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector",
@@ -6933,6 +7173,26 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "deca515fd3d35b",
+  "fuente_id": "business-wire",
+  "titular": "Dunkin’® Joy in Childhood Foundation® Celebrates 20 Years with $1 Million in Special Anniversary Grants, as Dunkin’ Thanks Guests for 20 Years of Support",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSjdZTE5pTFVwQUJlal85U2dBamJkT1ZyVG9HemVydDRrMFhpaEljY3dvcmNPVjRqNDJVdHZRX0lDVWRHNkhrV0VIblZ5RS13QVk4NTFhN3VBMldZVzJHTExJc1lxdE1aMGE5MTlYMUl5My1jVTdpczNQNnhkU09vWEhlel9QeVhUc25pNTlHLThhNjQ5ci1nQUQ4R1V3UzdKNld6U3ZseE80WlV1Y3pEMXZWMXNxQk5Db21LRDd3VWtnRmdfVUo2dndRTEx5STM2SmROVHI0S3hCVkpnNEdMQlRCNVBEMEQzQzZDamtiQmlpWGFUbWV5cERXVGdaSWNmWG5lUURmX25qdmk1WWhCSTJ3dE9Qbk9LT2ttd1A2V3F3bnhvaUFFS3FpMXVSY2VF?oc=5",
+  "fecha": "2026-11-20T10:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "750ea83108642d",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Exploit Misconfigured Temenos Banking Platform to Deploy Web Shells Without Passwords",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmWDlVT3lxMXc5WFRFUk5BT0NwUnlGX2k0bFZkNDRiRXRSMVF5V1VHUlBra0c1bDB2YjNfT3NQazdweE1rVEV1MWt5N0NmUkRLR1NWWld6c2hoNVY0UW14LW53eERkZ9IBa0FVX3lxTFBxbnZ6azBMaEFkN2MwLURhaHNEV1gzcUpmWUl4V1doTk5XcjhORnpFQmw2N1dJTTU3WDhYYW9Cbl8xNkJfeE80Q2U3TEdGRFZPbWYwcU9lazlHZVZLMHFLZ0F1aERvZFFhZWFr?oc=5",
+  "fecha": "2026-11-20T09:57:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "9b8232c24b3353",
   "fuente_id": "cnbc",
   "titular": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
@@ -6941,6 +7201,16 @@
   "fecha": "2026-11-20T09:56:03+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "390822a47cba9b",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Hackers Breach TfL Oyster Photocard Accounts, Exposing Personal Data of 265,000 Customers",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkk3SDd6NUl5ZUJyMjNDVDVZZl8yQWo0bzFWVUZuaTItRDJ4d3dzeTFaY25ybS1xbTZKUndRYmdBSWZlWUV2ZEhxWDFhNlBiSjEtWkdhWXlEcS1Ja1lUSHpndEZwLWFENklOOHVJd0Y2RGQ5UnlvRGdmTy05dHJVV9IBhgFBVV95cUxOYUZROTUwQXk4WUVTWmh4RjBFUzVjTEdteXM3dkNqODc5dWJkaEMxR3dVck9NamlqSGw0dmozWDlST2YtS3lqdndvOXJlQXlLNFJrQnE5V29PNENqNEVhSFdBOXV5d3JxREtnRjFXNVdHb3hrdTdYVVdROU1qc1NBRC1NZ2Y5Zw?oc=5",
+  "fecha": "2026-11-20T09:52:14+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "dc6901c8a6d8ff",
@@ -7153,6 +7423,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "0385ed3752e312",
+  "fuente_id": "cyberpress",
+  "titular": "8 Bot Management Solutions: Our Top Picks by Use Case (2026)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BUkZ3cHhnWXJ4V2ZEZ2VHSUtzdk01MzY0Q0pZVVhzYXRpNlhpZ3g4UktCeHl6dWZNVGZwZTFxTW9taEpIWUFpa1gtQmxPT0RtTnNueDNFcU5BS3dHZVZpUk5vT0nSAWRBVV95cUxOQVJGd3B4Z1lyeFdmRGdlR0lLc3ZNNTM2NENKWVVYc2F0aTZYaWd4OFJLQnh5enVmTVRmcGUxcU1vbWhKSFlBaWtYLUJsT09EbU5zbngzRXFOQUt3R2VWaVJOb09J?oc=5",
+  "fecha": "2026-11-20T08:45:32+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "d460d07c2ed81a",
   "fuente_id": "securitybrief",
   "titular": "Deepfake identity fraud surges as criminals go professional",
@@ -7183,6 +7463,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "2c068c8f18b3d5",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] Malaysian new car sales decrease by 7.2%, while January-October sales up 2.8%",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ZmRKaGhseFQ0NnVsNW9kVm5Va3AxbmlhbjRzYVliME9LZW1BaUc1MzBzOGNScjJaMGhRMVdBZjJxbFh4aXBPcXhRQmhHT1Q4cnc?oc=5",
+  "fecha": "2026-11-20T08:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "bc55c055306413",
   "fuente_id": "cyberpress",
   "titular": "8 Account Takeover (ATO) Protection Tools: Our Top Picks by Use Case (2026)",
@@ -7193,6 +7483,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "578123b46a5143",
+  "fuente_id": "cyberpress",
+  "titular": "8 Account Takeover (ATO) Protection Tools: Our Top Picks by Use Case (2026)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUy1NTlJxOWwtQVpBSFZVR21MRTkyRHotRUFqbFNxSzV1Tk90Ym1hWWtxWnpFRDNHRkQ2SzAxRklqaXB4NkVoSHBSN080bkRTZVZXdU9EUEp2TURBdC02Zl9qYzJ0b2x40gFoQVVfeXFMTVlTLU1OUnE5bC1BWkFIVlVHbUxFOTJEei1FQWpsU3FLNXVOT3RibWFZa3FaekVEM0dGRDZLMDFGSWppcHg2RWhIcFI3TzRuRFNlVld1T0RQSnZNREF0LTZmX2pjMnRvbHg?oc=5",
+  "fecha": "2026-11-20T08:42:34+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "8222791b8a3d6c",
   "fuente_id": "cyberpress",
   "titular": "BYOD Ransomware Attack Forces Ambulance Diversions as Hackers Target U.S. Hospitals and Universities",
@@ -7201,6 +7501,16 @@
   "fecha": "2026-11-20T08:42:27+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "9d74f388c6aa07",
+  "fuente_id": "cyberpress",
+  "titular": "BYOD Ransomware Attack Forces Ambulance Diversions as Hackers Target U.S. Hospitals and Universities",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fUVZkV20yTFBUcmhSbFlNV091R1lONWpLUW5UV2s0UzRNMHR4cDZyV09hYkdSY1otU2pRSW9qODFtNzcxenNMakhNdXRldndDamdVd2QxQmpoVEJxWVZkeDI4ZUU3OE9XT3FhT1NmUHpxUdIBckFVX3lxTE9fUVZkV20yTFBUcmhSbFlNV091R1lONWpLUW5UV2s0UzRNMHR4cDZyV09hYkdSY1otU2pRSW9qODFtNzcxenNMakhNdXRldndDamdVd2QxQmpoVEJxWVZkeDI4ZUU3OE9XT3FhT1NmUHpxUQ?oc=5",
+  "fecha": "2026-11-20T08:42:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "349a6b873fac76",
@@ -7563,6 +7873,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "da85f821acf710",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fSUlnVFpLZXM4OXhMTkhFWlRlbmFQZ1k0RXRFeWxHTHBGcnhyY0JUOW9TTS1nY2E3THZXOWp5UWlQUmY4d0hUdnA1UlZaQ0J3c1RwbFduTjlRTFc2ZWExRWUzWGNKX03SAWxBVV95cUxOazZsTTktb0l0YlQ5YnBpT0FrNlQxa2R1MkMxZ2gyVGczNVFTOW9WSjlxdFR6UGk1WnliTkh3SmtMU3FybXFuejRyQVBZU2NST0FZd2QtSFc4Z1BlYVd0VTRJQU1FRWV5bkRwS2M?oc=5",
+  "fecha": "2026-11-20T06:58:34+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "33781b6651b59a",
   "fuente_id": "securitybrief",
   "titular": "iPhone-targeted ad attacks drive one in five suspensions",
@@ -7863,6 +8183,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "513d67404762e4",
+  "fuente_id": "business-wire",
+  "titular": "teamLab Biovortex Kyoto to Open 'Teahouse in a Sea of Light' for Savoring Tea. On View from Friday, November 20. Artworks Including Tea in Spontaneous Order on View",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQaXRIT25EMF9IeDliZDUwYkx6YWFEQmxoNmhfOHZHcDFZQXdIcng1LXM3SV9lLWMzTGVCSUhQcTh0d0Ntd2Ntb0FqNXpPUXhOMmdNMFpPaVFaMDJVNzhoQ2ZFMlU0bm1vMkJlT2stejh4d2lNdlpmcmw3b05tSlRRbW9vZ1MwZjBFR1MydDVNektaTG5LV2w3QzcwZ2otZ2ZBdnpQbDNKUDZiQmJLLXpqSkx0X1RWbTFwUVBLMzk5MDZtTlZoTTVFTzRqUTU0a3llNVdQUW5Hb3I0eURSYTVhVmM1Y3hjSkwxUzRsQ19MUkhDcjhrLVBmektPbDlzSUxVMEduYXZTM1R2WWp1QnB1dmVGeGtielkwb0hnQk9IeHMzQXRaSVBFaXkxVFRMYlJXMWViR3pJOXZqaml3a3pV?oc=5",
+  "fecha": "2026-11-20T06:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "87626d358d3860",
   "fuente_id": "abc-economia",
   "titular": "Los tres errores de herencia que más dinero te costarán y cómo evitarlos con un testamento",
@@ -7871,6 +8201,16 @@
   "fecha": "2026-11-20T05:58:09+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "4d8d08f3d122cf",
+  "fuente_id": "cybersecurity-news",
+  "titular": "Drupal Fixes Critical RCE Flaw That Could Let Unauthenticated Hackers Take Over Websites",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yb3JVWXgzbndJQTZOQlpBNVN4R0Nlb3p3RFZ5WFdnUmdHVjF0YjlDYzBHNTA4bkd0dkhUQWh6Y0RPdkc1T2pqRTVnUElaaVhBZTZWc2xYTmY1WmVGT1B5ZmNLNWpZcDFuTzZhVExR0gFzQVVfeXFMTjBScWg1al94WXJBS2UxRWRvbDJoZWdaU0tseTFwVmZ6c0EwTUZMODJNdC1hT0xOWDktSEFZZlZjWDlObzNZd1FSUTVOUTcxbk5WYXNyMkhNN3ZDQlpEMWFSV3oxT2VQMTFBOE9BSjB0LXFYZw?oc=5",
+  "fecha": "2026-11-20T05:52:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
   "id": "a5235b991c8e93",

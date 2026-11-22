@@ -180,6 +180,16 @@
   "primera_vista": "2026-11-17T16:58:51+00:00"
  },
  {
+  "id": "0125da33893a71",
+  "fuente_id": "cybersecurity-news",
+  "titular": "AWS Restores Services in US-EAST-1 After Hours-Long Outage Disrupts Cloud Operations",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBaTFZUE1aUDlRLU50YTN1cjlXX3lqNUMyZkhQZEh3cVVKRU5DY2h5dEJ1ZTNJeExmZTNDQU10VDh1Q1JWUGpSdm1BRnBRM0lxWU1XRFVhaVl1aEFTdVdn0gFkQVVfeXFMT3ZWVTgyeVRoZHByakZOWGd5QzVmaW1oblBIQTJtUGRhdVZZaDJtZko2SWV5aXcxSkx5bktGbHNoWjBseGw5SDFNYlIxZXRrdjJZeS1vRHQxRG9HSzViR1ZHWEVTZA?oc=5",
+  "fecha": "2026-11-16T03:43:23+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
   "id": "63b46e43edc060",
   "fuente_id": "cybersecurity-news",
   "titular": "Tor Releases Emergency Security Update as Ongoing DDoS Attack Overwhelms Network Relays",
