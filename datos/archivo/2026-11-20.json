@@ -442,6 +442,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "60aa6a10e1de85",
+  "fuente_id": "business-wire",
+  "titular": "Cam Newton to Host “Tailgate Games,” a New Football-Inspired Competition Series Combining Obstacle Challenges and Tailgating",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFFnMVdYWkdQbVViLW5aUkxrZHptbzN6cndsVGNGMTZjX05uM3dqN1NuWk5LNzgtd3daMGFVb1VRb096MVBOVjYxRUdpN2QtN3R5YWdqRDVmM3plRy1vR3pLM3Z2bTdNdmEyX3c5REFta0xjMWdSNmx5aE9ieXhkMWozYzlwVVBSLWNhdW5xcTRNWXo5VnRYQ1hwc29qX21RZnRFQzJzQzlfa0FpREFwb0h5U2ZJTjA2SU9mYWtRRmd5RmZPZFY3RGw5dWJuWjhDdTZnSEtiYmVDdEVIREZRZ2Frckt3cTJWRU9pTnRJZ2U5RGl5WndsMWprSHgwcmxfNFhrcVJ5a2Ffdw?oc=5",
+  "fecha": "2026-11-21T01:09:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "d149c011d4803d",
   "fuente_id": "wsj",
   "titular": "The Political Taboo Tearing France Apart",
@@ -792,6 +802,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "22190cddc3ba1e",
+  "fuente_id": "la-republica",
+  "titular": "Modernización del corredor La Dorada–Chiriguaná logra financiación",
+  "bajada": "Entre los resultados está triplicar la capacidad de carga por tren, de 2.000 a 6.000 toneladas, y reducir de 24 a 16 horas el tiempo de recorrido",
+  "enlace": "https://www.larepublica.co/finanzas/modernizacion-del-corredor-la-dorada-chiriguana-logra-financiacion-4529612",
+  "fecha": "2026-11-20T23:17:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "dd1d0a3404f160",
   "fuente_id": "wsj",
   "titular": "Indian Man Sentenced to Almost 20 Years in Murder-for-Hire Plot on U.S. Soil",
@@ -921,6 +941,36 @@
   "fecha": "2026-11-20T23:07:19+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "c31d0e7a52ca1f",
+  "fuente_id": "business-wire",
+  "titular": "APPLIED AEROSPACE & DEFENSE, INC. INVESTIGATION: AADX Securities Investors Encouraged to Contact Kirby McInerney LLP About Their Rights",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOVmVvVHFYaGtNUDZndUtfUzV2a2NSYkE5NGlsM2IydU5USDAtcmdkQTg1M3dYSnJfamJ5cXRnemV0OG40d19XVzhtdldOeTVVNkpOUWluVDNsdVEwRTBESnFHVG5peUlZcWpLYlJFZ1p5VzZVdXNCcm5VbnAyWW1RQm0xdE5iSWVzR1Q4ODZWNDZJRjNrSmhFeWJuckl3T1pxdlJVaTJxMnZXQW1sMXU2b1g5TWNpenFjVkRQV2JPN1hUYzJEWGRXZExIb2RqS3ZOUjdTQ1c5bnBzdDdFcVN6M0JxTFVxak4xNjlfZ3ZXZGlvZVFkOFVpekdWNUs4TGJST0lWWGZibEZWZEg2U0hXTzZYN1Rmb00?oc=5",
+  "fecha": "2026-11-20T23:04:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "382dc1fd5be173",
+  "fuente_id": "yahoo-finance",
+  "titular": "Exclusive-Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0o3ZFAtWVJKUUEwQzZPZTU2NWhPUVR4blY1N2hvdTVCTU9rR2lhTkw4OERySDAwTktyZFItQzBpTXRrS3dIVGdNRFRrWjRTY0MwTW9CaFVyWVBzeFZBWDNpUTRXWDlzMDJ5NmQtYTFpMHhoQzF1cGR2Mzd5ODNudkh2eUFxaVpTZUFyWTM3NjZZaDhzTGd2MHFPbDJuRmFUenVGaDhoUQ?oc=5",
+  "fecha": "2026-11-20T23:02:35+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "4781154a18ab13",
+  "fuente_id": "business-wire",
+  "titular": "TechCreate Group Ltd. Provides Update on NYSE American Delisting Proceedings",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2VveE9GbmNJWjk0VURKU0ZfRld3SUxsTkliNmRSc0dtU0tCbjJROXgxUEs0Vm1NY0NNRXpkVXh0aEZ1Z2duNnlMcWJRUUVtWFJUTzJSUjlFQklSdzI5V0lOaTNnbWptdFV1Qy1RUndFYlplVHE4RkM4NmdGNmg5RGowZ1N4ald3T1JGSkVZTVVNS0RrcXlEQ3U0dnJyQWdvSEhYcmQzZ21UbnZWU2wwWDhQZVRjN3UweGM3MkdrR1lqdVZVSGZnblBhVUVpZw?oc=5",
+  "fecha": "2026-11-20T23:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "d903d6271c8ec7",
@@ -1091,6 +1141,16 @@
   "fecha": "2026-11-20T22:24:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "0214815e15dd49",
+  "fuente_id": "business-wire",
+  "titular": "UNIVERSAL TECHNICAL INSTITUTE INVESTIGATION: UTI Securities Investors Encouraged to Contact Kirby McInerney LLP About Their Rights",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUXpKblV4VUFMbElKXzlPTmc0YXJDZ2dNd2ZBeTlqTGVWOGZKeXpkeW9MV2pyNzN4dTh4YVFTeUZvMWR6UWl1TGhTajFVdE5rNm5VaUdYdWJGM1V2SklpT2FMVTFKdkFFT1pBdWs0SHJpLTcwRDVTRUtuYzRfX3YtaWhNRFI3SFNIdXlKbm5HTDhnZG1IQ1ZidV96NHVFRV9JY2I1RmNxaUdGNUV1Z3hsZnpWQ1dsNnZLT2Z3RFp5M3NwdnMyV0VaY1JiaExNUW5sdjJ6Rk9Yam12VGFidUFsTV9MeFRNLURTV09vdFkxM2pLUUZMbWFTSTdIMEhHR2ZjM3dzWG9kX0J1VHNpOWVjRzlxWEw?oc=5",
+  "fecha": "2026-11-20T22:23:37+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "4faadb54de5db8",
@@ -1284,6 +1344,16 @@
   "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
+  "id": "fb8c7c6cf45410",
+  "fuente_id": "business-wire",
+  "titular": "Securities Class Action Filed Against Alibaba Group Holding Limited – BABA Investors Encouraged to Contact Kirby McInerney LLP",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQR1hjcG5Dc3NoVjNuZTJ0RF9tNG9ld25CRmJJSTJPOXZXRy1pZDBIdXlweUJsUEhjS1ducmRTWkJlS2RIa3oyYzBEYW03V2tSXy16c2ZVTXVpWnJOREZrdkx6ejBhTzdsLXdjZF9ySzMtLXpVZU52Z1J4ZzUxYnpacjlIemFTQnFLd2JaZng2M0ZVRWxxSjlKVEZVSk9SMkJ4djBFaHRSaGFzLWJnLTUxRW9idVprY1ZqWG5UcjZLcUdnZkQxVUYzdG45aktzZ1lnUjdZN3lDYl9WdVJxSG1XRk1mUmFESl9pcTRJNG91THVETHJDeFBoVkdtVkd4aGhENzV3eEFpMlpjdWVzX3c?oc=5",
+  "fecha": "2026-11-20T21:52:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "2b404f9859e3d1",
   "fuente_id": "wsj",
   "titular": "El Salvador Takes Its Gang-Fighting Strategy to Haiti",
@@ -1414,6 +1484,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "9d1d64f124d15a",
+  "fuente_id": "business-wire",
+  "titular": "Avenzo Therapeutics Announces Closing of Merger with Rallybio Corporation and Previously Announced $215 Million Concurrent Private Placement",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOczBsVWhJSVpKS0F3UDlvSHEwNXF5VXYwVl9HblhpS1E0b3lWZTcyaklJQk9wR09zNWUtYlczbXFURi0wMDJGaWVpWUpaNzBXcXN1VEsxbGgzU3h2czlXb2Z6d09OU21qY3ZVREFWZzQwT25lODJMNWgtNk1NRzZVNlBzUVFXOFVPYzJCSUFFMk5DTGRYcEJ2QlRWZ0Y5WVMwVUE2X0dBQTBMMU9QaVhmMkRXSy1ienF1aW5DMVRldkpqbUlJSG9CSFFfbVV2WUpJY0pOYkNmMzVGWnVLY3M0Mkc3TFNMb2FZbkVYQWlFWWJFMEVVcGlUQ0VZNElnN252VjJKRjg3djlCZWJtZlZjNUdNUmFvdThSTkFFNjJnTlVHclZXd1E?oc=5",
+  "fecha": "2026-11-20T21:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "c7fe42ea23735e",
   "fuente_id": "house-of-commons-library",
   "titular": "Productivity: Economic indicators",
@@ -1444,6 +1524,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "f3f7da3d0f7d0d",
+  "fuente_id": "yahoo-finance",
+  "titular": "Chips suffer worst week since 2001 as the Nasdaq nears a bear market",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5",
+  "fecha": "2026-11-20T21:23:54+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "e49c488ab6e4d1",
   "fuente_id": "bloomberg-professional",
   "titular": "UK regulatory reporting: MIFIR, EMIR and SFTR requirements and reform",
@@ -1462,6 +1552,16 @@
   "fecha": "2026-11-20T21:23:13+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "d3a998e4b1b5a6",
+  "fuente_id": "yahoo-finance",
+  "titular": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSm5CUmxjQTkyRk0tVzItU1hfclVjZU1OVE5lTFVOUVcyWWZoMVFsMWNzS2RWWjhNSVJUekZZclhQa0lycTdja2l5THY4YWpnNkJ2UDQ0X3g1elEwYlZpeDJPWXBqblpmc1B2SktGOVlVb0pSMHRDMVpScVI0X3ZlOG1Zb2ZRM19vWGpjRW9IYlFVX2xBdVVleFk2RmE?oc=5",
+  "fecha": "2026-11-20T21:20:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "d023f6246e0657",
@@ -1745,6 +1845,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "577a2a36deb696",
+  "fuente_id": "business-wire",
+  "titular": "Alibaba Group Holding Limited Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights – BABA",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUUI3anRLTUFuUm9MTGhaaTNVWUVvMWxxMjAyTkpJT2FXZ1JpaXQ5S0JOdW5IaS1qbG1JWWhxNU1pTGRBU01XWUZDNGZFWjRGRjVlNUljM0FvSTdEWldKTWRjeWxocjhBY1FYQ29keUd4Q1FlN3ZsQ1RxajhrY2RJNGEwNHJLa3NnMll4RjRldHFhNUJLb1hkTkM4MW4wSm9yTzFKbnRlSmpPeTN0ekdpcEs1bEdNRXliT3RMdGFOWkVPRnJuSGN4QnJmX0NuNGpod3ZXNnZTQzgzeldRZXhlSUR3T2hvU2NGSUpGdENVR0ZDZ1pYRDFicHZhVlN1QWNxYjJ6dTl4RkE?oc=5",
+  "fecha": "2026-11-20T20:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "03cf4b544eef62",
   "fuente_id": "unite-ai",
   "titular": "METR Finds AI Time Horizons Doubling as Research Judgment Lags",
@@ -1934,6 +2044,16 @@
   "fecha": "2026-11-20T19:52:21+00:00",
   "via": "rss",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "765eae983d6594",
+  "fuente_id": "portafolio",
+  "titular": "Black Friday de vivienda en Bogotá: habrá feria con subsidios, créditos y descuentos este fin de semana",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/infraestructura/black-friday-de-vivienda-en-bogota-habra-feria-con-subsidios-creditos-y-descuentos-este-fin-de-semana-506784",
+  "fecha": "2026-11-20T19:48:50+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "f80a0c1f7d1de9",
@@ -2869,6 +2989,26 @@
   "via": "google_news",
   "primera_vista": "2026-11-20T18:56:39+00:00",
   "enlace_google_news": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamw0SS1ST2dwZWlfWUpoT2hVZklTR09NS2Jza0h5Tjg0TzgtdTEwZDJoV1kzVE1DSDN1cUMwb0c5N2FiU0pMQWMyRElobV83Y1N2R1E3dlBYUDNUNGJiSVNwXzJZS1lzYTVqTWNBQV9EaHRSaHQxUVR1ei1Wc0t2RHJScUdoTjdRb2F5Sm50ZDJkYmdiRldmaHhKWXV6SG9VcXBpLW1PMV9oN09DY00yX3BvSlpFZzFq?oc=5"
+ },
+ {
+  "id": "f2ace283c0a5b6",
+  "fuente_id": "business-wire",
+  "titular": "New York Post Names Lear Capital No. 1 in Its Gold and Silver IRA Guides",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFFDcXVKdWRSMjhIdUFCWUFLNGdiYVkzcUViR0pydEQtblExMEd1NEN1eDR6NVJVTGJRT0loTmRLc0dBTVJXSDJ5c2YzaU5XOFlQc0pvZTFoa3NNdng4aFRlRUZCNFNmRkxSeWZZeFpVTXFERTlNYngwNFBSZENTTmo5dkQwWGtBTUw4R0c0WTFpcFh3VFZXZkIwMnpXQlA4U200aDZvZ0hVMzR0NFNDd1J5ajlNYmdvV2lXWmhkTGlNYUhSTDNnVA?oc=5",
+  "fecha": "2026-11-20T17:42:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "ae7b263202d262",
+  "fuente_id": "business-wire",
+  "titular": "Frontgrade Technologies Help Power Critical Computing and Electronics Aboard NASA’s Roman Space Telescope",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQclNENzBpRWZ0clB1cUxKWTNkbERVeXRHT0VrZzF3a0pDT19zSzdMc293LXRhT1JqNHdic05qR2Z2UTRvMkNqSmJLVVc0SGUzdnVqSVY3SVVHRnRHRU9ST2Q4T2pXcndjUXE1VFlob3hNQVdLNTNzbzJ5cXdlLWtVWk5rNWZ0R1ZfYmR6Sm1RcWF3ZFlxd05mTUxjb1R1RGF4SjNUR2k3WkRtanZwTjBOTVJIZG1USGlFVlFYWFEyYjR4ZU1yZklJdWY2U0RGYjdzZVdpai1Zc29SYjIzNjZJYUpjdTF4dWtuU1QtTDIwWTJlZVU?oc=5",
+  "fecha": "2026-11-20T17:40:34+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "e43240c9ae66c7",
@@ -4425,6 +4565,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "ea8efa67bc0a42",
+  "fuente_id": "the-register",
+  "titular": "'Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years",
+  "bajada": "Home Office needs more time with the PNC, which began life more than 50 years ago",
+  "enlace": "https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322",
+  "fecha": "2026-11-20T15:12:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "214bf1e77f3b96",
   "fuente_id": "yahoo-finance",
   "titular": "Chip stocks lead tech lower, Anthropic stock drops: AlphaCheck",
@@ -4485,6 +4635,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "270f3dc8231f7d",
+  "fuente_id": "business-wire",
+  "titular": "Inside Moutai House Singapore: Beyond Baijiu, A Cultural Encounter",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3RLbHpsajRZaTlqTm90M1d5YTI3UGNkZ3dPWTlBU2U1UjlHYllaVzVVTTV6WTc5NDFCaEV4Z2R0ZjVuaFdJT1RKbHk4ek94TGRSX0d0YkQ4WHVNa3dJWGtaM1prbW1aMzNIUlpualQyNlpISDdPVWR1SzZmWUdWc2M0dTBsbUpidVpzd3d3Y0duSGJYWkVPZDhoTTJIUTZkNWdhcTRIQmtRcllMS2VwOWMyT2FiN0s2UTB3T0RB?oc=5",
+  "fecha": "2026-11-20T15:05:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "3d07d68b0e6192",
   "fuente_id": "forbes",
   "titular": "MAMA Awards 2026: Full List Of Winners",
@@ -4513,6 +4673,16 @@
   "fecha": "2026-11-20T15:03:49+00:00",
   "via": "rss",
   "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "790fc844a177bd",
+  "fuente_id": "business-wire",
+  "titular": "Chattanooga Quantum Collaborative, The Company Lab, and Outset Ventures Join Forces to Accelerate Quantum Commercialization",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVzBHMWxsMTVxUkcwMWNnTEJKNVI5LVl1VV9XS3FVNTBhenVvckNjWW5CLUpBZ2Y4OWt1OEtwamZnU0lKZnlJX2ZaOXN5UE1ZdTRUcm9VMjNRMFZMd3RQbW1wSmp4aUhWTmdsRTF1NG9YRkZOUjd1NEd3a2gyemFCTmUyQ2NfQzI1eXF2WGprQlZ2NGlTa1BEVFlhNlZkTUl1NDlfNUI4VlVGNjNncU9xb0pBTEFvZVE5TEYyNzNFTm10cHBwTmZZdUhjSkM0dVhnZTdBNmloMWNNQUxYVEV2aDc5X3M0dTlTMlV1dGhLWWtscjJPNXpfZzhHaUpPTzNoYnIzcWJUazUwZw?oc=5",
+  "fecha": "2026-11-20T15:03:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "87eb0b390c2c19",
@@ -4803,6 +4973,16 @@
   "fecha": "2026-11-20T14:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "e832cf2055da28",
+  "fuente_id": "business-wire",
+  "titular": "EMCOR Group, Inc. Announces Participation in Upcoming Investor Event",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUlQZmlRS1R2czlodEkzWDBZcndGdFgwR24zU1Mwd1kxUzctdDBHZjUzMlgzQ0VNN294bjl6UEZuX1l6cDlNeWsxYXpIWTFYWmNHNGZMWlc3Z01QU0lxejlabHV2ZDN6UTg5V3BONUJ6R3FRNFBhUVZPNWxlQ1cwVk14REdMUHJjZzJfTERkdmpGVkdaMHRkREREaWg1QzRFd194QTc5dV9PZktTX18xeVRsRW5kODNrcEpnZ2NCMzdqQQ?oc=5",
+  "fecha": "2026-11-20T14:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "bf355a29c5df89",
@@ -5184,6 +5364,16 @@
   "fecha": "2026-11-20T14:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "786f0eb13a97cb",
+  "fuente_id": "business-wire",
+  "titular": "ViTAA Medical and The Society for Vascular Surgery Announce Strategic Partnership",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaWU5M3FOVGUyQnpjOFVEOEZWYnhXbktOQkp4MW12WFd3Qk0xVUVLUWZrZEJPNXlyOE9SVV8xb3ZwTG5udDNISE1ZbEd6b25YTWxMYnA2d2JJTjBJUkVpdWNyS2lhTG5KZUVhLUpwVVNLUkl1MzRTTzhZQW5xem9QVTc5cEVSZmpWUmVhMEc2TldfZDFwWXcxUHZsVnpyTnQ3M01EaV96TEtyMjN5V05GR25VZ1RjSFhKckloQ0NiR2FFaWNwV0t2MlI4MDVjWlhsc0FQRw?oc=5",
+  "fecha": "2026-11-20T14:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "19665eb9ea4697",
@@ -5969,6 +6159,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "8e2ddd43734bf0",
+  "fuente_id": "business-wire",
+  "titular": "PHINIA CFO Chris Gropp to Retire; Gordon Muir Appointed as Successor",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFBWZmNHYVZ0a2o4SVRiSkJiOUx5eDJleWRpVlpNYk5vTmJtZXdpZ1YtR3pTakptNDkweURpTmVVVkxGNHc2MHY4MWZISjBTLXBmV1Yta2JXVEtRZVdpOXdWazNEWHVkaTZIMjRMNEhaQ2Zpemhld1B4NmI5Z3B3RWFYNUtkS09zNV9lczViSzVmUmVxTnA5bUx1SG5qX2NFSmcwSFNqeXl2V3VLTEJRWk4wc1h5aEQ1d3pWdGhmYk4tZw?oc=5",
+  "fecha": "2026-11-20T12:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "d0face394e3266",
   "fuente_id": "house-of-commons-library",
   "titular": "Financial markets: Economic indicators",
@@ -6299,6 +6499,26 @@
   "fecha": "2026-11-20T12:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "3f315fd933112b",
+  "fuente_id": "business-wire",
+  "titular": "Wabtec Corporation Appoints Rich J. Freeland to the Board of Directors",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHJMQW9mdlQ2djJlLXgzSDluUGRFcWhtNlpXN1NIVTU1LTBldnMyTkxUMmVGMnV5alQ0OHFtcGM5bThKZHhuNWQ5aWhPVkZNNG1SWENWd1JzZFdVQlRyM05pcGQ3bHpfTERCWVh6SjhGMEg5Ul9sRFNVYXJhNEpxemEwMFlYbGVubHNmVUdmcFNEcVVSWkRxX1B6R3BJVGhqMlRTejFxM2Eza2RCZmFIYzFQLTFjVjI1dGFQYWlfN2czMkRpNHc?oc=5",
+  "fecha": "2026-11-20T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "6a501939a6c2c4",
+  "fuente_id": "business-wire",
+  "titular": "United Therapeutics Corporation Announces First Transplant in EXTEND Clinical Trial of UThymoKidney™ in Patients with End-Stage Renal Disease",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPem00OWZvVmRDYnVneUNDUWFkREdHVjZiWENuYW5fdXhfSE1HQkhuWmIzYmZuMjBWYVF3Ukp2OGdSM0F1MG9ZMk9VU0Z3RkZqX2dxZmZxb3E0OG9pcVF2ek5NT0VNN3FDVDRpbHRlRG9qTl9ZUHU0YTY0Z0lVdlNubHZ2VUdpX2dhLTBHdUppSTc1dDM1OTlySkswUUkxdm5BcFhUOXI1a2pIVWNRN2NCQWYwbnBoVXNfTVhiLUdZd0R0LTNxLVZQLXByaXVVZUtGaEJCWjdoT3ZRMm9OMjRVYUxTRkZBUWRoTjhtblNxQjZyM2owbGdjc1pPVGhOVHpGRWJHQ25UQmVXQ3VIOFJYZmhLZE1lakZjNm1SRlZGZVA3ZDg?oc=5",
+  "fecha": "2026-11-20T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "4cd17514281676",
@@ -7333,6 +7553,16 @@
   "primera_vista": "2026-11-20T18:56:39+00:00"
  },
  {
+  "id": "a7d5f23a275400",
+  "fuente_id": "business-wire",
+  "titular": "Al Shera’a, DEWA’s Headquarters, Wins First Place in the YeS Honor Awards at the COP31 International Sustainable Buildings Competition",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQOC1Qdzh3eVRxVW56VWxVY0h4WjZVRDBmTzltY1czcGh2V3ZWXzQ5YXpIZEdsUk43a3RGNVdhdWY1NEZ6MGtTazRQQmZwdkgzTmRITU5HQkFkS2VxS0FxQi1GajVkZXBDR3hyUmdhT2tmYkxNYmVsVTNvV0pfY0t5dXZqQTJHWkpvRDNIMnRvbm9kVkNveXAxSW1WZEVjNFp0NE9rNUVBM29LekpIWXFEQXUwRUwwanVpRW1DY1JxUFhwRENJWVMxQmlCa21ucWtobmR4UVBwNEtpbTNMbnUwRmdaUkFkNXkyaWFGd1A5X056UlhJWHZyQXRXOG9rdUNXdHRUMkFfb2pINTg2ZGZLMlJWMFFBdw?oc=5",
+  "fecha": "2026-11-20T09:16:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "11f1e3df221d7c",
   "fuente_id": "datacentrenews",
   "titular": "Europe urged to speed up integrated photonics scaling",
@@ -7691,6 +7921,27 @@
   "fecha": "2026-11-20T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
+  "id": "35699366741442",
+  "fuente_id": "bbva",
+  "titular": "Fondos de inversión: qué son, cómo funcionan, tipos y ventajas",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUY2MGpydnV5ZWl3OENzWnNYaGNZRmkwczFhc2hZMjhaajFxbEhkZmI2d0laSXU4ZHpWWVNsbXo4QXkxbmc1azNvR0lBN2ZEZXVUSlg1ZXlyamw2dm5aSjBlS2psUlZNTFNhUngwQjdtZnk2WEFYMlJtb3R4eFBmR1RXaXRYWmJmUHNzaTJFYVM3eDFJMlJid0JZU3RUZw?oc=5",
+  "fecha": "2026-11-20T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "e5c9cc550db73d",
+  "fuente_id": "bbva",
+  "titular": "¿Cuáles son las ventajas de las casas ecológicas y por qué son una buena alternativa?",
+  "bajada": "",
+  "enlace": "https://www.bbva.com/es/sostenibilidad/cuales-son-las-ventajas-de-las-casas-ecologicas-y-por-que-son-una-buena-alternativa/",
+  "fecha": "2026-11-20T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0FzVGxBWV9PRVB4NGNwMERiRU5qaXA5d3V5akpIYnpNZzZib21LeHIwejhBWWtJLXRBU1U4WXZlRzNjZWthQjlGYWVkc0tlNkpiSkRMOTJUUVozSXR0OTQ1UzhXdUE4MVBjY3FjUngyQnZKczFGZjRWR19uQm1oYVZqRkR1UmpiMm90NEQ1M194RXBPclM5Q2lkNko1ZDZ6ZGZBQ21rejVZY0FFSFo1THphbURTZWNCaDRFRE5OLTA?oc=5"
  },
  {
   "id": "a9ed69ad5566a5",
@@ -8191,6 +8442,16 @@
   "fecha": "2026-11-20T06:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "02116953dff67b",
+  "fuente_id": "business-wire",
+  "titular": "Announcement of the UHC High-Level Forum 2026 and Information on Press Registration",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelVNOWZaNi1zUUdMUXRORmZoQnp2bUZEX0RyLUFZNEhWZ285VWJOandVV2k5OFlFblhxY0QtUkxmZm03QkpqeURoUzFGNmRKdEpVUnIxQjNiSVQ2QTZucVRtVktxbEdmVl9vY096ZnJYZnJ3bjNtWkZwWTlJYnQyQmZkWWhjS2pLbjFXYk0yWDV5dGVJb1p5NGxySUNYRjVRZUF3eDNEQXh4TlJRNW41SjNuZUNLcUZkTlhtODducmdvQ09UUWNGZzhLZUxQUFZWOC1XQ3l6RQ?oc=5",
+  "fecha": "2026-11-20T06:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "87626d358d3860",

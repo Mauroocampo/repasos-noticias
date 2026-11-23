@@ -1316,6 +1316,16 @@
   "primera_vista": "2026-11-19T19:18:55+00:00"
  },
  {
+  "id": "4036c7c63166fe",
+  "fuente_id": "el-universal",
+  "titular": "«Una deuda siniestra» en Cartagena",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2VhYkJNekhTbldtaHFXMjlxc2s4R3ZveWpuQ2ktM0poRmtjUWxlRXZFSFhXMDhFNDhES3JDb09QWFRoOVNtTnY1TmY5S2d6NjNaaHlRSTF6Y25xOTB3VTNTSkVBRXhxT2cwMDczQVRsaWJCVjZob3I5VHFmTDFRNkpqUnhVSmM4WXE2amNGU3RvdG10ZUZKaEh4RkU?oc=5",
+  "fecha": "2026-11-18T22:26:39+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "72473df1c253c4",
   "fuente_id": "yahoo-finance",
   "titular": "Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time",
@@ -5312,6 +5322,16 @@
   "primera_vista": "2026-11-18T19:13:26+00:00"
  },
  {
+  "id": "972d9e7dfa7768",
+  "fuente_id": "business-wire",
+  "titular": "Allstates WorldCargo’s Lyla Kolar Recognized with 2026 Women in Supply Chain Award",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1VSMzZ6SXhYYmp0SDBGV2hMSlRTaHJaYXo3N1J0U2h2UTdJTmhTS2tjN2FxMllVNXJQZVhjejA2dzlxZndMdVpVN2piZ0Zhb2NVQWVPUF9UWFhuakNwWXpMcVRrS0pFUE40SEN1ZFFYRkxwZkphbGJ6c2lveXU1aE1pNDBXVkg4VkZyOThTbHg4ZEFIcjJFb052dHVDeU8xNjd3NURxanFxeUpxZDJ0QzR4MHN5QTRWbHB0cGR0c25CU2ZYNXdhQ2xidE9RYmIwSjZtdQ?oc=5",
+  "fecha": "2026-11-18T15:05:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "780f517515c488",
   "fuente_id": "wired",
   "titular": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
@@ -8970,6 +8990,27 @@
   "fecha": "2026-11-18T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "46733b2e64bc15",
+  "fuente_id": "bbva",
+  "titular": "¿Qué son los gemelos digitales urbanos y cómo ayudan a crear ciudades más sostenibles?",
+  "bajada": "",
+  "enlace": "https://www.bbva.com/es/sostenibilidad/que-son-los-gemelos-digitales-urbanos-y-como-ayudan-a-crear-ciudades-mas-sostenibles/",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-19T19:18:55+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUEFZc05IcXZ4dTQzelNPN3dnUUF2ZVdZMjdIZjNnWDZfNXRRS01jSS13WndxZmMwSkVsd0VLUVctOTFkclNfM1BvbzlLTllZU0hGSmtpdWU3dU96dWRTWGJPeTFDeElkQ3ZWNDhBelk2RjJjNGpSRzZ4bnhEczNVX3pQc2E2TDgzSEtWLTdkS1JHMk9XLTd1a0o4YmNBZFhoQTVtR2oyNHg3cFctOEkxeU5JdlI3ZWh6a3ZKZlAwRVhodw?oc=5"
+ },
+ {
+  "id": "f5687193422fef",
+  "fuente_id": "bbva",
+  "titular": "Causalidad en IA: de predecir qué ocurre a entender por qué ocurre",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjFwRUhJYWJoS0JNbDFubFRCRUhfN1Nfakw5ZUU1eUJaNkl1ZnZzdjVEbGxmQVJNd3lINUVFSi1VcU52eGFVanRRekktRnB1MUJYTmRKUmViRmd5M0JIM3o1NG1qOGcyb1FEaVNWUmxGaVZCNGlYdTRMLXYwdHhJa0RsYmdUaHQtM2hsRlA3dlBPb3FVSGl4Mk84UTZ1WXhORHM0?oc=5",
+  "fecha": "2026-11-18T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
   "id": "91477b684e6ded",
