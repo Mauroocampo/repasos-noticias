@@ -789,6 +789,16 @@
   "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
+  "id": "0adf14d861c3b7",
+  "fuente_id": "yahoo-finance",
+  "titular": "Vistra Corp. (VST) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxRW5ZRGJoOUE1anBwVW45cnhmWnFXX1ViRG52NFJ5T1RDN3pmc1RWOFJ1WF9UNVVud21ET3RJclRfaUxudzFnN3pScG8?oc=5",
+  "fecha": "2026-11-21T21:42:18+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
   "id": "008fb2073f48d6",
   "fuente_id": "el-heraldo",
   "titular": "Nueva Estación, Córdoba, ya cuenta con sistema de alcantarillado",
@@ -989,6 +999,16 @@
   "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
+  "id": "55e956bf782919",
+  "fuente_id": "portafolio",
+  "titular": "El abogado que Luz Verónica Estrada designo para su defensa por el caso de títulos académicos falsos",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/gobierno/el-abogado-que-luz-veronica-estrada-designo-para-su-defensa-por-el-caso-de-titulos-academicos-falsos-506841",
+  "fecha": "2026-11-21T20:46:23+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
   "id": "0eb0b4de9f5f1c",
   "fuente_id": "wsj",
   "titular": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
@@ -1017,6 +1037,16 @@
   "fecha": "2026-11-21T20:35:23+00:00",
   "via": "portada",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "77f7dbc7416a18",
+  "fuente_id": "mongabay",
+  "titular": "Licencia ambiental a la medida en isla Gorgona: la estación de guardacostas en un parque nacional de Colombia | PODCAST",
+  "bajada": "¿Qué ha pasado con la construcción de una estación de Guardacostas de la Armada de Colombia en el Parque Nacional Gorgona? La adhesión de este país al Escudo de las Américas y su autorización para que Estados Unidos realice operaciones militares conjuntas en su territorio…",
+  "enlace": "https://es.mongabay.com/podcast/2026/11/licencia-ambiental-a-la-medida-en-isla-gorgona-la-estacion-de-guardacostas-en-un-parque-nacional-de-colombia-podcast/",
+  "fecha": "2026-11-21T20:33:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
   "id": "0c0c685e05e084",
@@ -1069,6 +1099,16 @@
   "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
+  "id": "87e947e142f058",
+  "fuente_id": "yahoo-finance",
+  "titular": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbUZoZWJwMEZaY2JZTksxcWhkUWM4Y3dYb3VWOWxPV0xUbG5iZDhBXzZjenJadFlEWEtjZy00ZEwwclpuSHppX2c3dEw?oc=5",
+  "fecha": "2026-11-21T20:15:07+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
   "id": "2c0fff5c174bcf",
   "fuente_id": "el-heraldo",
   "titular": "Dos presuntos integrantes de las disidencias de las Farc y el Clan del Golfo mueren en combates con el Ejército Nacional en Yarumal, Antioquia",
@@ -1119,6 +1159,16 @@
   "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
+  "id": "c333a3779d9c7f",
+  "fuente_id": "yahoo-finance",
+  "titular": "Microsoft Corporation (MSFT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02aDBpUWN4ZVp0ajliNXhvdWpuVWc1Z1B4eEVyUUFmN2RoazgzbUlUaU9kR1JTU2Q0bVR6ck45M2szN28wUWVmcmRoZlRnQQ?oc=5",
+  "fecha": "2026-11-21T19:52:18+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
+ },
+ {
   "id": "254f57767ce28f",
   "fuente_id": "el-heraldo",
   "titular": "Mejor Esquina, en Córdoba, estrena el Polideportivo de la Paz",
@@ -1167,6 +1217,16 @@
   "fecha": "2026-11-21T19:38:48+00:00",
   "via": "rss",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "c802b285edcfb2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbWY1cHQ5MEJvWUhYRWtaWjBMdEVIMlB0cnRkdFpKNDRCMjVIWlJmWDVxdE5jUlhkWGFHeU9DSDFGamNwR2ROYmx6NDhZZw?oc=5",
+  "fecha": "2026-11-21T19:35:43+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
  },
  {
   "id": "a09443ada8a6e4",
@@ -4184,5 +4244,27 @@
   "fecha": "2026-11-21T05:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "338ebbf73bc3dd",
+  "fuente_id": "el-universal",
+  "titular": "El SGR en su cuarto menguante",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/opinion/columna/2026/11/22/el-sgr-en-su-cuarto-menguante/",
+  "fecha": "2026-11-21T05:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVpZVHdfd1dnRnhyVlhNOGs0NUNTRHNrdExGRzR5WXZwTWJXc01ycElwdFI5VUJjZmxxeER1VjRKSGF1cHZaWjN5QVA2MTdGd2p4eU5UcDdubDNqSFp0UnA3bVZfU3VCVGUtX0dVM1VhVHZYRG5rVXg4a0xQU2tHLVZSNEpZTV81aU5DbS1iVFFCdw?oc=5"
+ },
+ {
+  "id": "8b121ee0955fac",
+  "fuente_id": "el-universal",
+  "titular": "Al borde de la estanflación",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/opinion/columna/2026/11/22/al-borde-de-la-estanflacion/",
+  "fecha": "2026-11-21T05:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGs1ZEptam1mRTJJSGF0LXBYQWE5QXdGSmRnMHVPZFAydHpLOTItUUU4MFFvTFBMTklndERzYWJQdlVmV1V4Z0VpLWp0cEc4dVZRa19VQS1jZkh0SUJhbXZobGpRYjNEdU1pb3hyWllwblFoMExkb1M2ZjNGUWl2OFA1Q2ZMbGNxRmdJOE1iNA?oc=5"
  }
 ]

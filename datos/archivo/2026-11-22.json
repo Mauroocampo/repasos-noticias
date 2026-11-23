@@ -282,6 +282,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "abeea47e012835",
+  "fuente_id": "yahoo-finance",
+  "titular": "Gold Dec 26 (GC=F) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyUjl3TDFqeXJOOE9qNm8tYXNFcUJJREpDdXFNaE9fU0d0d29zN0pkaExFZUZiZENwMVJIOW5UTGVGVmZJRlB0dUJhSEZLUQ?oc=5",
+  "fecha": "2026-11-23T02:33:08+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
   "id": "4599717def95e8",
   "fuente_id": "el-heraldo",
   "titular": "“Petro está mintiendo”: Miller Soto niega reducción del esquema de seguridad del expresidente",
@@ -492,6 +502,26 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "01f6102d687a12",
+  "fuente_id": "siemens-productcert",
+  "titular": "SSA-810379 V1.1 (Last Update: 2026-11-23): Java4Shell Vulnerability in Siemens Products",
+  "bajada": "On November 17, 2026, the OpenJDK project released security updates addressing a critical vulnerability in the hardware-accelerated Base64 decoder in the OpenJDK HotSpot JVM, commonly referred to as “Java4Shell” (tracked as CVE-2026-114938). The vulnerability is a heap-based…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-810379.html",
+  "fecha": "2026-11-23T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-20T18:56:39+00:00"
+ },
+ {
+  "id": "4f0523ba69b800",
+  "fuente_id": "siemens-productcert",
+  "titular": "SSA-272816 V1.1 (Last Update: 2026-11-23): Java4Shell Vulnerability in Industrial Edge",
+  "bajada": "Siemens is currently assessing the impact of Java4Shell (CVE-2026-114938) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup and the underlying hardware. For your system to be exposed to this vulnerability, all of the following conditions must be met…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-272816.html",
+  "fecha": "2026-11-23T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
   "id": "2f9c4397dc5b14",
   "fuente_id": "el-heraldo",
   "titular": "Autoridades mantienen la búsqueda de joven desaparecido tras accidente fluvial en el río Sinú",
@@ -571,6 +601,16 @@
   "fecha": "2026-11-22T23:07:02+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "e6f5116bb1b320",
+  "fuente_id": "business-wire",
+  "titular": "Morgan Stanley Infrastructure Partners Announces Sale of StraitNZ",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVdRSThnbU1IQ0ZqNDF1Vl9rVVJ6UXR4OFZsNTFocW1wMlQwRlVOSGJHQkJPOEpuUWJLNzhncHlKQ1JTSkU4UkloZWFpN0x6Mzd3SXBHczhydDJQM2Fqbm83Vkc1dkw1aWVoM1hGZFUxZzZFYUgwam51N2l5NG54dDZacmg1UERUM3hoam94dDY1dW03ZlhGdzVVMTdKdUdQWDNOa3N0SkhyWVhSYkdrc0d0WmMzTnhaV2VDU1Jtdw?oc=5",
+  "fecha": "2026-11-22T23:05:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
   "id": "8f0637399fe001",
@@ -823,6 +863,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "5bf8645b020f4a",
+  "fuente_id": "the-manufacturer",
+  "titular": "Leadership - Page 398 of 404 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNeS0zckh0Ym5oLXJsMFpVbjVNellTMDR2ZDg5YXN0Sm50NUZ0TlRIbkRhaFdWQ3VoenprMi1HUkV6S1FnblNHTGo5VlZScndHSmFGMHZrVTBYTFJ0ZTNXUWdLM1BNekpaZEtJaFBOQ21RQzZidGhCVXQxMGNfRGlseVp2bkhCTEJvSVQwRXFwR1ROa0hMTlY2bE9UeEx2VFBNMS1hNzM3Q0pmZWJiaml4Mk41NlZYS3pFMkZlazNlcXE4WmE2aHFscFZLNmNDdTBDbGNKVFdyR0hqbVFfc2t3Tk1vZHM4bDVGWFlENTBhdDJrTmF5bWxSZEI1QVYyOEJLcGRPcGxlcE5yVlFGb3hUTXZEWlNfN2c1UGpIYW5qdHdDa2sxbVYxbTVMOA?oc=5",
+  "fecha": "2026-11-22T21:30:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
   "id": "59d42839dc5fc1",
   "fuente_id": "futurefive",
   "titular": "Vection to acquire zSpace in push into US education",
@@ -992,6 +1042,16 @@
   "fecha": "2026-11-22T20:47:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "260cedde351a65",
+  "fuente_id": "mongabay",
+  "titular": "¿Cómo está afectando el fenómeno de El Niño a los tiburones de Galápagos? | Expedición Científica",
+  "bajada": "En las islas Darwin y Wolf, al norte de Galápagos, se encuentra uno de los principales puntos de agregación de tiburones del mundo. Allí, investigadores de la Fundación Charles Darwin estudian estas especies desde hace más de 13 años para comprender su comportamiento y los…",
+  "enlace": "https://es.mongabay.com/video/2026/11/como-esta-afectando-el-fenomeno-de-el-nino-a-los-tiburones-de-galapagos-expedicion-cientifica/",
+  "fecha": "2026-11-22T20:38:21+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
   "id": "051c127ac0a958",
@@ -1617,6 +1677,17 @@
   "fecha": "2026-11-22T17:14:03+00:00",
   "via": "rss",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "0f3e47ec7c4d3a",
+  "fuente_id": "el-universal",
+  "titular": "Video: así noqueó el colombiano Andrés Pérez a su rival; creían que hizo trampa",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/22/video-asi-noqueo-el-colombiano-andres-perez-a-su-rival-creian-que-hizo-trampa/",
+  "fecha": "2026-11-22T17:10:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T22:25:18+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR2lRS2ZSc1NNdjNIRElaZHg0eDhHcUlxNzgtc253aHBOVWxTVVhhRDFaOWs2N0xsaW40SUZhR25rdGdNNTlENmluRlJub09jdjg0OVpIMWl2SEhyWDAwS21wbDhGY3lidWxMMm1qTTNFQ3FrZ0VCd0lrYUNKc1RuaFgwRWY1bVR2ZzJsR3FLUXVHR2cyWDdtQ1VpbDFMby0tb1JLX1MxZ3Rqa0xROFJPU29fWFVSUVZ0MXZBcGFydjdqYnVEWFcxMA?oc=5"
  },
  {
   "id": "ab015d740f455d",
