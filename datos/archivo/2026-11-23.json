@@ -1,5 +1,877 @@
 [
  {
+  "id": "72213bf5a1ee2a",
+  "fuente_id": "the-manufacturer",
+  "titular": "BAE Systems opens UK’s first fully automated munitions facility",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXo3eWhPTFFoeEl5V2U0ZjBiTVFhVm0zclNsSG0zMWtvMHZkdWhMaE5LVWQ0b0JQNGwxbnNETGJ3bVRkejdYQXNPVlY2OGFFQk1qSFRVRFhaRTVLcW5vdmFOU2ltUUtrWUlTNjhyLUJqZFV1YTUtRmNxNFJkcHA3aDNRZlJwYy1ackdUdS0xMFhrejhRLVhScVV5VE0yYWpWQ0x5SUpaMA?oc=5",
+  "fecha": "2026-11-24T04:52:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "e55ffef95a4dc0",
+  "fuente_id": "abc-economia",
+  "titular": "Rafael Pampillón, economista, sobre la subida del salario mínimo: «Es una medida electoralista que generará desempleo y explotación. Un trabajador pagará más de 1.100€ en cotizaciones sociales»",
+  "bajada": "Las elecciones generales del próximo 29 de noviembre son imposibles de borrar del horizonte. Cualquier decisión que se toma a nivel político, económico o social queda marcado por el ineludible prisma electoral.Sin embargo, hay algunas medidas que son más importantes que otras. O…",
+  "enlace": "https://www.abc.es/economia/rafael-pampillon-economista-sobre-subida-salario-minimo-20261124054500-nt.html",
+  "fecha": "2026-11-24T04:45:18+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "8d469fe7b57d42",
+  "fuente_id": "el-heraldo",
+  "titular": "Este 24 de noviembre se cumplen diez años del acuerdo de paz en Colombia",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/24/este-24-de-noviembre-se-cumplen-diez-anos-del-acuerdo-de-paz-en-colombia/",
+  "fecha": "2026-11-24T04:27:15+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "3bfc0e59cd0644",
+  "fuente_id": "bbva",
+  "titular": "BBVA une a Jordi Roca y Peldanyos para acercar las finanzas a los más jóvenes",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGxFZVdsSXhMLVV0NTQxX0ZEVXRzQzhxM1FoUzI5M3dUYXg3TEV1U0pqUXk3STMxclNnY05lcG5rTzVJQ1ZwVHk3T01TNnJ1dVFCeW1ZSS10WkI1VWhZQzRzN3cxR1dpM0FGUEMtT1NqSklBcEJScm5NZFN4bmo4SXVVT3JsSXlyQVI4djU3U0JHRjZBbFR6cHZRN1h6UlNaS0RZMFFjUWJsbS1QRWV5Y0Y2UkUxQ0Z1d2Qw?oc=5",
+  "fecha": "2026-11-24T04:26:55+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "810b59cd563588",
+  "fuente_id": "el-heraldo",
+  "titular": "“Identificaremos a quienes planearon y ejecutaron este atentado”: gobernadora del Meta",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/24/identificaremos-a-quienes-planearon-y-ejecutaron-este-atentado-gobernadora-del-meta/",
+  "fecha": "2026-11-24T04:05:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "19d3d1e0c307e8",
+  "fuente_id": "yahoo-finance",
+  "titular": "Target and Best Buy sent thousands of American jobs to India",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlNMM2ZlM2FOTm9HRGkzbG5wMTRJbENBaXRHMHJuTHY3bGMxY19EY2hobHlXc0dkQVRrVlpnS0pOR01JeXk1VWowLWtvNFl3QXU1YVVuVjlmTHVjZHpxQjFORDB3ZGpZZ0R0anJFWXRpbmE2dk1vSnpGUzFjLWJRVzIzcXdlbm91WEMtX2RaQ2NKX25IQ0hIc2hn?oc=5",
+  "fecha": "2026-11-24T03:59:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "619546abebd5ae",
+  "fuente_id": "the-manufacturer",
+  "titular": "Celtic Renewables appoints new CEO to lead next phase of growth",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcU5GcDhZS0ZCZzF2UDcyOWJLVDh5NlNTZzF4eHdOd1NZZWZ5VE4xLXVQWWdSSFVGWk11czl5eDFTbDNNUlMtT2tSaW90RkN4NjcwelFGTm5vdDhYelV1Y291cHZha2pEOXppd29KUi12Z0dEOWFNSEs5U2tQbFd3eHN2WWtzeEVEQWcxci1mbmpVdTdaREpzUGJyemdBOEx4NlZYNXhBQi0?oc=5",
+  "fecha": "2026-11-24T03:44:57+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "619063c982cc2d",
+  "fuente_id": "portafolio",
+  "titular": "Bien por la Milagro Week",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/bien-por-la-milagro-week-506964",
+  "fecha": "2026-11-24T03:42:37+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "46ab7fc306c452",
+  "fuente_id": "el-heraldo",
+  "titular": "Incendio en un apartamento en el barrio Villa de San Pablo deja graves daños",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/judicial/2026/11/24/incendio-en-un-apartamento-en-el-barrio-villa-de-san-pablo-deja-graves-danos/",
+  "fecha": "2026-11-24T03:41:59+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "fa769e119d344e",
+  "fuente_id": "futurefive",
+  "titular": "Epson touts low-power printer for schools at WATSSA",
+  "bajada": "Schools could cut power use and maintenance headaches if Epson's new Heat-Free multifunction printer replaces ageing laser machines.",
+  "enlace": "https://futurefive.com.au/story/epson-touts-low-power-printer-for-schools-at-watssa",
+  "fecha": "2026-11-24T03:41:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "b3352de286047a",
+  "fuente_id": "portafolio",
+  "titular": "Una idea sobre la descentralización",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/una-idea-sobre-la-descentralizacion-506963",
+  "fecha": "2026-11-24T03:37:12+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "ad7680c4188660",
+  "fuente_id": "portafolio",
+  "titular": "La IA que Bogotá necesita",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/la-ia-que-bogota-necesita-506962",
+  "fecha": "2026-11-24T03:35:11+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "af60c73528defd",
+  "fuente_id": "portafolio",
+  "titular": "El Dorado Max: lecciones del mundo antes del primer ladrillo",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/opinion/analisis/el-dorado-max-lecciones-del-mundo-antes-del-primer-ladrillo-506961",
+  "fecha": "2026-11-24T03:32:55+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "b3ae2b78c75101",
+  "fuente_id": "yahoo-finance",
+  "titular": "Tech stocks wane a day after a Huang rally as Anthropic tumbles below its initial offering price",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUVCY3pFVVBDUEwtWGlWa1ViLWE4eE9XeHk2R0s3MC1MSUpNblB6ZFZ5bmJPX0tXcGd2bk5FcVZHbW9oU3FNT2FwMzF4S05jNXlVRjBzZExNYWJ3ako5X24yVDhySHhnUU1HaGFxMUdjTGZsRHc0ZE1oREpqcjJoTHBORzdyWHRGXzhxbllTQ1pHc1hCdS1QVG9sSS1Gb3pkbkZVYw?oc=5",
+  "fecha": "2026-11-24T03:31:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "1870cb51fec66d",
+  "fuente_id": "telconews",
+  "titular": "Before you buy an AI receptionist, make it transfer a call",
+  "bajada": "The real test of an AI receptionist is whether it can hand callers off cleanly when the intended contact is busy or absent.",
+  "enlace": "https://telconews.com.au/story/before-you-buy-an-ai-receptionist-make-it-transfer-a-call",
+  "fecha": "2026-11-24T03:29:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "6f9d7dc9bda0dc",
+  "fuente_id": "bbva",
+  "titular": "El Grupo Banco Mundial y BBVA impulsan la financiación a pymes y proyectos climáticos en Turquía",
+  "bajada": "",
+  "enlace": "https://www.bbva.com/es/sostenibilidad/el-grupo-banco-mundial-y-bbva-impulsan-la-financiacion-a-pymes-y-proyectos-climaticos-en-turquia/",
+  "fecha": "2026-11-24T03:23:20+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3Vfa0M5ZXRLZHVqYllKSXFFNnoyQmVGbjRQNEp4RXRLcExKNEpDb1l5azRlcmpCVC1TTnpLQzFDajVQd25SNjRYbUJDZWtCS3ZCR3pXRUhvZjhDeHJ0REYzTGRNQWZON2hNaWdubHNncUM0Nk4tRWVXRUpDTDl2TFdUWU1NQ19oYy1iOTJLd1ZoV0hfYjE4VEV5di1FUkVUX3pQUXAyWGtuTUVKX3JSMnRQeDhHc2ljNHhCMkNDdEoyWlFfNTdUT29QTUxlMnY5S1E?oc=5"
+ },
+ {
+  "id": "657689e9b2c019",
+  "fuente_id": "el-heraldo",
+  "titular": "Reportan atentado con explosivos contra la Gobernación del Meta: hay al menos 12 heridos",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/24/atentado-con-explosivos-sacudio-la-gobernacion-del-meta/",
+  "fecha": "2026-11-24T03:21:18+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "d21c023f500e83",
+  "fuente_id": "the-manufacturer",
+  "titular": "Rapid Fusion fires up Prometheus launch with new international collaboration",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb244R2tSd3diOHR3YVI5LXBHLWx6X1pTbmk1LUF0Q2R1TGhPOE5oTjhSWGVkQkswVGo4Ull0ZVpfVnZHcjlKZS1mMmFGSU5UZW5oTmRhYUhhYzNYbWVVQzBoSHNJVDJmWFRiblRkYzhFTlVITC02RENuaTNpMFdDbzlNbmxzajBBNE1mSnFhZ2RWelBCZldtQnBuU3NKcDB2d01xZFRqN3pzRzZNNTlNc3IyM2RIa1M5NUE?oc=5",
+  "fecha": "2026-11-24T03:20:23+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "a2968da0ca29b9",
+  "fuente_id": "business-wire",
+  "titular": "Phenikaa University Hospital (Vietnam) and GN Corporation (Japan) Sign Memorandum of Understanding on Regenerative Medicine Collaboration",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSDJwM3ZoZnhSR0NwSkhlLVZENV8zMTVEZ3ctZDlGRFBZVXo1SWktdV9FcllKX01HSkh6N0JqZExVYTRnZlBRZDVqYU9SSkk2OV9JbTN4X1BNcVlubzZGcEh2eXB6SWtkdE9UOGhkM2FGUzF5VEVZS0R2bDE4OTFMU2tXTFo0dml6Qi00RG51bl9iTlB5MDJTcVFCWmdtRUZqUmN1Q3QzbHE1OFNwTVlSQ1JUUzh1TEVWYVpOcVFzZkRvZmhRT05zOWl5T2s5WEZ4ZXJxNDdxdG1PUGJUTUhEOHYyU0ZnTVNsLU9fb2Fqa1dXQzB0ZVJVNDJ3RWNFTG1oaFpDRVFRby1JQ1FPNmZ3T0tXOG9WNWJVNkE?oc=5",
+  "fecha": "2026-11-24T03:17:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "0e5daacb15317e",
+  "fuente_id": "el-heraldo",
+  "titular": "Perú erradicó más de 9.100 hectáreas de coca en 2026: Colombia sigue siendo el mayor productor mundial de cocaína",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/mundo/2026/11/24/peru-erradico-mas-de-9100-hectareas-de-coca-en-2026-colombia-sigue-siendo-el-mayor-productor-mundial-de-cocaina/",
+  "fecha": "2026-11-24T03:13:08+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "fe9440a9eda195",
+  "fuente_id": "wsj",
+  "titular": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-24T03:08:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "7b4729177c6d64",
+  "fuente_id": "wsj",
+  "titular": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
+  "fecha": "2026-11-24T03:03:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "88108fcef05e90",
+  "fuente_id": "amnistia",
+  "titular": "Etiopía: Los ataques letales de artillería contra barrios civiles de la ciudad de Alamata, en Tigré, deben investigarse como crímenes de guerra",
+  "bajada": "Los ataques de artillería realizados entre el 26 y el 28 de septiembre por las fuerzas armadas de Etiopía y sus aliados, las Fuerzas de Paz de Tigré, que mataron a decenas de personas e hirieron a muchas más en la ciudad de Alamata, región septentrional de Tigré, deben…",
+  "enlace": "https://www.amnesty.org/es/latest/news/2026/11/ethiopia-lethal-artillery-strikes-on-civilian-neighbourhoods-in-tigrays-alamata-city-must-be-investigated-as-war-crimes/",
+  "fecha": "2026-11-24T03:01:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "447a89f6b972cd",
+  "fuente_id": "el-heraldo",
+  "titular": "Miss Universe elegirá esta noche a la reina de la belleza mundial",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/24/miss-universe-elegira-esta-noche-a-la-reina-de-la-belleza-mundial/",
+  "fecha": "2026-11-24T02:57:02+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "c67ebe9aa8b255",
+  "fuente_id": "portafolio",
+  "titular": "Anuel AA promete concierto gratis en Bogotá tras el incidente que protagonizó",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tendencias/anuel-aa-promete-concierto-gratis-en-bogota-tras-el-incidente-que-protagonizo-506960",
+  "fecha": "2026-11-24T02:57:01+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "c1a25568844525",
+  "fuente_id": "el-heraldo",
+  "titular": "35 años sin Freddie Mercury, el rey de Queen",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/sociedad/2026/11/24/35-anos-sin-freddie-mercury-el-rey-de-queen/",
+  "fecha": "2026-11-24T02:56:31+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "540c9fe998e210",
+  "fuente_id": "el-heraldo",
+  "titular": "“Colombia ha pagado un precio muy alto por una paz falsa”: De la Espriella critica resultados del Acuerdo de La Habana",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/24/colombia-ha-pagado-un-precio-muy-alto-por-una-paz-falsa-de-la-espriella-critica-resultados-del-acuerdo-de-la-habana/",
+  "fecha": "2026-11-24T02:52:48+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "2fb94e443c3056",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbV9ETXJMX1cta1VTbGF4TGlMZDVTem1Jel81cXc0SDYyYk1lV1ZjMUtfNFF4Tl9GQ2FuWmxRaGlXRVBmWDFJNjN0RzhwSnhXMGdPTDB3?oc=5",
+  "fecha": "2026-11-24T02:48:28+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "cd35ec8123f5a3",
+  "fuente_id": "el-heraldo",
+  "titular": "Air-e atribuye alza en diciembre a mayor uso de las térmicas por ‘El Niño’",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/atlantico/2026/11/24/air-e-atribuye-el-alza-de-tarifa-para-diciembre-al-mayor-uso-de-energia-de-las-termicas-debido-a-el-nino/",
+  "fecha": "2026-11-24T02:45:51+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "9092d9cecfd4f6",
+  "fuente_id": "futurefive",
+  "titular": "Your old iPad is already a smart home display",
+  "bajada": "Many households can turn an unused iPad into a shared smart home display, avoiding the need to buy a dedicated kitchen panel or wall hub.",
+  "enlace": "https://futurefive.com.au/story/your-old-ipad-is-already-a-smart-home-display",
+  "fecha": "2026-11-24T02:43:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "f18272b827a202",
+  "fuente_id": "el-heraldo",
+  "titular": "“La ruta de Barranquilla a Nueva York es una apuesta para promocionar y vender la ciudad”: Ángela María Orozco",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/economia/2026/11/24/la-ruta-de-barranquilla-a-nueva-york-es-una-apuesta-para-promocionar-y-vender-la-ciudad-avianca/",
+  "fecha": "2026-11-24T02:29:35+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "e87ff06ca2df3b",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nasdaq, Dow, S&P 500 Futures Gain As Jensen Huang’s Return To Nvidia Sparks $3T Market Rally: SOXS, IBRX, HPE, TSM In Focus",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTRMM0dfQUlWZ3pRMFhtNUJsV1k0RE9UV1dTQ2RhWUZ3SUtIOUhtbGQxa1VidG05ZEszdXRJTFZHTTFXTExSMW1uV05KVEdzb0NBcWtnVDBVa2dQbDdYc0NQaTJlWWxfbVdmQV9JUHZFbmRHcTB3elRkWUt0aUxCOFZVX3hIYnBfTHlqOU5IMGx1T3c?oc=5",
+  "fecha": "2026-11-24T02:13:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "5aea37210f5750",
+  "fuente_id": "el-heraldo",
+  "titular": "Colombia registra 47 nuevos casos de VIH al día y enfrenta dificultades en diagnóstico y tratamiento",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/colombia/2026/11/24/colombia-registra-47-nuevos-casos-de-vih-al-dia-y-enfrenta-dificultades-en-diagnostico-y-tratamiento/",
+  "fecha": "2026-11-24T02:09:29+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "55e1093f91e14e",
+  "fuente_id": "wsj",
+  "titular": "Alice Huang Had Ties to China’s Intelligence Network. But Was She Really a Spy?",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/world/china/alice-huang-us-intel-nvidia-china-34e2404a?mod=rss_worldnews",
+  "fecha": "2026-11-24T02:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "5c57f0ee069643",
+  "fuente_id": "wsj",
+  "titular": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-24T02:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "3384317d527228",
+  "fuente_id": "wsj",
+  "titular": "The Frantic White House Push to Get Jensen Huang Back",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-24T02:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "cc85c43bf52405",
+  "fuente_id": "wsj",
+  "titular": "Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-24T02:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "197c7027cea22c",
+  "fuente_id": "business-wire",
+  "titular": "Toshiba Launches Isolation Amplifiers That Contribute to Higher Precision and Improved Safety in Industrial Motor Drive Systems",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZEhEM2JHSklJS09MSE1ma0hIejAwVm51azRfTXVQR1owMWZMYmgxLUFta2tzMnp4SEVuRW9WcW5WcF9vMWVFVm1GQmdZVWhqMU5yN1pEZk1ZRnoyVGlOcUM3ZjF0QkUtYmNkdHB4bTY5anQwQUhWNklJUzBwTFRxZC1RT2hYaGVHZU16YkRnd0c0TTB4cFVXSFE0VVIzaV9qcDVhVXVfaXR3RDZvSTdvU2hCWWV5NzBuWXVqaXJ2VFc3eFlRN05wLTBndERWRUgtX1I0bDY3bGlQS0lxN19ER1VJY3hkNnRpazJzSm1oQ2VkSXNldFl6Ni14cmtTTDNxWU5WZ0lBY0NSeDFsSUJNRlJn?oc=5",
+  "fecha": "2026-11-24T02:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "ef20eb9415d8be",
+  "fuente_id": "la-republica",
+  "titular": "Embajada de China en Colombia rechaza visita oficial de congresistas a Taiwán",
+  "bajada": "Al descontento por la visita se le suma el hecho de que los congresistas hubieran llamado públicamente \"embajador\" al representante de la Oficina Comercial de Taipei en Colombia",
+  "enlace": "https://www.larepublica.co/globoeconomia/embajada-de-china-en-colombia-rechaza-visita-oficial-de-congresistas-a-taiwan-4531526",
+  "fecha": "2026-11-24T01:58:44+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "e8f4548f4fa099",
+  "fuente_id": "oms",
+  "titular": "- World Health Organization (WHO)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vTzNmQzhYaWwyQ2tKaDB6dF83dkVfQTNOdUN2VHFRN2hGODhnWm1CVVhEc2FWSnBoZEIyZkt0NVlRMHowVE9GdDBpWm14cjllT3VzNWJFQ19lTTMwellIUk5hZXdPckF3d2xUN29SRQ?oc=5",
+  "fecha": "2026-11-24T01:58:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "81db82cfd646f9",
+  "fuente_id": "abc-economia",
+  "titular": "La banca cuestiona la legalidad de la prórroga por decreto de un impuesto que ya está en los tribunales",
+  "bajada": "El anuncio de prórroga durante un año más por parte del presidente del Gobierno, Pedro Sánchez , del impuesto a la banca enciende los ánimos en el sector financiero. Y no solo por el contenido en sí de mantener una medida que consideran discriminatoria y que perjudica a la…",
+  "enlace": "https://www.abc.es/economia/banca-cuestiona-legalidad-prorroga-decreto-impuesto-tribunales-20261124025540-nt.html",
+  "fecha": "2026-11-24T01:55:40+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "c802b285edcfb2",
+  "fuente_id": "yahoo-finance",
+  "titular": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbWY1cHQ5MEJvWUhYRWtaWjBMdEVIMlB0cnRkdFpKNDRCMjVIWlJmWDVxdE5jUlhkWGFHeU9DSDFGamNwR2ROYmx6NDhZZw?oc=5",
+  "fecha": "2026-11-24T01:47:29+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-10T18:25:48+00:00"
+ },
+ {
+  "id": "76bd2177adaa23",
+  "fuente_id": "abc-economia",
+  "titular": "El 98,3% de las empresas tiene problemas para encontrar trabajadores, pese a los 2,4 millones de parados",
+  "bajada": "El mercado de trabajo sigue anclado en una contradicción. A pesar del crecimiento del empleo y del número de parados, las empresas siguen encontrando dificultades para incorporar a los profesionales que necesitan. Se da la paradoja de que más de cuatro millones de personas están…",
+  "enlace": "https://www.abc.es/economia/983-empresas-problemas-encontrar-trabajadores-pese-millones-20261124024725-nt.html",
+  "fecha": "2026-11-24T01:47:25+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "048f15b5fe3e2c",
+  "fuente_id": "the-register",
+  "titular": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+  "bajada": "‘Shirudo’ project promises to whip up compensating controls in a hurry",
+  "enlace": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+  "fecha": "2026-11-24T01:46:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "414dab55e01503",
+  "fuente_id": "el-heraldo",
+  "titular": "Gobierno anuncia inversión de $500.000 millones para modernizar el Puerto de Barranquilla: “dinamizamos el comercio”",
+  "bajada": "",
+  "enlace": "https://www.elheraldo.co/economia/2026/11/24/gobierno-anuncia-inversion-de-500000-millones-para-modernizar-el-puerto-de-barranquilla-dinamizamos-el-comercio/",
+  "fecha": "2026-11-24T01:44:57+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "16cb0f5e897416",
+  "fuente_id": "la-republica",
+  "titular": "De la Espriella se reunió por segunda vez con Luz Stella Murgas en Barranquilla",
+  "bajada": "El presidente encabezó hoy una reunión con la cúpula directiva de la Asociación Nacional de Empresarios de Colombia",
+  "enlace": "https://www.larepublica.co/empresas/de-la-espriella-y-murgas-se-reunieron-por-segunda-vez-en-barranquilla-4531520",
+  "fecha": "2026-11-24T01:44:14+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "c0313837d142ce",
+  "fuente_id": "yahoo-finance",
+  "titular": "Sandisk Corporation (SNDK) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQ1NKM2RUYWVMenRSd1BNSGJKbEUxSXprVGNBek5Wdi14M1RobEhUNkR2SER0VWpVSlFSb0pKcjcxbG5OdXRLVzNHV3dIdw?oc=5",
+  "fecha": "2026-11-24T01:37:27+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "bf951ee38fda24",
+  "fuente_id": "wired",
+  "titular": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+  "bajada": "",
+  "enlace": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+  "fecha": "2026-11-24T01:35:38+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "b765706f55830b",
+  "fuente_id": "la-republica",
+  "titular": "Culminan en Caracas diálogos entre el Gobierno venezolano y la oposición",
+  "bajada": "Durante las jornadas, se dio seguimiento a las mesas en temas cruciales como la Guyana Esequiba y la recuperación del oro en Reino Unido",
+  "enlace": "https://www.larepublica.co/globoeconomia/culminan-en-caracas-conversaciones-entre-el-gobierno-venezolano-y-la-oposicion-4531497",
+  "fecha": "2026-11-24T01:34:58+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "32bda74eaeed32",
+  "fuente_id": "portafolio",
+  "titular": "Cine Colombia mantendrá el estatus Platino hasta 2027 en cinco ciudades afectadas por el sismo",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/cine-colombia-mantendra-el-estatus-platino-hasta-2027-en-cinco-ciudades-afectadas-por-el-sismo-506956",
+  "fecha": "2026-11-24T01:24:16+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "45bafcaeacd883",
+  "fuente_id": "la-republica",
+  "titular": "Grupo Bolívar suma una reaseguradora en Bermudas y agencia de seguros de Davivienda",
+  "bajada": "El conglomerado incorporó a su estructura empresarial a Rojo Re Limited, en el exterior, y a la Agencia de Seguros Davivienda Ltda., con lo que amplía su operación en el negocio asegurador",
+  "enlace": "https://www.larepublica.co/finanzas/grupo-bolivar-suma-una-reaseguradora-en-bermudas-y-agencia-de-seguros-de-davivienda-4531504",
+  "fecha": "2026-11-24T01:19:04+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "168924ff5e8fdc",
+  "fuente_id": "yahoo-finance",
+  "titular": "Arm Holdings plc (ARM) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbDlXa05SUTZEbnEzRmQ5RWJYSnFSQ3pVM0l5d1c2QkpwYU8zNm9mU0VLc2ozdEY4QUdiUmJqT25pczJyR2ktTGs4T20?oc=5",
+  "fecha": "2026-11-24T01:14:50+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "dbceb1dcad9ad2",
+  "fuente_id": "abc-economia",
+  "titular": "Cómo lidiar con la burocracia se convirtió en el estilo de vida europeo",
+  "bajada": "Europa lleva siglos buscando formas de unir a sus conflictivos pueblos. El cristianismo lo intentó, al igual que varios emperadores, sin mucho éxito. El esperanto nunca llegó a cuajar del todo. El fútbol y el festival de Eurovisión unen al continente durante unas cuantas noches…",
+  "enlace": "https://www.abc.es/economia/lidiar-burocracia-convirtio-estilo-vida-europeo-20261124020841-nt.html",
+  "fecha": "2026-11-24T01:08:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "e3c6d38f80ce39",
+  "fuente_id": "la-republica",
+  "titular": "Carf advierte que Ley de Rescate Fiscal dejaría un faltante de $9,6 billones",
+  "bajada": "Aunque el Comité respalda la urgencia de aprobar el proyecto, advierte que la deuda pública llegaría a 78,1% del PIB en 2030 y que los cambios al IVA dejarían un hueco fiscal",
+  "enlace": "https://www.larepublica.co/economia/carf-advierte-que-ley-de-rescate-no-seria-suficiente-dejaria-un-faltante-de-9-6-billones-4531489",
+  "fecha": "2026-11-24T01:03:53+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "f1c108ce10001c",
+  "fuente_id": "yahoo-finance",
+  "titular": "Applied Materials, Inc. (AMAT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DQXlIV1VFLTZVU05maWhQNmlicTQ5eEJEYW5oRHNERWhfT2ZVWTIyeTdqVVloa2VELUplMy1QeUE3NmVtSVEwZW1XN281Zw?oc=5",
+  "fecha": "2026-11-24T01:02:22+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "37c6f616a0f8a7",
+  "fuente_id": "el-universal",
+  "titular": "Todo lo que debe saber sobre la final de la Copa Libertadores 2026",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/23/todo-lo-que-debe-saber-sobre-la-final-de-la-copa-libertadores-2026/",
+  "fecha": "2026-11-24T00:50:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXFkRF9ucUlWb29ZQUJMU1V6MkxEc2h1VWt4Tng0cmpfbjFHNFVWLWxWb3dJR1ZMLThoaDBZM1BGX0g1Y0lQXzRrWnBWaXpTYnRrblotNWh1T2tPbW9sVFVUY2hHZ0tXOHB4SlFBbG55RTExWEVFZHE5MkF5SmN0R1l3eE1GTEFMcS1lVF8xTzZ6MXRGaFdxWG9oa2o5QndwMWRjRU96c2h4TDQzZnNNZXprcGJIZnBwZ3c?oc=5"
+ },
+ {
+  "id": "eecfa36f019330",
+  "fuente_id": "yahoo-finance",
+  "titular": "U.S. stock futures steady after Nvidia-led Wall Street rally",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFkzaTBpMy1QY3pYOG1fR1dlUG0yZ0ZEcEtpYlpXeGxsNXZaQzczVzlTLUdSOXFZUTlRX2pDd0F0TVRfVmpLYng2ZUE1NU9hSVVLalVxcEVKT1p5Uzd1S19UWDVVUjJNb1JPSmRUSDVEYUVkMElmSzU3eHU3dDhzSktWOXRjOWV6YkZWMDc4WjBqdm5aaXpXaUJ3?oc=5",
+  "fecha": "2026-11-24T00:48:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "5974c56c90f4f0",
+  "fuente_id": "abc-economia",
+  "titular": "Sube el sueldo de las empleadas del hogar en 2027: este es el nuevo mínimo obligatorio por hora en el BOE",
+  "bajada": "Si tienes a alguien contratado en casa para hacer las tareas del hogar , prepara la calculadora antes de que acabe el año. El incremento del 5,3% aprobado por el Gobierno para el salario mínimo interprofesional deja atrás los 9,55 euros actuales y reconfigura por completo las…",
+  "enlace": "https://www.abc.es/economia/cuentas-corrientes/sube-sueldo-empleadas-hogar-2027-nuevo-minimo-20261123013940-nt.html",
+  "fecha": "2026-11-24T00:39:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "2ed432787f398e",
+  "fuente_id": "telconews",
+  "titular": "Edith Cowan University installs 100 ceiling mics in Perth",
+  "bajada": "The A$852 million Perth city campus is now better equipped for hybrid classes, with staff able to move freely while staying audible online.",
+  "enlace": "https://telconews.com.au/story/edith-cowan-university-installs-100-ceiling-mics-in-perth",
+  "fecha": "2026-11-24T00:19:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "af2379ca2419bb",
+  "fuente_id": "the-register",
+  "titular": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+  "bajada": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+  "enlace": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+  "fecha": "2026-11-24T00:18:17+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "9e89959c9b4915",
+  "fuente_id": "siemens-productcert",
+  "titular": "SSA-242944 V1.2 (Last Update: 2026-11-24): Node2Shell Vulnerability in Siemens Industrial Products",
+  "bajada": "On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as “Node2Shell” (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a…",
+  "enlace": "https://cert-portal.siemens.com/productcert/html/ssa-242944.html",
+  "fecha": "2026-11-24T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "c2692c55bb1eff",
+  "fuente_id": "wsj",
+  "titular": "U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews",
+  "fecha": "2026-11-24T00:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "a59f1c4333a3a6",
+  "fuente_id": "macrumors",
+  "titular": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+  "bajada": "A version of GPT–6.2 Sol made for the Chat tab is rolling out to Plus, Pro, Business, and Enterprise tiers, OpenAI said today . OpenAI says GPT–6.2 Sol has been tweaked for everyday conversation and can more easily handle complex requests involving detailed instructions or…",
+  "enlace": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+  "fecha": "2026-11-23T23:52:41+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "813c97432bbf18",
+  "fuente_id": "the-manufacturer",
+  "titular": "Triton Showers supplies 10 electric showers for Cardiff Rugby facility refurbishment",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHhhWHQ4c2kybGRXV1J2YTd6MDRFc09uSGFiRC1rOHRIb254T0tUREFRb294bnJhbFptR2F3SkhVSFBHNXBqX3BMOGVBYTJkZlFrMzJYNE9wR0UwV28yWU5wN2ppMjZSQ0k0UklOMHpnNkZBcFI4cGZaVlQwcG9JcUVfd0dUeFpnT0R3ODlVeTVad3JnWnQweDJ1NXpvNFdGYTJTOWgtMkZKbjdOLXcyV24wVzJKZXhaRi1ZLTJHcGlVV3Nn?oc=5",
+  "fecha": "2026-11-23T23:40:28+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "ae6554992620db",
+  "fuente_id": "la-republica",
+  "titular": "Secretaría de Hacienda de Bogotá presentó proyecto presupuestal por $42,7 billones",
+  "bajada": "El gasto en movilidad se queda con la mayor parte de la bolsa distrital, previendo $8,9 billones, 20,9% de los fondos, junto a Educación, con $8,4 billones",
+  "enlace": "https://www.larepublica.co/economia/la-secretaria-de-hacienda-de-bogota-presento-proyecto-presupuestal-por-42-7-billones-4531296",
+  "fecha": "2026-11-23T23:39:01+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "d43dc7be4fe0ba",
+  "fuente_id": "telconews",
+  "titular": "WatchGuard & Delinea warn of AI access risks in 2027",
+  "bajada": "Australian businesses face sharper breach risks in 2027 as AI assistants and trusted staff credentials become prime targets for cybercriminals.",
+  "enlace": "https://telconews.com.au/story/watchguard-delinea-warn-of-ai-access-risks-in-2027",
+  "fecha": "2026-11-23T23:38:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "e2e4cf1755700a",
+  "fuente_id": "portafolio",
+  "titular": "Esta es la empresa de bebidas funcionales que desarrolló un concentrado que facilita su entrada a Estados Unidos",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/industrias/esta-es-la-empresa-de-bebidas-funcionales-que-desarrollo-un-concentrado-que-facilita-su-entrada-a-estados-unidos-506951",
+  "fecha": "2026-11-23T23:17:37+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "4c805478e42c1a",
+  "fuente_id": "la-republica",
+  "titular": "En Cali se entregaron $7.359 millones para reactivar 867 negocios afectados tras el sismo",
+  "bajada": "La entrega de maquinaria y equipos comenzó el pasado viernes, la inversión total contempla $10.300 millones para apoyar a cerca de 1.300 unidades productivas",
+  "enlace": "https://www.larepublica.co/empresas/cali-destina-7-359-millones-a-reactivar-867-negocios-tras-el-sismo-4531348",
+  "fecha": "2026-11-23T23:08:38+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "b4cf294793c907",
+  "fuente_id": "techcrunch",
+  "titular": "Figma employee sues, alleging company forced her to confront harassers",
+  "bajada": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+  "enlace": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+  "fecha": "2026-11-23T23:07:49+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "495e13de50f23a",
+  "fuente_id": "the-manufacturer",
+  "titular": "News - Page 80 of 80 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzhFMlZLWUlHUGhCNmZYMTVsTnBLMXRjMXNFMl84ZHIwQnk1REhCRzlkSlJyd2ZCbTN2UlZCaTlGVVNlOUJ2X0c3dGRKY2FlbXdGNUE2VnRmX0tvQTRRcHZvbG5KalpxYXN0ZmJRUXZ2YjN5Zm44ZEJ4VGszRzgxQXNxQQ?oc=5",
+  "fecha": "2026-11-23T23:04:56+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "4d776d4515be9f",
+  "fuente_id": "bbc-mundo",
+  "titular": "Lo que el ataque contra un buque militar ruso en Libia revela sobre los peligros de la propagación de la guerra de Ucrania más allá del frente",
+  "bajada": "Si Ucrania es capaz de planificar y ejecutar un ataque tan audaz contra buques rusos en un puerto nominalmente neutral, situado a tanta distancia de su territorio, ¿dónde va a terminar esto?",
+  "enlace": "https://www.bbc.com/mundo/articles/cry86dl7jjw5o?at_medium=RSS&at_campaign=rss",
+  "fecha": "2026-11-23T23:00:49+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "32df3e5665772d",
+  "fuente_id": "the-manufacturer",
+  "titular": "Former Siemens UK chief appointed to lead UK’s northern reindustrialisation drive - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVJlTHBmX3RFMEVIR2ZJTXRQZkYwa216ZUV5UEE0eS1RWlJUY1J5THUxaFdIcDN2WUNoU2lDTzRqQldZMDVybWlBSmJBcFlmNWdHb2pzRUFkT1NzdlR0SlhBdHd6NlFoSktzQmdpVENETDFubDBrNWJkM3ZKS1hSeU43WUVmUnhGRC1BOEFpV3FtQmZuSGhnUkt6cmhxNnVBR2JwOHRINDcway15VldRTzROeENrQVZic3U5UzV0SQ?oc=5",
+  "fecha": "2026-11-23T23:00:25+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "72192f365961d0",
+  "fuente_id": "wsj",
+  "titular": "Opinion | Nvidia and Trump’s State Capitalism",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-23T23:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "a9c2564241ad59",
+  "fuente_id": "bloomberg-professional",
+  "titular": "A day in the life of a wealth manager: Turning market insight into client action",
+  "bajada": "",
+  "enlace": "https://www.bloomberg.com/professional/insights/financial-services/a-day-in-the-life-of-a-wealth-manager-turning-market-insight-into-client-action/",
+  "fecha": "2026-11-23T22:57:52+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "1f8eee500991a9",
+  "fuente_id": "wsj",
+  "titular": "Opinion | Lina Khan’s Grand Theft Antitrust",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-23T22:57:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "0ba41753fb06a7",
+  "fuente_id": "la-republica",
+  "titular": "En su aniversario 70, la Universidad de América recibió Acreditación de Alta Calidad",
+  "bajada": "El Ministerio de Educación Nacional otorgó el reconocimiento en la primera postulación institucional de la Universidad, un hito que valida siete décadas de rigor académico, autonomía y movilidad social",
+  "enlace": "https://www.larepublica.co/empresas/universidad-de-america-recibio-la-acreditacion-de-alta-calidad-por-seis-anos-4531283",
+  "fecha": "2026-11-23T22:56:28+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "939a24f5968764",
+  "fuente_id": "wsj",
+  "titular": "Opinion | The Welfare State and Britain’s Idle Youth",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/opinion/alan-milburn-report-u-k-youth-unemployment-52e6b3e6?mod=rss_worldnews",
+  "fecha": "2026-11-23T22:56:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "ec88ba05d9f0e1",
+  "fuente_id": "telconews",
+  "titular": "D-Link launches 4G LTE Wi-Fi 6 USB adapter for ANZ",
+  "bajada": "Travellers and remote workers can buy a pocket-sized backup connection as the device supports up to eight users and costs AUD $79.95 in Australia.",
+  "enlace": "https://telconews.com.au/story/d-link-launches-4g-lte-wi-fi-6-usb-adapter-for-anz",
+  "fecha": "2026-11-23T22:52:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "40183beab294df",
+  "fuente_id": "wsj",
+  "titular": "Opinion | Sanctioning People for Building Homes in the West Bank",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/opinion/sanctioning-people-for-building-homes-in-the-west-bank-47c51eb7?mod=rss_worldnews",
+  "fecha": "2026-11-23T22:49:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "9911d685316ca1",
+  "fuente_id": "la-republica",
+  "titular": "Fiscalía de Ecuador formula cargos a William Alcívar tras su expulsión desde España",
+  "bajada": "Las autoridades de España recapturaron y expulsaron a Ecuador a William Joffre Alcívar Bautista, alias Negro Willy, máximo líder de la banda Los Tiguerones",
+  "enlace": "https://www.larepublica.co/globoeconomia/fiscalia-de-ecuador-formula-cargos-a-william-alcivar-tras-su-expulsion-desde-espana-4531311",
+  "fecha": "2026-11-23T22:42:21+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "7ac268b0eb2c9b",
+  "fuente_id": "la-republica",
+  "titular": "Índice de Precios de Propiedad Residencial tuvo un alza de 9,23% en el tercer trimestre",
+  "bajada": "Según los datos del dane, un inmueble de $300 millones costaría, en promedio, casi $27,7 millones más que hace un año",
+  "enlace": "https://www.larepublica.co/economia/iindice-de-precios-de-la-propiedad-residencial-en-bogota-tuvo-una-variacion-de-9-23-en-el-tercer-trimestre-de-este-ano-4531143",
+  "fecha": "2026-11-23T22:40:03+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "d6bcd29a5f7a86",
+  "fuente_id": "la-republica",
+  "titular": "Ordenan captura preventiva contra el hermano del expresidente Santiago Peña",
+  "bajada": "El Ministerio Público de Paraguay solicitó la detención preventiva de Francisco Peña y su esposa por presuntos hechos de lavado de activos y administración en provecho propio vinculados a la intervención de Ueno Bank",
+  "enlace": "https://www.larepublica.co/globoeconomia/ordenan-captura-preventiva-contra-el-hermano-del-expresidente-santiago-pena-en-paraguay-4531294",
+  "fecha": "2026-11-23T22:38:50+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "1e5c814be65ac0",
+  "fuente_id": "la-republica",
+  "titular": "Fondo Milagro anuncia canalización de fondos por medio de Fedecafeteros",
+  "bajada": "El gerente Henao destacó que, apoyándose en el sistema de contratación propio de la entidad, se garantiza que las soluciones llegarán a las familias en un tiempo muy corto",
+  "enlace": "https://www.larepublica.co/economia/el-fondo-milagro-anuncia-canalizacion-de-fondos-por-medio-de-fedecafeteros-4531223",
+  "fecha": "2026-11-23T22:30:56+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "e5959c88de5f1b",
+  "fuente_id": "yahoo-finance",
+  "titular": "Jensen Huang back at Nvidia after staff reported humiliating threats, insults — 'thinks he can get away with anything'",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkstT2MyOGNRY3UxSXpMOGRHS0RHT2lKemI2dXNSbkZGUHBaMEs0TldMOGViYUFPVnk5R2hSeHJrbXMyeTNQalFiXzV3d1NCTmNqWU9HeDJIeHFVM1F4eDl0TVNWc0poQ2RMdzl0N2NiaUpPMXhPeUVucGUwenlzeWNEc3Z2WlR1cHJvUERCRWpuVVNnYS1QZ05QMA?oc=5",
+  "fecha": "2026-11-23T22:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "8745cd6aab6734",
+  "fuente_id": "la-republica",
+  "titular": "Los argentinos que tengan el pasaporte en esta condición deberán tramitar uno nuevo",
+  "bajada": "La normativa contempla desde el deterioro físico de la libreta hasta las alteraciones o anotaciones que puedan dificultar la identificación de su titular",
+  "enlace": "https://www.larepublica.co/globoeconomia/los-argentinos-que-tengan-el-pasaporte-en-esta-condicion-deberan-tramitar-uno-nuevo-4531285",
+  "fecha": "2026-11-23T22:26:36+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "c3151fcef07f75",
+  "fuente_id": "wsj",
+  "titular": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+  "fecha": "2026-11-23T22:25:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "18715e19b53af8",
+  "fuente_id": "yahoo-finance",
+  "titular": "As Tech Stocks Crash, Is Berkshire Hathaway a Safe-Haven Investment?",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnRuQlV0eEVKcnljTFlyNkRyRlVzWmRvUGpuSURNZjJ1ZnhqclJxNkY3QjlnQVhfU3U2YXZYZ2xqNHRSQWtVNC1fZU4wX0tqMHZ2aHBwWl9FaTZiNVJ6STduSWwtc2lzY0dBWU51cjZGN0VPYjlYWXB3UEJkNWFSdW0td2Y3VUxaTmpqeDdRNG53RHdIUWo3aTFMT3NBUFVYREw0?oc=5",
+  "fecha": "2026-11-23T22:19:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "055873155874b1",
   "fuente_id": "la-republica",
   "titular": "Avanza trámite para que clínicas deban transparentar precios de medicamentos",
@@ -8,6 +880,17 @@
   "fecha": "2026-11-23T22:18:17+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "eba0f5d90c3774",
+  "fuente_id": "el-universal",
+  "titular": "Video: Davoo Xeneize, streamer e hincha de Boca, se llevó tremendo susto en Barranquilla",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/deportes/2026/11/23/video-davoo-xeneize-streamer-e-hincha-de-boca-se-llevo-tremendo-susto-en-barranquilla/",
+  "fecha": "2026-11-23T22:17:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEpidkEyZEU2V3RzUkNJXzhrTjJGbGt6RzkwanQ4REFqYWM4RmUxazMzUW5yd3JzUGRTZEFRTFVvSm83TTQzd1RtbnhtaEJIYjYwaXpyRzFGa1dNenBMNU9ueGhpcFdZcWs4TVZKYlFGbjJJeXAwYS1WMTNidmpQbVhkSWtpNk9xbW9tZmE1Qkd5RnZ5UTFkUGJSR3dBMG5BYkNmaWlmUXE5SE81WDJ2Tjd1VXJpYktsY3IzejhCbzhVOC1vYzZWNEFzVVZHOVpkMzEw?oc=5"
  },
  {
   "id": "4af9f5cddbf294",
@@ -220,6 +1103,17 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "844ba517ec9810",
+  "fuente_id": "el-universal",
+  "titular": "La extraordinaria y lujosa corona que lucirá la nueva Miss Universo: tiene 3.150 diamantes",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/farandula/2026/11/23/la-extraordinaria-y-lujosa-corona-que-lucira-la-nueva-miss-universo-tiene-3150-diamantes/",
+  "fecha": "2026-11-23T22:10:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHR2bVhueUN0S2xBQXZiSFBXWjIyZk9LOW1OaER5ZjJPR293cGlEYnE1bGhzdjNBUzdEQUxWUU9wNUxoejY3TVhQQlhTTDRrXzI4UGsxc2F2TXpBZ05jVmFkcERHMU1fTkFVRXlUNGhsSGFqdkRQY2tkZkF0X1RYbjJWV2NhNUtrYTBzSkxHYThLQ2VRdHF3bjh4eE52SUswYzRJa2pWM1Vld1JVNlBhdFBCQkl3X2h6bzM2UjB1cG0xVVN3MFNTVHlRWkxvZlRiNFRfdHRHRG0?oc=5"
+ },
+ {
   "id": "eec380d75c8c30",
   "fuente_id": "cnbc",
   "titular": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says",
@@ -300,6 +1194,16 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "f3be77271453ce",
+  "fuente_id": "yahoo-finance",
+  "titular": "Steve Eisman Says “Stock Picking Is Back” Now That AI Is “No Longer One Trade”",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXU5MUJpYUladmV0QmZWamUyRjUxSE9ISG5uQVUweHJPZGUxdHF2T1oxd0k1ZWZWZWhZcGNDVzlDU0kwcEN5TVpPMEhDclF1WFp4NW9neno4ZFdqSFhvVTdUVzhpNFphRFhaekJ0b2V5Y0xJa1pjdFJFSklsTnh5UU9xQnRQUHVnSU5fN0dqMmhJcUItU1VQWnNaRjQ?oc=5",
+  "fecha": "2026-11-23T22:07:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "c93bb74463f567",
   "fuente_id": "investing-com",
   "titular": "Gemini Space Station appoints John York as chief operating officer",
@@ -368,6 +1272,16 @@
   "fecha": "2026-11-23T22:04:26+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "883658b3d86101",
+  "fuente_id": "business-wire",
+  "titular": "Securities Class Action Filed Against MNTN, Inc. – MNTN Investors Encouraged to Contact Kirby McInerney LLP",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUDBCZFdMZkNPbHhHUnhLYXFmdS1scHctdFdYSVdYQUZncXdVYXlNVE0zYklyN0k4UEtxWW1yb21Bb3JZQW02TXIxRzNGLU9jQW01NDVybFQyZHJXNTVmb0lTY1owNkRMQzFwY25JZExSSlhYRG1CNWdLODNWODl2aFYzWUVad0tKV2hFa0c2emRsTG9kMHJDUTVGYTh5eWt2aHllOVZYZzhFUmg2YThaYWhoRE11RkQwWENaV29tVkZKWFNvU0hGemNTRjlyZHhlcVExZUJodE1YaTdGNnZiaTFQbm5rNXc5WFEyLUdvUlYtdms?oc=5",
+  "fecha": "2026-11-23T22:04:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "388f4aa5f277fc",
@@ -448,6 +1362,17 @@
   "fecha": "2026-11-23T21:57:10+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "46e1eccaec7b47",
+  "fuente_id": "el-universal",
+  "titular": "Cumpleaños del Señor Jesucristo 2026: conozca la fecha y programación en Cartagena",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/cartagena/2026/11/23/cumpleanos-del-senor-jesucristo-2026-conozca-la-fecha-y-programacion-en-cartagena/",
+  "fecha": "2026-11-23T21:57:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZjBHQ1R2ZjdJdlJ3NjM2SGpvVjJUSjJmRzZKUGlaYjhyd3BqdEZDMURlOWN1WEt2TTBMVjk0NzA1aTMwVS16ZVZPRTNWUUZtazRZV0JLUmtmcjFoM2VXNkVGNXoxbU9nNUpsRkhKUTMyU3BmUmgtMXU1clVyUjBpQjJ0Q1JUUjlKeXBaZjZybFpQQm53aFRxNC1Hd01MbmRUMWdCc2FyTkNXNWFpcHZWcmlxQkFQRHVQc3lzYkU5U01xOXk0SkhMR3UtbUp3NFE?oc=5"
  },
  {
   "id": "67083e0ee57588",
@@ -730,6 +1655,17 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "f3605a680b3898",
+  "fuente_id": "el-universal",
+  "titular": "ANI confirma inicio de fase constructiva del megaproyecto del Canal del Dique",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/cartagena/2026/11/23/ani-confirma-inicio-de-fase-constructiva-del-megaproyecto-del-canal-del-dique/",
+  "fecha": "2026-11-23T21:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1dqVXdpbGdBRE9xUkF2blFfOGY1ZEp5TlFWeEpkWnZfX0I4aW1xeW9NOS1rMUdxbzJzOFFhY0JhUmhuYklpSUhMZVZnNXlaSi1QU3FlTnFGeFQ3QjFIZzVyTDVzN1NQbC15SWY2YTJaME9ybU91ZTFMZzY1dW1sZ1RLMUI5RGFYUzlDbGlYaUc0blRiTUtKdklWRVpsSS1ZNVIyYUxnSHpObnM1czZ3M1BRSnpRSEpFZ3l5MFExUy05ZVhLczVBU2xB?oc=5"
+ },
+ {
   "id": "4baa58ed2e63d0",
   "fuente_id": "portafolio",
   "titular": "¿Trabaja por horas en Colombia? Así funcionan los salarios, prestaciones de ley y aportes en esta modalidad",
@@ -1000,6 +1936,16 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "31c4af45b77fb5",
+  "fuente_id": "yahoo-finance",
+  "titular": "Elon Musk on his support for Jensen Huang: 'Fair-weather friends are worthless'",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOODM0VHhmT0l0am81cXNZM19DUjNMYzE4MVI0Qkw0dVdlcEVaZDFqUUdOT1E1RmJNZlB3Uk9NeWczQzhTa0FnOWc3a3ljdURDNnNlNTIteTcyMGhYQTNfT25FdHc5anJNM0d1eEdPRVpfRGlnaWxiRVlRcGhEV0VXd3VvZG9DVmo1X1dnN1pYOVJpaWpSMVlJRkc3amo1R1pmblhLUUdhQ1Zicmd5aTF2ME5OVHVQbmgxODdrZnZ1MU53bU1FYUN0bzFZMlQ1NUVBQS1LTWp2OFJUdw?oc=5",
+  "fecha": "2026-11-23T21:26:13+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "f816a732198442",
   "fuente_id": "abc-economia",
   "titular": "El impuesto a los «ultrarricos» a partir de 100 millones de Pedro Sánchez afectaría a 123 personas en España",
@@ -1018,6 +1964,16 @@
   "fecha": "2026-11-23T21:25:42+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "135efcca61e8cd",
+  "fuente_id": "yahoo-finance",
+  "titular": "Fed's Williams: Fed must be forward-looking to bring inflation down",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkpPSGswM0U3MVZfMHI0TW9Pel9sNi1Mc1VMQ09qYlF3WmNzd3llU3BFeGtsQUJrSHA1VFNsTXdTN004amQtcmtXcGVWMndRLWkxeDlYSko3bWp5cmd3ck9EZlpQeTIxNkpZY3RUX2xpTUJ2anZUUmhoTTN4THZFZy1yWl92M05xYmVfbmgtM2JaNmZqRGUtTzVIVmJ1ZFRvX3R6VEt0dkktNFg2bHRUaVVyRlMzZFVUZENwX3kyMHdQbHNUaHh0OQ?oc=5",
+  "fecha": "2026-11-23T21:25:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "27ae2019d41a4c",
@@ -1220,6 +2176,17 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "0115bd61853d82",
+  "fuente_id": "el-universal",
+  "titular": "Monáco, hijo de Silvestre Dangond, estrena “Un arrunchis más”",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/farandula/2026/11/23/monaco-hijo-de-silvestre-dangond-estrena-un-arrunchis-mas/",
+  "fecha": "2026-11-23T21:07:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ1NWalN5dVpKSkt5MW9Mem9xWWZNeGJYU1REV3pudWhJaWhXVDZGSlFzUnFtdWxrVkdpTnpPRjJVMUVSeEowdUxkMjAxTUl4a01ZTnpSbUtQdncwZ1lWdkdCY3BvTktmdzdmUFZFZXM3Nkd6eEdZQ0trR2lJUF9wZGdVdjRTUHdSVWppSl9MODNJSmJfTTdiNVJ4d3dIMXk3QjVUZlhxTFdyQUp2NTBv?oc=5"
+ },
+ {
   "id": "e5b3d83d563399",
   "fuente_id": "wsj",
   "titular": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
@@ -1248,6 +2215,16 @@
   "fecha": "2026-11-23T21:05:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "2a45a32950d3fa",
+  "fuente_id": "portafolio",
+  "titular": "Deportista Japonés de 90 años explica el truco que utiliza para la longevidad 'No como carne, pescado, leche'",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/tendencias/deportista-japones-de-90-anos-explica-el-truco-que-utiliza-para-la-longevidad-no-como-carne-pescado-leche-506940",
+  "fecha": "2026-11-23T21:03:52+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "8642b27e989412",
@@ -1620,6 +2597,16 @@
   "fecha": "2026-11-23T20:10:15+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "c333a3779d9c7f",
+  "fuente_id": "yahoo-finance",
+  "titular": "Microsoft Corporation (MSFT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02aDBpUWN4ZVp0ajliNXhvdWpuVWc1Z1B4eEVyUUFmN2RoazgzbUlUaU9kR1JTU2Q0bVR6ck45M2szN28wUWVmcmRoZlRnQQ?oc=5",
+  "fecha": "2026-11-23T20:08:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
  },
  {
   "id": "00c14576be197d",
@@ -2197,6 +3184,16 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "b6979ee1656e8c",
+  "fuente_id": "yahoo-finance",
+  "titular": "CoreWeave, Inc. (CRWV) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zWXliMnRkQ2VveXdTSW1lT09VeHFVZGFZQk11bWNtOG94aEdGX05zVVd0bkRfdkNTU0lWRlhRTUlzakFZZFFyZTFoei1adw?oc=5",
+  "fecha": "2026-11-23T18:50:18+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-18T19:13:26+00:00"
+ },
+ {
   "id": "8ce1d48e84228d",
   "fuente_id": "wired",
   "titular": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
@@ -2679,6 +3676,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnZCcUNBcEJTN0hiaFVLcXdXMS1QdHo5S3ltTGNqaEhqdjI5c3A1ekJGd2RCbzl3QjB3RGVxTWQ3SktjUVQ3ajN4V3NLNGZrWElNR09WS2pKMjVQb3JQRFpYdHR4VUFJRUdUZ3d1SzRwV0dJeTVmUXhsWFlZMWllcGJXdDJ1eW4xR0tiaG1vamlmWGpxc3FPWV9JN0x0OW9WZEIzS3o2b18tVk5xYlB4UXdzYlEwdU1BVmk4WHdzWjR4b3Y3N1FLejVMelBCN0pvMG5LZA?oc=5"
  },
  {
+  "id": "d79805f8890b1f",
+  "fuente_id": "portafolio",
+  "titular": "Puerto Aguadulce invertirá US$ 250 millones para mover un millón de contenedores de 20 pies al año en Buenaventura",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/infraestructura/puerto-aguadulce-invertira-us-250-millones-para-mover-un-millon-de-contenedores-de-20-pies-al-ano-en-buenaventura-506910",
+  "fecha": "2026-11-23T17:55:00+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "e269dd4a288727",
   "fuente_id": "forbes",
   "titular": "Mijenta Maestra Selection No. 3 Sets A New Bar For Blanco Tequila",
@@ -2739,6 +3746,16 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "c708ed1e437119",
+  "fuente_id": "portafolio",
+  "titular": "El Simit ni tiene cámaras ni impone comparendos de tránsito",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/economia/el-simit-ni-tiene-camaras-ni-impone-comparendos-de-transito-506919",
+  "fecha": "2026-11-23T17:51:51+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "ad60697a9906f2",
   "fuente_id": "business-wire",
   "titular": "OrthoFi and Greyfinch Announce Strategic Integration to Streamline Orthodontic Practice Operations",
@@ -2777,6 +3794,16 @@
   "fecha": "2026-11-23T17:46:52+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "9f40b5c3ee9dd1",
+  "fuente_id": "yahoo-finance",
+  "titular": "A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\"",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWjVBUTVOOE9VYV9kc1g3NWRsc2gzdFpvMkhDNk1CcExtUC0zVDlKYkFBbVRtRkIwaVdpZkxQZExJZXNjYXYzbFBDZEJWd0pyN0h3MV9PRUh5eTFGTDE2c3o0WjdJWUdyOW5YTlVPNF9LdVNPSkZJZjhoeTJUYmlBTUJGV2wtcjg4bG80LWJsQTNWd3ZiblE?oc=5",
+  "fecha": "2026-11-23T17:46:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "e1bfe617be8578",
@@ -3529,6 +4556,16 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "e68f81478c70e3",
+  "fuente_id": "oms",
+  "titular": "- World Health Organization (WHO)",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE40dFc1b1hUdjBYRXNZQXdVUkF1X0VIcWY0bVcwalVtZG5lT3g5V01kZ000Tk52YlVPeGJBN2toTDBab3ViLWtqbGpnWEFKc0hyVHE5bFNyWHBJTVl4LVVhYzlxNjZlZGQ5ak9RVzl4Zm1tdw?oc=5",
+  "fecha": "2026-11-23T16:46:26+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "833788ea333478",
   "fuente_id": "portafolio",
   "titular": "Tiendas Jumbo, Easy y Metro fortalecen su apuesta por la energía solar",
@@ -4233,6 +5270,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVm1QRFV1cVhRRW00ZmNfaWNiMlBuVkVSMGNrcE9lMXFLTE9ha3VEUFNXWVhOVGNYUUw2X0dnR1ozbGh5VnBlUjlCQ3RnM28yQU5xVUcySDU4NVE4eTlZMnUwN0VRa3FzZmZGN2VDS0ZRdkw1NG1Xc1VvREEtak00WjRDYlU4elpkWVZYa2lQNXZrNGFabFc0dFB4aFpYVlVleFBYclgzU25GRHEza2pFSjFSVVJCZFFrakhaVW9mNUtmeUs1SlM4VzVYTTZEQkwwUzBvVTNadlp3THl3UDBKazNzUQ?oc=5"
  },
  {
+  "id": "62f8f460231f0f",
+  "fuente_id": "wsj",
+  "titular": "CrowdStrike’s $44 Billion Zscaler Deal Reflects a New Imperative in Cybersecurity",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/pro/cybersecurity/crowdstrikes-44-billion-zscaler-deal-reflects-a-new-imperative-in-cybersecurity-5669e9db?mod=pls_whats_news_us_business_f",
+  "fecha": "2026-11-23T15:43:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "c78007bee5809a",
   "fuente_id": "portafolio",
   "titular": "Andi pide revisar el impacto del último aumento del salario mínimo antes de negociar el incremento para 2027",
@@ -4695,6 +5742,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "e353a8d944fd87",
+  "fuente_id": "unicef",
+  "titular": "UNICEF con U de Uruguay",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmd1lqWHlBRmhyaFhBSUlveTFxQ3ZSN0ZYSmtrbEhaTGlTSG9teUFtcG90cWFGbVJkVEpMXzlRZW5oXzZoU0lITFNneEp2eW9CcFBTdUp5bkZkcm8?oc=5",
+  "fecha": "2026-11-23T15:02:02+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-21T17:52:05+00:00"
+ },
+ {
   "id": "ffc5951f965cde",
   "fuente_id": "agronegocios",
   "titular": "Las exportaciones de manzanas de la UE a Colombia crecen más de 18%",
@@ -4835,6 +5892,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "7df5d597373927",
+  "fuente_id": "the-manufacturer",
+  "titular": "Seeing the difference: how lighting can boost wellbeing and productivity on the factory floor",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMllNc09iSmx6cVpWOTA1Z1Fpcmk3Sno5ZWs1V3h4dXdWbUJ1TlNENkpYcF9ZbnFvNVNYM2FnTHRWWldMamVHVmVjZzJ2OFplTjhURXlzZEtCbnVMRWt4cTY5aDVPcVo1T1VXTGFJbTJfUzQ5bHNXYy04YklrQ0h4UE9pZHZTc1JBT3ZWbjJzUF8yY0QxY1JMMGR1WnV5cjVURlE5X3doVG9yZE5PalJ2TXlKQ2M3aFZuNkUzTnpPWWxVVlo4MUNaQ2d6bjc0MzQ?oc=5",
+  "fecha": "2026-11-23T14:49:07+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "b663b0b73f4658",
   "fuente_id": "el-heraldo",
   "titular": "Horóscopo de Mhoni Vidente para este lunes 23 de noviembre de 2026: predicciones para los 12 signos",
@@ -4943,6 +6010,16 @@
   "fecha": "2026-11-23T14:40:11+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "eebda8982b504e",
+  "fuente_id": "yahoo-finance",
+  "titular": "Nvidia stock soars after Jensen Huang reinstated",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1ZMbTJuOVhfbGNNekdGNWpwUzZfWXIwMGt4SzJwM2dVOFFORTJoWjN2WUJLRF9paDZlc3RnLTY3SUNqMlE4ZDBMQUduUV9WM3pwaVBuWWhyVFVrWDFXLWt0OTB1cElaaFNrREdfWUZaZ0RrUXBmY1hKNzZJWE1VdFB5djdkdnVIQ25pMzQxMXVmX0xQakZNeFNXOTg?oc=5",
+  "fecha": "2026-11-23T14:40:10+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "0c56e195026671",
@@ -5233,6 +6310,16 @@
   "fecha": "2026-11-23T14:21:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "e50675946b8943",
+  "fuente_id": "yahoo-finance",
+  "titular": "'A Giant Hoax': Trump suggests recent gas price drops are linked to the election",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjdHdnVUVW0tdWhESXJBTlZBM2lEMlF6ZXFaQU9TNmFHa2FXa0NXdkVtdExfUlk0a0tfTWI1Nms0WDdLWFRncjEyaWFvdDZjVk13SmtCZndTYUNrdTBoQUw3Qk5kQWIxeFhzS2V0a2VYdXhIckJoSjJCdWtxX1pTREN6XzBNblgzaFlfZWdjWjlteTM5ZDVkcnJtakkwaXBnS0FUNFJQMnpkbnJRYXBGOEpVc2UyT3QzanpfeV8zOTZrd3NQT1NWR1lKNFJtdw?oc=5",
+  "fecha": "2026-11-23T14:20:48+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "563604b9621ac5",
@@ -6948,6 +8035,16 @@
   "primera_vista": "2026-11-23T22:25:18+00:00"
  },
  {
+  "id": "cbbd2ac6f312b6",
+  "fuente_id": "business-wire",
+  "titular": "LibertyStream Provides Shareholder Voting Update and Reminds Shareholders of November 24 Proxy Deadline",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ25FNGNlbFc2RjB0cEZnNVVhTUF5YjdpdXJ4MHZhX1Vhd0MxSmVBM2RWZmd0WWtUSjlRWmU3R2N3TWlYV3ZTZFMxLU9CU0VmbkNVSUhTSmwwN1Vua1d2Z3JYZjkzdk5JOXAwMTN2a2g3c0praS1DWGRSMTdQMTJFVVlDdzFvOXZaTGlubHY1TENnTzNkZng2cEVrTjRhVXRPaGFoYjNqOWU4QkEyaWp5VXdBTWN6akNvR1Ayam05VjlsNFJVV0lMU05KVVRJd2VrODRMR3VhT3doNWdVMWpHLXhtejE2SEZkbWZvRlJ0WlI3dw?oc=5",
+  "fecha": "2026-11-23T12:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "3b715b032ee977",
   "fuente_id": "macrumors",
   "titular": "Apple Explores Using Light to Move Data Between Server Chips",
@@ -7418,6 +8515,36 @@
   "fecha": "2026-11-23T12:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "2ec13bfb18f7e8",
+  "fuente_id": "onu",
+  "titular": "La diáspora latinoamericana se triplica 30 años: 48 millones viven fuera de su país de nacimiento",
+  "bajada": "Un informe sobre migración y población mide cómo la migración ha alterado nacimientos, defunciones y edades. El resultado es contundente: si desde 1990 el saldo migratorio hubiera sido cero, América del Norte tendría hoy un 23% menos de habitantes, Oceanía un 24% menos y Europa…",
+  "enlace": "https://news.un.org/feed/view/es/story/2026/11/1542204",
+  "fecha": "2026-11-23T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "b5537a8322c8d0",
+  "fuente_id": "onu",
+  "titular": "Guterres advierte que la IA traerá un cambio histórico de poder",
+  "bajada": "La IA no debería ampliar las desigualdades globales, sino estar moldeada por la humanidad, con la humanidad y para toda la humanidad. Las empresas deben pagar por los daños de sus sistemas y crear un «botón de apagado» para emergencias.",
+  "enlace": "https://news.un.org/feed/view/es/story/2026/11/1542202",
+  "fecha": "2026-11-23T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
+  "id": "48d8e8282ec6b4",
+  "fuente_id": "onu",
+  "titular": "Ataques contra civiles en Ucrania, IA, violencia machista… las noticias del lunes",
+  "bajada": "La guerra en Ucrania se intensifica: un ataque con drones contra un bloque de viviendas deja once muertos y los apagones se extienden por todo el país. En Barbados, el Secretario General pide un marco multilateral para gestionar los riesgos de la inteligencia artificial. Y ONU…",
+  "enlace": "https://news.un.org/feed/view/es/story/2026/11/1542201",
+  "fecha": "2026-11-23T12:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "7345e2c52fcfb9",
@@ -8443,6 +9570,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "4f22e99b0a423f",
+  "fuente_id": "wsj",
+  "titular": "When Paying for Mom and Dad’s Eldercare Rips Up Adult Kids’ Financial Future",
+  "bajada": "",
+  "enlace": "https://www.wsj.com/personal-finance/baby-boomer-silent-generation-wealth-transfer-elder-care-804e4a0e?mod=rss_markets_main",
+  "fecha": "2026-11-23T10:00:00+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
+ },
+ {
   "id": "5c728f1f063c65",
   "fuente_id": "yahoo-finance",
   "titular": "Billionaire Bill Ackman sounds the alarm on Wall Street's next big risk",
@@ -8701,6 +9838,16 @@
   "fecha": "2026-11-23T09:23:24+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "7ce9f98f90fce2",
+  "fuente_id": "marklines",
+  "titular": "Toyota, Honda, Isuzu, Mitsubishi, Mazda, Nissan plan over THB 134 billion investment in Thailand through 2030",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6X1A1LXRUZi1raDlzY0ZBYjhhT1NiNnBUaTRzYktzZ1VnZUVRX2QtVDVNeXVIUEx6R0FMWGJNNHFkb3JSeW01YkVxYWU2cXJlWnc?oc=5",
+  "fecha": "2026-11-23T09:21:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "d4d13ff016e3dd",
@@ -9241,6 +10388,16 @@
   "fecha": "2026-11-23T07:38:10+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "1039384726095c",
+  "fuente_id": "uicn",
+  "titular": "Traf-026.pdf - IUCN Portals",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXN5ZHFiQmJFMzdlUFc3TGZFWnRUTjFmQzVpSHd4c25MYXZzV1EwZjQwVWN3NWJmVm9vU0JlbzdvUld3RlpwUXc3ZXBNZGs0VVdTQkJ0Vl91UF9BN0JVWVF0dnktc3cxZVJna3Z3SmNmbHNhQkFMeHRSUHh1NjJLQjhobW1KanVhNkFmVUVoc1FHeXdMcm8tOUgxN3ZpNGk5MndhUmh2RnpWZVlRR3ZN?oc=5",
+  "fecha": "2026-11-23T07:37:44+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
   "id": "d663ff5dc9da8d",
