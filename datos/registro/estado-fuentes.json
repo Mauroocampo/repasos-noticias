@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T20:58:27+00:00",
+ "actualizado": "2026-11-25T20:21:12+00:00",
  "fuentes": {
   "portafolio": {
    "ok": true,
@@ -8,9 +8,9 @@
    "notas": 54,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00",
+   "revisado": "2026-11-25T20:21:12+00:00",
    "portada": {
-    "notas": 71,
+    "notas": 69,
     "error": null
    }
   },
@@ -21,16 +21,16 @@
    "notas": 0,
    "errores": [],
    "metodo": "dane",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "la-republica": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 249,
+   "notas": 248,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00",
+   "revisado": "2026-11-25T20:21:12+00:00",
    "portada": {
     "notas": 114,
     "error": null
@@ -43,7 +43,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "bbc-mundo": {
    "ok": true,
@@ -52,7 +52,7 @@
    "notas": 34,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "wired": {
    "ok": true,
@@ -61,7 +61,7 @@
    "notas": 50,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "it-brief": {
    "ok": true,
@@ -70,7 +70,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "securitybrief": {
    "ok": true,
@@ -79,7 +79,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "channellife": {
    "ok": true,
@@ -88,7 +88,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "datacentrenews": {
    "ok": true,
@@ -97,7 +97,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "cfotech": {
    "ok": true,
@@ -106,7 +106,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "ecommercenews": {
    "ok": true,
@@ -115,7 +115,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "telconews": {
    "ok": true,
@@ -124,7 +124,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "futurefive": {
    "ok": true,
@@ -133,7 +133,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "lns-research": {
    "ok": true,
@@ -142,7 +142,7 @@
    "notas": 3,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "the-hacker-news": {
    "ok": true,
@@ -151,7 +151,7 @@
    "notas": 50,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "securityweek": {
    "ok": true,
@@ -160,7 +160,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "help-net-security": {
    "ok": true,
@@ -169,7 +169,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "cyberpress": {
    "ok": true,
@@ -178,7 +178,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "cybersecurity-news": {
    "ok": true,
@@ -187,7 +187,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "thehackerwire": {
    "ok": true,
@@ -196,7 +196,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "petri": {
    "ok": true,
@@ -205,16 +205,16 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "redmond": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 5,
+   "notas": 3,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "malwarebytes": {
    "ok": true,
@@ -223,36 +223,36 @@
    "notas": 16,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "microsoft-threat-intel": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 0,
+   "notas": 1,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "cisa-ics": {
    "ok": true,
    "parcial": true,
    "respaldo": true,
-   "notas": 7,
+   "notas": 6,
    "errores": [
     "https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml"
    ],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "siemens-productcert": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 8,
+   "notas": 5,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "rockwell-psirt": {
    "ok": true,
@@ -263,7 +263,7 @@
     "https://www.rockwellautomation.com/bin/rss/security-advisories.xml: HTTPError: 403 Client Error: Forbidden for url: https://www.rockwellautomation.com/bin/rss/security-advisories.xml"
    ],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "abb-psirt": {
    "ok": true,
@@ -272,16 +272,16 @@
    "notas": 4,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "certvde": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 8,
+   "notas": 4,
    "errores": [],
    "metodo": "avisos_html",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "schneider-psirt": {
    "ok": false,
@@ -292,7 +292,7 @@
     "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp: HTTPError: 403 Client Error: Forbidden for url: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
    ],
    "metodo": "avisos_html",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "jci-psirt": {
    "ok": true,
@@ -301,7 +301,7 @@
    "notas": 0,
    "errores": [],
    "metodo": "avisos_html",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "industrial-cyber": {
    "ok": true,
@@ -310,16 +310,16 @@
    "notas": 9,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "automation-com": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 8,
+   "notas": 7,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "isa": {
    "ok": true,
@@ -328,7 +328,7 @@
    "notas": 4,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "viakoo": {
    "ok": true,
@@ -337,7 +337,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "techcrunch": {
    "ok": true,
@@ -346,7 +346,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "the-register": {
    "ok": true,
@@ -355,7 +355,7 @@
    "notas": 50,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "macrumors": {
    "ok": true,
@@ -364,7 +364,7 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "unite-ai": {
    "ok": true,
@@ -373,7 +373,7 @@
    "notas": 25,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "google-blog": {
    "ok": true,
@@ -382,16 +382,16 @@
    "notas": 20,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "linux-foundation": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 2,
+   "notas": 1,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "the-manufacturer": {
    "ok": true,
@@ -400,16 +400,16 @@
    "notas": 35,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "marklines": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 8,
+   "notas": 18,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "climate-home-news": {
    "ok": true,
@@ -418,7 +418,7 @@
    "notas": 13,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "mongabay": {
    "ok": true,
@@ -427,7 +427,7 @@
    "notas": 30,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "sustainabilityonline": {
    "ok": true,
@@ -436,16 +436,16 @@
    "notas": 9,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "uicn": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 73,
+   "notas": 50,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "beyond-fossil-fuels": {
    "ok": true,
@@ -454,7 +454,7 @@
    "notas": 0,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "el-heraldo": {
    "ok": true,
@@ -463,7 +463,7 @@
    "notas": 100,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "el-universal": {
    "ok": true,
@@ -472,10 +472,10 @@
    "notas": 98,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00",
+   "revisado": "2026-11-25T20:21:12+00:00",
    "google_news": {
-    "resueltas": 11,
-    "sin_resolver": 10
+    "resueltas": 24,
+    "sin_resolver": 9
    }
   },
   "abc-economia": {
@@ -485,7 +485,7 @@
    "notas": 25,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "cnbc": {
    "ok": true,
@@ -494,7 +494,7 @@
    "notas": 30,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "forbes": {
    "ok": true,
@@ -503,7 +503,7 @@
    "notas": 25,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "yahoo-finance": {
    "ok": true,
@@ -512,16 +512,16 @@
    "notas": 100,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "wsj": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 185,
+   "notas": 188,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "investing-com": {
    "ok": true,
@@ -530,19 +530,19 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "business-wire": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 73,
+   "notas": 85,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00",
+   "revisado": "2026-11-25T20:21:12+00:00",
    "google_news": {
     "resueltas": 0,
-    "sin_resolver": 132
+    "sin_resolver": 145
    }
   },
   "fuels-lubes": {
@@ -552,43 +552,43 @@
    "notas": 15,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "oms": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 7,
+   "notas": 11,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "onu": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 18,
+   "notas": 16,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "onu-colombia": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 2,
+   "notas": 4,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "unicef": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 46,
+   "notas": 34,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "house-of-commons-library": {
    "ok": true,
@@ -597,7 +597,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "bloomberg-professional": {
    "ok": true,
@@ -606,28 +606,28 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "amnistia": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 9,
+   "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "bbva": {
    "ok": true,
    "parcial": false,
    "respaldo": false,
-   "notas": 48,
+   "notas": 41,
    "errores": [],
    "metodo": "google_news",
-   "revisado": "2026-11-24T20:58:27+00:00",
+   "revisado": "2026-11-25T20:21:12+00:00",
    "google_news": {
-    "resueltas": 4,
-    "sin_resolver": 8
+    "resueltas": 5,
+    "sin_resolver": 11
    }
   },
   "tech-funding-news": {
@@ -637,7 +637,7 @@
    "notas": 10,
    "errores": [],
    "metodo": "rss",
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   },
   "geneva-environment-network": {
    "ok": false,
@@ -645,7 +645,7 @@
    "notas": 0,
    "metodo": "sin_acceso",
    "errores": [],
-   "revisado": "2026-11-24T20:58:27+00:00"
+   "revisado": "2026-11-25T20:21:12+00:00"
   }
  }
 }

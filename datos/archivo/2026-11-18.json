@@ -1539,6 +1539,16 @@
   "enlace_google_news": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYTNKZ0FudV9fdDJkNVgxZW9KR29pTERDNHV4MUNQM1ZVV3JySENDMk1jT0pUZUR3Qjk4VGlOU25sRjd2d3hFSWV3MHVwOFM1XzlpS2pfTUF5MFl5RWs5TzhzcTdrNkhJRDNVVFlyTjZkWldtdVZWTVpELTdpZktpcng5WHBCRlR5T1h0R3k5SHlNYk1KU3VGUVE1LVVNY1VRcGxsbnJKb1ZhUFVnaGZoTnJGUzl0Q1N1Qi1NVlJBMXpCdk94bURTZ0lyQlpScEJPeEI3a1V5dFB0cnBUTVFHQ0s5VQ?oc=5"
  },
  {
+  "id": "3fcbee2ce7be78",
+  "fuente_id": "marklines",
+  "titular": "[Gen-AI Analysis] Hyundai to debut all-new 2027 Elantra, 2028 Elantra Hybrid at LA Auto Show",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyTU8tVkp1Y3hyMTV4VTl2TFpFZWNMQTF1NnNKWDQwRF9xbkZ2NmNJRlQ0U0dVWHFrSjJ1cV9lMWlBSGRBSXFlZHU5M1BIQnJYQmc?oc=5",
+  "fecha": "2026-11-18T21:46:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-25T20:21:12+00:00"
+ },
+ {
   "id": "f9b56e29adc93b",
   "fuente_id": "telconews",
   "titular": "D-Link launches Smart Office networking range in ANZ",
@@ -1577,6 +1587,16 @@
   "fecha": "2026-11-18T21:40:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-19T19:18:55+00:00"
+ },
+ {
+  "id": "8cb5b9d32a874c",
+  "fuente_id": "portafolio",
+  "titular": "Arkitect de Grupo Éxito inicia su expansión internacional en El Salvador",
+  "bajada": "",
+  "enlace": "https://www.portafolio.co/negocios/empresas/arkitect-de-grupo-exito-inicia-su-expansion-internacional-en-el-salvador-506612",
+  "fecha": "2026-11-18T21:34:55+00:00",
+  "via": "portada",
+  "primera_vista": "2026-11-25T20:21:12+00:00"
  },
  {
   "id": "22c3131e87fdf8",
