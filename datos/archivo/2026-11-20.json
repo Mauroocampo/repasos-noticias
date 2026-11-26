@@ -131,6 +131,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "cb3f3134222d61",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oMFNyZk9uSGZQZmozTXFxSmtiS1JQX094MngyRnRIN2hFY1dtMU9Da0ZqdndwQTJDMUo4MGFSNTJlVEpMX1ZqbVp1cFRPRndaSXhwdDFSVmdOQzlrTU5IVnNiRm1kaFg5eWxV?oc=5",
+  "fecha": "2026-11-21T03:16:18+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-25T20:21:12+00:00"
+ },
+ {
   "id": "e22a9d561ef4d3",
   "fuente_id": "cybersecurity-news",
   "titular": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
@@ -5948,6 +5958,16 @@
   "primera_vista": "2026-11-21T17:52:05+00:00"
  },
  {
+  "id": "619e98c1de4fe1",
+  "fuente_id": "business-wire",
+  "titular": "Concentric AI Extends AI Data Security, Introducing Semantic DLP to Desktop AI Applications, Coding Agents, and AI Models",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPS0FMRFlhd1VscldXbkFYRXJ6ZmhuX0llREZONWw1TjVFVm91WDlXSU40UkxTcnZvTi0wRGJBRWJnSHVEZ0xjWENvcjNvZmNtVXN2al8wMHQ1RGxVWmYybUlPa2VYdlRMakJvRzF6NnVsSnhRU0JYMlRtY0VqYUIxZU9xSFR4aVdqUXlwTHhoSGcxb3pxYTJzcXhULUMya1VvU1NBT3BKaW8tR3VhQlNIdnA1TGNwMndHOFA3bVBUMkdEblRmc09FYkVHVFlCdUN4Vkl0TkRTRVh2cW1yajdmc1VJc1pITnVWWUowZFFObDlFdHRwSFZZQS1KRlpzd0pVS25xenBR?oc=5",
+  "fecha": "2026-11-20T13:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-26T19:57:15+00:00"
+ },
+ {
   "id": "2095ecd14949df",
   "fuente_id": "industrial-cyber",
   "titular": "Equinor thwarts cyberattack as separate intrusion at Skagerak Energi raises concerns across Norway’s energy sector",
@@ -6539,6 +6559,26 @@
   "fecha": "2026-11-20T12:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "8e74af72b6d6a8",
+  "fuente_id": "unicef",
+  "titular": "Guía modelo de inversión con foco en la infancia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94S3ExOURTRFJUclhtUElaQ2JDQUtRM3RmcmRKYmtIX3psc1R5NzY4QnU4M3lmY3ZJVGg2OWZ4bEtsMUVEZXlya1VjZzZZeGx1UlFDMWNXeHVDMWpuTXdFeGJ1T3A?oc=5",
+  "fecha": "2026-11-20T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-26T19:57:15+00:00"
+ },
+ {
+  "id": "f530402967731f",
+  "fuente_id": "unicef",
+  "titular": "Marco de inversión con foco en la infancia",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14VjVzN1RmRXQ0dFoxcm1vTUtOM0FXQ3dfdUQxYUhHMVZ5S1hEYWE0dzJ1RnhqTXVxdHlRZ0FXZG5uVGlKOFdBNWZlbnpwbVBGampKNg?oc=5",
+  "fecha": "2026-11-20T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-26T19:57:15+00:00"
  },
  {
   "id": "4cd17514281676",
