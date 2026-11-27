@@ -200,6 +200,16 @@
   "primera_vista": "2026-11-26T19:57:15+00:00"
  },
  {
+  "id": "7f48c07fbe5c4e",
+  "fuente_id": "yahoo-finance",
+  "titular": "Michael Burry Says He’s Shorting The Market’s ‘Generals’ As Apple Flashes A Warning Last Seen In 2002",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHVZVlpaaXpoMjBmR2ZBdFlDMzF2ejVpRFR3bDd5MWtSR0N3ZFloaFFOTFlxWUMwN2ZoSENVN2VaMEpsQm1YSHB0ZnYxTG5WUVhjeTBnQkZ1TE9tRlZWZlZHbnYwdWN3MkNDcHFfc1Vycl9FTHVpSVVmREY3dzQwaUw3MXhwRk1vN3QtZzVVMTdYZFFDUTFCTE10Q243SC1Z?oc=5",
+  "fecha": "2026-11-26T03:44:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "c1098242dc311b",
   "fuente_id": "portafolio",
   "titular": "La UE impone cuotas a importación de híbridos",
@@ -469,6 +479,17 @@
   "fecha": "2026-11-26T02:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-26T19:57:15+00:00"
+ },
+ {
+  "id": "d66417ebcc8597",
+  "fuente_id": "el-universal",
+  "titular": "Alfredo Mondragón fue expulsado de la Cámara de Representantes: esta es la razón",
+  "bajada": "",
+  "enlace": "https://www.eluniversal.com.co/cartagena/2026/11/25/alfredo-mondragon-fue-expulsado-de-la-camara-de-representantes-esta-es-la-razon/",
+  "fecha": "2026-11-26T01:51:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00",
+  "enlace_google_news": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUZIMmo5Uk5IQm9uWElNaG5jclZDRUpFdEdBXzd0UXU4LTR3R2FSa1JVSzE1U3N1OFc4TnladWFBUE9nN3hxWi1PV1RSbTREX2RMdnFLVW42eVZpekdYN183cFIzbkNDRzNvLThPTHh2Vm0wY0VsQnU1MFpYeEVoLUI1dGZtRk1aSFhETktkUFRYcGRaQ3ZKcTNzaWJXZk52ZjJOUXJpcWlnQmJiYTR2YnI3T19sWk9UWmd0XzFSVmQtY0N6Ul9sVlZiR3U?oc=5"
  },
  {
   "id": "c0c650a46ff21a",
@@ -1454,6 +1475,16 @@
   "primera_vista": "2026-11-26T19:57:15+00:00"
  },
  {
+  "id": "c1d6339f7d821e",
+  "fuente_id": "cnbc",
+  "titular": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+  "bajada": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+  "enlace": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+  "fecha": "2026-11-25T21:56:43+00:00",
+  "via": "rss",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "40fc0286200f31",
   "fuente_id": "unite-ai",
   "titular": "Tempus AI Secures $385M Term Loan Facility to Fund Personalis Deal",
@@ -1645,6 +1676,16 @@
   "primera_vista": "2026-11-26T19:57:15+00:00"
  },
  {
+  "id": "0cfa80a0690076",
+  "fuente_id": "yahoo-finance",
+  "titular": "Is the stock market open on Thanksgiving and Black Friday?",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGxNaFVNcUlTOUdBMC05cnlFNk0xclZhd1JTZV9rRENvTFpkZDF4WnVLb1FWdmNmMDhOT0dpSDYzc3ljNFNYUTZSdm4ybnMxNlRzZkpCbkxrWG5NeHU3bGhRaUJlQkR3Uktjd2U3MDBDUWd2RGthRVhpVExtQmxCM2NocEdVZWpZM3liSzZXeFNHaWFHckRQajZRM1o3a29NbERKMHJESGRIbk41SWxfSGV1cjlKSGZyLVB1RzhHOUtUS0RTc2RjSTRQNVFkUQ?oc=5",
+  "fecha": "2026-11-25T21:10:41+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "777e326e420f09",
   "fuente_id": "business-wire",
   "titular": "Edison International Announces Redemption of 5.00% Fixed-Rate Reset Cumulative Perpetual Preferred Stock, Series B",
@@ -1712,6 +1753,16 @@
   "enlace": "https://www.portafolio.co/negocios/empresas/farmacenter-acelera-su-expansion-en-colombia-y-busca-llegar-a-2-000-droguerias-en-507104",
   "fecha": "2026-11-25T20:59:39+00:00",
   "via": "portada",
+  "primera_vista": "2026-11-26T19:57:15+00:00"
+ },
+ {
+  "id": "17c8a8fdba9511",
+  "fuente_id": "yahoo-finance",
+  "titular": "SpaceX, Elon Musk to give one share each to active Trump accounts",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5",
+  "fecha": "2026-11-25T20:57:19+00:00",
+  "via": "google_news",
   "primera_vista": "2026-11-26T19:57:15+00:00"
  },
  {
@@ -2598,6 +2649,16 @@
   "primera_vista": "2026-11-25T20:21:12+00:00"
  },
  {
+  "id": "6fc353ce71c599",
+  "fuente_id": "uicn",
+  "titular": "- International Union for Conservation of Nature",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRjltZHVvOC1MOFlONUZ6OWdSNGxiWGRxdGUzcXM5cW5raXZSZzdUeDc2X0pOQjNHaU5Zb0pGS2F2aGIzZjhhM2t6WTJMMzlEalNxSUpQLXNfS1JQV3NHWGNocjFycENtVi11RVFVNW9BalVUWkhZOWNITmhCMjdIS1lpa0kwSjVHejV1Y01iNVVOanVrSmc?oc=5",
+  "fecha": "2026-11-25T18:42:43+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "d7d58e36cbcc55",
   "fuente_id": "wsj",
   "titular": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
@@ -2778,6 +2839,16 @@
   "primera_vista": "2026-11-25T20:21:12+00:00"
  },
  {
+  "id": "64e5526054f1c4",
+  "fuente_id": "the-manufacturer",
+  "titular": "US News - Page 34 of 41 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhandBcV9zNFc0Yk1Oc0lJZzc1WW1yUXJHcWJfWVYzdzBqbnpiZmNpZ0ZoYUdXanljLVNvek9WUlNKek9hMGpndmJwc1l1aHdlcXYzdlNoV3JEWUg2UUxSbzlSZUo3S2EtTnVDcQ?oc=5",
+  "fecha": "2026-11-25T18:19:39+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "1c4627da839371",
   "fuente_id": "forbes",
   "titular": "Meet JYT, The Gap-Backed Boy Band Taking Over Jingle Ball And Malls Nationwide",
@@ -2928,6 +2999,16 @@
   "primera_vista": "2026-11-26T19:57:15+00:00"
  },
  {
+  "id": "c333a3779d9c7f",
+  "fuente_id": "yahoo-finance",
+  "titular": "Microsoft Corporation (MSFT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02aDBpUWN4ZVp0ajliNXhvdWpuVWc1Z1B4eEVyUUFmN2RoazgzbUlUaU9kR1JTU2Q0bVR6ck45M2szN28wUWVmcmRoZlRnQQ?oc=5",
+  "fecha": "2026-11-25T17:48:52+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-07T13:19:28+00:00"
+ },
+ {
   "id": "7a7a65e3b3731e",
   "fuente_id": "el-heraldo",
   "titular": "¡A tener en cuenta! Este viernes vence plazo tramitar traslados de cuenta de vehículos en Barranquilla",
@@ -2946,6 +3027,16 @@
   "fecha": "2026-11-25T17:45:01+00:00",
   "via": "rss",
   "primera_vista": "2026-11-25T20:21:12+00:00"
+ },
+ {
+  "id": "642b273fc00084",
+  "fuente_id": "yahoo-finance",
+  "titular": "Target Corporation (TGT) Stock Price, News, Quote & History",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzekVQS04xTkZURlhydkFWVXRKaTZYNFdEYndMZzJxemdhTVBvQWtBdHNmOUw4RmwwejFVZ05HSWhELXJXblpueTJKYVA?oc=5",
+  "fecha": "2026-11-25T17:43:12+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "9c2a615efea6cb",
@@ -6035,6 +6126,16 @@
   "primera_vista": "2026-11-25T20:21:12+00:00"
  },
  {
+  "id": "78565821fd53dc",
+  "fuente_id": "yahoo-finance",
+  "titular": "‘I’m broke’: LeBron James says he only has a ‘couple thousand’ in the bank despite making $585M in the NBA",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaTENpNFZoTDhwc21ES0pacE1uSnZQNHVObTZRYTllSGZfNmNGS0s5NVplcG5mZWNOMEZuZmlfYzIzS21DUklqM3daTEs2dUE4RmItYmxHXzNNbVpyZGVCczAwbkl6dTdxX0x1Zno3S1pURUx4Ym1HaE9JZw?oc=5",
+  "fecha": "2026-11-25T13:45:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "b469f72fb0bb5d",
   "fuente_id": "abc-economia",
   "titular": "El salario medio toca máximos, con 2.497 euros, pero el 10% de asalariados no llega a 1.083 euros",
@@ -6184,6 +6285,16 @@
   "fecha": "2026-11-25T13:30:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-25T20:21:12+00:00"
+ },
+ {
+  "id": "92e64a09bee49e",
+  "fuente_id": "business-wire",
+  "titular": "Perma-Pipe to Report Third Quarter 2026 Results and Host Investor Conference Call on Wednesday, December 9, 2026",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUzRqVkhMY2FLenRsaVZEdk8tRjhVOHFoTkhIb1RHdVN2UVNRMjdTT21PcUJoU1hhbzBYSHdfenJHM0JNTmFDNnF6NTNYLTI0YXdlbXRieWpTUW5LV1JHY3hEWF82U2hmU2pJVEZqMjBZb09UVm1LTjZHU0Z4X3ZyUVFMVGlobElvMkx3M3hrZDhKZ21EakRHVnRTTWtpbTRLTnFiMWFGVFdiQWpZbXh0ekJ6Nmpsbkl0VS0zV1ZodmpXUkZZRmNSbmdUenY3d2EzQ1g1OGJSTFNUb3VtVFBycUJGbGEyVVJfeVlGSS1yeTR5X2dfQjNrSThfYw?oc=5",
+  "fecha": "2026-11-25T13:30:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "9935dfe64f4457",
@@ -6587,6 +6698,16 @@
   "primera_vista": "2026-11-25T20:21:12+00:00"
  },
  {
+  "id": "c86ae76351a938",
+  "fuente_id": "business-wire",
+  "titular": "Ingles Markets, Incorporated Reports Results for Fourth Quarter and Fiscal Year 2026",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWW5nQldpSEFrbEVPSHhRUXNENkhabmhkeVE5U0pLY1F1NUhiVldBX3hPTmxtSDdZbFRwM2lUZzVUYlMxc2JfdGpVUWo0bHR6RS1jZDZadVdJWVVwTW9aZmoxak0yRzNJcWxjc2ZjcWhPeFp4NXJFaC1sWFhVT0Fic0Q3ZWZSQkl1aDk0cWs2ckRMMVdKWncwenRQM0FIN0paamk4cGptN0xXQ1hSYng2amhLM1RrSHRFV0dTQ00wQ3k3VDBFYnZkM3pheWhoRmk1aFQxcVB5aw?oc=5",
+  "fecha": "2026-11-25T12:33:31+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "66863e057fc0d3",
   "fuente_id": "bbc-mundo",
   "titular": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer",
@@ -6845,6 +6966,16 @@
   "fecha": "2026-11-25T12:00:00+00:00",
   "via": "rss",
   "primera_vista": "2026-11-25T20:21:12+00:00"
+ },
+ {
+  "id": "8a08169a61d74a",
+  "fuente_id": "business-wire",
+  "titular": "Rocket Pharmaceuticals to Participate in the 9th Annual Evercore Healthcare Conference",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDE4V0tyTzgwRVpmeXFrTGVLdmVfYmlBSjQ3WmlGYzUybGJYeXk1bldTUEx2Vl9tVF95YzRQclJMUWJvMWlFcS15cVZ3TnNVMDM4RTRPME9qaDk2QjVPVW90OFdUbHVCZ0l2SFdmdTlMMGdqQUFmYUpmRXVTaWl5NE5yVFU2cElBd3BNQXhrR2JCYTNYNF9aZW1SLUdqWklCYkgwWVVfbzJuTUttMnJkOVZEV3E0ZWl3TnFRT1JVdjJPQ3lOaXR4ZDY2VnlWYkJXREt0djlPdTF5Z2M?oc=5",
+  "fecha": "2026-11-25T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "a70faeec22ac37",
@@ -8026,6 +8157,16 @@
   "fecha": "2026-11-25T08:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-26T19:57:15+00:00"
+ },
+ {
+  "id": "d24ceff9b27aee",
+  "fuente_id": "bbva",
+  "titular": "Qué es la deuda: para qué sirve y cómo se mide el endeudamiento financiero",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUE2YndPNlJRdm1JZjg4RjBNbDFZSVhyS2U5UTc0eC10Qk9QdklWYmU1UDBsS3BOUE9jdC1ZY3BFdkw2blBOamFLSkQ1aTJYNTBkb2s4SGJuQ25TWXdzUEdmNEhRZnJWa1NqaHJXWVVHcWpRR2d2NmlDeTgzVm1yNXNhMzg4aFBSOU4yeDJKd0ZwbzJCSFNjb1FjcXlsUXVXV2RKR1AyYVRBM2dWd3lFOWtMeEZFZw?oc=5",
+  "fecha": "2026-11-25T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "ee1bb1524b1574",

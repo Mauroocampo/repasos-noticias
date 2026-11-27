@@ -1468,6 +1468,16 @@
   "primera_vista": "2026-11-22T18:11:45+00:00"
  },
  {
+  "id": "507a9d1c2e16ff",
+  "fuente_id": "el-universal",
+  "titular": "Caimanes vence a Tigres de nuevo y aseguró su primera serie de la temporada",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDBDTkZ3alVmR0o1RVFJRjFtaUZDYTZyZHF6ZDF6bnBjZ01vc2JnNTRhLWU3bFlYeEs1UVNwcFZ5X0J1cHZ0RHdlNlRkZ3RBZDFEOXM3d25pSDQ5MnRCbDdwYld6TVN2OUNJZjV1Z3dWMWhBRDFCcXhwdkRLbWUwUFhjdkV4STFyMkVUVWp1dHZaRmpnMEk2T2pPU3ZIVzl1TWlLdXBOVlZFWTQ3X3RHM2FRcHNxbE16Z0Z0UTR2Y2JvZi13RkE?oc=5",
+  "fecha": "2026-11-22T18:09:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "bed82431ae1f06",
   "fuente_id": "techcrunch",
   "titular": "Why data centers are at the center of the Big Tech backlash",
@@ -1858,6 +1868,16 @@
   "fecha": "2026-11-22T16:45:55+00:00",
   "via": "rss",
   "primera_vista": "2026-11-22T18:11:45+00:00"
+ },
+ {
+  "id": "1f9f37156b3411",
+  "fuente_id": "el-universal",
+  "titular": "¿Se correrán las dos últimas carreras de la Fórmula 1? Esto es lo que se sabe",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUY1RHZ0M0I2NWYtTndkTGFxckpTWEhuMW1fdU1qODhPZjA0d0JPcUpDZF91cXpZOFBieF95anlxMVBWZkFBYnQ4bE53MnRyNGNERGFlUW9KQWVaSjFhcllRblVvNXNNSzlpZ3JUT2VkWnlUNFBpNjIySGlFTXdxZC1WdjUzVlZDWjdwbzhEZUM0SXhnb19tMTdCRmU3dWVrd2M0YmV5REF1YTJib1VGcW5KRVlxUGNuaWMwQ3g3MzR4bzljNGc?oc=5",
+  "fecha": "2026-11-22T16:44:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "fd845ba7a06057",
@@ -2970,6 +2990,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "4949fd23565459",
+  "fuente_id": "uicn",
+  "titular": "Publications advanced search",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1TkEweGttcm8tWXhrend0TzlnWVlzUGdYYVNaSW1rM2ZEVV9jdWY4cDN3Q05ITTFlOTQ0alZtT0xEbWQzLTZYYjkwZmRsNWo1VGoxOXA0OXNiYjZyakdVazA4OThYMjBMaW5wM2lZNUlBVjdYNnN0QWlRdjZQeWM?oc=5",
+  "fecha": "2026-11-22T11:47:19+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "209dfa7b8381b2",
   "fuente_id": "el-universal",
   "titular": "Clima en Cartagena hoy: pronostican un domingo soleado",
@@ -3680,5 +3710,15 @@
   "fecha": "2026-11-22T05:00:00+00:00",
   "via": "google_news",
   "primera_vista": "2026-11-23T15:19:40+00:00"
+ },
+ {
+  "id": "84fd1e3391c501",
+  "fuente_id": "business-wire",
+  "titular": "SatSure Raises Series B to Scale Its Full-Stack Earth Intelligence Platform for Global Markets",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdXpTY19NRXhuYXU4eFcxR0dBcUFDRnkwRi1UMkZIZEVscnhWNUhvV085MjlHRHJiTFMxZDYwbUFRRHZJdURrZnRmajJ5b1pNOFBGWTItQXFoVFkwaDBUN1Zjdm5wdE1Fa0FZRzEyamsxRkNuWS1TWFVYWnB0Q3hmMmJLVGhZb3VCQmxoNzVWVGNVNXVLQjd2c1BlTWhYY3lBMENrZmdkaU9xbGExV3NHWUJURHl5R0R3d1BYNEUteW9EaHJqT2tSS2tsSkQwWl9Ja1VoSnRsZXdPWWMtRV8wQ1RVTDBxdw?oc=5",
+  "fecha": "2026-11-22T05:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  }
 ]

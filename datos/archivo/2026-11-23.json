@@ -50,6 +50,16 @@
   "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
+  "id": "61900d0849e886",
+  "fuente_id": "the-manufacturer",
+  "titular": "US News - Page 29 of 42 - The Manufacturer",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hZ3FSTm9fMVkyZ19pZFRDUF93Y1pIaC1mUFhJdHlfRmJwWXprRXlqc0x0SUlFaTV1VEhBZHd4TkVBZUl4c3pWQVQ2bzVablRNQ1BKQjQyOGZfa2gxNi1ZYlNoOWJwemtoTG9xXw?oc=5",
+  "fecha": "2026-11-24T04:04:35+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "19d3d1e0c307e8",
   "fuente_id": "yahoo-finance",
   "titular": "Target and Best Buy sent thousands of American jobs to India",
@@ -2638,6 +2648,16 @@
   "fecha": "2026-11-23T20:19:25+00:00",
   "via": "rss",
   "primera_vista": "2026-11-23T22:25:18+00:00"
+ },
+ {
+  "id": "c60987b2b5b456",
+  "fuente_id": "el-universal",
+  "titular": "Navidad y Año Nuevo 2027 en Cartagena: celebraciones en hoteles y restaurantes",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaG5TV2JnQjkwdUt2MGJYYWUwbDVHdEZrRkptbXFQNU1HT3NGNVpiV3habWx4S2pYWExhMk5zVDdPWk4wNjF0Nlh3X01wOEtzNjhEcDNjeUV5MEg1cGctQzZGMWR1VDc4clBjd1A3QU5uY0ZjOXVuUUdWMldTVXozWENpc3F5RERid3VsUkw3MVlrc3U5eERZbmd5NEF4elFjcy1tYXB3bmFZeGREWXdpZkhuTDMwMmJFSWhpcFBqTmtuczFiRWl2bG1n?oc=5",
+  "fecha": "2026-11-23T20:19:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "07c7542065fc46",
@@ -5943,6 +5963,16 @@
   "primera_vista": "2026-11-23T15:19:40+00:00"
  },
  {
+  "id": "5367f98c4b1187",
+  "fuente_id": "business-wire",
+  "titular": "Onebrief Achieves GovRAMP High Authorization Through Second Front",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTMtWlc5dktLS3BjYzVqdUtpS280TzloWlZtWDdkcHo3aG1mSXVMMjZJNU9tNEwyV3BwMjlzcTdnTzJkUUNmM2x5X2RTdUJ1ZDQ5cXZPS0lsMTFpZTlLckp3a1ZuX05UUVVGRHJZOEh3cnM4U0N5dllld0M3ZDJSeUtkWGpKQXBGamdONGxkbHktTDVORlhEVTJGYXFjLXFTS3hJQlMyRVZCVi1kcU5MVms5OTNmbFZkUy1DT2JGaw?oc=5",
+  "fecha": "2026-11-23T15:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "54de01415e4637",
   "fuente_id": "abc-economia",
   "titular": "Las acciones de Nvidia se disparan casi un 30% tras el anuncio de la vuelta de Jensen Huang",
@@ -8748,6 +8778,16 @@
   "primera_vista": "2026-11-24T20:58:27+00:00"
  },
  {
+  "id": "45786a0e53de96",
+  "fuente_id": "unicef",
+  "titular": "Sembrar ciencia, cultivar igualdad",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rUjVzR0otMlZpVUNlX3NVcGpVRDdlWk50ZHYyU2pmZnN1MWFmbXFZTnl5enZlTEJJSDF1Ui00ZEJQeEFwV0JMeHVXYW9JRWtKM2VDcFA4VWF1cGJvSTNXZlhid1ZmNkQ0ZTlpMjAzcE5WdmI4Um9hRXdHb0Y?oc=5",
+  "fecha": "2026-11-23T12:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
+ },
+ {
   "id": "7345e2c52fcfb9",
   "fuente_id": "la-republica",
   "titular": "El auge de los camiones eléctricos en China impulsa la demanda de litio",
@@ -10570,6 +10610,16 @@
   "via": "google_news",
   "primera_vista": "2026-11-26T19:57:15+00:00",
   "enlace_google_news": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWZHY2N4ckR1UVEyaGFfQ1N0akF0aVE4VTNBdFlMWEt4OVhaajBHSFJDMUluZ21rY1RvOVp0ZXY4eUlTYkgxV2o5VnRLaFkzTXZnUDB6SXhRLWdzbEZrWkI2NnVOZUs0Y0JpczZQMWZvbFljMmxERGdEc1ZhU0kwZFF5NGhwcjFHOFYwcV9IMHh3R01KR0U3c0txUUo5SXZnYjNNMFNhUDVOa0x6dmJFcHM0QkpIQXFjT2FSNkI0Z016cV9HbFJXZlB4REdsQS1oVTllRWNVdw?oc=5"
+ },
+ {
+  "id": "e419593c5ecf23",
+  "fuente_id": "uicn",
+  "titular": "#NatureForAll Welcomes Four New Partners from China, Slovakia, Rwanda and Kenya",
+  "bajada": "",
+  "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVFVM3NQUnVQM0pTc2EteGJLcjNmLVoxYTV6NU92dWZvenJBQ0p3ZmM1SlJ4S3Q5ZkhmS0FUR1FOMEN0U0gxR2VDeVpLWVZjeWdmRHJPa3RmZ1I2TzY3Y3BfZTlRWGpEeFlubjRoYm9DUGtSYk93RVpRekpfQ0dOLW5hYWNRaWJhYWs1d3hXbTBvYzl6MzBZa3JEelVfdU1DaTdj?oc=5",
+  "fecha": "2026-11-23T08:00:00+00:00",
+  "via": "google_news",
+  "primera_vista": "2026-11-27T19:46:55+00:00"
  },
  {
   "id": "3a245cc6f52448",
